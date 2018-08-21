@@ -1,0 +1,32 @@
+{
+    "id": 30,
+    "wordhead": "祭",
+    "explanation": "祭祀也。从示，以手持肉。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "子例切",
+    "variants": [],
+    "seal_character": "丩",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "示",
+        "又",
+        "肉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祭祀也。",
+            "note": "統言則祭祀不別也。"
+        },
+        {
+            "explanation": "从示。㠯手持肉。",
+            "note": "此合三字㑹意也。子例切。十五部。"
+        }
+    ],
+    "indexes": [
+        "祭"
+    ]
+}

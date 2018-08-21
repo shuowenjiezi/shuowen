@@ -1,0 +1,43 @@
+{
+    "id": 6618,
+    "wordhead": "奢",
+    "explanation": "張也。从大者聲。凡奢之屬皆从奢。",
+    "volume": "10",
+    "radical": "奢",
+    "pronunciation": "式車切",
+    "variants": [
+        {
+            "wordhead": "奓",
+            "explanation": "籒文。",
+            "seal_character": "歜"
+        }
+    ],
+    "seal_character": "歛",
+    "pinyin": "she",
+    "pinyin_full": "shē",
+    "components": [
+        "大",
+        "多",
+        "者"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作陟加切。以爲㗬厚之㗬，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "張也。",
+            "note": "張者、施弓弦也。引伸凡充㡿之偁。侈下曰。一曰奢也。"
+        },
+        {
+            "explanation": "从大。者聲。",
+            "note": "式車切。古音在五部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "按籒會意。篆形聲。西京賦。有馮虛公子者。心奓體泰。薛注。言公子生於貴戚。心志奓溢。體安驕泰也。未嘗云奓卽侈字。李善引聲類云。奓、侈字也。疑李登始爲此說。初非許意。平子文章用籒奢也。廣韵讀陟加切。"
+        }
+    ],
+    "indexes": [
+        "奢",
+        "奓"
+    ]
+}

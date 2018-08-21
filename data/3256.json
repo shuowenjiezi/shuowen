@@ -1,0 +1,44 @@
+{
+    "id": 3256,
+    "wordhead": "侖",
+    "explanation": "思也。从亼从冊。",
+    "volume": "05",
+    "radical": "亼",
+    "pronunciation": "力屯切",
+    "variants": [
+        {
+            "wordhead": "𠎚",
+            "explanation": "籒文侖。",
+            "seal_character": "岯"
+        }
+    ],
+    "seal_character": "岮",
+    "pinyin": "lun",
+    "pinyin_full": "lún",
+    "components": [
+        "竹",
+        "冊",
+        "亼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "思也。",
+            "note": "龠下曰。侖、理也。大雅毛傳曰。論、思也。按論者、侖之假借。思與理、義同也。思猶䚡也。凡人之思必依其理。倫論字皆以侖會意。"
+        },
+        {
+            "explanation": "从亼𠕋。",
+            "note": "聚集𥳑𠕋必依其次第。求其文理。力屯切。十三部。"
+        },
+        {
+            "explanation": "籒文侖。",
+            "note": "古文𠕋作？。"
+        }
+    ],
+    "indexes": [
+        "仑",
+        "侖",
+        "𠎚"
+    ]
+}

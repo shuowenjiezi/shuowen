@@ -1,0 +1,46 @@
+{
+    "id": 7713,
+    "wordhead": "闢",
+    "explanation": "開也。从門辟聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "房益切",
+    "variants": [
+        {
+            "wordhead": "𨴔",
+            "explanation": "《虞書》曰：“闢四門”。从門从𡴂。",
+            "seal_character": "瀌"
+        }
+    ],
+    "seal_character": "瀋",
+    "pinyin": "pi",
+    "pinyin_full": "pì",
+    "components": [
+        "門",
+        "辟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "開也。",
+            "note": "引申爲凡開袥之偁。古多叚借辟字。"
+        },
+        {
+            "explanation": "从門。辟聲。",
+            "note": "房益切。十六部。"
+        },
+        {
+            "explanation": "虞書曰。闢四門。",
+            "note": "按此六字當在从門辟聲之下。虞書當作唐書。說詳禾部。"
+        },
+        {
+            "explanation": "从門。从𡴂。",
+            "note": "按此上當依匡謬正俗、玉篇補古文闢三字。𡴂者、今之攀字。引也。今俗語以手開門曰攀開。讀如班。古文於此會意。書序。東郊不𨴔。馬本作闢。張揖古今字詁云。𨴔闢古今字舊讀𨴔爲開。非也。詳匡謬正俗。自衞包徑改𨴔爲開、而古文之見於尙書者滅矣。"
+        }
+    ],
+    "indexes": [
+        "闢",
+        "𨴔"
+    ]
+}

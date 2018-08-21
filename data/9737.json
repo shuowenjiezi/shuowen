@@ -1,0 +1,47 @@
+{
+    "id": 9737,
+    "wordhead": "孴",
+    "explanation": "盛皃。从孨从曰。讀若薿薿。一曰若存。",
+    "volume": "14",
+    "radical": "孨",
+    "pronunciation": "魚紀切",
+    "variants": [
+        {
+            "wordhead": "𡥨",
+            "explanation": "籒文孴从二子。一曰𡥨即奇字㬜。",
+            "seal_character": "磨"
+        }
+    ],
+    "seal_character": "磧",
+    "pinyin": "ni",
+    "pinyin_full": "nǐ",
+    "components": [
+        "子",
+        "日",
+        "孨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盛皃。",
+            "note": "文𨕖靈光殿賦曰。芝、栭欑羅以戢孴。李注。戢孴、衆皃。"
+        },
+        {
+            "explanation": "从孨。从日。讀若薿薿。一曰若存。",
+            "note": "今魚紀切。李善乃立切。"
+        },
+        {
+            "explanation": "籒文孴。从二子。",
+            "note": "句絕。"
+        },
+        {
+            "explanation": "一曰𡥨卽奇字㬜。",
+            "note": "俗本曰多譌日。"
+        }
+    ],
+    "indexes": [
+        "孴",
+        "𡥨"
+    ]
+}

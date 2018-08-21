@@ -1,0 +1,48 @@
+{
+    "id": 5668,
+    "wordhead": "靦",
+    "explanation": "面見也。从面、見，見亦聲。《詩》曰：“有靦面目。”",
+    "volume": "09",
+    "radical": "面",
+    "pronunciation": "他典切",
+    "variants": [
+        {
+            "wordhead": "𩈍",
+            "explanation": "或从旦。",
+            "seal_character": "朸"
+        }
+    ],
+    "seal_character": "朷",
+    "pinyin": "tian",
+    "pinyin_full": "tiǎn",
+    "components": [
+        "見",
+        "旦",
+        "面"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "面見人也。",
+            "note": "各本無人。今依毛詩正義補。面見人、謂但有面相對自覺可憎也。小雅何人斯。有靦面目。傳曰。靦、？也。女部曰。？、面靦也。按心部曰。青徐謂慙曰㥏。音義皆同。而一从心者、慙在中。一从面者、媿在外。韋注國語曰。靦、面目之皃也。"
+        },
+        {
+            "explanation": "从面見。",
+            "note": "此以形爲義之例。"
+        },
+        {
+            "explanation": "見亦聲。",
+            "note": "他典切。十四部。"
+        },
+        {
+            "explanation": "或从旦。",
+            "note": "旦聲也。玉篇曰。埤蒼？同靦。字書作？。"
+        }
+    ],
+    "indexes": [
+        "䩄",
+        "靦",
+        "𩈍"
+    ]
+}

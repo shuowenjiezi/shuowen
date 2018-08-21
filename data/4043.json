@@ -1,0 +1,35 @@
+{
+    "id": 4043,
+    "wordhead": "郉",
+    "explanation": "周公子所封，地近河内懷。从邑幵聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "戶經切",
+    "variants": [],
+    "seal_character": "怢",
+    "pinyin": "xing",
+    "pinyin_full": "xínɡ",
+    "components": [
+        "幵",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周公子所封。",
+            "note": "左傳。富辰曰。凡蔣郉茅胙祭、周公之胤也。杜曰。郉國在廣平襄國縣。"
+        },
+        {
+            "explanation": "地近河內懷。",
+            "note": "前志。趙國襄國、故郉國。後志同。按襄國故城在今直𣜩順德府城西南。許不云在趙國襄國而云地近河內懷者、有所審定之辭也。河內郡懷、二志同。今河南懹慶府武陟縣縣西南十一里有故懷城。"
+        },
+        {
+            "explanation": "从邑。幵聲。",
+            "note": "戸經切。按玉篇又輕千切。十一十二部。"
+        }
+    ],
+    "indexes": [
+        "郉"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2745,
+    "wordhead": "剛",
+    "explanation": "彊斷也。从刀岡聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "古郎切",
+    "variants": [
+        {
+            "wordhead": "𠇙",
+            "explanation": "古文剛如此。",
+            "seal_character": "婐"
+        }
+    ],
+    "seal_character": "婏",
+    "pinyin": "gang",
+    "pinyin_full": "ɡānɡ",
+    "components": [
+        "刀",
+        "岡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "彊𣃔也。",
+            "note": "彊者、弓有力也。有力而𣃔之也。周書所謂剛剋。引伸凡有力曰剛。"
+        },
+        {
+            "explanation": "从刀。岡聲。",
+            "note": "古郞切。十部。"
+        },
+        {
+            "explanation": "古文剛如此。",
+            "note": "按從㐰。㐰、古文信。信者必剛也。從二者、仁從二之意。仁者必有勇也。侃、剛直也。亦從㐰。"
+        }
+    ],
+    "indexes": [
+        "刚",
+        "剛",
+        "𠇙"
+    ]
+}

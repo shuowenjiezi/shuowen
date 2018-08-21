@@ -1,0 +1,39 @@
+{
+    "id": 1427,
+    "wordhead": "龤",
+    "explanation": "樂和龤也。从龠皆聲。《虞書》曰：“八音克龤。”",
+    "volume": "02",
+    "radical": "龠",
+    "pronunciation": "戶皆切",
+    "variants": [],
+    "seal_character": "吶",
+    "pinyin": "xie",
+    "pinyin_full": "xié",
+    "components": [
+        "皆",
+        "龠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂龢也。",
+            "note": "龤訓龢。龢訓調。調訓龢。三字爲轉注。龤龢作諧和者皆古今字變。許說其未變之義。今本龤下調下作和也。則與龢下調也不爲轉注。龤與言部諧音同義異。各書多用諧爲龤。"
+        },
+        {
+            "explanation": "从龠。皆聲。",
+            "note": "戸皆切。十五部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞書當作唐書。"
+        },
+        {
+            "explanation": "八音克龤。",
+            "note": "堯典文。"
+        }
+    ],
+    "indexes": [
+        "龤"
+    ]
+}

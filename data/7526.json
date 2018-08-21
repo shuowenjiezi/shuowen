@@ -1,0 +1,31 @@
+{
+    "id": 7526,
+    "wordhead": "霾",
+    "explanation": "風雨土也。从雨貍聲。《詩》曰：“終風且霾。”",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "莫皆切",
+    "variants": [],
+    "seal_character": "漺",
+    "pinyin": "mai",
+    "pinyin_full": "mái",
+    "components": [
+        "雨",
+        "貍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "風而雨土爲霾。",
+            "note": "依釋天補三字。邶風。終風且霾。釋天曰。風而雨土爲霾。傳曰。霾、雨土也。釋名曰。霾、晦也。"
+        },
+        {
+            "explanation": "从雨。貍聲。",
+            "note": "莫皆切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "霾"
+    ]
+}

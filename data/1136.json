@@ -1,0 +1,40 @@
+{
+    "id": 1136,
+    "wordhead": "遷",
+    "explanation": "登也。从辵𠨧聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "七然切",
+    "variants": [
+        {
+            "wordhead": "𢰕",
+            "explanation": "古文遷从手、西<span>[<span>㢴</span>]</span>。",
+            "seal_character": "勱"
+        }
+    ],
+    "seal_character": "勰",
+    "pinyin": "qian",
+    "pinyin_full": "qiān",
+    "components": [
+        "西",
+        "手",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "登也。从辵䙴聲。",
+            "note": "七然切。十四部。"
+        },
+        {
+            "explanation": "古文遷。从手西。",
+            "note": "形聲。"
+        }
+    ],
+    "indexes": [
+        "迁",
+        "遷",
+        "𢰕"
+    ]
+}

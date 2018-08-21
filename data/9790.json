@@ -1,0 +1,42 @@
+{
+    "id": 9790,
+    "wordhead": "醻",
+    "explanation": "主人進客也。从酉𠷎聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "市流切",
+    "variants": [
+        {
+            "wordhead": "酬",
+            "explanation": "醻或从州。",
+            "seal_character": "礧"
+        }
+    ],
+    "seal_character": "礦",
+    "pinyin": "chou",
+    "pinyin_full": "chóu",
+    "components": [
+        "州",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獻醻、主人進客也。",
+            "note": "楚茨箋曰。始主人酌賓爲獻。賓旣酌主人。主人又自飲酌䚔曰醻。至旅而爵交錯以徧。彤弓傳曰。醻、報也。謂報客之酢也。瓠葉傳曰。醻、道飲也。謂主人必自飲。如今俗之勸酒也。"
+        },
+        {
+            "explanation": "从酉。𠷎聲。",
+            "note": "巿流切。三部。"
+        },
+        {
+            "explanation": "𨣊或从州。",
+            "note": "州聲。"
+        }
+    ],
+    "indexes": [
+        "醻",
+        "酬"
+    ]
+}

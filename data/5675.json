@@ -1,0 +1,44 @@
+{
+    "id": 5675,
+    "wordhead": "𩠹",
+    "explanation": "戳也。从𩠐从斷。",
+    "volume": "09",
+    "radical": "首",
+    "pronunciation": "大丸切",
+    "variants": [
+        {
+            "wordhead": "剸",
+            "explanation": "或从刀<span>[<span>𠚣</span>]</span>專聲。",
+            "seal_character": "杀"
+        }
+    ],
+    "seal_character": "朿",
+    "pinyin": "tuan",
+    "pinyin_full": "tuán",
+    "components": [
+        "刀",
+        "專",
+        "首",
+        "斷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢧵𩠐也。",
+            "note": "首字各本奪。今補。斤部曰。斷者、𢧵也。戈部曰。𢧵者、斷也。𢧵首則字从斷首會意。集韵、類篇皆云斷首是也。廣雅。？、𣃔也。此引伸爲凡𢧵之偁也。"
+        },
+        {
+            "explanation": "从斷𩠐。",
+            "note": "舊誤、今正。斷亦聲。此舉會意包形聲也。大丸旨沇二切。十四部。"
+        },
+        {
+            "explanation": "或从刀。專聲。",
+            "note": "王褒傳。水斷蛟龍。陸剸犀革。卽蘇秦傳之水斷牛馬陸𢧵鵠鴈也。剸與刀部剬義相近。古亦借爲專擅字。小徐本無此篆。"
+        }
+    ],
+    "indexes": [
+        "𩠹",
+        "剸"
+    ]
+}

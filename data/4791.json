@@ -1,0 +1,69 @@
+{
+    "id": 4791,
+    "wordhead": "网",
+    "explanation": "庖犧所結繩以漁。从冂，下象网交文。凡网之屬皆从网。(今經典變隸作䍏。)",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "文紡切",
+    "variants": [
+        {
+            "wordhead": "𦉸",
+            "explanation": "网或从亡<span>[<span>亾</span>]</span>。",
+            "seal_character": "捫"
+        },
+        {
+            "wordhead": "𦋟",
+            "explanation": "网或从糸。",
+            "seal_character": "捬"
+        },
+        {
+            "wordhead": "𠕈",
+            "explanation": "古文网。",
+            "seal_character": "捭"
+        },
+        {
+            "wordhead": "𦉯",
+            "explanation": "籒文网。",
+            "seal_character": "据"
+        }
+    ],
+    "seal_character": "捪",
+    "pinyin": "wang",
+    "pinyin_full": "wǎnɡ",
+    "components": [
+        "糸",
+        "亡",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "庖犧氏所結繩㠯田㠯漁也。",
+            "note": "以田二字依廣韵太平御覽補。周易𣪠辭傳文。"
+        },
+        {
+            "explanation": "从冖。",
+            "note": "幂其上也。"
+        },
+        {
+            "explanation": "下象网交文。",
+            "note": "？象网自。文紡切。在十部。五經文字曰。說文作网。今依石經作？。"
+        },
+        {
+            "explanation": "网或加亡。",
+            "note": "亡聲也。"
+        },
+        {
+            "explanation": "或从糸。",
+            "note": "以結繩爲之也。"
+        }
+    ],
+    "indexes": [
+        "网",
+        "𦉸",
+        "𦋟",
+        "𠕈",
+        "𦉯"
+    ]
+}

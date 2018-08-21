@@ -1,0 +1,35 @@
+{
+    "id": 6446,
+    "wordhead": "㶳",
+    "explanation": "火餘也。从火聿聲。一曰薪也。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "徐刃切",
+    "variants": [],
+    "seal_character": "檘",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "火",
+        "聿"
+    ],
+    "xuan_note": "臣鉉等曰：聿非聲，疑从聿省。今俗別作燼，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火之餘木也。",
+            "note": "各本作火餘也。今依唐初玄應本。火之餘木曰㶳。死火之㶳曰灰。引伸爲凡餘之偁。左傳。收合餘燼。大雅箋。災餘曰燼。方言。藎、餘也。周鄭之閒曰藎。或曰孑。藎者、叚借字也。"
+        },
+        {
+            "explanation": "从火。聿聲。",
+            "note": "臣鉉等曰。聿非聲。疑从？省。徐吝切。十二部。俗作燼。"
+        },
+        {
+            "explanation": "一曰薪也。",
+            "note": "方言。自關而東秦晉之閒燒薪不盡曰藎。"
+        }
+    ],
+    "indexes": [
+        "㶳"
+    ]
+}

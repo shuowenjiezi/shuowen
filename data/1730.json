@@ -1,0 +1,35 @@
+{
+    "id": 1730,
+    "wordhead": "讟",
+    "explanation": "痛怨也。从誩𧷏聲。《春秋傳》曰：“民無怨讟。”",
+    "volume": "03",
+    "radical": "誩",
+    "pronunciation": "徒谷切",
+    "variants": [],
+    "seal_character": "喏",
+    "pinyin": "du",
+    "pinyin_full": "dú",
+    "components": [
+        "賣",
+        "誩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "痛怨也。",
+            "note": "方言。讟、謗也。讟、痛也。二義相足。"
+        },
+        {
+            "explanation": "从誩。𧶠聲",
+            "note": "徒谷切。三部。"
+        },
+        {
+            "explanation": "春秋傳曰。民無怨讟。",
+            "note": "左傳昭元年曰民無謗讟。八年曰。怨讟動於民。疑相涉而誤。"
+        }
+    ],
+    "indexes": [
+        "讟"
+    ]
+}

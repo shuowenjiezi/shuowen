@@ -1,0 +1,39 @@
+{
+    "id": 9357,
+    "wordhead": "鏦",
+    "explanation": "矛也。从金從聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "七恭切",
+    "variants": [
+        {
+            "wordhead": "䤸",
+            "explanation": "鏦或从彖。",
+            "seal_character": "着"
+        }
+    ],
+    "seal_character": "眿",
+    "pinyin": "cong",
+    "pinyin_full": "cōnɡ",
+    "components": [
+        "金",
+        "彖",
+        "從"
+    ],
+    "xuan_note": "臣鉉等曰：今音楚江切。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "矛也。从金。從聲。",
+            "note": "七恭切。九部。今楚江切。"
+        },
+        {
+            "explanation": "鏦或从彖。",
+            "note": "非聲也。未詳。玄應曰。字詁云。古文䤸䂎二形今作？、同。麤亂切。字林云。䂎、小矛也。按䤸與鏦當是各字而同義。从金、彖聲。今說文轉寫有誤。"
+        }
+    ],
+    "indexes": [
+        "鏦",
+        "䤸"
+    ]
+}

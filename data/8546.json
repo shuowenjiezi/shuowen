@@ -1,0 +1,43 @@
+{
+    "id": 8546,
+    "wordhead": "終",
+    "explanation": "絿絲也。从糸冬聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "職戎切",
+    "variants": [
+        {
+            "wordhead": "𠂂",
+            "explanation": "古文終。",
+            "seal_character": "玚"
+        }
+    ],
+    "seal_character": "玙",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "冬",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絿絲也。",
+            "note": "按絿字恐誤。疑下文䌖字之譌。取其相屬也。廣韵云。終、極也。竆也。竟也。其義皆當作冬。冬者、四時盡也。故其引申之義如此。俗分別冬爲四時盡、終爲極也竆也竟也。乃使冬失其引申之義、終失其本義矣。有？而後有？、冬而後有終。此造字之先後也。其音義則先有終之古文也。"
+        },
+        {
+            "explanation": "从糸。冬聲。",
+            "note": "職戎切。九部。"
+        },
+        {
+            "explanation": "古文終。",
+            "note": "有？而有？、？而後有？。"
+        }
+    ],
+    "indexes": [
+        "终",
+        "終",
+        "𠂂"
+    ]
+}

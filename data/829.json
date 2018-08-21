@@ -1,0 +1,43 @@
+{
+    "id": 829,
+    "wordhead": "喟",
+    "explanation": "大息也。从口胃聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "丘貴切",
+    "variants": [
+        {
+            "wordhead": "𡃪",
+            "explanation": "喟或从貴<span>[<span>䝿</span>]</span>。",
+            "seal_character": "写"
+        }
+    ],
+    "seal_character": "冘",
+    "pinyin": "kui",
+    "pinyin_full": "kuì",
+    "components": [
+        "口",
+        "貴",
+        "胃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大息也。",
+            "note": "論語㒳云喟然歎曰。謂大息而吟歎也。何晏云。喟然、歎聲也。殊非是。"
+        },
+        {
+            "explanation": "从口。胃聲。",
+            "note": "丘貴切。十五部。"
+        },
+        {
+            "explanation": "喟或从貴。",
+            "note": "胃貴聲同部。"
+        }
+    ],
+    "indexes": [
+        "喟",
+        "𡃪"
+    ]
+}

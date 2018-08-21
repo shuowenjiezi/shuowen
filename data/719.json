@@ -1,0 +1,41 @@
+{
+    "id": 719,
+    "wordhead": "釆",
+    "explanation": "辨別也。象獸指爪分別也。凡釆之屬皆从釆。讀若辨。",
+    "volume": "02",
+    "radical": "釆",
+    "pronunciation": "蒲莧切",
+    "variants": [
+        {
+            "wordhead": "𠂠",
+            "explanation": "古文釆。",
+            "seal_character": "償"
+        }
+    ],
+    "seal_character": "儞",
+    "pinyin": "bian",
+    "pinyin_full": "biàn",
+    "components": [
+        "釆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "辨別也。象獸指爪分別也。",
+            "note": "倉頡見鳥獸蹏迒之迹。知文理之可相別異也。遂造書契。釆字取獸指爪分別之形。"
+        },
+        {
+            "explanation": "凡釆之屬皆从釆。讀若辨。",
+            "note": "蒲莧切。十四部。"
+        },
+        {
+            "explanation": "古文釆。",
+            "note": "惠氏棟云。尙書平章平秩、平字皆當作？。與古文平相似而誤。按此肊測不可从。"
+        }
+    ],
+    "indexes": [
+        "釆",
+        "𠂠"
+    ]
+}

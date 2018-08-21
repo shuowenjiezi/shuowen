@@ -1,0 +1,35 @@
+{
+    "id": 1138,
+    "wordhead": "遁",
+    "explanation": "遷也。一曰逃也。从辵盾聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒困切",
+    "variants": [],
+    "seal_character": "勳",
+    "pinyin": "dun",
+    "pinyin_full": "dùn",
+    "components": [
+        "辵",
+        "盾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遷也。",
+            "note": "此字古音同循。遷延之意。凡逡遁字如此。今之逡巡也。儀禮鄭注用逡遁十有一。"
+        },
+        {
+            "explanation": "一曰逃也。",
+            "note": "此別一義。以遁同遯。葢淺人所增。"
+        },
+        {
+            "explanation": "从辵。盾聲。",
+            "note": "徒困切。十三部。"
+        }
+    ],
+    "indexes": [
+        "遁"
+    ]
+}

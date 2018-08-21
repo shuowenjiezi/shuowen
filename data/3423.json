@@ -1,0 +1,31 @@
+{
+    "id": 3423,
+    "wordhead": "楈",
+    "explanation": "木也。从木胥聲。讀若芟刈之芟。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "私閭切",
+    "variants": [],
+    "seal_character": "嵿",
+    "pinyin": "xu",
+    "pinyin_full": "xū",
+    "components": [
+        "胥",
+        "木"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "楈木也。",
+            "note": "上林賦有胥邪。南都賦作楈枒。郭璞曰。胥邪似幷閭。皮可作索。按未審卽許所云楈木否也。"
+        },
+        {
+            "explanation": "从木。胥聲。讀苦芟刈之芟。",
+            "note": "芟在七八部。胥在五部。合韵也。唐韵私閭切。"
+        }
+    ],
+    "indexes": [
+        "楈"
+    ]
+}

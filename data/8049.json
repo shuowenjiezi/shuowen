@@ -1,0 +1,31 @@
+{
+    "id": 8049,
+    "wordhead": "扣",
+    "explanation": "牽馬也。从手口聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "丘后切",
+    "variants": [],
+    "seal_character": "煸",
+    "pinyin": "kou",
+    "pinyin_full": "kòu",
+    "components": [
+        "口",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牽馬也。",
+            "note": "周禮田僕。凡田、王提馬而走。諸矦晉。大夫馳。注曰。提猶舉也。晉猶抑也。使人扣而舉之抑之皆止奔也。馳放不扣。史記。伯夷、叔齊扣馬而諫。"
+        },
+        {
+            "explanation": "从手。口聲。",
+            "note": "苦后切。四部。"
+        }
+    ],
+    "indexes": [
+        "扣"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 8408,
+    "wordhead": "𧇄",
+    "explanation": "𦉈也。从甾虍聲。讀若盧同。",
+    "volume": "12",
+    "radical": "甾",
+    "pronunciation": "洛乎切",
+    "variants": [
+        {
+            "wordhead": "𤴅",
+            "explanation": "篆文𧇄。",
+            "seal_character": "狽"
+        },
+        {
+            "wordhead": "罏",
+            "explanation": "籒文𧇄。",
+            "seal_character": "狾"
+        }
+    ],
+    "seal_character": "狼",
+    "pinyin": "lu",
+    "pinyin_full": "lú",
+    "components": [
+        "盧",
+        "甾",
+        "虍",
+        "缶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦉈也。",
+            "note": "𦉈者、小口罌也。"
+        },
+        {
+            "explanation": "从𠙹虍聲。讀若盧同。",
+            "note": "洛乎切。五部。"
+        },
+        {
+            "explanation": "籒文𧆭如此。",
+            "note": "缶𠙹一也。"
+        },
+        {
+            "explanation": "篆文。",
+            "note": "按？與？二體必當互易。淺人所改也。？必古文。故盧以爲聲。且二字皆从𠙹。無庸用先古後篆之例。故二體當互易。而？下應曰古文。"
+        }
+    ],
+    "indexes": [
+        "𧇄",
+        "𤴅",
+        "罏"
+    ]
+}

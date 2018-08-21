@@ -1,0 +1,47 @@
+{
+    "id": 6072,
+    "wordhead": "𢑭",
+    "explanation": "蟲，似豪豬者。从㣇，胃省聲。",
+    "volume": "09",
+    "radical": "㣇",
+    "pronunciation": "于貴切",
+    "variants": [
+        {
+            "wordhead": "𧒞",
+            "explanation": "或从虫。",
+            "seal_character": "棽"
+        }
+    ],
+    "seal_character": "棼",
+    "pinyin": "wei",
+    "pinyin_full": "wèi",
+    "components": [
+        "虫",
+        "胃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "彙蟲也。",
+            "note": "彙字各本無。今補。也字依廣韵補。釋獸曰。彙，毛刺。其字俗作蝟，作猬。周易。拔茅茹以其彙。鄭云。勤也。以爲謂之叚借也。王弼云。類也。以爲會之叚借也。"
+        },
+        {
+            "explanation": "似豪豬而小。从㣇。",
+            "note": "而小二字依廣韵補。有毛刺似豪豬。故从㣇也。上文云。𧱈籒文㣇。此正从籒文。"
+        },
+        {
+            "explanation": "𦞅省聲。",
+            "note": "干貴切。十五部。"
+        },
+        {
+            "explanation": "或从虫作。",
+            "note": "爾雅亦入之釋獸。"
+        }
+    ],
+    "indexes": [
+        "𢑭",
+        "𧒞",
+        "彙"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8566,
+    "wordhead": "緀",
+    "explanation": "白文皃。《詩》曰：“緀兮斐兮，成是貝錦。”从糸妻聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "七稽切",
+    "variants": [],
+    "seal_character": "环",
+    "pinyin": "qi",
+    "pinyin_full": "qī",
+    "components": [
+        "妻",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "帛文皃。",
+            "note": "帛各本作白。今依韵會正。韵會用小徐本也。"
+        },
+        {
+            "explanation": "詩曰。緀兮斐兮。成是貝錦。",
+            "note": "小雅巷伯文。今詩緀作萋。毛傳曰。萋斐、文章相錯也。貝錦、錦文也。箋云。錦文者、如餘泉餘蚳之貝文也。按爾雅餘貾黃白文。餘泉白黃文。"
+        },
+        {
+            "explanation": "从糸。妻聲。",
+            "note": "七稽切。十五部。"
+        }
+    ],
+    "indexes": [
+        "緀"
+    ]
+}

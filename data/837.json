@@ -1,0 +1,54 @@
+{
+    "id": 837,
+    "wordhead": "哲",
+    "explanation": "知也。从口折聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "陟列切",
+    "variants": [
+        {
+            "wordhead": "悊",
+            "explanation": "哲或从心。",
+            "seal_character": "冢"
+        },
+        {
+            "wordhead": "嚞",
+            "explanation": "古文哲从三吉。",
+            "seal_character": "冣"
+        }
+    ],
+    "seal_character": "冡",
+    "pinyin": "zhe",
+    "pinyin_full": "zhé",
+    "components": [
+        "口",
+        "心",
+        "折",
+        "吉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "知也。",
+            "note": "釋言曰。哲、智也。方言曰。哲、知也。古智知通用。"
+        },
+        {
+            "explanation": "从口。㪿聲。",
+            "note": "按凡从折之字皆當作斤𣃔艸。各本篆文皆作手旁。用𣜩改篆也。今悉正之。陟列切。十五部。"
+        },
+        {
+            "explanation": "哲或从心。",
+            "note": "韵會引說文古以此爲哲字。按心部云。悊、敬也。疑敬是本義。以爲哲是假借。"
+        },
+        {
+            "explanation": "古文哲。从三吉。",
+            "note": "或省之作喆。"
+        }
+    ],
+    "indexes": [
+        "哲",
+        "悊",
+        "嚞"
+    ]
+}

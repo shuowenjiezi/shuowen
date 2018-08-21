@@ -1,0 +1,31 @@
+{
+    "id": 1161,
+    "wordhead": "䢑",
+    "explanation": "怒不進也。从辵氐聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "都禮切",
+    "variants": [],
+    "seal_character": "匐",
+    "pinyin": "di",
+    "pinyin_full": "dǐ",
+    "components": [
+        "氐",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "怒不進也。一曰驇也。",
+            "note": "惟鍇本有此四字。而驇从鳥則誤。馬部曰。驇、馬重皃。𡴂部曰。樊驇不行也。"
+        },
+        {
+            "explanation": "从辵。氐聲。",
+            "note": "都禮切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䢑"
+    ]
+}

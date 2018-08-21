@@ -1,0 +1,44 @@
+{
+    "id": 9576,
+    "wordhead": "陸",
+    "explanation": "高平地。从𨸏从坴，坴亦聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "力竹切",
+    "variants": [
+        {
+            "wordhead": "𠃈",
+            "explanation": "籒文陸。",
+            "seal_character": "砫"
+        }
+    ],
+    "seal_character": "砪",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "圥",
+        "坴",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高平地。",
+            "note": "釋地、毛傳皆曰。高平曰陸。"
+        },
+        {
+            "explanation": "从𨸏。坴聲。",
+            "note": "土部坴下曰。土塊坴坴也。然則陸从坴者、謂其有土無石也。大徐作从𨸏从坴、坴亦聲。力竹切。三部。"
+        },
+        {
+            "explanation": "籒文陸。",
+            "note": "从古文𨸏省。从籒文𡵉不从土者、从𨸏而土見矣。"
+        }
+    ],
+    "indexes": [
+        "陆",
+        "陸",
+        "𠃈"
+    ]
+}

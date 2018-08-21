@@ -1,0 +1,43 @@
+{
+    "id": 6652,
+    "wordhead": "竢",
+    "explanation": "待也。从立矣聲。",
+    "volume": "10",
+    "radical": "立",
+    "pronunciation": "牀史切",
+    "variants": [
+        {
+            "wordhead": "䇃",
+            "explanation": "或从巳。",
+            "seal_character": "殂"
+        }
+    ],
+    "seal_character": "殁",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "巳",
+        "矣",
+        "立"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "待也。",
+            "note": "彳部曰。待、竢也。是爲轉注。經傳多叚俟爲之。俟行而竢廢矣。俟、大也。"
+        },
+        {
+            "explanation": "从立。矣聲。",
+            "note": "牀史切。一部。"
+        },
+        {
+            "explanation": "或从巳。",
+            "note": "巳聲矣聲同在一部。"
+        }
+    ],
+    "indexes": [
+        "竢",
+        "䇃"
+    ]
+}

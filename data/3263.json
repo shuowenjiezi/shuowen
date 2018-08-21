@@ -1,0 +1,39 @@
+{
+    "id": 3263,
+    "wordhead": "牄",
+    "explanation": "鳥獸來食聲也。从倉爿聲。《虞書》曰：“鳥獸牄牄。”",
+    "volume": "05",
+    "radical": "倉",
+    "pronunciation": "七羊切",
+    "variants": [],
+    "seal_character": "岸",
+    "pinyin": "qiang",
+    "pinyin_full": "qiānɡ",
+    "components": [
+        "倉",
+        "爿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥獸來食聲也。",
+            "note": "牄葢壁中文如此。孔安國以今文字讀之易爲蹌蹌。鄭云。飛鳥走獸蹌蹌然而舞。僞孔說本之。許則徑從牄字。說爲鳥獸來食聲。與鄭異。鄭易字。許不易字也。鄭注大司樂亦引鳥獸牄牄。公羊春秋有頓子牄。"
+        },
+        {
+            "explanation": "从倉。",
+            "note": "鳥獸來食。故从倉。"
+        },
+        {
+            "explanation": "爿聲。",
+            "note": "七羊切。十部。"
+        },
+        {
+            "explanation": "虞書曰。鳥獸牄牄。",
+            "note": "咎繇謨文。"
+        }
+    ],
+    "indexes": [
+        "牄"
+    ]
+}

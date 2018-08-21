@@ -1,0 +1,31 @@
+{
+    "id": 5256,
+    "wordhead": "裯",
+    "explanation": "衣袂，袛裯。从衣周聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "都牢切",
+    "variants": [],
+    "seal_character": "敯",
+    "pinyin": "chou",
+    "pinyin_full": "dāo",
+    "components": [
+        "周",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣袂袛裯。",
+            "note": "依全書之例。此當云袛裯也。衣袂二字葢誤衍。召南。抱衾與裯。毛曰。裯、襌被也。"
+        },
+        {
+            "explanation": "从衣。周聲。",
+            "note": "都牢切。古音在三部。讀如周。祗裯雙聲字也。"
+        }
+    ],
+    "indexes": [
+        "裯"
+    ]
+}

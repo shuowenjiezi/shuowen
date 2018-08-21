@@ -1,0 +1,35 @@
+{
+    "id": 4995,
+    "wordhead": "僾",
+    "explanation": "仿佛也。从人愛聲。《詩》曰：“僾而不見。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "烏代切",
+    "variants": [],
+    "seal_character": "摘",
+    "pinyin": "ai",
+    "pinyin_full": "ài",
+    "components": [
+        "人",
+        "愛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "仿佛也。",
+            "note": "祭義曰。祭之日。入室僾然必有。見乎其位。正義云。僾、髣髴見也。見、如見親之在神位也。按僾與爾雅之薆隱也、烝民傳之愛隱也、竹部之𥴨蔽不見也、義相近。若大雅亦孔之僾。釋言及傳云僾、唈也。此謂僾爲<>之假借字。<>飲食屰氣。不得息也。"
+        },
+        {
+            "explanation": "从人。愛聲。",
+            "note": "烏代切。古音在十五部。"
+        },
+        {
+            "explanation": "詩曰。僾而不見。",
+            "note": "邶風城隅文。今詩作愛。非古也。僾而猶隱然。離騷之薆然也。"
+        }
+    ],
+    "indexes": [
+        "僾"
+    ]
+}

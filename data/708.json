@@ -1,0 +1,31 @@
+{
+    "id": 708,
+    "wordhead": "分",
+    "explanation": "別也。从八从刀，刀以分別物也。",
+    "volume": "02",
+    "radical": "八",
+    "pronunciation": "甫文切",
+    "variants": [],
+    "seal_character": "儒",
+    "pinyin": "fen",
+    "pinyin_full": "fēn",
+    "components": [
+        "刀",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "別也。从八刀。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "刀㠯分別物也。",
+            "note": "此釋从刀之意也。甫文切。十三部"
+        }
+    ],
+    "indexes": [
+        "分"
+    ]
+}

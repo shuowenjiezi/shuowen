@@ -1,0 +1,44 @@
+{
+    "id": 6553,
+    "wordhead": "赤",
+    "explanation": "南方色也。从大从火。凡赤之屬皆从赤。",
+    "volume": "10",
+    "radical": "赤",
+    "pronunciation": "昌石切",
+    "variants": [
+        {
+            "wordhead": "烾",
+            "explanation": "古文从炎、土。",
+            "seal_character": "欔"
+        }
+    ],
+    "seal_character": "欓",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "大",
+        "土",
+        "炎",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "南方色也。",
+            "note": "爾雅。一染謂之縓。再染謂之竀。三染謂之纁。鄭注士冠禮云。朱則四入與。按是四者皆赤類也。鄭注易曰。朱深於赤。按赤色至明。引申之、凡洞然昭著皆曰赤。如赤體謂不衣也。赤地謂不毛也。"
+        },
+        {
+            "explanation": "从大火。",
+            "note": "火者、南方之行。故赤爲南方之色。从大者、言大明也。昌石切。古音在五部。俗借爲尺。"
+        },
+        {
+            "explanation": "古文从炎土。",
+            "note": "火生土。"
+        }
+    ],
+    "indexes": [
+        "赤",
+        "烾"
+    ]
+}

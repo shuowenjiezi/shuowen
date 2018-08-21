@@ -1,0 +1,35 @@
+{
+    "id": 6915,
+    "wordhead": "悑",
+    "explanation": "惶也。从心甫聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "普故切",
+    "variants": [
+        {
+            "wordhead": "怖",
+            "explanation": "或从布聲。",
+            "seal_character": "沤"
+        }
+    ],
+    "seal_character": "沣",
+    "pinyin": "bu",
+    "pinyin_full": "bù",
+    "components": [
+        "甫",
+        "心",
+        "布"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "惶也。从心。甫聲。",
+            "note": "普故切。五部。"
+        }
+    ],
+    "indexes": [
+        "悑",
+        "怖"
+    ]
+}

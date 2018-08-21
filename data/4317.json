@@ -1,0 +1,45 @@
+{
+    "id": 4317,
+    "wordhead": "多",
+    "explanation": "重也。从重夕。夕者，相繹也，故爲多。重夕爲多，重日爲曡。凡多之屬皆从多。",
+    "volume": "07",
+    "radical": "多",
+    "pronunciation": "得何切",
+    "variants": [
+        {
+            "wordhead": "𡖇",
+            "explanation": "古文多。",
+            "seal_character": "慏"
+        }
+    ],
+    "seal_character": "慎",
+    "pinyin": "duo",
+    "pinyin_full": "duō",
+    "components": [
+        "夕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "緟也。",
+            "note": "緟者、增益也。故爲多。多者勝少者。故引伸爲勝之偁。戰功曰多。言勝於人也。"
+        },
+        {
+            "explanation": "从緟夕。",
+            "note": "會意。得何切。十七部。"
+        },
+        {
+            "explanation": "夕者、相繹也。故爲多。",
+            "note": "相繹者、相引於無窮也。抽絲曰繹。夕繹曡韵。說从重夕之意。"
+        },
+        {
+            "explanation": "古文。並夕。",
+            "note": "有並與重別者、如棘棗是也。有並與重不別者、𡖇多是也。"
+        }
+    ],
+    "indexes": [
+        "多",
+        "𡖇"
+    ]
+}

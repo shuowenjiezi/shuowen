@@ -1,0 +1,31 @@
+{
+    "id": 2225,
+    "wordhead": "齅",
+    "explanation": "以鼻就臭也。从鼻从臭，臭亦聲。讀若畜牲之畜。",
+    "volume": "04",
+    "radical": "鼻",
+    "pronunciation": "許救切",
+    "variants": [],
+    "seal_character": "埭",
+    "pinyin": "xiu",
+    "pinyin_full": "xiù",
+    "components": [
+        "臭",
+        "鼻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯鼻就𦤀也。",
+            "note": "玉篇引論語。三齅而作。"
+        },
+        {
+            "explanation": "从鼻臭。臭亦聲。讀若嘼牲心嘼。",
+            "note": "各本嘼作畜。非。許救切。三部。"
+        }
+    ],
+    "indexes": [
+        "齅"
+    ]
+}

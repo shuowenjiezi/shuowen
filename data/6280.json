@@ -1,0 +1,31 @@
+{
+    "id": 6280,
+    "wordhead": "猈",
+    "explanation": "短脛狗。从犬卑聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "薄蟹切",
+    "variants": [],
+    "seal_character": "槥",
+    "pinyin": "bai",
+    "pinyin_full": "bài",
+    "components": [
+        "卑",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "短脛犬。",
+            "note": "犬舊作狗。今正。說解中例云犬也。猈之言卑也。言矲？也。"
+        },
+        {
+            "explanation": "从犬。卑聲。",
+            "note": "薄蟹切。十六部。"
+        }
+    ],
+    "indexes": [
+        "猈"
+    ]
+}

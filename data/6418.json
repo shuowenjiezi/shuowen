@@ -1,0 +1,31 @@
+{
+    "id": 6418,
+    "wordhead": "煨",
+    "explanation": "盆中火。从火畏聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "烏灰切",
+    "variants": [],
+    "seal_character": "橹",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "火",
+        "畏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盆中火。",
+            "note": "玉篇作盆中火𤏶。廣韵曰。𤏶者、埋物灰中令熟也。通俗文曰。𤍽灰謂之煻煨。許無煻字。今俗謂以火溫出冬閒花曰唐花。卽煻字也。"
+        },
+        {
+            "explanation": "从火。畏聲。",
+            "note": "烏灰切。十五部。"
+        }
+    ],
+    "indexes": [
+        "煨"
+    ]
+}

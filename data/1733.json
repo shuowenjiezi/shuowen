@@ -1,0 +1,31 @@
+{
+    "id": 1733,
+    "wordhead": "韽",
+    "explanation": "下徹聲。从音酓聲。",
+    "volume": "03",
+    "radical": "音",
+    "pronunciation": "恩甘切",
+    "variants": [],
+    "seal_character": "喒",
+    "pinyin": "an",
+    "pinyin_full": "ān",
+    "components": [
+        "音",
+        "酓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "下徹聲。",
+            "note": "周禮典同曰。微聲韽。此葢賈侍中周官解故說。杜子春、鄭康成說各異。"
+        },
+        {
+            "explanation": "从音。酓聲。",
+            "note": "恩甘切。古音在七部。"
+        }
+    ],
+    "indexes": [
+        "韽"
+    ]
+}

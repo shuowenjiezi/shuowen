@@ -1,0 +1,30 @@
+{
+    "id": 1080,
+    "wordhead": "步",
+    "explanation": "行也。从止𣥂相背。凡步之屬皆从步。",
+    "volume": "02",
+    "radical": "步",
+    "pronunciation": "薄故切",
+    "variants": [],
+    "seal_character": "动",
+    "pinyin": "bu",
+    "pinyin_full": "bù",
+    "components": [
+        "止"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行也。",
+            "note": "行部曰。人之步趨也。步徐、趨疾。釋名曰。徐行曰步。"
+        },
+        {
+            "explanation": "从止？相背。",
+            "note": "止？相竝者、上登之象。止？相隨者、行步之象。相背猶相隨也。薄故切。五部。"
+        }
+    ],
+    "indexes": [
+        "步"
+    ]
+}

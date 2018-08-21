@@ -1,0 +1,43 @@
+{
+    "id": 608,
+    "wordhead": "蕢",
+    "explanation": "艸器也。从艸䝿聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "求位切",
+    "variants": [
+        {
+            "wordhead": "臾",
+            "explanation": "古文蕢，象形。《論語》曰：“有荷臾而過孔氏之門”。",
+            "seal_character": "傦"
+        }
+    ],
+    "seal_character": "傥",
+    "pinyin": "kui",
+    "pinyin_full": "kuì",
+    "components": [
+        "艸",
+        "貴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸器也。",
+            "note": "孟子曰。不知足而爲屨。我知其不爲蕢也。知蕢是盛物之器。"
+        },
+        {
+            "explanation": "从艸。貴聲。",
+            "note": "求位切。十五部。"
+        },
+        {
+            "explanation": "古文蕢。象形。論語曰。有荷臾而過孔氏之門。",
+            "note": "此古文論語也。憲問篇。"
+        }
+    ],
+    "indexes": [
+        "蒉",
+        "蕢",
+        "臾"
+    ]
+}

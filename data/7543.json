@@ -1,0 +1,31 @@
+{
+    "id": 7543,
+    "wordhead": "魼",
+    "explanation": "魚也。从魚去聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "去魚切",
+    "variants": [],
+    "seal_character": "潑",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "魚",
+        "去"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魼魚也。",
+            "note": "舊刪魼字。今補。此如河篆下云河水也之例。漢書上林賦。禺禺魼鰨。郭樸注云。比目魚也。按郭說未知其審。犬部狧字下有比目魚鰈。同爾雅。而魚部無鰈字。玉篇、廣韵合魼鰈爲一字。非也。"
+        },
+        {
+            "explanation": "从魚。去聲。",
+            "note": "去魚切。五部。"
+        }
+    ],
+    "indexes": [
+        "魼"
+    ]
+}

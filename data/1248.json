@@ -1,0 +1,51 @@
+{
+    "id": 1248,
+    "wordhead": "𢓴",
+    "explanation": "卻也。一曰行遲也。从彳从日从夊。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "他内切",
+    "variants": [
+        {
+            "wordhead": "𢓇",
+            "explanation": "𢓴或从內。",
+            "seal_character": "卵"
+        },
+        {
+            "wordhead": "𨓆",
+            "explanation": "古文从辵。",
+            "seal_character": "卶"
+        }
+    ],
+    "seal_character": "却",
+    "pinyin": "tui",
+    "pinyin_full": "tuì",
+    "components": [
+        "夊",
+        "內",
+        "日",
+        "辵",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "卻也。从彳日夊。",
+            "note": "彳、行也。行而日日遲曳。是退也。夊、行遲曳夊夊也。他內切。十五部。"
+        },
+        {
+            "explanation": "一曰行遲。",
+            "note": "四字疑後增。"
+        },
+        {
+            "explanation": "古文从辵。",
+            "note": "今字多用古文。不用小篆。"
+        }
+    ],
+    "indexes": [
+        "𢓴",
+        "𢓇",
+        "𨓆"
+    ]
+}

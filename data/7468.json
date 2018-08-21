@@ -1,0 +1,61 @@
+{
+    "id": 7468,
+    "wordhead": "䜭",
+    "explanation": "深通川也。从谷从𣦵。𣦵，殘地；阬坎意也。《虞書》曰：“䜭畎澮距川。”",
+    "volume": "11",
+    "radical": "谷",
+    "pronunciation": "私閏切",
+    "variants": [
+        {
+            "wordhead": "𣽊",
+            "explanation": "䜭或从水。",
+            "seal_character": "滲"
+        },
+        {
+            "wordhead": "濬",
+            "explanation": "古文䜭。",
+            "seal_character": "滳"
+        }
+    ],
+    "seal_character": "滱",
+    "pinyin": "jun",
+    "pinyin_full": "jùn",
+    "components": [
+        "睿",
+        "谷",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "深通川也。",
+            "note": "深之使通也。䜭與叡睿音義皆相近。故今文洪範曰。思心曰䜭。䜭作聖。古文曰。思曰睿。睿作聖。"
+        },
+        {
+            "explanation": "从𣦵谷。",
+            "note": "會意。私閏切。十三部。"
+        },
+        {
+            "explanation": "𣦵、殘也。",
+            "note": "殘猶穿也。"
+        },
+        {
+            "explanation": "谷、阬坎意也。",
+            "note": "？謂穿之。谷取阬坎之意。阬坎、深意也。已上十一字依韵會本。"
+        },
+        {
+            "explanation": "虞書曰。䜭畎澮歫川。",
+            "note": "川部旣偁咎䌛謨濬𡿨巜歫川矣。此又偁而字異、何也。葢前爲古文尙書。此爲今文也。以濬、𡿨皆倉頡古文知之。"
+        },
+        {
+            "explanation": "古文䜭。",
+            "note": "从水、从睿。睿古文叡也。叡、深明也。通也。"
+        }
+    ],
+    "indexes": [
+        "䜭",
+        "𣽊",
+        "濬"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1430,
+    "wordhead": "扁",
+    "explanation": "署也。从戶、冊。戶冊者，署門戶之文也。",
+    "volume": "02",
+    "radical": "冊",
+    "pronunciation": "方沔切",
+    "variants": [],
+    "seal_character": "吻",
+    "pinyin": "bian",
+    "pinyin_full": "biǎn",
+    "components": [
+        "戶",
+        "冊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "署也。",
+            "note": "署者、部署有所网屬也。"
+        },
+        {
+            "explanation": "从戸𠕋。戸𠕋者、署門戸之文也。",
+            "note": "署門戸者、秦書八體。六曰署書。蕭子良云。署書、漢高六年蕭何所定。以題蒼龍、白虎二闕。方沔切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "扁"
+    ]
+}

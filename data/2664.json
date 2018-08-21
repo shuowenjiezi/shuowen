@@ -1,0 +1,43 @@
+{
+    "id": 2664,
+    "wordhead": "腆",
+    "explanation": "設膳腆腆多也。从肉典聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "他典切",
+    "variants": [
+        {
+            "wordhead": "𣇺",
+            "explanation": "古文腆。",
+            "seal_character": "姮"
+        }
+    ],
+    "seal_character": "姭",
+    "pinyin": "tian",
+    "pinyin_full": "tiǎn",
+    "components": [
+        "肉",
+        "典",
+        "日"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "設膳腆腆多也。",
+            "note": "士昏禮注、邶風箋皆曰。腆、善也。方言、公羊傳注皆曰。腆、厚也。此皆引伸之義也。禮古文以殄爲腆。"
+        },
+        {
+            "explanation": "从肉。典聲。",
+            "note": "他典切。十二部。"
+        },
+        {
+            "explanation": "古文腆。",
+            "note": "從日葢誤。玉篇作？。"
+        }
+    ],
+    "indexes": [
+        "腆",
+        "𣇺"
+    ]
+}

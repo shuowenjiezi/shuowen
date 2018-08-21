@@ -1,0 +1,31 @@
+{
+    "id": 7881,
+    "wordhead": "招",
+    "explanation": "手呼也。从手、召。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "止搖切",
+    "variants": [],
+    "seal_character": "烇",
+    "pinyin": "zhao",
+    "pinyin_full": "zhāo",
+    "components": [
+        "手",
+        "召"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "手𧦝也。",
+            "note": "𧦝各本作呼。今正。呼者、外息也。𧦝者、召也。不以口而以手。是手𧦝也。匏有苦葉傳曰。招招、號召之皃。按許書召者、𧦝也。號者、嘑也。是用手用口通得云招也。"
+        },
+        {
+            "explanation": "从手。召聲。",
+            "note": "止搖切。二部。"
+        }
+    ],
+    "indexes": [
+        "招"
+    ]
+}

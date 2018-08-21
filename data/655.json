@@ -1,0 +1,35 @@
+{
+    "id": 655,
+    "wordhead": "䓊",
+    "explanation": "艸也。从艸吾聲。《楚詞》有䓊蕭艸。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "吾乎切",
+    "variants": [],
+    "seal_character": "僙",
+    "pinyin": "wu",
+    "pinyin_full": "wú",
+    "components": [
+        "艸",
+        "吾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸也。",
+            "note": "廣韵云。似艾。郭注方言云。今江東人呼荏爲䓊。音魚。"
+        },
+        {
+            "explanation": "从艸。吾聲。",
+            "note": "五乎切。五部。籒文作？。"
+        },
+        {
+            "explanation": "楚詞有䓊蕭。",
+            "note": "按今楚詞無䓊蕭。惟宋玉九辨云。白露旣下百艸兮。奄離披此梧楸。梧楸葢許所見作䓊蕭。正百艸之二也。"
+        }
+    ],
+    "indexes": [
+        "䓊"
+    ]
+}

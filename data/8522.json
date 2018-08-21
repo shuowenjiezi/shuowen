@@ -1,0 +1,31 @@
+{
+    "id": 8522,
+    "wordhead": "紊",
+    "explanation": "亂也。从糸文聲。《商書》曰：“有條而不紊。”",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "亡運切",
+    "variants": [],
+    "seal_character": "玁",
+    "pinyin": "wen",
+    "pinyin_full": "wèn",
+    "components": [
+        "文",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亂也。从糸。文聲。",
+            "note": "亡運切。十三部。"
+        },
+        {
+            "explanation": "商書曰。有條而不紊。",
+            "note": "般庚上文。"
+        }
+    ],
+    "indexes": [
+        "紊"
+    ]
+}

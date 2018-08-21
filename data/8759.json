@@ -1,0 +1,38 @@
+{
+    "id": 8759,
+    "wordhead": "蝘",
+    "explanation": "在壁曰蝘蜓，在艸曰蜥易。从虫匽聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "於殄切",
+    "variants": [
+        {
+            "wordhead": "𧓱",
+            "explanation": "蝘或从䖵。",
+            "seal_character": "璊"
+        }
+    ],
+    "seal_character": "璉",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "虫",
+        "匽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "在壁曰蝘蜓。在艸曰蜥易。",
+            "note": "析言之。"
+        },
+        {
+            "explanation": "从虫。匽聲。",
+            "note": "於殄切。十四部。"
+        }
+    ],
+    "indexes": [
+        "蝘",
+        "𧓱"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1225,
+    "wordhead": "復",
+    "explanation": "往來也。从彳复聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "房六切",
+    "variants": [],
+    "seal_character": "卛",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "彳",
+        "复"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往來也。",
+            "note": "辵部曰。返、還也。還、復也。皆訓往而仍來。今人分別入聲去聲。古無是分別也。"
+        },
+        {
+            "explanation": "从彳。𡕨聲。",
+            "note": "房六切。三部。"
+        }
+    ],
+    "indexes": [
+        "復"
+    ]
+}

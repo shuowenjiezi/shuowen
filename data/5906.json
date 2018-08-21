@@ -1,0 +1,42 @@
+{
+    "id": 5906,
+    "wordhead": "廏",
+    "explanation": "馬舍也。从广㲃聲。《周禮》曰：“馬有二百十四匹爲廏，廏有僕夫。”",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "居又切",
+    "variants": [
+        {
+            "wordhead": "𠤙",
+            "explanation": "古文从九。",
+            "seal_character": "桃"
+        }
+    ],
+    "seal_character": "桂",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "九",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬舍也。从广。㲃聲。",
+            "note": "居又切。三部。"
+        },
+        {
+            "explanation": "周禮曰。馬有二百十四匹爲𢋁𢋁。有僕夫。",
+            "note": "四當爲六。字之誤也。夏官校人曰。乘馬一師四圉。三乘爲皁。皁一趣馬。三皁爲𣪠。𣪠一馭夫。六𣪠爲𢋁。𢋁一僕夫。六𢋁成校。校有左右。注曰。二耦爲乘。四匹也。自乘至𢋁、其數二百一十六匹。易。乾爲馬。此應乾之策也。"
+        },
+        {
+            "explanation": "古文从九。",
+            "note": "此从古文叀、而九聲也。"
+        }
+    ],
+    "indexes": [
+        "廏",
+        "𠤙"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 83,
+    "wordhead": "瓘",
+    "explanation": "玉也。从玉雚聲。《春秋傳》曰：“瓘斚。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "工玩切",
+    "variants": [],
+    "seal_character": "乩",
+    "pinyin": "guan",
+    "pinyin_full": "ɡuàn",
+    "components": [
+        "玉",
+        "雚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉也。",
+            "note": "左氏傳。齊有陳瓘。字子玉。"
+        },
+        {
+            "explanation": "从王。雚聲。",
+            "note": "工玩切。十四部。"
+        },
+        {
+            "explanation": "春秋傳曰。瓘斝。",
+            "note": "左氏傳昭公十七年。禆𥨫曰。我用瓘斝玉瓚。鄭必不火。"
+        }
+    ],
+    "indexes": [
+        "瓘"
+    ]
+}

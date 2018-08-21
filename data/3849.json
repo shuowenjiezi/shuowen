@@ -1,0 +1,32 @@
+{
+    "id": 3849,
+    "wordhead": "賣",
+    "explanation": "出物貨也。从出从買。",
+    "volume": "06",
+    "radical": "出",
+    "pronunciation": "莫邂切",
+    "variants": [],
+    "seal_character": "彐",
+    "pinyin": "mai",
+    "pinyin_full": "mài",
+    "components": [
+        "出",
+        "買"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "出物貨也。",
+            "note": "周禮多言賣儥、謂賣買也。"
+        },
+        {
+            "explanation": "从出。从𧵽。",
+            "note": "出買者、出而與人買之也。韵會作買聲。則以形聲包會意也。莫邂切。十六部。"
+        }
+    ],
+    "indexes": [
+        "卖",
+        "賣"
+    ]
+}

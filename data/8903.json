@@ -1,0 +1,38 @@
+{
+    "id": 8903,
+    "wordhead": "𧒎",
+    "explanation": "蠶化飛蟲。从䖵我聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "五何切",
+    "variants": [
+        {
+            "wordhead": "䖸",
+            "explanation": "或从虫。",
+            "seal_character": "甧"
+        }
+    ],
+    "seal_character": "甦",
+    "pinyin": "e",
+    "pinyin_full": "é",
+    "components": [
+        "虫",
+        "我"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蠶匕飛𧒎。",
+            "note": "匕各本作化。今正。匕者、變也。蠶吐絲則成蛹於繭中。蛹復化而爲？。按此？與虫部之蛾羅主謂螘者、𢧵然不同。而郭氏釋爾雅蛾羅爲蠶蛾。非許意也。"
+        },
+        {
+            "explanation": "从䖵。我聲。",
+            "note": "五何切。十七部。"
+        }
+    ],
+    "indexes": [
+        "𧒎",
+        "䖸"
+    ]
+}

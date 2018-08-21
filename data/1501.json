@@ -1,0 +1,35 @@
+{
+    "id": 1501,
+    "wordhead": "詻",
+    "explanation": "論訟也。《傳》曰：“詻詻孔子容。”从言各聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "五陌切",
+    "variants": [],
+    "seal_character": "和",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "言",
+        "各"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "論訟也。",
+            "note": "訟當作頌。論頌卽言容也。玉藻曰。戎容曁曁。言容詻詻。注。詻詻、教令嚴也。周禮𠈃氏六儀。五曰軍旅之容。注。軍旅之容。曁曁詻詻。"
+        },
+        {
+            "explanation": "傳曰。詻詻孔子容。",
+            "note": "未聞。論語曰。子温而厲。"
+        },
+        {
+            "explanation": "从言。各聲。",
+            "note": "五陌切。五部。"
+        }
+    ],
+    "indexes": [
+        "詻"
+    ]
+}

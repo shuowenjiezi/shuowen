@@ -1,0 +1,35 @@
+{
+    "id": 1026,
+    "wordhead": "趩",
+    "explanation": "行聲也。一曰不行皃。从走異聲。讀若敕。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "丑亦切",
+    "variants": [],
+    "seal_character": "剰",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "異",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行聲也。",
+            "note": "石𡔷詩。其來趩趩。"
+        },
+        {
+            "explanation": "从走。異聲。讀若敕。",
+            "note": "丑亦切。一部。"
+        },
+        {
+            "explanation": "一曰不行皃。",
+            "note": "按趩字鍇本在部末。疑𧾰趩本一字而二之。如水部之潩瀷也。"
+        }
+    ],
+    "indexes": [
+        "趩"
+    ]
+}

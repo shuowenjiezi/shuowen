@@ -1,0 +1,43 @@
+{
+    "id": 5586,
+    "wordhead": "頰",
+    "explanation": "面㫄也。从頁夾聲。",
+    "volume": "09",
+    "radical": "頁",
+    "pronunciation": "古叶切",
+    "variants": [
+        {
+            "wordhead": "𩔯",
+            "explanation": "籒文頰。",
+            "seal_character": "曣"
+        }
+    ],
+    "seal_character": "曢",
+    "pinyin": "jia",
+    "pinyin_full": "jiá",
+    "components": [
+        "夾",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "面旁也。",
+            "note": "面者、顔前也。顔前者、㒳眉閒㒳目閒已下至頰閒也。其旁曰頰。面部曰。䩉、頰也。易咸上六。咸其圃頰舌。輔卽䩉之假借字也。凡言頰車者、今俗謂牙牀骨。牙所載也。與單言頰不同。"
+        },
+        {
+            "explanation": "从𩑋。夾聲。",
+            "note": "古叶切。八部。"
+        },
+        {
+            "explanation": "籒文頰。",
+            "note": "各本右作{𩠐+儿[上下]}。誤。今依集韵正。又左體之夾、今改从籒文大。"
+        }
+    ],
+    "indexes": [
+        "颊",
+        "頰",
+        "𩔯"
+    ]
+}

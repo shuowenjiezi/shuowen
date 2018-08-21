@@ -1,0 +1,40 @@
+{
+    "id": 1569,
+    "wordhead": "詠",
+    "explanation": "歌也。从言永聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "爲命切",
+    "variants": [
+        {
+            "wordhead": "咏",
+            "explanation": "詠或从口<span>[<span>𠙵</span>]</span>。",
+            "seal_character": "哙"
+        }
+    ],
+    "seal_character": "哘",
+    "pinyin": "yong",
+    "pinyin_full": "yǒnɡ",
+    "components": [
+        "口",
+        "言",
+        "永"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "歌也。",
+            "note": "堯典曰。歌永言。樂記曰。歌之爲言也。長言之也。說之、故言之。言之不足、故長言之。"
+        },
+        {
+            "explanation": "从言。永聲。",
+            "note": "爲命切。古音在十部。"
+        }
+    ],
+    "indexes": [
+        "咏",
+        "詠",
+        "咏"
+    ]
+}

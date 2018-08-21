@@ -1,0 +1,39 @@
+{
+    "id": 2286,
+    "wordhead": "雕",
+    "explanation": "鷻也。从隹周聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "都僚切",
+    "variants": [
+        {
+            "wordhead": "鵰",
+            "explanation": "籒文雕从鳥。",
+            "seal_character": "報"
+        }
+    ],
+    "seal_character": "堰",
+    "pinyin": "diao",
+    "pinyin_full": "diāo",
+    "components": [
+        "周",
+        "隹",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鷻也。",
+            "note": "鳥部曰。鷻、雕也。假借爲琱琢、凋零字。"
+        },
+        {
+            "explanation": "从隹。周聲。",
+            "note": "都僚切。二部。古音在三部。考工記故書雕或爲舟。"
+        }
+    ],
+    "indexes": [
+        "雕",
+        "鵰"
+    ]
+}

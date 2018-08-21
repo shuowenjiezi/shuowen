@@ -1,0 +1,46 @@
+{
+    "id": 5200,
+    "wordhead": "卓",
+    "explanation": "高也。早匕爲㔬，匕卪爲卬，皆同義。",
+    "volume": "08",
+    "radical": "匕",
+    "pronunciation": "竹角切",
+    "variants": [
+        {
+            "wordhead": "𢂦",
+            "explanation": "古文㔬。",
+            "seal_character": "攬"
+        }
+    ],
+    "seal_character": "攫",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuō",
+    "components": [
+        "早",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高也。",
+            "note": "論語。如有所立。卓爾。凡言卓犖、謂殊絕也。亦作卓躒。按稽部？、特止也。辵部逴、遠也。人部倬、箸大也。皆一義之引伸。覲禮。匹馬卓上。九馬隨之。注。卓讀如卓王孫之卓。卓猶旳也。以素旳一馬爲上。素旳一馬、謂白馬也。鄭意白馬出衆故謂之卓。史記多叚淖爲卓。"
+        },
+        {
+            "explanation": "早匕爲卓。",
+            "note": "此上當有從匕早三字。匕同比。早比之、則高出於後比之者矣。"
+        },
+        {
+            "explanation": "匕卪爲？。皆同意。",
+            "note": "意舊作義。今正。此與凡云某與某同、意同也。竹角切。古音在二部。"
+        },
+        {
+            "explanation": "古文㔬。",
+            "note": "漢隸及今隸从⺊。用古文而小篆廢矣。又疑古文恐是篆文之誤。"
+        }
+    ],
+    "indexes": [
+        "卓",
+        "𢂦"
+    ]
+}

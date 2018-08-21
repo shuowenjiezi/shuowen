@@ -1,0 +1,66 @@
+{
+    "id": 1985,
+    "wordhead": "㼱",
+    "explanation": "柔韋也。从北，从皮省，从敻省。凡㼱之屬皆从㼱。讀若耎。一曰若雋。",
+    "volume": "03",
+    "radical": "㼱",
+    "pronunciation": "而兖切",
+    "variants": [
+        {
+            "wordhead": "𡰺",
+            "explanation": "古文㼱。",
+            "seal_character": "囡"
+        },
+        {
+            "wordhead": "𤭀",
+            "explanation": "籒文㼱从敻<span>[<span>𢿌</span>]</span>省。",
+            "seal_character": "团"
+        }
+    ],
+    "seal_character": "因",
+    "pinyin": "ruan",
+    "pinyin_full": "ruǎn",
+    "components": [
+        "人",
+        "敻",
+        "皮",
+        "北"
+    ],
+    "xuan_note": "臣鉉等曰：北者，反覆柔治之也。敻，營也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "柔韋也。",
+            "note": "柔者治之使鞣也。韋、可用之皮也。考工記注曰。蒼頡篇有鞄㼱。"
+        },
+        {
+            "explanation": "从<>(北篆)。",
+            "note": "鉉曰。從北者、反覆柔治之也。"
+        },
+        {
+            "explanation": "从皮省。",
+            "note": "謂<>㞋也。非耳、非瓦。今隷下皆作瓦矣。"
+        },
+        {
+            "explanation": "𢿌省聲。",
+            "note": "各本無聲。今補夐古音在十四部。此省其上下。取㓁爲聲也。而充切。十四部。"
+        },
+        {
+            "explanation": "凡㼱之屬皆从㼱。讀若耎。一曰若儁。",
+            "note": "儁同俊。人部有俊無儁。"
+        },
+        {
+            "explanation": "古文㼱。",
+            "note": "从皮省。从人治之。"
+        },
+        {
+            "explanation": "籒文㼱。从𢿌省。",
+            "note": "下從皮省。上從𢿌省。"
+        }
+    ],
+    "indexes": [
+        "㼱",
+        "𡰺",
+        "𤭀"
+    ]
+}

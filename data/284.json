@@ -1,0 +1,47 @@
+{
+    "id": 284,
+    "wordhead": "𦵡",
+    "explanation": "𦵡藭，香艸也。从艸宮聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "去弓切",
+    "variants": [
+        {
+            "wordhead": "芎",
+            "explanation": "司馬相如說：𦵡或从弓。",
+            "seal_character": "佐"
+        }
+    ],
+    "seal_character": "住",
+    "pinyin": "qiong",
+    "pinyin_full": "qiōnɡ",
+    "components": [
+        "艸",
+        "宫",
+        "弓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦵡竆、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "香艸也。",
+            "note": "左傳作鞠竆。賈逵云。所以禦溼。按今本左傳。有山鞠竆乎。山字、注疏皆不釋。疑衍。或本作蘜。而譌爲二字。"
+        },
+        {
+            "explanation": "从艸。宮聲。",
+            "note": "去弓切。九部。"
+        },
+        {
+            "explanation": "司馬相如說营从弓。",
+            "note": "葢凡將篇如此作。弓聲在六部。古音讀如肱。音轉入九部。如躳字亦或弓聲。"
+        }
+    ],
+    "indexes": [
+        "𦵡",
+        "芎"
+    ]
+}

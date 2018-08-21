@@ -1,0 +1,44 @@
+{
+    "id": 9377,
+    "wordhead": "鑣",
+    "explanation": "馬銜也。从金麃聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "補嬌切",
+    "variants": [
+        {
+            "wordhead": "𧥍",
+            "explanation": "鑣或从角<span>[<span>𧢲</span>]</span>。",
+            "seal_character": "睕"
+        }
+    ],
+    "seal_character": "睔",
+    "pinyin": "biao",
+    "pinyin_full": "biāo",
+    "components": [
+        "金",
+        "麃",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬銜也。",
+            "note": "馬銜橫毌口中。其㒳耑外出者系以鑾鈴。又巾部曰。幩、馬纏鑣扇汗也。葢扇汗亦繞於㒳耑。"
+        },
+        {
+            "explanation": "从金。麃聲。",
+            "note": "補嬌切。二部。"
+        },
+        {
+            "explanation": "鑣或从𧢲。",
+            "note": "葢古或以角之至堅者爲之。"
+        }
+    ],
+    "indexes": [
+        "镳",
+        "鑣",
+        "𧥍"
+    ]
+}

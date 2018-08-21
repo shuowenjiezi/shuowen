@@ -1,0 +1,51 @@
+{
+    "id": 1916,
+    "wordhead": "叔",
+    "explanation": "拾也。从又尗聲。汝南名收芌爲叔。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "式竹切",
+    "variants": [
+        {
+            "wordhead": "𡬧",
+            "explanation": "叔或从寸。",
+            "seal_character": "嚄"
+        }
+    ],
+    "seal_character": "嚃",
+    "pinyin": "shu",
+    "pinyin_full": "shū",
+    "components": [
+        "又",
+        "尗",
+        "寸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "拾也。",
+            "note": "豳風。九月叔苴。毛曰。叔拾也。按釋名。仲父之弟曰叔父。叔、少也。於其雙聲曡韵假借之。假借旣久。而叔之本義鮮知之者。惟見於毛詩而已。"
+        },
+        {
+            "explanation": "从又。",
+            "note": "於此知拾爲本義也。"
+        },
+        {
+            "explanation": "尗聲。",
+            "note": "式竹切。三部。"
+        },
+        {
+            "explanation": "汝南名收芌爲叔。",
+            "note": "言此者、箸商周故言猶存於漢之汝南也。"
+        },
+        {
+            "explanation": "叔或从寸。",
+            "note": "又寸皆手也。故多互用。"
+        }
+    ],
+    "indexes": [
+        "叔",
+        "𡬧"
+    ]
+}

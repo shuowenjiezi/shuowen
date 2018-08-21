@@ -1,0 +1,43 @@
+{
+    "id": 5732,
+    "wordhead": "髡",
+    "explanation": "𩮜髮也。从髟兀聲。",
+    "volume": "09",
+    "radical": "髟",
+    "pronunciation": "苦昆切",
+    "variants": [
+        {
+            "wordhead": "髨",
+            "explanation": "或从元。",
+            "seal_character": "极"
+        }
+    ],
+    "seal_character": "枀",
+    "pinyin": "kun",
+    "pinyin_full": "kūn",
+    "components": [
+        "兀",
+        "元",
+        "髟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩮜髮也。",
+            "note": "楚辭涉江。接輿髡首。王注云。髡、剔也。剔者、俗𩮜字。周禮。髡者使守積。注云。此必王之同族不宮者。宮之爲翦其類。髡之而巳。而部曰。罪不至髡。完其而鬢曰耏。"
+        },
+        {
+            "explanation": "从髟。兀聲。",
+            "note": "苦昆切。十三部。"
+        },
+        {
+            "explanation": "或从元。",
+            "note": "元亦兀聲也。故亦从元聲。古或假完爲髡。如漢㓝法志。完者使守積。王制注同。"
+        }
+    ],
+    "indexes": [
+        "髡",
+        "髨"
+    ]
+}

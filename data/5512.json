@@ -1,0 +1,42 @@
+{
+    "id": 5512,
+    "wordhead": "款",
+    "explanation": "意有所欲也。从欠，𡪡省。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "苦管切",
+    "variants": [
+        {
+            "wordhead": "歀",
+            "explanation": "㱁或从柰。",
+            "seal_character": "暉"
+        }
+    ],
+    "seal_character": "暈",
+    "pinyin": "kuan",
+    "pinyin_full": "kuǎn",
+    "components": [
+        "欠",
+        "柰"
+    ],
+    "xuan_note": "臣鉉等曰：𡪡，塞也。意有所欲而猶塞，㱁㱁然也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "意有所欲也。",
+            "note": "屈原賦曰。悃悃㱁㱁。王注。心志純也。按古款與窾通用。窾者、空也。款亦訓空。空中則有所欲也。釋器。款足者謂之鬲。小司馬引舊說款足謂空足也。又引申子款言無成。"
+        },
+        {
+            "explanation": "从欠。㝮省。",
+            "note": "臣鉉等曰。㝮、塞也。意有所欲而猶未塞、款款然也。按空則宐窒。苦管切。十四部。"
+        },
+        {
+            "explanation": "款或从柰。",
+            "note": "取柰何之意。"
+        }
+    ],
+    "indexes": [
+        "款",
+        "歀"
+    ]
+}

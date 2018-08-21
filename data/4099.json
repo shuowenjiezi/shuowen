@@ -1,0 +1,31 @@
+{
+    "id": 4099,
+    "wordhead": "邴",
+    "explanation": "宋下邑。从邑丙聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "兵永切",
+    "variants": [],
+    "seal_character": "恛",
+    "pinyin": "bing",
+    "pinyin_full": "bǐnɡ",
+    "components": [
+        "丙",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宋下邑。",
+            "note": "下邑猶言小邑。左傳邴歜、邴意茲、邴泄、邴夏皆非宋人。公羊隱八年歸邴、入邴、九年會齊矦于邴皆非宋地。十年取防。防者、宋地。疑當作邴。"
+        },
+        {
+            "explanation": "从邑。丙聲。",
+            "note": "兵永切。古音在十部。"
+        }
+    ],
+    "indexes": [
+        "邴"
+    ]
+}

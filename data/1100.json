@@ -1,0 +1,43 @@
+{
+    "id": 1100,
+    "wordhead": "𨒌",
+    "explanation": "正、行也。从辵正聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "諸盈切",
+    "variants": [
+        {
+            "wordhead": "征",
+            "explanation": "𢌛<span>{<span>當</span><span>作</span><span>𨒌</span>}</span>或从彳。",
+            "seal_character": "勄"
+        }
+    ],
+    "seal_character": "勃",
+    "pinyin": "zheng",
+    "pinyin_full": "zhēnɡ",
+    "components": [
+        "辵",
+        "正",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "正行也。",
+            "note": "釋言、毛傳皆曰。征、行也。許分別之。征爲正行。邁爲遠行。"
+        },
+        {
+            "explanation": "从辵。正聲。",
+            "note": "形聲包會意。諸盈切。十一部。廴部又有延字。行也。"
+        },
+        {
+            "explanation": "𨒌或从彳。",
+            "note": "引伸爲征伐。孟子曰。征之爲言正也。"
+        }
+    ],
+    "indexes": [
+        "𨒌",
+        "征"
+    ]
+}

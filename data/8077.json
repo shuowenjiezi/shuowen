@@ -1,0 +1,43 @@
+{
+    "id": 8077,
+    "wordhead": "妘",
+    "explanation": "祝融之後姓也。从女云聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "王分切",
+    "variants": [
+        {
+            "wordhead": "𪔈",
+            "explanation": "籒文妘从員<span>[<span>𪔅</span>]</span>。",
+            "seal_character": "熕"
+        }
+    ],
+    "seal_character": "熔",
+    "pinyin": "yun",
+    "pinyin_full": "yún",
+    "components": [
+        "女",
+        "云",
+        "員"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祝融之後姓也。",
+            "note": "祝融者、顓頊之子黎也。國語曰。其後八姓。已、董、彭、秃、妘、曹、斟、芈也。妘姓鄔、鄶、路、偪陽是也。又世本曰。鄅、妘姓也。大戴禮云鄶人。云卽妘字。"
+        },
+        {
+            "explanation": "从女。云聲。",
+            "note": "王分切。十三部。"
+        },
+        {
+            "explanation": "籒文妘。从員。",
+            "note": "員籒文作𪔅。古音同云。小徐本篆作𡤀。"
+        }
+    ],
+    "indexes": [
+        "妘",
+        "𪔈"
+    ]
+}

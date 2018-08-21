@@ -1,0 +1,53 @@
+{
+    "id": 3307,
+    "wordhead": "冂",
+    "explanation": "邑外謂之郊，郊外謂之野，野外謂之林，林外謂之冂。象遠界也。凡冂之屬皆从冂。",
+    "volume": "05",
+    "radical": "冂",
+    "pronunciation": "古熒切",
+    "variants": [
+        {
+            "wordhead": "冋",
+            "explanation": "古文冂从囗，象國邑。",
+            "seal_character": "峫"
+        },
+        {
+            "wordhead": "坰",
+            "explanation": "冋或从士<span>{<span>土</span>}</span>。",
+            "seal_character": "峬"
+        }
+    ],
+    "seal_character": "峪",
+    "pinyin": "jiong",
+    "pinyin_full": "jiōnɡ",
+    "components": [
+        "土",
+        "囗",
+        "冂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "邑外謂之郊。郊外謂之野。野外謂之林。林外謂之冂。",
+            "note": "與魯頌毛傳同。邑、國也。歫國百里曰郊。野、郊外也。平土有叢木曰林。皆許說也。爾雅釋地。邑外謂之郊。郊外謂之牧。牧外謂之野。野外謂之林。林外謂之坰。多謂之牧牧外五字。依野有死麇燕燕干旄傳、叔于田箋𣃔之。淺人妄增也。牧、李巡作田。王砅注素問作邑外謂之郊。郊外謂之甸。甸外謂之牧。牧外謂之林。林外謂之坰。坰外謂之野。所偁更繆。"
+        },
+        {
+            "explanation": "象遠介也。",
+            "note": "介各本作界。誤。今正。八部曰。介、畫也。？像遠所聯亙。一象各分介畫也。古熒切。十一部。"
+        },
+        {
+            "explanation": "古文冂。从囗。象國邑。",
+            "note": "像國邑在介内也。"
+        },
+        {
+            "explanation": "冋或从土。",
+            "note": "詩、爾雅皆如此作。"
+        }
+    ],
+    "indexes": [
+        "冂",
+        "冋",
+        "坰"
+    ]
+}

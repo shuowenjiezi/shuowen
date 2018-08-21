@@ -1,0 +1,31 @@
+{
+    "id": 353,
+    "wordhead": "芺",
+    "explanation": "艸也。味苦，江南食以下气。从艸夭聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "烏皓切",
+    "variants": [],
+    "seal_character": "侖",
+    "pinyin": "ao",
+    "pinyin_full": "ǎo",
+    "components": [
+        "艸",
+        "夭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸也。味苦。江南食之㠯下气。",
+            "note": "名醫別錄云。苦芺主桼瘡。不云可下氣。漢人謂䂊章長沙爲江南。"
+        },
+        {
+            "explanation": "从艸。夭聲。",
+            "note": "烏浩切。二部。"
+        }
+    ],
+    "indexes": [
+        "芺"
+    ]
+}

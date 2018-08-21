@@ -1,0 +1,35 @@
+{
+    "id": 9244,
+    "wordhead": "鉹",
+    "explanation": "曲鉹也。从金多聲。一曰鬵鼎，讀若𢴨。一曰《詩》云“侈兮哆兮”。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "尺氏切",
+    "variants": [],
+    "seal_character": "盆",
+    "pinyin": "chi",
+    "pinyin_full": "chǐ",
+    "components": [
+        "金",
+        "多"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "曲鉹也。从金。多聲。",
+            "note": "尺氏切。古音在十七部。"
+        },
+        {
+            "explanation": "一曰鬵鼎。",
+            "note": "鬲部曰。鬵、鉹也。與此爲轉注。"
+        },
+        {
+            "explanation": "讀若𢴨。一曰詩云侈兮哆兮。",
+            "note": "宋本皆如此。今本作哆兮侈兮。一曰下當奪若字。謂讀若哆也。小徐作一曰若詩曰侈兮之侈同。"
+        }
+    ],
+    "indexes": [
+        "鉹"
+    ]
+}

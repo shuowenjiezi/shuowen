@@ -1,0 +1,31 @@
+{
+    "id": 61,
+    "wordhead": "祴",
+    "explanation": "宗廟奏祴樂。从示戒聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "古哀切",
+    "variants": [],
+    "seal_character": "乍",
+    "pinyin": "gai",
+    "pinyin_full": "ɡāi",
+    "components": [
+        "示",
+        "戒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宗廟奏祴樂。",
+            "note": "宗廟中賔醉而出。奏祴夏。故字從示。"
+        },
+        {
+            "explanation": "从示。戒聲。",
+            "note": "古哀切。一部。"
+        }
+    ],
+    "indexes": [
+        "祴"
+    ]
+}

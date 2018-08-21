@@ -1,0 +1,45 @@
+{
+    "id": 9222,
+    "wordhead": "鐵",
+    "explanation": "黑金也。从金𢧤聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "天結切",
+    "variants": [
+        {
+            "wordhead": "𨫓",
+            "explanation": "𨮯或省。",
+            "seal_character": "皯"
+        },
+        {
+            "wordhead": "銕",
+            "explanation": "古文𨮯从夷。",
+            "seal_character": "皰"
+        }
+    ],
+    "seal_character": "皮",
+    "pinyin": "tie",
+    "pinyin_full": "tiě",
+    "components": [
+        "夷",
+        "金"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黑金也。从金。𢧤聲。",
+            "note": "天結切。十二部。"
+        },
+        {
+            "explanation": "古文鐵。从夷。",
+            "note": "按夷葢弟之譌也。"
+        }
+    ],
+    "indexes": [
+        "铁",
+        "鐵",
+        "𨫓",
+        "銕"
+    ]
+}

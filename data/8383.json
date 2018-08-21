@@ -1,0 +1,39 @@
+{
+    "id": 8383,
+    "wordhead": "匠",
+    "explanation": "木工也。从匚从斤。斤，所以作器也。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "疾亮切",
+    "variants": [],
+    "seal_character": "狝",
+    "pinyin": "jiang",
+    "pinyin_full": "jiànɡ",
+    "components": [
+        "斤",
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木工也。",
+            "note": "工者、巧飭也。百工皆稱工、稱匠。獨舉木工者、其字从斤也。以木工之偁引申爲凡工之偁也。"
+        },
+        {
+            "explanation": "从匚斤。",
+            "note": "會意。疾亮切。十部。"
+        },
+        {
+            "explanation": "斤、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "所㠯作器也。",
+            "note": "說从斤之意。匚者、榘也。"
+        }
+    ],
+    "indexes": [
+        "匠"
+    ]
+}

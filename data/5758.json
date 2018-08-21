@@ -1,0 +1,40 @@
+{
+    "id": 5758,
+    "wordhead": "卸",
+    "explanation": "舍車解馬也。从卪、止、午。讀若汝南人寫書之寫。",
+    "volume": "09",
+    "radical": "卩",
+    "pronunciation": "司夜切",
+    "variants": [],
+    "seal_character": "枛",
+    "pinyin": "xie",
+    "pinyin_full": "xiè",
+    "components": [
+        "止",
+        "午",
+        "卪"
+    ],
+    "xuan_note": "臣鉉等曰：午，馬也。故从午。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舍車解馬也。",
+            "note": "舍、止也。馬以駕車。止車則解馬矣。一說解馬謂騎解鞌。方言曰。發、舍車也。東齊海岱之閒謂之發。宋趙陳魏之閒謂之稅。郭注。今通言發寫。按發寫卽發缷也。寫者卸之假借字。曲禮曰。器之漑者不寫。其餘皆寫。義正同卸。今卸爲通用俗語。"
+        },
+        {
+            "explanation": "从卪止、",
+            "note": "行止有節。"
+        },
+        {
+            "explanation": "午聲。",
+            "note": "依韵會所據小徐本。"
+        },
+        {
+            "explanation": "讀若汝南人寫書之寫。",
+            "note": "司夜切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "卸"
+    ]
+}

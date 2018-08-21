@@ -1,0 +1,35 @@
+{
+    "id": 792,
+    "wordhead": "呱",
+    "explanation": "小兒嗁聲。从口瓜聲。《詩》曰：“后稷呱矣。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "古乎切",
+    "variants": [],
+    "seal_character": "兰",
+    "pinyin": "gu",
+    "pinyin_full": "ɡū",
+    "components": [
+        "口",
+        "瓜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小兒嗁聲。",
+            "note": "咎繇謨。啟呱呱而泣。"
+        },
+        {
+            "explanation": "从口。瓜聲。",
+            "note": "古乎切。五部"
+        },
+        {
+            "explanation": "詩曰。后稷呱矣。",
+            "note": "大雅。"
+        }
+    ],
+    "indexes": [
+        "呱"
+    ]
+}

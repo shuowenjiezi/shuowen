@@ -1,0 +1,37 @@
+{
+    "id": 8404,
+    "wordhead": "甾",
+    "explanation": "東楚名缶曰甾。象形。凡甾之屬皆从甾。",
+    "volume": "12",
+    "radical": "甾",
+    "pronunciation": "側詞切",
+    "variants": [
+        {
+            "wordhead": "𠙾",
+            "explanation": "古文。",
+            "seal_character": "狸"
+        }
+    ],
+    "seal_character": "狷",
+    "pinyin": "zi",
+    "pinyin_full": "zī",
+    "components": [
+        "甾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "東楚名缶曰𠙹。",
+            "note": "太史公曰。自彭城以東。東海、吳、廣陵、此東楚也。缶下曰。瓦器、所以盛酒漿。秦人𡔷之以節歌。象形。然則缶旣象形矣。𠙹復象形。實一物而語言不同。且實一字而書法少異耳。玉篇作𠙹近之。若廣韵謂卽艸部之甾字。風馬牛不相及也。甾上从一雝川。此象缶之頸少殺。安得云同字。今𣜩當作甾。"
+        },
+        {
+            "explanation": "象形也。",
+            "note": "口大而頸少殺。側詞切。一部。"
+        }
+    ],
+    "indexes": [
+        "甾",
+        "𠙾"
+    ]
+}

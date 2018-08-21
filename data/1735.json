@@ -1,0 +1,35 @@
+{
+    "id": 1735,
+    "wordhead": "章",
+    "explanation": "樂竟爲一章。从音从十。十，數之終也。",
+    "volume": "03",
+    "radical": "音",
+    "pronunciation": "諸良切",
+    "variants": [],
+    "seal_character": "喔",
+    "pinyin": "zhang",
+    "pinyin_full": "zhānɡ",
+    "components": [
+        "十",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂竟爲一章。",
+            "note": "歌所止曰章。"
+        },
+        {
+            "explanation": "从音十。",
+            "note": "會意。諸良切。十部。"
+        },
+        {
+            "explanation": "十、數之終也。",
+            "note": "說從十之意。"
+        }
+    ],
+    "indexes": [
+        "章"
+    ]
+}

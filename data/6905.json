@@ -1,0 +1,36 @@
+{
+    "id": 6905,
+    "wordhead": "懾",
+    "explanation": "失气也。从心聶聲。一曰服也。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "之涉切",
+    "variants": [],
+    "seal_character": "沗",
+    "pinyin": "she",
+    "pinyin_full": "shè",
+    "components": [
+        "心",
+        "聶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "失气也。",
+            "note": "失气言則曰讋。"
+        },
+        {
+            "explanation": "从心。聶聲。",
+            "note": "之涉切。八部。"
+        },
+        {
+            "explanation": "一曰心服也。",
+            "note": "心字依玄應書補。"
+        }
+    ],
+    "indexes": [
+        "慑",
+        "懾"
+    ]
+}

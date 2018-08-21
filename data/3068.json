@@ -1,0 +1,35 @@
+{
+    "id": 3068,
+    "wordhead": "鼛",
+    "explanation": "大鼓也。从鼓咎聲。《詩》曰：“鼛鼓不勝。”",
+    "volume": "05",
+    "radical": "鼓",
+    "pronunciation": "古勞切",
+    "variants": [],
+    "seal_character": "寈",
+    "pinyin": "gao",
+    "pinyin_full": "ɡāo",
+    "components": [
+        "鼓",
+        "咎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大𡔷也。",
+            "note": "周禮作皐。古音同在三部也。𡔷人。以皐𡔷𡔷役事。韗人。爲皐𡔷。長尋有四尺。倨句磬折。毛傳。鼛、大𡔷也。長一丈二尺。"
+        },
+        {
+            "explanation": "从𡔷。咎聲。",
+            "note": "古勞切。古音在三部。"
+        },
+        {
+            "explanation": "詩曰。鼛𡔷不勝。",
+            "note": "不、二徐同。汲古閣作弗。非也。今類篇、集韵、宋刻說文皆作不。大雅文。今詩不作弗。"
+        }
+    ],
+    "indexes": [
+        "鼛"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 869,
+    "wordhead": "启",
+    "explanation": "開也。从戶从口。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "康禮切",
+    "variants": [],
+    "seal_character": "准",
+    "pinyin": "qi",
+    "pinyin_full": "qǐ",
+    "components": [
+        "口",
+        "戶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "開也。",
+            "note": "按後人用啟字訓開。乃廢启不行矣。啟、敎也。玉篇引堯典。胤子朱启明。釋天。明星謂之启明。"
+        },
+        {
+            "explanation": "从戶口。",
+            "note": "會意。康禮切。十五部。此字不入戶部者。以口戶爲開戶也。"
+        }
+    ],
+    "indexes": [
+        "启"
+    ]
+}

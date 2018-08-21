@@ -1,0 +1,45 @@
+{
+    "id": 9119,
+    "wordhead": "堯",
+    "explanation": "高也。从垚在兀上，高遠也。",
+    "volume": "13",
+    "radical": "垚",
+    "pronunciation": "吾聊切",
+    "variants": [
+        {
+            "wordhead": "𡋰",
+            "explanation": "古文堯。",
+            "seal_character": "瘵"
+        }
+    ],
+    "seal_character": "瘴",
+    "pinyin": "yao",
+    "pinyin_full": "yáo",
+    "components": [
+        "兀",
+        "人",
+        "土",
+        "垚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高也。",
+            "note": "堯本謂高。陶唐氏以爲號。白虎通曰。堯猶嶢嶢。嶢嶢、至高之皃。按焦嶢、山高皃。見山部。堯之言至高也。舜、山海經作俊。俊之言至大也。皆生時臣民所偁之號。非謚也。"
+        },
+        {
+            "explanation": "从垚在兀上。高遠也。",
+            "note": "會意。兀者、高而上平也。高而上平之上又增益之以垚。是其高且遠可知也。吾𦕼切。二部。"
+        },
+        {
+            "explanation": "古文堯。",
+            "note": "此从二土、而二人在其下。小徐本、汗𥳑、古文四聲韵尙不誤。汲古閣乃大誤。"
+        }
+    ],
+    "indexes": [
+        "尧",
+        "堯",
+        "𡋰"
+    ]
+}

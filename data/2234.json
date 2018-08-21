@@ -1,0 +1,31 @@
+{
+    "id": 2234,
+    "wordhead": "翨",
+    "explanation": "鳥之彊羽猛者。从羽是聲。",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "俱豉切",
+    "variants": [],
+    "seal_character": "執",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "是",
+        "羽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥之彊羽猛者。",
+            "note": "按當作猛鳥也彊羽。轉寫誤耳。周禮翨氏。掌攻猛鳥。以時獻其羽翮。此釋周禮。故云猛鳥也。猛鳥羽必彊。故其字从羽。此與赤羽、尾長皆从羽文法正同。大鄭翨讀爲翅翼之翅。以是聲、支聲皆在十六部。翨當卽是翅之奇字。後鄭以經云獻羽翮則訓翨爲鳥翮。是聲、鬲聲亦同十六部也。翮、羽莖。舉翮以該羽。許與二鄭說異。"
+        },
+        {
+            "explanation": "从羽。是聲。",
+            "note": "居豉切。十六部。"
+        }
+    ],
+    "indexes": [
+        "翨"
+    ]
+}

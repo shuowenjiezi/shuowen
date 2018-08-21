@@ -1,0 +1,35 @@
+{
+    "id": 1205,
+    "wordhead": "遽",
+    "explanation": "傳也。一曰窘也。从辵豦聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "其倨切",
+    "variants": [],
+    "seal_character": "卆",
+    "pinyin": "ju",
+    "pinyin_full": "jù",
+    "components": [
+        "豦",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傳也。",
+            "note": "釋言。馹遽傳也。孫炎曰。傳車、驛馬也。左傳僖卅三年。使遽告於鄭。遽興姜戎。昭二年。乘遽而至。傳中戀反。"
+        },
+        {
+            "explanation": "一曰窘也。",
+            "note": "窘迫也。"
+        },
+        {
+            "explanation": "从辵。豦聲。",
+            "note": "其倨切。五部。"
+        }
+    ],
+    "indexes": [
+        "遽"
+    ]
+}

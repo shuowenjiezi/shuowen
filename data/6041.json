@@ -1,0 +1,35 @@
+{
+    "id": 6041,
+    "wordhead": "镻",
+    "explanation": "蛇惡毒長也。从長失聲。",
+    "volume": "09",
+    "radical": "長",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "棗",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "長",
+        "失"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蝁也。",
+            "note": "各本誤。今正。此用釋魚文也。虫部曰。蝁、镻也。二篆爲轉注。今各本镻篆下作虺屬者。非是。"
+        },
+        {
+            "explanation": "蛇毒長。从長。",
+            "note": "說从長之意。郭璞云。蝁者、蝮屬。以上七字。今本作蛇惡毒長也从長七字。甚譌舛。釋文引蛇毒長也。無惡字。亦可證今本之誤。"
+        },
+        {
+            "explanation": "失聲。",
+            "note": "徒結切。十二部。"
+        }
+    ],
+    "indexes": [
+        "镻"
+    ]
+}

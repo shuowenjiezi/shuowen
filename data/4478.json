@@ -1,0 +1,32 @@
+{
+    "id": 4478,
+    "wordhead": "糧",
+    "explanation": "穀也。从米量聲。",
+    "volume": "07",
+    "radical": "米",
+    "pronunciation": "呂張切",
+    "variants": [],
+    "seal_character": "戋",
+    "pinyin": "liang",
+    "pinyin_full": "liánɡ",
+    "components": [
+        "米",
+        "量"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穀食也。",
+            "note": "周禮廩人。凡邦有會同師役之事。則治其糧與其食。鄭云。行道曰糧。按詩云。乃裹餱糧。莊子云。適百里者宿舂糧。適千里者三月聚糧。皆謂行道也。許云穀食。則兼居者行者言。糧本是統名。故不爲分析也。"
+        },
+        {
+            "explanation": "从米。量聲。",
+            "note": "吕張切。十部。亦作粮。"
+        }
+    ],
+    "indexes": [
+        "粮",
+        "糧"
+    ]
+}

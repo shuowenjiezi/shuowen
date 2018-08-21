@@ -1,0 +1,43 @@
+{
+    "id": 1425,
+    "wordhead": "䶵",
+    "explanation": "管樂也。从龠虒聲。",
+    "volume": "02",
+    "radical": "龠",
+    "pronunciation": "直离切",
+    "variants": [
+        {
+            "wordhead": "篪",
+            "explanation": "䶵或从竹。",
+            "seal_character": "吴"
+        }
+    ],
+    "seal_character": "吳",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "虒",
+        "龠",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "管樂也。",
+            "note": "管猶筩也。故龠䶵簫皆曰管樂。鄭司農注周禮云。篪七空。廣雅云八孔。賈公彥引禮圖云九孔。其言多轉寫錯亂。疑不能明也。世本云。暴辛公作塤。蘇成公作篪。譙周云。二人善塤善篪。記者因以爲作。謬矣。按許於壎䶵下皆不引世本。於鐘磬笙簧琴瑟則引之。其匡謬不在允南之前乎。"
+        },
+        {
+            "explanation": "从龠。虒聲。",
+            "note": "直离切。十六部。"
+        },
+        {
+            "explanation": "䶵或从竹。",
+            "note": "樂記又作竾。"
+        }
+    ],
+    "indexes": [
+        "䶵",
+        "篪"
+    ]
+}

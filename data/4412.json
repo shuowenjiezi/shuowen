@@ -1,0 +1,48 @@
+{
+    "id": 4412,
+    "wordhead": "稈",
+    "explanation": "禾莖也。从禾旱聲。《春秋傳》曰：“或投一秉稈。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "古旱切",
+    "variants": [
+        {
+            "wordhead": "秆",
+            "explanation": "稈或从干。",
+            "seal_character": "憿"
+        }
+    ],
+    "seal_character": "憾",
+    "pinyin": "gan",
+    "pinyin_full": "ɡǎn",
+    "components": [
+        "干",
+        "旱",
+        "禾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾莖也。",
+            "note": "謂自根之上至貫於穗者是也。"
+        },
+        {
+            "explanation": "从禾。旱聲。",
+            "note": "古旱切。十四部。"
+        },
+        {
+            "explanation": "春秋傳曰。或投一秉稈。",
+            "note": "昭公卄七年左傳曰。或取一編菅焉。或取一秉秆焉。國人投之。此以二句合爲一句耳。"
+        },
+        {
+            "explanation": "稈或从干作。",
+            "note": "干聲。"
+        }
+    ],
+    "indexes": [
+        "秆",
+        "稈",
+        "秆"
+    ]
+}

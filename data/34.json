@@ -1,0 +1,31 @@
+{
+    "id": 34,
+    "wordhead": "祪",
+    "explanation": "祔、祪，祖也。从示危聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "過委切",
+    "variants": [],
+    "seal_character": "丯",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "示",
+        "危"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祔祪祖也。",
+            "note": "見釋詁。祔謂新廟。祪謂毀廟。皆祖也。說文倂祔字連引之。故次之以祔。"
+        },
+        {
+            "explanation": "从示。危聲。",
+            "note": "過委切。十六部。"
+        }
+    ],
+    "indexes": [
+        "祪"
+    ]
+}

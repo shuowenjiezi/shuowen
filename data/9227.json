@@ -1,0 +1,40 @@
+{
+    "id": 9227,
+    "wordhead": "銑",
+    "explanation": "金之澤者。一曰小鑿。一曰鐘兩角謂之銑。从金先聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "穌典切",
+    "variants": [],
+    "seal_character": "皵",
+    "pinyin": "xian",
+    "pinyin_full": "xiǎn",
+    "components": [
+        "金",
+        "先"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "金之澤者。",
+            "note": "澤者、光潤也。釋器曰。絶澤謂之銑、晉語。玦之以金銑者。寒之甚矣。韋注。銑猶洒也。洒洒、寒皃。言於太子無温潤也。許言其光潤。韋言寒皃。皆謂金之精者耳。似異而非異也。"
+        },
+        {
+            "explanation": "从金。先聲。",
+            "note": "穌典切。古音在十三部。"
+        },
+        {
+            "explanation": "一曰小鑿。",
+            "note": "鑿所以穿木也。"
+        },
+        {
+            "explanation": "一曰鐘下㒳角謂之銑。",
+            "note": "考工記鳧氏曰。兩欒謂之銑。鄭注。銑、鐘口兩角。按古鐘羨而不圜。故有兩角。"
+        }
+    ],
+    "indexes": [
+        "铣",
+        "銑"
+    ]
+}

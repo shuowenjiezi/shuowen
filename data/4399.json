@@ -1,0 +1,32 @@
+{
+    "id": 4399,
+    "wordhead": "穫",
+    "explanation": "刈穀也。从禾蒦聲。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "胡郭切",
+    "variants": [],
+    "seal_character": "憯",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "禾",
+        "蒦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刈穀也。",
+            "note": "穫之言獲也。刈穀者、以銍以鎌。"
+        },
+        {
+            "explanation": "从禾。蒦聲。",
+            "note": "胡郭切。五部。"
+        }
+    ],
+    "indexes": [
+        "获",
+        "穫"
+    ]
+}

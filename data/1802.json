@@ -1,0 +1,42 @@
+{
+    "id": 1802,
+    "wordhead": "鞠",
+    "explanation": "蹋鞠也。从革匊聲。",
+    "volume": "03",
+    "radical": "革",
+    "pronunciation": "居六切",
+    "variants": [
+        {
+            "wordhead": "𩍸",
+            "explanation": "鞠或从𥱩。",
+            "seal_character": "嗮"
+        }
+    ],
+    "seal_character": "嗭",
+    "pinyin": "ju",
+    "pinyin_full": "jū",
+    "components": [
+        "匊",
+        "革"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蹋鞠也。",
+            "note": "劉向別錄曰。蹵鞠者、傳言黃帝所作。或曰。起戰國之時。蹋鞠、兵勢也。所以練武士、知有材也。皆因嬉戲而講練之。漢藝文志兵技巧十三家有蹵𩌽二十五篇。郭樸注三蒼云。毛丸可蹋戲者曰鞠。按鞠居六求六二切。廣韵曰。今通謂之毬子。巨鳩切。古今字也。"
+        },
+        {
+            "explanation": "从革。匊聲。",
+            "note": "三部。"
+        },
+        {
+            "explanation": "鞠或从𥱩。",
+            "note": "𥷚或字。"
+        }
+    ],
+    "indexes": [
+        "鞠",
+        "𩍸"
+    ]
+}

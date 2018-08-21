@@ -1,0 +1,47 @@
+{
+    "id": 7616,
+    "wordhead": "䲔",
+    "explanation": "海大魚也。从魚畺聲。《春秋傳》曰：“取其䲔鯢。”",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "渠京切",
+    "variants": [
+        {
+            "wordhead": "鯨",
+            "explanation": "䲔或从京<span>[<span>𢂋</span>]</span>。",
+            "seal_character": "澠"
+        }
+    ],
+    "seal_character": "澟",
+    "pinyin": "jing",
+    "pinyin_full": "jīnɡ",
+    "components": [
+        "京",
+        "畺",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "海大魚也。",
+            "note": "此海中魚冣大者。字亦作鯨。羽獵賦作京。京、大也。"
+        },
+        {
+            "explanation": "从魚。畺聲。",
+            "note": "渠京切。古音在十部。"
+        },
+        {
+            "explanation": "春秋傳曰。取其䲔鯢。",
+            "note": "宣公十二年左氏傳文。劉淵林注吳都賦、裴淵廣州記皆云。雄曰鯨。雌曰鯢。是此鯢非剌魚也。"
+        },
+        {
+            "explanation": "䲔或从京。",
+            "note": "古京音如姜。"
+        }
+    ],
+    "indexes": [
+        "䲔",
+        "鯨"
+    ]
+}

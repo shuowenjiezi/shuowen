@@ -1,0 +1,39 @@
+{
+    "id": 5780,
+    "wordhead": "匈",
+    "explanation": "聲也。从勹凶聲。",
+    "volume": "09",
+    "radical": "勹",
+    "pronunciation": "許容切",
+    "variants": [
+        {
+            "wordhead": "𦙄",
+            "explanation": "匈或从肉。",
+            "seal_character": "枵"
+        }
+    ],
+    "seal_character": "枴",
+    "pinyin": "xiong",
+    "pinyin_full": "xiōnɡ",
+    "components": [
+        "肉",
+        "勹",
+        "凶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "膺也。",
+            "note": "肉部曰。膺、匈也。二篆爲轉注。膺自其外言之無不當也。匈自其中言之、無不容也。無不容、故从勹。"
+        },
+        {
+            "explanation": "从勹。凶聲。",
+            "note": "許容切。九部。今字胷行而匈廢矣。"
+        }
+    ],
+    "indexes": [
+        "匈",
+        "𦙄"
+    ]
+}

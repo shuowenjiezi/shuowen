@@ -1,0 +1,39 @@
+{
+    "id": 6350,
+    "wordhead": "猵",
+    "explanation": "獺屬。从犬扁聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "布兹切",
+    "variants": [
+        {
+            "wordhead": "獱",
+            "explanation": "或从賓<span>[<span>𡪛</span>]</span>。",
+            "seal_character": "樰"
+        }
+    ],
+    "seal_character": "樯",
+    "pinyin": "bian",
+    "pinyin_full": "biān",
+    "components": [
+        "賓",
+        "扁",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獺屬。",
+            "note": "楊雄蜀都賦作猵。羽獵賦、江賦作獱。郭樸三蒼解詁云。獱似狐。靑色。居水中。食魚。"
+        },
+        {
+            "explanation": "从犬。扁聲。",
+            "note": "布玄切。十二部。按易翩與鄰韵。服䖍獱音賓。李善獱音頻。古扁聲賓聲同在十二部也。今韵乃猵入先、獱入眞矣。"
+        }
+    ],
+    "indexes": [
+        "猵",
+        "獱"
+    ]
+}

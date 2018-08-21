@@ -1,0 +1,39 @@
+{
+    "id": 2133,
+    "wordhead": "睹",
+    "explanation": "見也。从目者聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "當古切",
+    "variants": [
+        {
+            "wordhead": "覩",
+            "explanation": "古文从見。",
+            "seal_character": "垈"
+        }
+    ],
+    "seal_character": "垇",
+    "pinyin": "du",
+    "pinyin_full": "dǔ",
+    "components": [
+        "目",
+        "見",
+        "者"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "見也。从目。者聲。",
+            "note": "當古切。五部。"
+        },
+        {
+            "explanation": "古文从見。",
+            "note": "按篇、韵皆不言覩爲古文。"
+        }
+    ],
+    "indexes": [
+        "睹",
+        "覩"
+    ]
+}

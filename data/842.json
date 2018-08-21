@@ -1,0 +1,32 @@
+{
+    "id": 842,
+    "wordhead": "問",
+    "explanation": "訊也。从口門聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "亡運切",
+    "variants": [],
+    "seal_character": "冩",
+    "pinyin": "wen",
+    "pinyin_full": "wèn",
+    "components": [
+        "口",
+        "門"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "訊也。",
+            "note": "言部曰。訊、問也。引伸爲禮之聘問。"
+        },
+        {
+            "explanation": "从口。門聲。",
+            "note": "亾運切。十三部。"
+        }
+    ],
+    "indexes": [
+        "问",
+        "問"
+    ]
+}

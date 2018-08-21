@@ -1,0 +1,31 @@
+{
+    "id": 824,
+    "wordhead": "喘",
+    "explanation": "疾息也。从口耑聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "昌沇切",
+    "variants": [],
+    "seal_character": "冓",
+    "pinyin": "chuan",
+    "pinyin_full": "chuǎn",
+    "components": [
+        "口",
+        "耑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "疾息也。",
+            "note": "此分別言之。息下曰。喘也。渾言之也。"
+        },
+        {
+            "explanation": "从口。耑聲。",
+            "note": "昌沇切。十四部。"
+        }
+    ],
+    "indexes": [
+        "喘"
+    ]
+}

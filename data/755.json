@@ -1,0 +1,31 @@
+{
+    "id": 755,
+    "wordhead": "牿",
+    "explanation": "牛馬牢也。从牛告聲。《周書》曰：“今惟牿牛馬。”",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "古屋切",
+    "variants": [],
+    "seal_character": "先",
+    "pinyin": "gu",
+    "pinyin_full": "ɡù",
+    "components": [
+        "告",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛馬牢也。从牛。告聲。",
+            "note": "古屋切。三部。"
+        },
+        {
+            "explanation": "周書曰。今惟牿牛馬。",
+            "note": "粊誓。今惟淫舍牿牛馬。大小徐本皆無淫舍二字。今刊本𡚶增之。此許偶遺二字。非必許所據尙書少二字也。惟大放牿牢之牛馬。故令無以擭穽傷牛馬。若牛馬在牢中。擭穽安得傷之。周易。僮牛之牿。許及九家作告。鄭作梏。劉、陸作角。不訓牢也。"
+        }
+    ],
+    "indexes": [
+        "牿"
+    ]
+}

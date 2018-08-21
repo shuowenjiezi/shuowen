@@ -1,0 +1,31 @@
+{
+    "id": 1152,
+    "wordhead": "逗",
+    "explanation": "止也。从辵豆聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "田候切",
+    "variants": [],
+    "seal_character": "包",
+    "pinyin": "dou",
+    "pinyin_full": "dòu",
+    "components": [
+        "辵",
+        "豆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "止也。",
+            "note": "逗遛。"
+        },
+        {
+            "explanation": "从辵。豆聲。",
+            "note": "田𠋫切。四部。"
+        }
+    ],
+    "indexes": [
+        "逗"
+    ]
+}

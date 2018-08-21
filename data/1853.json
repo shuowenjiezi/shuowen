@@ -1,0 +1,44 @@
+{
+    "id": 1853,
+    "wordhead": "鬴",
+    "explanation": "鍑屬。从鬲甫聲。",
+    "volume": "03",
+    "radical": "鬲",
+    "pronunciation": "扶雨切",
+    "variants": [
+        {
+            "wordhead": "𨥏",
+            "explanation": "鬴或从金父聲。",
+            "seal_character": "嘬"
+        }
+    ],
+    "seal_character": "嘫",
+    "pinyin": "fu",
+    "pinyin_full": "fǔ",
+    "components": [
+        "甫",
+        "鬲",
+        "金",
+        "父"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鍑屬也。",
+            "note": "𦫵四曰豆。豆四曰區。區四曰鬴。"
+        },
+        {
+            "explanation": "从鬲。甫聲。",
+            "note": "扶雨切。五部。"
+        },
+        {
+            "explanation": "鬴或从金。父聲。",
+            "note": "今經典多作釜。惟周禮作鬴。"
+        }
+    ],
+    "indexes": [
+        "鬴",
+        "𨥏"
+    ]
+}

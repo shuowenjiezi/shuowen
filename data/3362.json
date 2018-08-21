@@ -1,0 +1,43 @@
+{
+    "id": 3362,
+    "wordhead": "舛",
+    "explanation": "對臥也。从夊𡕒相背。凡舛之屬皆从舛。",
+    "volume": "05",
+    "radical": "舛",
+    "pronunciation": "昌兖切",
+    "variants": [
+        {
+            "wordhead": "𨅱",
+            "explanation": "楊雄說：舛从足、春<span>[<span>萅</span>]</span>。",
+            "seal_character": "崶"
+        }
+    ],
+    "seal_character": "崵",
+    "pinyin": "chuan",
+    "pinyin_full": "chuǎn",
+    "components": [
+        "夊",
+        "足",
+        "春"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "對臥也。",
+            "note": "謂人與人相對而休也。引伸之足與足相抵而臥亦曰舛。其字亦作僢。王制注釋交趾云浴則同川臥則僢足是也。又引伸之凡足相抵皆曰僢。典瑞兩圭有邸注云僢而同本是也。淮南書及周禮注多用僢字。"
+        },
+        {
+            "explanation": "从夊𡕒相背。",
+            "note": "相背猶相對也。昌兖切。古音在十三部。"
+        },
+        {
+            "explanation": "楊雄作舛从足萅。",
+            "note": "春聲也。李善注魏都賦引司馬彪莊子注曰。踳讀曰舛。舛、乖也。按司馬意舛踳各字而合之。楊許則云踳爲舛之或也。葢訓繤篇如此作。諸家多用踳駮、謂譌舛也。"
+        }
+    ],
+    "indexes": [
+        "舛",
+        "𨅱"
+    ]
+}

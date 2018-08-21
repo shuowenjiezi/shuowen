@@ -1,0 +1,35 @@
+{
+    "id": 6908,
+    "wordhead": "恐",
+    "explanation": "懼也。从心𢀜聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "丘隴切",
+    "variants": [
+        {
+            "wordhead": "𢖶",
+            "explanation": "古文。",
+            "seal_character": "沛"
+        }
+    ],
+    "seal_character": "沚",
+    "pinyin": "kong",
+    "pinyin_full": "kǒnɡ",
+    "components": [
+        "工",
+        "心",
+        "巩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "懼也。从心。𢀜聲。",
+            "note": "丘隴切。九部。"
+        }
+    ],
+    "indexes": [
+        "恐",
+        "𢖶"
+    ]
+}

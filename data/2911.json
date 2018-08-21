@@ -1,0 +1,31 @@
+{
+    "id": 2911,
+    "wordhead": "笥",
+    "explanation": "飯及衣之器也。从竹司聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "相吏切",
+    "variants": [],
+    "seal_character": "嬇",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "司",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "从竹。",
+            "note": "大射儀曰。小射正奉決拾以笥。注。笥、萑葦器。按此葢笥之小者也。大者以竹爲之。"
+        },
+        {
+            "explanation": "司聲。",
+            "note": "相吏切。一部。"
+        }
+    ],
+    "indexes": [
+        "笥"
+    ]
+}

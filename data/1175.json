@@ -1,0 +1,31 @@
+{
+    "id": 1175,
+    "wordhead": "逃",
+    "explanation": "亾也。从辵兆聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒刀切",
+    "variants": [],
+    "seal_character": "匢",
+    "pinyin": "tao",
+    "pinyin_full": "táo",
+    "components": [
+        "兆",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亡也。",
+            "note": "亡逃互訓。"
+        },
+        {
+            "explanation": "从辵。兆聲。",
+            "note": "徒刀切。二部。"
+        }
+    ],
+    "indexes": [
+        "逃"
+    ]
+}

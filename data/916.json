@@ -1,0 +1,39 @@
+{
+    "id": 916,
+    "wordhead": "唸",
+    "explanation": "㕧也。从口念聲。《詩》曰：“民之方唸㕧。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "都見切",
+    "variants": [],
+    "seal_character": "凸",
+    "pinyin": "dian",
+    "pinyin_full": "diàn",
+    "components": [
+        "口",
+        "念"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "唸吚、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "呻也。",
+            "note": "今本無唸者、淺人以爲複字而刪之。無呻者、淺人所改也。今依全書通例補正。"
+        },
+        {
+            "explanation": "从口。念聲。",
+            "note": "都見切。古音在七部。郭音坫。今切都見者、因詩作殿也。"
+        },
+        {
+            "explanation": "詩曰。民之方唸吚。",
+            "note": "大雅文。今作殿屎。"
+        }
+    ],
+    "indexes": [
+        "唸"
+    ]
+}

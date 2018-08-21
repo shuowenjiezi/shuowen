@@ -1,0 +1,35 @@
+{
+    "id": 2350,
+    "wordhead": "羼",
+    "explanation": "羊相厠也。从羴在尸下。尸，屋也。一曰相出前也。",
+    "volume": "04",
+    "radical": "羴",
+    "pronunciation": "初限切",
+    "variants": [],
+    "seal_character": "塽",
+    "pinyin": "chan",
+    "pinyin_full": "chàn",
+    "components": [
+        "尸",
+        "羴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羊相廁也。",
+            "note": "釋名曰。廁、襍也。"
+        },
+        {
+            "explanation": "从羴在尸下。尸、屋也。",
+            "note": "尸者、屋之省。此說从尸之意。初限切。十四部。"
+        },
+        {
+            "explanation": "一曰相出前也。",
+            "note": "相廁者襍廁而居。相出前者、突出居前也。顏氏家訓曰。典籍錯亂。皆由後人所羼。此相出前引伸之義。"
+        }
+    ],
+    "indexes": [
+        "羼"
+    ]
+}

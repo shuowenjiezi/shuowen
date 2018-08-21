@@ -1,0 +1,43 @@
+{
+    "id": 1765,
+    "wordhead": "𠬜",
+    "explanation": "引也。从反廾。凡𠬜之屬皆从𠬜。(今變隸作大。)",
+    "volume": "03",
+    "radical": "𠬜",
+    "pronunciation": "普班切",
+    "variants": [
+        {
+            "wordhead": "𢸅",
+            "explanation": "𡴂或从手从樊。",
+            "seal_character": "喻"
+        }
+    ],
+    "seal_character": "喺",
+    "pinyin": "pan",
+    "pinyin_full": "pān",
+    "components": [
+        "又",
+        "手",
+        "樊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "引也。",
+            "note": "上林賦。仰𠬜橑而椚天。晉灼曰。𠬜古攀字。按今字皆用攀則𠬜爲古字。𠬜亦小篆也。"
+        },
+        {
+            "explanation": "从反𠬞。",
+            "note": "象引物於外。普班切。十四部。"
+        },
+        {
+            "explanation": "𠬜或从手从樊。",
+            "note": "樊聲也。今作攀。公羊傳作扳。"
+        }
+    ],
+    "indexes": [
+        "𠬜",
+        "𢸅"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 581,
+    "wordhead": "藉",
+    "explanation": "祭藉也。一曰艸不編，狼藉。从艸耤聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "慈夜切",
+    "variants": [],
+    "seal_character": "傆",
+    "pinyin": "jie",
+    "pinyin_full": "jiè",
+    "components": [
+        "艸",
+        "耤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祭藉也。",
+            "note": "稭字下禾？去其皮。祭天以爲藉也。引伸爲凡承藉、蘊藉之義。又爲假藉之義。"
+        },
+        {
+            "explanation": "一曰艸不編。狼藉。",
+            "note": "此別一義。"
+        },
+        {
+            "explanation": "从艸。耤聲。",
+            "note": "慈夜秦昔二切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "藉"
+    ]
+}

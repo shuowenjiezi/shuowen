@@ -1,0 +1,35 @@
+{
+    "id": 1760,
+    "wordhead": "戒",
+    "explanation": "警也。从廾持戈，以戒不虞。",
+    "volume": "03",
+    "radical": "𠬞",
+    "pronunciation": "居拜切",
+    "variants": [],
+    "seal_character": "喳",
+    "pinyin": "jie",
+    "pinyin_full": "jiè",
+    "components": [
+        "収",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "警也。",
+            "note": "言部曰警、戒也。"
+        },
+        {
+            "explanation": "从廾戈。",
+            "note": "會意。居拜切。十五部。"
+        },
+        {
+            "explanation": "持戈以戒不虞。",
+            "note": "說從戈之意。"
+        }
+    ],
+    "indexes": [
+        "戒"
+    ]
+}

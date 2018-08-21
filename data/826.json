@@ -1,0 +1,31 @@
+{
+    "id": 826,
+    "wordhead": "吸",
+    "explanation": "内息也。从口及聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "許及切",
+    "variants": [],
+    "seal_character": "冕",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "口",
+        "及"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "內息也。",
+            "note": "內息、納其息也。"
+        },
+        {
+            "explanation": "从口。及聲。",
+            "note": "許及切。七部。"
+        }
+    ],
+    "indexes": [
+        "吸"
+    ]
+}

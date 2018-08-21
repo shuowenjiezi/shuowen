@@ -1,0 +1,50 @@
+{
+    "id": 1519,
+    "wordhead": "信",
+    "explanation": "誠也。从人从言。會意。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "息晉切",
+    "variants": [
+        {
+            "wordhead": "㐰",
+            "explanation": "古文从言省。",
+            "seal_character": "咣"
+        },
+        {
+            "wordhead": "訫",
+            "explanation": "古文信。",
+            "seal_character": "咤"
+        }
+    ],
+    "seal_character": "咢",
+    "pinyin": "xin",
+    "pinyin_full": "xìn",
+    "components": [
+        "人",
+        "口",
+        "言",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "誠也。",
+            "note": "釋詁。誠、信也。"
+        },
+        {
+            "explanation": "从人言。",
+            "note": "序說會意曰信武是也。人言則無不信者。故从人言。息晉切。十二部。古多以爲屈伸之伸。"
+        },
+        {
+            "explanation": "古文信。",
+            "note": "言必由衷之意。"
+        }
+    ],
+    "indexes": [
+        "信",
+        "㐰",
+        "訫"
+    ]
+}

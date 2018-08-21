@@ -1,0 +1,31 @@
+{
+    "id": 123,
+    "wordhead": "玦",
+    "explanation": "玉佩也。从玉夬聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "古穴切",
+    "variants": [],
+    "seal_character": "亘",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "玉",
+        "夬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉佩也。",
+            "note": "九歌注曰。玦、玉佩也。先王所以命臣之瑞。故與環卽還、與玦卽去也。白虎通曰。君子能決斷則佩玦。韋昭曰。玦如環而缺。"
+        },
+        {
+            "explanation": "从王。夬聲。",
+            "note": "古穴切。古音在十五部。"
+        }
+    ],
+    "indexes": [
+        "玦"
+    ]
+}

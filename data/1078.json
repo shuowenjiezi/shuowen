@@ -1,0 +1,43 @@
+{
+    "id": 1078,
+    "wordhead": "登",
+    "explanation": "上車也。从癶、豆。象登車形。",
+    "volume": "02",
+    "radical": "癶",
+    "pronunciation": "都滕切",
+    "variants": [
+        {
+            "wordhead": "𧰍",
+            "explanation": "籒文登从𠬞。",
+            "seal_character": "劦"
+        }
+    ],
+    "seal_character": "劥",
+    "pinyin": "deng",
+    "pinyin_full": "dēnɡ",
+    "components": [
+        "癶",
+        "豆",
+        "収"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "上車也。",
+            "note": "引伸之凡上陞曰登。"
+        },
+        {
+            "explanation": "从癶豆。象登車形。",
+            "note": "都滕切。六部。"
+        },
+        {
+            "explanation": "籒文登。从𠬞。",
+            "note": "按籒文省𢍪之肉。小篆併肉𠬞省之。"
+        }
+    ],
+    "indexes": [
+        "登",
+        "𧰍"
+    ]
+}

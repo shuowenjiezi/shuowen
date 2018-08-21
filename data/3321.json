@@ -1,0 +1,51 @@
+{
+    "id": 3321,
+    "wordhead": "𪉷",
+    "explanation": "長味也。从𣆪，鹹省聲。《詩》曰：“實覃實吁。”",
+    "volume": "05",
+    "radical": "㫗",
+    "pronunciation": "徒含切",
+    "variants": [
+        {
+            "wordhead": "𪉙",
+            "explanation": "古文覃<span>[<span>𪉷</span>]</span>。",
+            "seal_character": "峾"
+        },
+        {
+            "wordhead": "覃",
+            "explanation": "篆文覃<span>[<span>𪉷</span>]</span>省。",
+            "seal_character": "峿"
+        }
+    ],
+    "seal_character": "峽",
+    "pinyin": "tan",
+    "pinyin_full": "tán",
+    "components": [
+        "鹹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "長味也。",
+            "note": "此與酉部醰音同義近。醰以覃會意也。引伸之凡長皆曰覃。葛覃傳曰。覃、延也。凡言覃及、覃思義皆同。經典葛覃字亦假蕈爲之。"
+        },
+        {
+            "explanation": "从𣆪。鹹省聲。",
+            "note": "當作鹹省、鹹亦聲。以从鹹故知字本義爲味長也。徒含切。古音在七部。"
+        },
+        {
+            "explanation": "詩曰。實覃實吁。",
+            "note": "大雅文。傳曰。覃、長也。訏、大也。許作吁、疑轉寫誤。"
+        },
+        {
+            "explanation": "篆文覃省。",
+            "note": "今𣜩本此。以古？、篆？推之。則？乃籒也。先籒後篆者、丄部之例也。"
+        }
+    ],
+    "indexes": [
+        "𪉷",
+        "𪉙",
+        "覃"
+    ]
+}

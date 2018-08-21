@@ -1,0 +1,43 @@
+{
+    "id": 4568,
+    "wordhead": "容",
+    "explanation": "盛也。从宀、谷。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "余封切",
+    "variants": [
+        {
+            "wordhead": "𠕺",
+            "explanation": "古文容从公。",
+            "seal_character": "扵"
+        }
+    ],
+    "seal_character": "扴",
+    "pinyin": "rong",
+    "pinyin_full": "rónɡ",
+    "components": [
+        "谷",
+        "宀",
+        "公"
+    ],
+    "xuan_note": "臣鉉等曰：屋與谷皆所以盛受也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盛也。",
+            "note": "今字叚借爲頌皃之頌。"
+        },
+        {
+            "explanation": "从宀。谷聲。",
+            "note": "此依小徐本。谷古音讀如欲。以雙聲？聲也。鉉本作从宀谷。云屋與谷皆所以盛受也。亦通。余封切。九部。"
+        },
+        {
+            "explanation": "古文容。从公。",
+            "note": "公聲。"
+        }
+    ],
+    "indexes": [
+        "容",
+        "𠕺"
+    ]
+}

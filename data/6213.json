@@ -1,0 +1,42 @@
+{
+    "id": 6213,
+    "wordhead": "驘",
+    "explanation": "驢父馬母。从馬𦝠聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "洛戈切",
+    "variants": [
+        {
+            "wordhead": "𩧣",
+            "explanation": "或从羸<span>[<span>𦏞</span>]</span>。",
+            "seal_character": "榘"
+        }
+    ],
+    "seal_character": "榗",
+    "pinyin": "luo",
+    "pinyin_full": "luó",
+    "components": [
+        "馬",
+        "羸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驢父馬母者也。",
+            "note": "者字今補。崔豹曰。驢爲牡。馬爲牝。卽生騾。馬爲牡。驢爲牝。生駏驉。抱朴子曰。世不信騾乃驢馬所生。云各自有種。況乎仙者難知之事哉。"
+        },
+        {
+            "explanation": "从馬。𦟀聲。",
+            "note": "洛戈切。十七部。今字作騾。"
+        },
+        {
+            "explanation": "或从𦏞。",
+            "note": "𦏞亦𦟀聲也。"
+        }
+    ],
+    "indexes": [
+        "驘",
+        "𩧣"
+    ]
+}

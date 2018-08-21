@@ -1,0 +1,44 @@
+{
+    "id": 7771,
+    "wordhead": "聞",
+    "explanation": "知聞也。从耳門聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "無分切",
+    "variants": [
+        {
+            "wordhead": "䎽",
+            "explanation": "古文从昏。",
+            "seal_character": "灋"
+        }
+    ],
+    "seal_character": "灊",
+    "pinyin": "wen",
+    "pinyin_full": "wén",
+    "components": [
+        "門",
+        "耳",
+        "昏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "知聲也。",
+            "note": "往曰聽。來曰聞。大學曰。心不在焉。聽而不聞。引申之爲令聞廣譽。"
+        },
+        {
+            "explanation": "从耳。門聲。",
+            "note": "無分切。十二部。"
+        },
+        {
+            "explanation": "古文从昏。",
+            "note": "昏聲。"
+        }
+    ],
+    "indexes": [
+        "闻",
+        "聞",
+        "䎽"
+    ]
+}

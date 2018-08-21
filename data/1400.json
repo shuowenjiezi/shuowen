@@ -1,0 +1,39 @@
+{
+    "id": 1400,
+    "wordhead": "躧",
+    "explanation": "舞履也。从足麗聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "所綺切",
+    "variants": [
+        {
+            "wordhead": "𩎉",
+            "explanation": "或从革。",
+            "seal_character": "吙"
+        }
+    ],
+    "seal_character": "吘",
+    "pinyin": "xi",
+    "pinyin_full": "xǐ",
+    "components": [
+        "麗",
+        "革",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舞履也。",
+            "note": "鄭注周禮曰。鞮屨、四夷舞者屝也。史記貨殖傳。躡利屣。徐廣曰。舞屣也。躡一作跕。跕吐協反。地理志。跕躧。臣瓚曰。躡跟爲跕。按舞不納履。故凡不著跟、曳之而行曰躧履。如雋不疑傳、長門賦皆是也。西京賦說舞曰。振朱屣於盤樽。薛曰。朱屣、赤絲履也。"
+        },
+        {
+            "explanation": "从足。麗聲。",
+            "note": "所綺切。十六部。"
+        }
+    ],
+    "indexes": [
+        "躧",
+        "𩎉"
+    ]
+}

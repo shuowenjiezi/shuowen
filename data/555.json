@@ -1,0 +1,35 @@
+{
+    "id": 555,
+    "wordhead": "菸",
+    "explanation": "鬱也。从艸於聲。一曰𣨙也。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "央居切",
+    "variants": [],
+    "seal_character": "偪",
+    "pinyin": "yu",
+    "pinyin_full": "yū",
+    "components": [
+        "艸",
+        "於"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩰪也。",
+            "note": "𩰪各本作鬱。誤。蔫菸𩰪三字雙聲。𩰪者如釀𩰪也。王風。中谷有蓷。暵其乾矣。毛曰。暵、菸皃。陸艸生於谷中。傷於水。玉裁按。暵卽蔫字之假借。故旣云暵其乾。又云暵其溼。乾溼文互相足。"
+        },
+        {
+            "explanation": "从艸。於聲。",
+            "note": "央居切。五部。"
+        },
+        {
+            "explanation": "一曰𣨙也。",
+            "note": "𣨙、病也。菸𣨙雙聲。九辯曰。葉菸邑而無色。按？𣨙二義互相足。"
+        }
+    ],
+    "indexes": [
+        "菸"
+    ]
+}

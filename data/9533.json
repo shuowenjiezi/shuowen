@@ -1,0 +1,32 @@
+{
+    "id": 9533,
+    "wordhead": "轢",
+    "explanation": "車所踐也。从車樂聲。",
+    "volume": "14",
+    "radical": "車",
+    "pronunciation": "郎擊切",
+    "variants": [],
+    "seal_character": "矼",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "樂",
+        "車"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "車所踐也。",
+            "note": "踐者、𡳐也。軷下曰轢牲而行是也。"
+        },
+        {
+            "explanation": "从車。樂聲。",
+            "note": "歷各切。宋本如此。郎擊切。今本如此。古音在二部。"
+        }
+    ],
+    "indexes": [
+        "轹",
+        "轢"
+    ]
+}

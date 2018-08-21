@@ -1,0 +1,31 @@
+{
+    "id": 5931,
+    "wordhead": "㢈",
+    "explanation": "屋从上傾下也。从广隹聲。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "都回切",
+    "variants": [],
+    "seal_character": "桜",
+    "pinyin": "tui",
+    "pinyin_full": "tuí",
+    "components": [
+        "隹",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "屋从上傾下也。",
+            "note": "㢈之下推也。"
+        },
+        {
+            "explanation": "从广。隹聲。",
+            "note": "都回切。十五部。"
+        }
+    ],
+    "indexes": [
+        "㢈"
+    ]
+}

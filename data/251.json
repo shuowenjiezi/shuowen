@@ -1,0 +1,44 @@
+{
+    "id": 251,
+    "wordhead": "蓈",
+    "explanation": "禾粟之𥝩，生而不成者，謂之蕫蓈。从艸郎聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "魯當切",
+    "variants": [
+        {
+            "wordhead": "稂",
+            "explanation": "蓈或从禾。",
+            "seal_character": "伪"
+        }
+    ],
+    "seal_character": "伩",
+    "pinyin": "lang",
+    "pinyin_full": "lánɡ",
+    "components": [
+        "良",
+        "艸",
+        "郎",
+        "禾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾粟之莠生而不成者。謂之童蓈。",
+            "note": "莠各本作𥝩。鍇音穗。童各本作蕫。今依詩、爾雅音義。生而不成、謂不成莠也。不成謂之童蓈。已成謂之莠。此蓈莠二字連屬之義。云禾。粟之莠者、惡其類禾而別之也。小雅曰。不稂不莠。爾雅、毛傳皆曰。稂、童粱也。童粱卽童蓈。陸璣疏云。禾莠爲穗而不成。崱嶷然謂之童粱。今本莠作秀。誤。"
+        },
+        {
+            "explanation": "从艸。郞聲。",
+            "note": "魯當切。十部。"
+        },
+        {
+            "explanation": "蓈或从禾。",
+            "note": "今詩、爾雅皆作此字。非禾而從禾。非孔子惡莠意。"
+        }
+    ],
+    "indexes": [
+        "蓈",
+        "稂"
+    ]
+}

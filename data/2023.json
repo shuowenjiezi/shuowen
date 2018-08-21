@@ -1,0 +1,35 @@
+{
+    "id": 2023,
+    "wordhead": "敓",
+    "explanation": "彊取也。《周書》曰：“敓攘矯虔。”从攴兌聲。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "徒活切",
+    "variants": [],
+    "seal_character": "圊",
+    "pinyin": "duo",
+    "pinyin_full": "duó",
+    "components": [
+        "兌",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "彊取也。",
+            "note": "此是爭敓正字。後人假𡙜爲敓。奪行而敓廢矣。"
+        },
+        {
+            "explanation": "周書曰。敓攘矯虔。",
+            "note": "吕㓝篇文。今尙書作奪。此唐天寶衞包所改。凡尙書之字。有古文家改壁中相沿已久者。有衞包肊改者。皆可分別考而知之。詳見古文尙書撰異。唐人尙用敓字。陸宣公集有敓𣀮是也。"
+        },
+        {
+            "explanation": "从攴。兌聲。",
+            "note": "徒活切。十五部。"
+        }
+    ],
+    "indexes": [
+        "敓"
+    ]
+}

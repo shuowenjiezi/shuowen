@@ -1,0 +1,36 @@
+{
+    "id": 522,
+    "wordhead": "䓄",
+    "explanation": "艸多皃。从艸㹞聲。江夏平春有䓄亭。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "語斤切",
+    "variants": [],
+    "seal_character": "偉",
+    "pinyin": "yin",
+    "pinyin_full": "yín",
+    "components": [
+        "（",
+        "）",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸多皃。从艸。㹞聲。",
+            "note": "語斤切。十三部。"
+        },
+        {
+            "explanation": "江夏平春",
+            "note": "見郡國志。"
+        },
+        {
+            "explanation": "有䓄亭。",
+            "note": "凡云有某亭有某縣者、皆證其字形。不必名縣名亭取字義也。今說文艸部末有？篆。訓釋十四字全同。此因䓄誤爲？。或𡚶附之部末也。"
+        }
+    ],
+    "indexes": [
+        "䓄"
+    ]
+}

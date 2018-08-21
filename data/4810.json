@@ -1,0 +1,44 @@
+{
+    "id": 4810,
+    "wordhead": "罬",
+    "explanation": "捕鳥覆車也。从网叕聲。",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "陟劣切",
+    "variants": [
+        {
+            "wordhead": "輟",
+            "explanation": "罬或从車。",
+            "seal_character": "掅"
+        }
+    ],
+    "seal_character": "掄",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "車",
+        "叕",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捕鳥覆車也。",
+            "note": "釋器曰。繴謂之罿。罿、罬也。罬謂之罦。罦、覆車也。郭云。今之翻車也。有兩轅。中施？。以捕鳥。展轉相解。廣異語。按又見糸部。"
+        },
+        {
+            "explanation": "从网。叕聲。",
+            "note": "陟劣切。十五部。"
+        },
+        {
+            "explanation": "罬或从車作。",
+            "note": "按車部有輟篆。義殊。"
+        }
+    ],
+    "indexes": [
+        "罬",
+        "輟",
+        "辍"
+    ]
+}

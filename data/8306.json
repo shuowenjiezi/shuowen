@@ -1,0 +1,44 @@
+{
+    "id": 8306,
+    "wordhead": "姦",
+    "explanation": "私也。从三女。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "古顔切",
+    "variants": [
+        {
+            "wordhead": "𢙶",
+            "explanation": "古文姦从心旱聲。",
+            "seal_character": "犆"
+        }
+    ],
+    "seal_character": "犅",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "旱",
+        "女",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "厶也。",
+            "note": "厶下曰。姦衺也。二篆爲轉注。引申爲凡姦宄之偁。俗作姧。其後竟用奸字。"
+        },
+        {
+            "explanation": "从三女。",
+            "note": "三女爲？亦三女爲姦。是以君子遠色而貴德。古顏切。十四部。"
+        },
+        {
+            "explanation": "古文姦。从旱心。",
+            "note": "大徐作从心、旱聲。"
+        }
+    ],
+    "indexes": [
+        "奸",
+        "姦",
+        "𢙶"
+    ]
+}

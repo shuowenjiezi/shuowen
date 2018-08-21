@@ -1,0 +1,31 @@
+{
+    "id": 7601,
+    "wordhead": "䲐",
+    "explanation": "魚名。出樂浪潘國。从魚虜聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "郎古切",
+    "variants": [],
+    "seal_character": "澏",
+    "pinyin": "lu",
+    "pinyin_full": "lǔ",
+    "components": [
+        "魚",
+        "虜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䲐魚也。出樂浪潘國。",
+            "note": "樂音洛。浪音郎。樂浪潘國眞番也。番音潘。"
+        },
+        {
+            "explanation": "从魚。虜聲。",
+            "note": "郎古切。五部。"
+        }
+    ],
+    "indexes": [
+        "䲐"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2538,
+    "wordhead": "㱙",
+    "explanation": "腐也。从歺丂聲。",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "許久切",
+    "variants": [
+        {
+            "wordhead": "朽",
+            "explanation": "㱙或从木。",
+            "seal_character": "奢"
+        }
+    ],
+    "seal_character": "奡",
+    "pinyin": "xiu",
+    "pinyin_full": "xiǔ",
+    "components": [
+        "木",
+        "歺",
+        "丂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "腐也。",
+            "note": "肉部曰。腐、爛也。今字用朽而㱙廢矣。"
+        },
+        {
+            "explanation": "从𣦵。丂聲。",
+            "note": "許久切。三部。"
+        }
+    ],
+    "indexes": [
+        "㱙",
+        "朽"
+    ]
+}

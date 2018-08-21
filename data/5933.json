@@ -1,0 +1,31 @@
+{
+    "id": 5933,
+    "wordhead": "庮",
+    "explanation": "久屋朽木。从广酉聲。《周禮》曰：“牛夜鳴則𢉷。”臭如朽木。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "與久切",
+    "variants": [],
+    "seal_character": "桞",
+    "pinyin": "you",
+    "pinyin_full": "yǒu",
+    "components": [
+        "酉",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "久屋朽木。",
+            "note": "朽同㱙。見歹部。周禮內饔。牛夜鳴則庮。先鄭云。庮、朽木臭也。內則鄭注云。庮、惡臭也。引春秋傳一薰一庮。許說同先鄭。久屋而後有朽木。故字从广。"
+        },
+        {
+            "explanation": "从广。酉聲。",
+            "note": "與久切。三部。"
+        }
+    ],
+    "indexes": [
+        "庮"
+    ]
+}

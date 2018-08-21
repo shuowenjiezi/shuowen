@@ -1,0 +1,35 @@
+{
+    "id": 3810,
+    "wordhead": "棺",
+    "explanation": "關也。所以掩尸。从木官聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "古丸切",
+    "variants": [],
+    "seal_character": "弦",
+    "pinyin": "guan",
+    "pinyin_full": "ɡuān",
+    "components": [
+        "木",
+        "官"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "關也。",
+            "note": "以㬪韵爲訓。門聞、戸護之例也。"
+        },
+        {
+            "explanation": "所㠯掩屍。",
+            "note": "屍各本作尸。誤。今正。釋名曰。棺、關也。關、閉也。"
+        },
+        {
+            "explanation": "從木。官聲。",
+            "note": "古丸切。十四部。"
+        }
+    ],
+    "indexes": [
+        "棺"
+    ]
+}

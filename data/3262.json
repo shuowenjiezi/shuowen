@@ -1,0 +1,52 @@
+{
+    "id": 3262,
+    "wordhead": "倉",
+    "explanation": "榖藏也。倉黃取而藏之，故謂之倉。从食省，口象倉形。凡倉之屬皆从倉。",
+    "volume": "05",
+    "radical": "倉",
+    "pronunciation": "七岡切",
+    "variants": [
+        {
+            "wordhead": "仺",
+            "explanation": "奇字倉。",
+            "seal_character": "岷"
+        }
+    ],
+    "seal_character": "岶",
+    "pinyin": "cang",
+    "pinyin_full": "cānɡ",
+    "components": [
+        "口",
+        "倉",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穀藏也。",
+            "note": "藏當作臧。臧、善也。引伸之義、善而存之亦曰臧。臧之之府亦曰臧。俗皆作藏。分平去二音。榖臧者、謂榖所臧之處也。广部曰。府、文書藏。庫、兵車藏。廥、芻稾藏。今音皆徂浪切。"
+        },
+        {
+            "explanation": "蒼黃取而臧之。",
+            "note": "蒼、舊作倉。今正。蒼黃者、匆遽之意。刈穫貴速也。"
+        },
+        {
+            "explanation": "故謂之倉。",
+            "note": "蒼倉㬪韵。"
+        },
+        {
+            "explanation": "从𠊊省。口象倉形。",
+            "note": "七岡切。十部。"
+        },
+        {
+            "explanation": "奇字倉。",
+            "note": "葢从古文巨。"
+        }
+    ],
+    "indexes": [
+        "仓",
+        "倉",
+        "仺"
+    ]
+}

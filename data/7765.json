@@ -1,0 +1,36 @@
+{
+    "id": 7765,
+    "wordhead": "聽",
+    "explanation": "聆也。从耳、㥁，壬聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "他定切",
+    "variants": [],
+    "seal_character": "灄",
+    "pinyin": "ting",
+    "pinyin_full": "tīnɡ",
+    "components": [
+        "耳",
+        "壬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聆也。",
+            "note": "凡目所及者云視。如視朝、視事是也。凡目不能徧而耳所及者云聽。如聽天下、聽事是也。"
+        },
+        {
+            "explanation": "从耳𢛳。",
+            "note": "會意。耳𢛳者、耳有所得也。"
+        },
+        {
+            "explanation": "𡈼聲。",
+            "note": "他定切。十一部。"
+        }
+    ],
+    "indexes": [
+        "听",
+        "聽"
+    ]
+}

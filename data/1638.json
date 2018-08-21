@@ -1,0 +1,35 @@
+{
+    "id": 1638,
+    "wordhead": "諅",
+    "explanation": "忌也。从言其聲。《周書》曰：“上不諅于凶德。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "渠記切",
+    "variants": [],
+    "seal_character": "唦",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "其",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "忌也。",
+            "note": "廣韵七之曰。謀也。七志曰。志也。"
+        },
+        {
+            "explanation": "从言。其聲。",
+            "note": "渠記切。一部。"
+        },
+        {
+            "explanation": "周書曰。上不諅于凶德。",
+            "note": "多方文。上今書作爾尚二字。諅今書作忌。按宋本說文、篇、韵皆作上不諅于凶德。"
+        }
+    ],
+    "indexes": [
+        "諅"
+    ]
+}

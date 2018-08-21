@@ -1,0 +1,48 @@
+{
+    "id": 8548,
+    "wordhead": "繒",
+    "explanation": "帛也。从糸曾聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "疾陵切",
+    "variants": [
+        {
+            "wordhead": "𦀓",
+            "explanation": "籒文繒从宰省。楊雄以爲漢律祠宗廟丹書告。",
+            "seal_character": "玝"
+        }
+    ],
+    "seal_character": "玜",
+    "pinyin": "zeng",
+    "pinyin_full": "zēnɡ",
+    "components": [
+        "宰",
+        "曾",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "帛也。",
+            "note": "七篇帛下曰繒也。是爲轉注。春秋傳叚爲鄫字。"
+        },
+        {
+            "explanation": "从糸。曾聲。",
+            "note": "疾陵切。六部。"
+        },
+        {
+            "explanation": "籒文繒。从宰省。",
+            "note": "宰省聲也。不曰辛聲定爲宰省聲者、辛與曾有眞蒸之别。宰省與曾爲之蒸之相合。通轉冣近者也。"
+        },
+        {
+            "explanation": "楊雄㠯爲漢律祠宗廟丹書告也。",
+            "note": "也字依韵會補。？爲祠宗廟丹書告神之帛。見於漢律者字如此作。楊雄言之。雄甘泉賦曰。上天之縡。葢卽謂郊祀丹書告神者。此則从宰不省者也。"
+        }
+    ],
+    "indexes": [
+        "缯",
+        "繒",
+        "𦀓"
+    ]
+}

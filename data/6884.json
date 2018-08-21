@@ -1,0 +1,35 @@
+{
+    "id": 6884,
+    "wordhead": "惴",
+    "explanation": "憂懼也。从心耑聲。《詩》曰：“惴惴其慄。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "之瑞切",
+    "variants": [],
+    "seal_character": "沀",
+    "pinyin": "zhui",
+    "pinyin_full": "zhuì",
+    "components": [
+        "耑",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢝊懼也。",
+            "note": "釋訓、毛傳皆曰。惴惴、懼也。許意懼不足以盡之。故增𢝊字。"
+        },
+        {
+            "explanation": "从心。耑聲。",
+            "note": "之瑞切。古音在十四部。"
+        },
+        {
+            "explanation": "詩曰。惴惴其慄。",
+            "note": "詩者、秦風鳥文。慄當作栗。轉寫之誤也。古戰栗、堅栗皆作栗。戰栗及禮經栗階皆取栗駭之意。"
+        }
+    ],
+    "indexes": [
+        "惴"
+    ]
+}

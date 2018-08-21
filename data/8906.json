@@ -1,0 +1,47 @@
+{
+    "id": 8906,
+    "wordhead": "𧍸",
+    "explanation": "蝗也。从䖵夂聲。夂，古文終字。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "職戎切",
+    "variants": [
+        {
+            "wordhead": "𧑄",
+            "explanation": "螽或从虫眾<span>[<span>𥅫</span>]</span>聲。",
+            "seal_character": "甬"
+        }
+    ],
+    "seal_character": "甫",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "虫",
+        "攵",
+        "衆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蝗也。",
+            "note": "蝗下曰。螽也。是爲轉注。按爾雅有蛗螽、草螽、蜤螽、蟿螽、土螽。皆所謂螽醜也。蜤螽、詩作斯螽。亦云螽斯。毛、許皆訓以蜙蝑。皆螽類而非螽也。惟春秋所書者爲螽。"
+        },
+        {
+            "explanation": "从䖵。𠂂聲。",
+            "note": "職戎切。九部。"
+        },
+        {
+            "explanation": "𠂂、古文終字。",
+            "note": "見糸部。"
+        },
+        {
+            "explanation": "螽或从虫。眾聲。",
+            "note": "公羊經如此作。"
+        }
+    ],
+    "indexes": [
+        "𧍸",
+        "𧑄"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8350,
+    "wordhead": "戭",
+    "explanation": "長搶也。从戈寅聲。《春秋傳》有擣戭。",
+    "volume": "12",
+    "radical": "戈",
+    "pronunciation": "弋刃切",
+    "variants": [],
+    "seal_character": "犵",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "寅",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "長槍也。",
+            "note": "槍者、歫也。謂以長物相刺。通俗文曰。剡木傷盗曰槍。按槍非古兵器。戭亦非器名。取槍歫之義耳。今之用金曰槍者、則古之矛也。故戭字廁於此。不與器物爲伍。"
+        },
+        {
+            "explanation": "从戈。寅聲。",
+            "note": "弋刃以淺二切。按刃當作忍。弋忍古音也。十二部。"
+        },
+        {
+            "explanation": "春秋傳有檮戭。",
+            "note": "高陽氏才子八愷之一也。見左傳文十八年。漢書作㪦。集韵無㪦。"
+        }
+    ],
+    "indexes": [
+        "戭"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 9003,
+    "wordhead": "壁",
+    "explanation": "垣也。从土辟聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "比激切",
+    "variants": [],
+    "seal_character": "疬",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "土",
+        "辟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "垣也。",
+            "note": "釋名。壁、辟也。辟禦風寒也。按壁自其直立言之。"
+        },
+        {
+            "explanation": "从土。辟聲。",
+            "note": "比激切。十六部。"
+        }
+    ],
+    "indexes": [
+        "壁"
+    ]
+}

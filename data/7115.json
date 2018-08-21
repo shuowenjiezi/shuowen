@@ -1,0 +1,39 @@
+{
+    "id": 7115,
+    "wordhead": "湝",
+    "explanation": "水流湝湝也。从水皆聲。一曰湝湝，寒也。《詩》曰：“風雨湝湝。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "古諧切",
+    "variants": [],
+    "seal_character": "浱",
+    "pinyin": "jie",
+    "pinyin_full": "jiē",
+    "components": [
+        "皆",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水流湝湝也。",
+            "note": "小雅。淮、水湝湝。毛曰湝湝、猶上文湯湯也。廣雅曰。湝湝、流也。"
+        },
+        {
+            "explanation": "从水。皆聲。",
+            "note": "古諧切。十五部。"
+        },
+        {
+            "explanation": "一曰湝、水寒也。",
+            "note": "此依宋本。"
+        },
+        {
+            "explanation": "詩曰。風雨湝湝。",
+            "note": "今鄭風衹有風雨淒淒。邶風傳曰。淒、寒風也。許引詩證寒義。所據與今本異。或是兼采三家。"
+        }
+    ],
+    "indexes": [
+        "湝"
+    ]
+}

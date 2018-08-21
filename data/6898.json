@@ -1,0 +1,35 @@
+{
+    "id": 6898,
+    "wordhead": "忡",
+    "explanation": "憂也。从心中聲。《詩》曰：“憂心忡忡。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "敕中切",
+    "variants": [],
+    "seal_character": "沎",
+    "pinyin": "chong",
+    "pinyin_full": "chōnɡ",
+    "components": [
+        "中",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢝊也。",
+            "note": "按也當作皃。釋訓曰。忡忡、憂也。毛傳曰。忡忡猶衝衝也。"
+        },
+        {
+            "explanation": "从心。中聲。",
+            "note": "敕中切。九部。"
+        },
+        {
+            "explanation": "詩曰。憂心忡忡。",
+            "note": "召南草蟲文。"
+        }
+    ],
+    "indexes": [
+        "忡"
+    ]
+}

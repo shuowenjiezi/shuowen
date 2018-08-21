@@ -1,0 +1,32 @@
+{
+    "id": 1607,
+    "wordhead": "誹",
+    "explanation": "𧩂也。从言非聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "敷尾切",
+    "variants": [],
+    "seal_character": "唂",
+    "pinyin": "fei",
+    "pinyin_full": "fěi",
+    "components": [
+        "言",
+        "非"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謗也。",
+            "note": "誹之言非也言非其實。"
+        },
+        {
+            "explanation": "从言。非聲。",
+            "note": "敷尾切。十五部。"
+        }
+    ],
+    "indexes": [
+        "诽",
+        "誹"
+    ]
+}

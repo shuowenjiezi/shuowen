@@ -1,0 +1,38 @@
+{
+    "id": 4314,
+    "wordhead": "外",
+    "explanation": "遠也。卜尚平旦，今夕卜，於事外矣。",
+    "volume": "07",
+    "radical": "夕",
+    "pronunciation": "五會切",
+    "variants": [
+        {
+            "wordhead": "𡖄",
+            "explanation": "古文外。",
+            "seal_character": "慉"
+        }
+    ],
+    "seal_character": "慈",
+    "pinyin": "wai",
+    "pinyin_full": "wài",
+    "components": [
+        "夕",
+        "卜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遠也。",
+            "note": "此下當有从夕卜三字。"
+        },
+        {
+            "explanation": "卜尙平旦。今若夕卜。於事外矣。",
+            "note": "此說从夕卜之意。五會切。十五部。"
+        }
+    ],
+    "indexes": [
+        "外",
+        "𡖄"
+    ]
+}

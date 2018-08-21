@@ -1,0 +1,43 @@
+{
+    "id": 2938,
+    "wordhead": "籱",
+    "explanation": "罩魚者也。从竹靃聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "竹角切",
+    "variants": [
+        {
+            "wordhead": "籗",
+            "explanation": "籱或省。",
+            "seal_character": "嬪"
+        }
+    ],
+    "seal_character": "嬩",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "靃",
+        "竹",
+        "霍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦋇魚者也。",
+            "note": "網部曰。𦋇、捕魚器也。小雅傳曰。𦋇、篧也。釋器曰。篧謂之𦋇。李巡云。篧、編細竹以爲𦋇、捕魚也。孫炎云。今楚篧也。"
+        },
+        {
+            "explanation": "从竹。靃聲。",
+            "note": "竹角切。按靃聲當在五部。寉聲當在二部。爾雅作篧。故郭音七角反。唐韵竹角切。說文作籱。故廣韵苦郭切。"
+        },
+        {
+            "explanation": "籱或从寉。",
+            "note": "鉉本篆作籗。云籱或省。"
+        }
+    ],
+    "indexes": [
+        "籱",
+        "籗"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3884,
+    "wordhead": "剌",
+    "explanation": "戾也。从束从刀。刀者，剌之也。",
+    "volume": "06",
+    "radical": "束",
+    "pronunciation": "盧達切",
+    "variants": [],
+    "seal_character": "彶",
+    "pinyin": "la",
+    "pinyin_full": "là",
+    "components": [
+        "刀",
+        "束"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“剌，乖違也。束而乖違者，莫若刀也。”",
+    "duan_notes": [
+        {
+            "explanation": "戾也。",
+            "note": "戾者、韋背之意。凡言乖剌、剌謬字如此。謚法愎很遂過曰剌。"
+        },
+        {
+            "explanation": "从束。从刀。刀束者、",
+            "note": "束字今補。刀束如𦥘下言寸臼。"
+        },
+        {
+            "explanation": "剌之也。",
+            "note": "旣束之則當藏弆之矣。而又以刀毀之。是乖剌也。盧𨔶切。十五部。"
+        }
+    ],
+    "indexes": [
+        "剌"
+    ]
+}

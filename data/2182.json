@@ -1,0 +1,39 @@
+{
+    "id": 2182,
+    "wordhead": "䀺",
+    "explanation": "眣也。从目攸聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "敕鳩切",
+    "variants": [
+        {
+            "wordhead": "𥃧",
+            "explanation": "𠌪或从丩<span>[<span>𠃚</span><span>𠃏</span>]</span>。",
+            "seal_character": "垾"
+        }
+    ],
+    "seal_character": "垽",
+    "pinyin": "chou",
+    "pinyin_full": "chōu",
+    "components": [
+        "目",
+        "丩",
+        "攸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "眣也。",
+            "note": "唐人小說。術士相裴夫人。目䀺而緩。主淫。俗誤脩長之脩。"
+        },
+        {
+            "explanation": "从目。攸聲。",
+            "note": "敕鳩切。三部。"
+        }
+    ],
+    "indexes": [
+        "䀺",
+        "𥃧"
+    ]
+}

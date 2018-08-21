@@ -1,0 +1,43 @@
+{
+    "id": 9611,
+    "wordhead": "阯",
+    "explanation": "基也。从𨸏止聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "諸市切",
+    "variants": [
+        {
+            "wordhead": "址",
+            "explanation": "阯或从土。",
+            "seal_character": "硒"
+        }
+    ],
+    "seal_character": "硑",
+    "pinyin": "zhi",
+    "pinyin_full": "zhǐ",
+    "components": [
+        "止",
+        "土",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "基也。",
+            "note": "止下曰。下基也。阯與止音義皆同。止者、艸木之基也。阯者、城阜之基也。"
+        },
+        {
+            "explanation": "从𨸏。止聲。",
+            "note": "諸市切。一部。"
+        },
+        {
+            "explanation": "阯或从土。",
+            "note": "左傳曰。略基址。"
+        }
+    ],
+    "indexes": [
+        "阯",
+        "址"
+    ]
+}

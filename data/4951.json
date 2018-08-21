@@ -1,0 +1,43 @@
+{
+    "id": 4951,
+    "wordhead": "倓",
+    "explanation": "安也。从人炎聲。讀若談。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "徒甘切",
+    "variants": [
+        {
+            "wordhead": "𠋴",
+            "explanation": "倓或从剡。",
+            "seal_character": "搪"
+        }
+    ],
+    "seal_character": "搩",
+    "pinyin": "tan",
+    "pinyin_full": "tán",
+    "components": [
+        "人",
+        "炎",
+        "剡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "安也。",
+            "note": "倉頡篇曰。倓、恬也。荀𨜮子曰。桓公倓然管仲之能足以託國也。洞簫賦。時恬倓以綏肆。按蠻夷贖罪貨曰倓。此夷語耳。字亦作賧。"
+        },
+        {
+            "explanation": "从人。炎聲。讀若談。",
+            "note": "徒甘切。八部。"
+        },
+        {
+            "explanation": "倓或从剡。",
+            "note": "剡亦炎聲。"
+        }
+    ],
+    "indexes": [
+        "倓",
+        "𠋴"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 737,
+    "wordhead": "牻",
+    "explanation": "白黑雜毛牛。从牛尨聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "莫江切",
+    "variants": [],
+    "seal_character": "儶",
+    "pinyin": "mang",
+    "pinyin_full": "mánɡ",
+    "components": [
+        "牛",
+        "尨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "白黑襍毛牛。",
+            "note": "古謂襍色不純爲尨。亦作駹。古文假借作龍。亦作蒙。周易說卦傳、毛詩小戎、周禮牧人巾車玉人皆可證也。牻訓爲白黑襍毛。然則凡謂襍色不純亦可用牻字。"
+        },
+        {
+            "explanation": "从牛。尨聲。",
+            "note": "此以形聲包會意。莫江切。古音在九部。"
+        }
+    ],
+    "indexes": [
+        "牻"
+    ]
+}

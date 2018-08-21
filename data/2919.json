@@ -1,0 +1,43 @@
+{
+    "id": 2919,
+    "wordhead": "籃",
+    "explanation": "大篝也。从竹監聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "魯甘切",
+    "variants": [
+        {
+            "wordhead": "𢉧",
+            "explanation": "古文籃如此。",
+            "seal_character": "嬐"
+        }
+    ],
+    "seal_character": "嬏",
+    "pinyin": "lan",
+    "pinyin_full": "lán",
+    "components": [
+        "監",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大篝也。",
+            "note": "今俗謂熏篝曰烘籃是也。"
+        },
+        {
+            "explanation": "从竹。監聲。",
+            "note": "魯甘切。八部。"
+        },
+        {
+            "explanation": "古文籃如此。",
+            "note": "未詳。"
+        }
+    ],
+    "indexes": [
+        "篮",
+        "籃",
+        "𢉧"
+    ]
+}

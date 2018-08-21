@@ -1,0 +1,40 @@
+{
+    "id": 5458,
+    "wordhead": "觀",
+    "explanation": "諦視也。从見雚聲。",
+    "volume": "08",
+    "radical": "見",
+    "pronunciation": "古玩切",
+    "variants": [
+        {
+            "wordhead": "𩁰",
+            "explanation": "古文觀从囧。",
+            "seal_character": "晒"
+        }
+    ],
+    "seal_character": "晑",
+    "pinyin": "guan",
+    "pinyin_full": "ɡuān",
+    "components": [
+        "雚",
+        "見",
+        "囧"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "諦視也。",
+            "note": "宷諦之視也。穀梁傳曰。常事曰視。非常曰觀。凡以我諦視物曰觀。使人得以諦視我亦曰觀。猶之以我見人、使人見我皆曰視。一義之轉移。本無二音也。而學者強爲分別。乃使周易一卦而平去錯出。支離殆不可讀。不亦固哉。小雅采綠傳曰。觀、多也。此亦引伸之義。物多而後可觀。故曰觀、多也。猶灌木之爲藂木也。"
+        },
+        {
+            "explanation": "从見。雚聲。",
+            "note": "古玩切。按玩當作完。十四部。"
+        }
+    ],
+    "indexes": [
+        "观",
+        "觀",
+        "𩁰"
+    ]
+}

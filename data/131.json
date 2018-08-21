@@ -1,0 +1,35 @@
+{
+    "id": 131,
+    "wordhead": "瑑",
+    "explanation": "圭璧上起兆瑑也。从玉，篆省聲。《周禮》曰：“瑑圭璧。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "直戀切",
+    "variants": [],
+    "seal_character": "亡",
+    "pinyin": "zhuan",
+    "pinyin_full": "zhuàn",
+    "components": [
+        "玉",
+        "篆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "圭璧上起兆瑑也。",
+            "note": "周禮先鄭注云。瑑、有圻鄂瑑起也。後鄭云。瑑、文飾也。許云。起兆瑑。與先鄭說合。兆者、垗也。營域之象。先鄭所謂垠堮也。大圭不瑑者。以素爲貴也。"
+        },
+        {
+            "explanation": "从王。彖聲。",
+            "note": "彖聲、依韻會所引鍇本。今鍇本亦作篆省聲。又淺人改之也。直戀切。十四部。"
+        },
+        {
+            "explanation": "周禮曰。瑑圭璧。",
+            "note": "典瑞曰。瑑圭璋璧琮。疑此有脫誤。"
+        }
+    ],
+    "indexes": [
+        "瑑"
+    ]
+}

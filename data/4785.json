@@ -1,0 +1,39 @@
+{
+    "id": 4785,
+    "wordhead": "胄",
+    "explanation": "兜鍪也。从冃由聲。",
+    "volume": "07",
+    "radical": "冃",
+    "pronunciation": "直又切",
+    "variants": [
+        {
+            "wordhead": "𩊄",
+            "explanation": "《司馬法》胄从革。",
+            "seal_character": "捣"
+        }
+    ],
+    "seal_character": "换",
+    "pinyin": "zhou",
+    "pinyin_full": "zhòu",
+    "components": [
+        "由",
+        "革",
+        "冃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "胤也。",
+            "note": "左傳曰。是四嶽之裔冑也。"
+        },
+        {
+            "explanation": "从肉。由聲。",
+            "note": "許書無由字。然由聲字甚多。不可謂古無由字欲盡改爲㽕省聲也。直又切。三部。與甲胄字別。"
+        }
+    ],
+    "indexes": [
+        "胄",
+        "𩊄"
+    ]
+}

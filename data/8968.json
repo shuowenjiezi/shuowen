@@ -1,0 +1,38 @@
+{
+    "id": 8968,
+    "wordhead": "二",
+    "explanation": "地之數也。从偶一。凡二之屬皆从二。",
+    "volume": "13",
+    "radical": "二",
+    "pronunciation": "而至切",
+    "variants": [
+        {
+            "wordhead": "弍",
+            "explanation": "古文。",
+            "seal_character": "疂"
+        }
+    ],
+    "seal_character": "疁",
+    "pinyin": "er",
+    "pinyin_full": "èr",
+    "components": [
+        "弋",
+        "二"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "地之數也。",
+            "note": "易曰。天一地二。惟初大始。道立於一。有一而後有二。元气初分。輕淸昜爲天。重濁侌爲地。"
+        },
+        {
+            "explanation": "从耦一。",
+            "note": "耦各本作偶。誤。今正。偶者、桐人也。凡云偶爾用之。耦者、二人竝耕之偁。故凡奇耦字用之。古書或不拘。許必從其朔也。大徐本無一字。非。耦一者、㒳其一也。㒳畫當均長。今人上短下長便是古文上字。三篆亦三畫均長。而至切。十五部。"
+        }
+    ],
+    "indexes": [
+        "二",
+        "弍"
+    ]
+}

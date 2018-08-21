@@ -1,0 +1,39 @@
+{
+    "id": 107,
+    "wordhead": "瑗",
+    "explanation": "大孔璧。人君上除陛以相引。从玉爰聲。《爾雅》曰：“好倍肉謂之瑗，肉倍好謂之璧。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "王眷切",
+    "variants": [],
+    "seal_character": "亇",
+    "pinyin": "yuan",
+    "pinyin_full": "yuàn",
+    "components": [
+        "玉",
+        "爰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大孔璧。",
+            "note": "釋器曰。好倍肉謂之瑗。孔大於邊也。"
+        },
+        {
+            "explanation": "人君上除陛以相引。",
+            "note": "未聞。瑗引雙聲。孫卿曰。聘人以珪。召人以瑗。"
+        },
+        {
+            "explanation": "爾雅曰。好倍肉謂之瑗。肉倍好謂之璧。",
+            "note": "釋器文。好謂孔、肉謂邊也。"
+        },
+        {
+            "explanation": "从王。爰聲。",
+            "note": "王眷切。十四部。"
+        }
+    ],
+    "indexes": [
+        "瑗"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 6739,
+    "wordhead": "懼",
+    "explanation": "恐也。从心瞿聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "其遇切",
+    "variants": [
+        {
+            "wordhead": "愳",
+            "explanation": "古文。",
+            "seal_character": "毣"
+        }
+    ],
+    "seal_character": "毢",
+    "pinyin": "ju",
+    "pinyin_full": "jù",
+    "components": [
+        "心",
+        "瞿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "恐也。",
+            "note": "恐下曰。懼也。是爲轉注。"
+        },
+        {
+            "explanation": "从心。瞿聲。",
+            "note": "其遇切。五部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "䀠者、左右視也。形聲兼會意。"
+        }
+    ],
+    "indexes": [
+        "惧",
+        "懼",
+        "愳"
+    ]
+}

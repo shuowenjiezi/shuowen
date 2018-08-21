@@ -1,0 +1,39 @@
+{
+    "id": 3440,
+    "wordhead": "蘽",
+    "explanation": "木也。从木藟聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "力軌切",
+    "variants": [
+        {
+            "wordhead": "𣡺",
+            "explanation": "籒文。",
+            "seal_character": "嶒"
+        }
+    ],
+    "seal_character": "嶑",
+    "pinyin": "lei",
+    "pinyin_full": "lěi",
+    "components": [
+        "木",
+        "回",
+        "藟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蘽木也。",
+            "note": "釋木。諸盧、山櫐。郭曰。今江東呼櫐爲藤。虎櫐、今虎豆。纏蔓林樹而生。中山經。畢山、其上多櫐。（依齊民要術藝文類聚）郭曰。今虎豆、貍豆之屬。櫐一名縢。音耒。按櫐者蘽之省。其物在艸木之閒。近於艸者則爲艸部之藟。詩之藟也。近於木者則爲木部之蘽。釋木之山櫐、虎櫐也。縢藤古今字。謂之縢者、可以爲緘縢也。蘽之屬不一。統名之曰蘽木。"
+        },
+        {
+            "explanation": "從木。藟聲。",
+            "note": "形聲包會意。力軌切。十五部。"
+        }
+    ],
+    "indexes": [
+        "蘽",
+        "𣡺"
+    ]
+}

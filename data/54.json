@@ -1,0 +1,35 @@
+{
+    "id": 54,
+    "wordhead": "禬",
+    "explanation": "會福祭也。从示从會，會亦聲。《周禮》曰：“禬之祝號。”",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "古外切",
+    "variants": [],
+    "seal_character": "乆",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuì",
+    "components": [
+        "示",
+        "會"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會福祭也。",
+            "note": "周禮注曰。除災害曰禬。禬、𠜜去也。與許異。"
+        },
+        {
+            "explanation": "从示。會聲。",
+            "note": "此等皆舉形聲包會意。古外切。十五部。"
+        },
+        {
+            "explanation": "周禮曰。禬之祝號。",
+            "note": "周禮詛祝文。"
+        }
+    ],
+    "indexes": [
+        "禬"
+    ]
+}

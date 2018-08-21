@@ -1,0 +1,35 @@
+{
+    "id": 4400,
+    "wordhead": "䆅",
+    "explanation": "積禾也。从禾資聲。《詩》曰：“䆅之秩秩。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "卽夷切",
+    "variants": [],
+    "seal_character": "憰",
+    "pinyin": "zi",
+    "pinyin_full": "zī",
+    "components": [
+        "禾",
+        "資"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "積禾也。",
+            "note": "䆅積雙聲。廣雅曰。䆅、積也。"
+        },
+        {
+            "explanation": "从禾。資聲。",
+            "note": "卽夷切。十五部。"
+        },
+        {
+            "explanation": "詩曰。䆅之秩秩。",
+            "note": "周頌文。今作積之栗栗。毛云。栗栗、衆多也。無䆅積也之文。葢許偁三家詩也。"
+        }
+    ],
+    "indexes": [
+        "䆅"
+    ]
+}

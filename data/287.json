@@ -1,0 +1,35 @@
+{
+    "id": 287,
+    "wordhead": "葌",
+    "explanation": "艸，出吳林山。从艸姦聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "古顔切",
+    "variants": [],
+    "seal_character": "体",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "艸",
+        "姦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "香艸也。",
+            "note": "依衆經音義補二字。"
+        },
+        {
+            "explanation": "出吳林山。",
+            "note": "中山經曰。吳林之山。其中多葌草。又云。葌山有葌水出焉。又云。有艸、其狀如葌。郭云。葌卽菅。誤。"
+        },
+        {
+            "explanation": "从艸。姦聲。",
+            "note": "古顏切。十四部。"
+        }
+    ],
+    "indexes": [
+        "葌"
+    ]
+}

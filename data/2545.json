@@ -1,0 +1,35 @@
+{
+    "id": 2545,
+    "wordhead": "殬",
+    "explanation": "敗也。从歺睪聲。《商書》曰：“彞倫攸殬。”",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "當故切",
+    "variants": [],
+    "seal_character": "奪",
+    "pinyin": "du",
+    "pinyin_full": "dù",
+    "components": [
+        "歺",
+        "睪"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敗也。",
+            "note": "經假斁爲殬。雲漢鄭箋云。斁、敗也。孔穎達引洪範。彝倫攸斁。"
+        },
+        {
+            "explanation": "从𣦵。〾𥇡聲。",
+            "note": "當故切。五部。"
+        },
+        {
+            "explanation": "商書曰。彝倫攸殬。",
+            "note": "洪範文。今作斁者、葢漢人以今字改之。許所云者、壁中文也。彝、張次立本作夷。"
+        }
+    ],
+    "indexes": [
+        "殬"
+    ]
+}

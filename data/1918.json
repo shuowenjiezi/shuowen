@@ -1,0 +1,39 @@
+{
+    "id": 1918,
+    "wordhead": "取",
+    "explanation": "捕取也。从又从耳。《周禮》：“獲者取左耳。”《司馬法》曰：“載獻聝。”聝者，耳也。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "七庾切",
+    "variants": [],
+    "seal_character": "嚆",
+    "pinyin": "qu",
+    "pinyin_full": "qǔ",
+    "components": [
+        "又",
+        "耳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捕取也。",
+            "note": "幸部曰。執、捕罪人也。"
+        },
+        {
+            "explanation": "从又耳。",
+            "note": "七庾切。四部。"
+        },
+        {
+            "explanation": "周禮。獲者取左耳。",
+            "note": "大司馬職。"
+        },
+        {
+            "explanation": "司馬法曰。載獻聝。聝者、耳也。",
+            "note": "偁周禮。又偁司馬法釋之。以說从耳之意。"
+        }
+    ],
+    "indexes": [
+        "取"
+    ]
+}

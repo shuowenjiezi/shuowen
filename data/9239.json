@@ -1,0 +1,40 @@
+{
+    "id": 9239,
+    "wordhead": "鋏",
+    "explanation": "可以持冶器鑄鎔者。从金夾聲。讀若漁人莢魚之莢。一曰若挾持。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "古叶切",
+    "variants": [],
+    "seal_character": "盁",
+    "pinyin": "jia",
+    "pinyin_full": "jiá",
+    "components": [
+        "金",
+        "夾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "可㠯持冶器鑄鎔者也。",
+            "note": "冶器者鑄於鎔中。則以此物夾而出之。此物金爲之。故从金。"
+        },
+        {
+            "explanation": "从金。夾聲。",
+            "note": "古叶切。八部。"
+        },
+        {
+            "explanation": "讀若漁人夾雨之夾。",
+            "note": "夾二徐作莢。非。今正。周禮幷夾取矢。"
+        },
+        {
+            "explanation": "一曰若挾持。",
+            "note": "一謂讀若挾持之挾。"
+        }
+    ],
+    "indexes": [
+        "铗",
+        "鋏"
+    ]
+}

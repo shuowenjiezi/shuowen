@@ -1,0 +1,31 @@
+{
+    "id": 6464,
+    "wordhead": "照",
+    "explanation": "明也。从火昭聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "之少切",
+    "variants": [],
+    "seal_character": "檱",
+    "pinyin": "zhao",
+    "pinyin_full": "zhào",
+    "components": [
+        "火",
+        "昭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "朙也。",
+            "note": "與昭音義同。"
+        },
+        {
+            "explanation": "从火。昭聲。",
+            "note": "之少切。二部。"
+        }
+    ],
+    "indexes": [
+        "照"
+    ]
+}

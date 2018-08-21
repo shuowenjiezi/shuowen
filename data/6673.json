@@ -1,0 +1,35 @@
+{
+    "id": 6673,
+    "wordhead": "性",
+    "explanation": "人之陽气性善者也。从心生聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "息正切",
+    "variants": [],
+    "seal_character": "殜",
+    "pinyin": "xing",
+    "pinyin_full": "xìnɡ",
+    "components": [
+        "心",
+        "生"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人之昜气性。",
+            "note": "句。"
+        },
+        {
+            "explanation": "善者也。",
+            "note": "論語曰。性相近也。孟子曰。人性之善也。猶水之就下也。董仲舒曰。性者、生之質也。質樸之謂性。"
+        },
+        {
+            "explanation": "从心。生聲。",
+            "note": "息正切。十一部。"
+        }
+    ],
+    "indexes": [
+        "性"
+    ]
+}

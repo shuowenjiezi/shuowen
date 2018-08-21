@@ -1,0 +1,31 @@
+{
+    "id": 5447,
+    "wordhead": "穨",
+    "explanation": "秃皃。从秃貴聲。",
+    "volume": "08",
+    "radical": "秃",
+    "pronunciation": "杜回切",
+    "variants": [],
+    "seal_character": "晄",
+    "pinyin": "tui",
+    "pinyin_full": "tuí",
+    "components": [
+        "貴",
+        "禿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禿皃。",
+            "note": "周南曰。我馬虺頹。釋詁及毛傳曰。虺頹、病也。禿者、病之狀也。此與𨸏部之隤迴別。今毛詩作隤。誤字也。又小雅。維風及頹毛傳曰。頹、風之焚輪者也。與釋天同。"
+        },
+        {
+            "explanation": "从禿。𧷈聲。",
+            "note": "此从䝿聲。今俗字作頹。失其聲矣。杜回切。十五部。"
+        }
+    ],
+    "indexes": [
+        "穨"
+    ]
+}

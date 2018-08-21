@@ -1,0 +1,35 @@
+{
+    "id": 9133,
+    "wordhead": "㽨",
+    "explanation": "殘田也。《詩》曰：“天方薦㽨。”从田差聲。",
+    "volume": "13",
+    "radical": "田",
+    "pronunciation": "昨何切",
+    "variants": [],
+    "seal_character": "癈",
+    "pinyin": "cuo",
+    "pinyin_full": "cuó",
+    "components": [
+        "差",
+        "田"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𣧻薉田也。",
+            "note": "薉字依集韵、類篇、韵會所據補。𣧻而且蕪之田也。是曰㽨。"
+        },
+        {
+            "explanation": "从田。𢀩聲。",
+            "note": "昨何切。十七部。"
+        },
+        {
+            "explanation": "詩曰。天方薦㽨。",
+            "note": "小雅節南山文。毛詩作瘥。傳云。薦、重。瘥、病。許此所引、葢或三家詩也。"
+        }
+    ],
+    "indexes": [
+        "㽨"
+    ]
+}

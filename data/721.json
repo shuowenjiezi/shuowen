@@ -1,0 +1,43 @@
+{
+    "id": 721,
+    "wordhead": "宷",
+    "explanation": "悉也。知宷諦也。从宀从釆。徐锴曰：“宀，覆也。釆，别也。包覆而深别之。宷，悉也。”",
+    "volume": "02",
+    "radical": "釆",
+    "pronunciation": "式荏切",
+    "variants": [
+        {
+            "wordhead": "審",
+            "explanation": "篆文宷从番。",
+            "seal_character": "儤"
+        }
+    ],
+    "seal_character": "儣",
+    "pinyin": "shen",
+    "pinyin_full": "shěn",
+    "components": [
+        "番",
+        "釆",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "悉也。知寀諦也。",
+            "note": "諦廣韵引作諟。古同部假借也。"
+        },
+        {
+            "explanation": "从宀釆。",
+            "note": "鍇曰。宀、覆也。釆、別也。能包覆而㴱別之也。按此與覈字从？敫同意。式荏切。七部。"
+        },
+        {
+            "explanation": "篆文宷。从番。",
+            "note": "然則宷、古文籒文也。不先篆文者、从部首也。"
+        }
+    ],
+    "indexes": [
+        "宷",
+        "審"
+    ]
+}

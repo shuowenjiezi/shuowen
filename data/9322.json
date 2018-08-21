@@ -1,0 +1,44 @@
+{
+    "id": 9322,
+    "wordhead": "鏝",
+    "explanation": "𨮯杇也。从金曼聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "母官切",
+    "variants": [
+        {
+            "wordhead": "槾",
+            "explanation": "鏝或从木。<span>   臣鉉等案：木部已有，此重出。 </span>",
+            "seal_character": "眚"
+        }
+    ],
+    "seal_character": "眙",
+    "pinyin": "man",
+    "pinyin_full": "màn",
+    "components": [
+        "木",
+        "金",
+        "曼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鐵杇也。",
+            "note": "杇所以涂也。秦謂之杇。關東謂之槾。从木。是則木爲者曰杇。金爲者曰鏝。許以从木从金别之也。戰國策。豫讓刃其杅。杅而有刃。知古者通偁。"
+        },
+        {
+            "explanation": "从金。曼聲。",
+            "note": "母官切。十四部。"
+        },
+        {
+            "explanation": "鏝或从木。",
+            "note": "已見木部。"
+        }
+    ],
+    "indexes": [
+        "镘",
+        "鏝",
+        "槾"
+    ]
+}

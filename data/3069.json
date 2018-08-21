@@ -1,0 +1,51 @@
+{
+    "id": 3069,
+    "wordhead": "鼖",
+    "explanation": "大鼓謂之鼖。鼖八尺而兩面，以鼓軍事。从鼓，賁省聲。",
+    "volume": "05",
+    "radical": "鼓",
+    "pronunciation": "符分切",
+    "variants": [
+        {
+            "wordhead": "䩿",
+            "explanation": "鼖或从革，賁不省。",
+            "seal_character": "寊"
+        }
+    ],
+    "seal_character": "寉",
+    "pinyin": "fen",
+    "pinyin_full": "fén",
+    "components": [
+        "賁",
+        "革",
+        "鼓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大𡔷謂之鼖。",
+            "note": "凡賁聲字多訓大。如毛傳云。墳、大防也。頒、大首皃。汾、大也。皆是。卉聲與賁聲一也。"
+        },
+        {
+            "explanation": "鼖八尺而㒳面。",
+            "note": "韗人。𡔷長八尺。𡔷四尺、中圍加三之一謂之鼖𡔷。鄭曰。大𡔷謂之鼖。"
+        },
+        {
+            "explanation": "㠯𡔷軍事。",
+            "note": "見𡔷人。"
+        },
+        {
+            "explanation": "从𡔷。卉聲。",
+            "note": "鉉本改作賁省聲。非也。賁从貝卉聲。微與文合韵冣近。符分切。十三部。"
+        },
+        {
+            "explanation": "鼖或从革。賁聲。",
+            "note": "鉉本改作賁不省、非是。大司馬職作賁𡔷。卽䩿之省也。"
+        }
+    ],
+    "indexes": [
+        "鼖",
+        "䩿"
+    ]
+}

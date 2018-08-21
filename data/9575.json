@@ -1,0 +1,36 @@
+{
+    "id": 9575,
+    "wordhead": "陽",
+    "explanation": "高、明也。从𨸏昜聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "與章切",
+    "variants": [],
+    "seal_character": "砩",
+    "pinyin": "yang",
+    "pinyin_full": "yánɡ",
+    "components": [
+        "昜",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高朙也。",
+            "note": "闇之反也。"
+        },
+        {
+            "explanation": "从𨸏。",
+            "note": "不言山南曰昜者、陰之解可錯見也。山南曰陽、故从𨸏。毛傳曰。山東曰朝陽。山西曰夕陽。"
+        },
+        {
+            "explanation": "昜聲。",
+            "note": "與章切。十部。"
+        }
+    ],
+    "indexes": [
+        "阳",
+        "陽"
+    ]
+}

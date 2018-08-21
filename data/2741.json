@@ -1,0 +1,31 @@
+{
+    "id": 2741,
+    "wordhead": "剡",
+    "explanation": "銳利也。从刀炎聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "以冉切",
+    "variants": [],
+    "seal_character": "婈",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "炎",
+        "刀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "銳利也。",
+            "note": "釋詁曰。剡、利也。毛詩假借覃爲之。大田曰。以我覃耜。毛曰。覃、利也。釋詁文也。按此二篆古本當作利剡也、剡利也。二字互訓。"
+        },
+        {
+            "explanation": "从刀。炎聲。",
+            "note": "以冄切。八部。"
+        }
+    ],
+    "indexes": [
+        "剡"
+    ]
+}

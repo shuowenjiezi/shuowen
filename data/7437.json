@@ -1,0 +1,39 @@
+{
+    "id": 7437,
+    "wordhead": "𣻣",
+    "explanation": "徒行厲水也。从沝从步。",
+    "volume": "11",
+    "radical": "沝",
+    "pronunciation": "時攝切",
+    "variants": [
+        {
+            "wordhead": "涉",
+            "explanation": "篆文从水。",
+            "seal_character": "滉"
+        }
+    ],
+    "seal_character": "滈",
+    "pinyin": "she",
+    "pinyin_full": "shè",
+    "components": [
+        "水",
+        "步",
+        "沝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "徒行濿水也。",
+            "note": "濿各本作厲。誤。濿、或砅字也。砅本履石渡水之偁。引申爲凡渡水之偁。釋水曰。繇膝以上爲涉。毛傳同。許云徒行者、以別於以車及方之、舟之也。許意詩所言揭、厲皆徒行也。皆涉也。故字从步。"
+        },
+        {
+            "explanation": "从沝步。",
+            "note": "會意。時攝切。八部。"
+        }
+    ],
+    "indexes": [
+        "𣻣",
+        "涉"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2331,
+    "wordhead": "羒",
+    "explanation": "牂羊也。从羊分聲。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "符分切",
+    "variants": [],
+    "seal_character": "塨",
+    "pinyin": "fen",
+    "pinyin_full": "fén",
+    "components": [
+        "羊",
+        "分"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牡羊也。",
+            "note": "各本作牂羊。誤。今依初學記正。釋嘼。羊牡羒。郭曰。謂吳羊白羝。廣韵。羒、白羝羊也。國語。土之怪羵羊。羵者、雌雄未成。"
+        },
+        {
+            "explanation": "从羊。分聲。",
+            "note": "符分切。十三部。"
+        }
+    ],
+    "indexes": [
+        "羒"
+    ]
+}

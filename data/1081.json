@@ -1,0 +1,52 @@
+{
+    "id": 1081,
+    "wordhead": "歲",
+    "explanation": "木星也。越歴二十八宿，宣徧陰陽，十二月一次。从步戌聲。律歴書名五星爲五步。",
+    "volume": "02",
+    "radical": "步",
+    "pronunciation": "相銳切",
+    "variants": [],
+    "seal_character": "助",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "步",
+        "戌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木星也。",
+            "note": "五星。水曰辰星。金曰太白。火曰熒惑。木曰歲星。土曰塡星。"
+        },
+        {
+            "explanation": "越歷二十八宿。",
+            "note": "歲越㬪韵。"
+        },
+        {
+            "explanation": "宣徧陰陽。",
+            "note": "宣歲雙聲。此二句謂十二歲而周十二次也。"
+        },
+        {
+            "explanation": "十二月一次。",
+            "note": "釋天云。載、歲也。夏曰歲。商曰祀。周曰年。孫炎云。歲星行一次也。賈公彥引星僃云。歲星一日行十二分度之一。十二歲而周天。"
+        },
+        {
+            "explanation": "从步。",
+            "note": "行於天有常。故从步。"
+        },
+        {
+            "explanation": "戌聲。",
+            "note": "戌、悉也。亦是會意。相銳切。十五部。"
+        },
+        {
+            "explanation": "律曆書名五星爲五步。",
+            "note": "此釋从步之意。漢書律歷志云五步。"
+        }
+    ],
+    "indexes": [
+        "岁",
+        "歲"
+    ]
+}

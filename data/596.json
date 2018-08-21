@@ -1,0 +1,47 @@
+{
+    "id": 596,
+    "wordhead": "䕩",
+    "explanation": "乾梅之屬。从艸橑聲。《周禮》曰：“饋食之籩，其實乾䕩。”後漢長沙王始煑艸爲䕩。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "盧皓切",
+    "variants": [
+        {
+            "wordhead": "𧃉",
+            "explanation": "䕩或从潦。",
+            "seal_character": "備"
+        }
+    ],
+    "seal_character": "傘",
+    "pinyin": "lao",
+    "pinyin_full": "lǎo",
+    "components": [
+        "艸",
+        "橑",
+        "潦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "乾梅之屬。",
+            "note": "鄭注周禮云。乾䕩、乾梅也。有桃諸梅諸、是其乾者。按鄭意周禮上文桃是濡者。此著乾以別之。"
+        },
+        {
+            "explanation": "从艸。橑聲。",
+            "note": "梅桃當從木而從艸者。艸亦木也。盧晧切二部。"
+        },
+        {
+            "explanation": "周禮曰。饋食之籩。其實乾䕩。",
+            "note": "籩人文。"
+        },
+        {
+            "explanation": "後漢長沙王始煑艸爲䕩。",
+            "note": "謂周禮之後至漢長沙王始煑艸爲䕩。不用梅桃也。"
+        }
+    ],
+    "indexes": [
+        "䕩",
+        "𧃉"
+    ]
+}

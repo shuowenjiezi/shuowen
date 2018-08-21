@@ -1,0 +1,35 @@
+{
+    "id": 892,
+    "wordhead": "啁",
+    "explanation": "啁，嘐也。从口周聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "陟交切",
+    "variants": [],
+    "seal_character": "凟",
+    "pinyin": "zhao",
+    "pinyin_full": "zhāo",
+    "components": [
+        "口",
+        "周"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "啁、",
+            "note": "此複舉字未刪者。"
+        },
+        {
+            "explanation": "嘐也。",
+            "note": "楚語。鵾雞啁哳而悲鳴。啁、大聲。哳、小聲也。"
+        },
+        {
+            "explanation": "从口。周聲。",
+            "note": "陟交切。古音在三部。倉頡篇。啁、調也。謂相戲調也。今人啁作嘲。"
+        }
+    ],
+    "indexes": [
+        "啁"
+    ]
+}

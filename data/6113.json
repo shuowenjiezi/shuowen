@@ -1,0 +1,32 @@
+{
+    "id": 6113,
+    "wordhead": "驪",
+    "explanation": "馬深黑色。从馬麗聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "呂支切",
+    "variants": [],
+    "seal_character": "椮",
+    "pinyin": "li",
+    "pinyin_full": "lí",
+    "components": [
+        "馬",
+        "麗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬深黑色。",
+            "note": "魯頌、傳曰。純黑曰驪。按引伸爲凡黑之偁。亦叚黎棃爲之。"
+        },
+        {
+            "explanation": "从馬。麗聲。",
+            "note": "呂支切。十六部。"
+        }
+    ],
+    "indexes": [
+        "骊",
+        "驪"
+    ]
+}

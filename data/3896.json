@@ -1,0 +1,41 @@
+{
+    "id": 3896,
+    "wordhead": "回",
+    "explanation": "轉也。从囗，中象回轉形。",
+    "volume": "06",
+    "radical": "囗",
+    "pronunciation": "戶恢切",
+    "variants": [
+        {
+            "wordhead": "囘",
+            "explanation": "古文。",
+            "seal_character": "徃"
+        }
+    ],
+    "seal_character": "徂",
+    "pinyin": "hui",
+    "pinyin_full": "huí",
+    "components": [
+        "回"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "轉也。",
+            "note": "淵、回水也。故顏回字子淵。毛詩傳曰。回、邪也。言回爲𠆎之假借也。又曰。回、違也。亦謂假借也。𠆎、衺也。見交部。"
+        },
+        {
+            "explanation": "从囗。中象回轉之形。",
+            "note": "中當作口。外爲大囗。內爲小口。皆回轉之形也。如天體在外左旋、日月五星在內右旋是也。戸恢切。十五部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "古文象一气回轉之形。"
+        }
+    ],
+    "indexes": [
+        "回",
+        "囘"
+    ]
+}

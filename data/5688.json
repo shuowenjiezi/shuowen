@@ -1,0 +1,35 @@
+{
+    "id": 5688,
+    "wordhead": "彫",
+    "explanation": "琢文也。从彡周聲。",
+    "volume": "09",
+    "radical": "彡",
+    "pronunciation": "都僚切",
+    "variants": [],
+    "seal_character": "李",
+    "pinyin": "diao",
+    "pinyin_full": "diāo",
+    "components": [
+        "周",
+        "彡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𤥨文也。",
+            "note": "𤥨者、治玉也。玉部有琱、亦治玉也。大雅。追琢其章。傳曰。追、彫也。金曰彫。玉曰𤥨。毛傳字當作琱。凡琱琢之成文曰彫。故字从彡。今則彫雕行而琱廢矣。"
+        },
+        {
+            "explanation": "从彡。",
+            "note": "治玉成文也。"
+        },
+        {
+            "explanation": "周聲。",
+            "note": "都僚切。二三部。"
+        }
+    ],
+    "indexes": [
+        "彫"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 4864,
+    "wordhead": "帙",
+    "explanation": "書衣也。从巾失聲。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "直質切",
+    "variants": [
+        {
+            "wordhead": "袠",
+            "explanation": "帙或从衣。",
+            "seal_character": "揇"
+        }
+    ],
+    "seal_character": "揆",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "失",
+        "衣",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "書衣也。",
+            "note": "書衣謂用裹書者。亦謂之幒。陸德明𢰅經典釋文三十卷。合爲三袟。今人曰函。"
+        },
+        {
+            "explanation": "从巾。失聲。",
+            "note": "直質切。十二部。"
+        }
+    ],
+    "indexes": [
+        "帙",
+        "袠"
+    ]
+}

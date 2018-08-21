@@ -1,0 +1,39 @@
+{
+    "id": 2802,
+    "wordhead": "劒",
+    "explanation": "人所帶兵也。从刃僉聲。",
+    "volume": "04",
+    "radical": "刃",
+    "pronunciation": "居欠切",
+    "variants": [
+        {
+            "wordhead": "劎",
+            "explanation": "籒文劒从刀<span>[<span>𠚣</span>]</span>。",
+            "seal_character": "媏"
+        }
+    ],
+    "seal_character": "媎",
+    "pinyin": "jian",
+    "pinyin_full": "jiàn",
+    "components": [
+        "刀",
+        "僉",
+        "刃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人所帶兵也。",
+            "note": "桃氏爲劒。有上制。有中制。有下制。注云。此今之匕首也。人各以其形皃大小帶之。"
+        },
+        {
+            "explanation": "从刃。僉聲。",
+            "note": "居欠切。八部。"
+        }
+    ],
+    "indexes": [
+        "劒",
+        "劎"
+    ]
+}

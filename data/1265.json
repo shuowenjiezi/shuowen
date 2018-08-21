@@ -1,0 +1,31 @@
+{
+    "id": 1265,
+    "wordhead": "行",
+    "explanation": "人之步趨也。从彳从亍。凡行之屬皆从行。",
+    "volume": "02",
+    "radical": "行",
+    "pronunciation": "戶庚切",
+    "variants": [],
+    "seal_character": "厊",
+    "pinyin": "xing",
+    "pinyin_full": "xínɡ",
+    "components": [
+        "彳",
+        "亍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人之步趨也。",
+            "note": "步、行也。趨、走也。二者一徐一疾。皆謂之行。統言之也。爾雅。室中謂之時。堂上謂之行。堂下謂之步。門外謂之趨。中庭謂之走。大路謂之奔。析言之也。引伸爲巡行、行列、行事、德行。"
+        },
+        {
+            "explanation": "从彳亍。",
+            "note": "彳、小步也。亍、步止也。戶庚切。古音在十部。"
+        }
+    ],
+    "indexes": [
+        "行"
+    ]
+}

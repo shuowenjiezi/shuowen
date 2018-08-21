@@ -1,0 +1,62 @@
+{
+    "id": 6038,
+    "wordhead": "長",
+    "explanation": "久遠也。从兀从匕。兀者，高遠意也。久則變化。亾聲。纼者，倒亾也。凡長之屬皆从長。",
+    "volume": "09",
+    "radical": "長",
+    "pronunciation": "直良切",
+    "variants": [
+        {
+            "wordhead": "𠑷",
+            "explanation": "古文長<span>[<span>𨱗</span>]</span>。",
+            "seal_character": "棒"
+        },
+        {
+            "wordhead": "𠇬",
+            "explanation": "亦古文長<span>[<span>𨱗</span>]</span>。",
+            "seal_character": "棓"
+        }
+    ],
+    "seal_character": "棑",
+    "pinyin": "chang",
+    "pinyin_full": "chánɡ",
+    "components": [
+        "兀",
+        "亾",
+        "匕"
+    ],
+    "xuan_note": "臣鉉等曰：倒亡，不亡也。長久之義也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "久遠也。",
+            "note": "久者、不暫也。遠者、不近也。引伸之爲滋長、長幼之長。今音知丈切。又爲多餘之。長、度長之長皆今音直亮切。兄下曰。長也。是滋長、長幼之長也。"
+        },
+        {
+            "explanation": "从兀。从匕｛𠤎｝。",
+            "note": "會意。匕｛𠤎｝呼霸切。"
+        },
+        {
+            "explanation": "亾聲。",
+            "note": "二字各本在變匕之下。今依韵會正。直良切。十部。"
+        },
+        {
+            "explanation": "兀者、高遠意也。",
+            "note": "說从兀之意。儿部曰。兀者、高而上平也。"
+        },
+        {
+            "explanation": "久則變匕｛｝。",
+            "note": "匕｛𠤎｝各本作化。今正。說从匕｛𠤎｝之意。匕｛𠤎｝下曰變也。"
+        },
+        {
+            "explanation": "{厂+丫}者、到亾也。",
+            "note": "到各本作倒。今正。說{厂+丫}卽亾字。亾而倒。變匕｛𠤎｝之意。"
+        }
+    ],
+    "indexes": [
+        "长",
+        "長",
+        "𠑷",
+        "𠇬"
+    ]
+}

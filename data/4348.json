@@ -1,0 +1,44 @@
+{
+    "id": 4348,
+    "wordhead": "鼒",
+    "explanation": "鼎之圜掩上者。从鼎才聲。《詩》曰：“鼐鼎及鼒。”",
+    "volume": "07",
+    "radical": "鼎",
+    "pronunciation": "子之切",
+    "variants": [
+        {
+            "wordhead": "鎡",
+            "explanation": "俗鼒从金从兹。",
+            "seal_character": "慳"
+        }
+    ],
+    "seal_character": "慲",
+    "pinyin": "zi",
+    "pinyin_full": "zī",
+    "components": [
+        "金",
+        "兹",
+        "才",
+        "鼎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼎之圜掩上者。",
+            "note": "周頌。鼐鼎及鼒。釋器曰。圜弇上謂之鼒。手部曰。掩、斂也。小上曰掩。？部曰。弇、葢也。然則此依許作掩爲正字。"
+        },
+        {
+            "explanation": "从鼎。才聲。",
+            "note": "子之切。一部。"
+        },
+        {
+            "explanation": "俗鼒从金玆聲。",
+            "note": "茲各本作玆。今正。"
+        }
+    ],
+    "indexes": [
+        "鼒",
+        "鎡"
+    ]
+}

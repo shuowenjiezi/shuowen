@@ -1,0 +1,35 @@
+{
+    "id": 7270,
+    "wordhead": "湒",
+    "explanation": "雨下也。从水咠聲。一曰沸涌皃。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "姊入切",
+    "variants": [],
+    "seal_character": "渘",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "水",
+        "咠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雨下也。",
+            "note": "廣雅云。湒湒、雨也。毛詩。其角湒湒。宋本釋文如是。假借爲角皃。"
+        },
+        {
+            "explanation": "从水。咠聲。",
+            "note": "姊入切。七部。"
+        },
+        {
+            "explanation": "一曰𩰾湧皃。",
+            "note": "上文云湁湒、𩰾也。"
+        }
+    ],
+    "indexes": [
+        "湒"
+    ]
+}

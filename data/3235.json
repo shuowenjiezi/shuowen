@@ -1,0 +1,46 @@
+{
+    "id": 3235,
+    "wordhead": "饕",
+    "explanation": "貪也。从食號聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "土刀切",
+    "variants": [
+        {
+            "wordhead": "叨",
+            "explanation": "饕或从口<span>[<span>𠙵</span>]</span>刀<span>[<span>𠚣</span>]</span>聲。",
+            "seal_character": "岘"
+        },
+        {
+            "wordhead": "𧈐",
+            "explanation": "籒文饕从號省。",
+            "seal_character": "岙"
+        }
+    ],
+    "seal_character": "岗",
+    "pinyin": "tao",
+    "pinyin_full": "tāo",
+    "components": [
+        "口",
+        "號",
+        "刀",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "貪也。从食。號聲。",
+            "note": "土刀切。二部。"
+        },
+        {
+            "explanation": "俗饕。从口。刀聲。",
+            "note": "今俗與饕分別異用。"
+        }
+    ],
+    "indexes": [
+        "饕",
+        "叨",
+        "𧈐"
+    ]
+}

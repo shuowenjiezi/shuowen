@@ -1,0 +1,43 @@
+{
+    "id": 6313,
+    "wordhead": "㹤",
+    "explanation": "多畏也。从犬去聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "去劫切",
+    "variants": [
+        {
+            "wordhead": "怯",
+            "explanation": "杜林說：㹤从心。",
+            "seal_character": "樇"
+        }
+    ],
+    "seal_character": "樆",
+    "pinyin": "qie",
+    "pinyin_full": "qiè",
+    "components": [
+        "犬",
+        "心",
+        "去"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "多畏也。",
+            "note": "本謂犬。叚借謂人。"
+        },
+        {
+            "explanation": "从犬。去聲。",
+            "note": "去劫切。古音葢在五部。"
+        },
+        {
+            "explanation": "杜林說。㹤从心。",
+            "note": "今字皆用伯山說也。"
+        }
+    ],
+    "indexes": [
+        "㹤",
+        "怯"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 265,
+    "wordhead": "薇",
+    "explanation": "菜也。似藿。从艸微聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "無非切",
+    "variants": [
+        {
+            "wordhead": "𦵨",
+            "explanation": "籒文薇省。",
+            "seal_character": "伺"
+        }
+    ],
+    "seal_character": "伹",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "艸",
+        "微"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "菜也。",
+            "note": "見毛傳。"
+        },
+        {
+            "explanation": "佀藿。",
+            "note": "謂似豆葉也。陸璣詩疏曰。薇、山菜也。莖葉皆似小豆。蔓生。其味亦如小豆。藿可作羹。亦可生食。今官園種之。以供宗廟祭祀。項安世曰。薇、今之野豌豆也。蜀人謂之大巢菜。按今四川人掐豌豆媆梢食之。謂之豌豆顚顚。古之采於山者、野生者也。釋艸云垂水。薇之俗名耳。不當以生於水邊釋之。"
+        },
+        {
+            "explanation": "从艸。微聲。",
+            "note": "無非切。十五部。"
+        }
+    ],
+    "indexes": [
+        "薇",
+        "𦵨"
+    ]
+}

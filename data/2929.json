@@ -1,0 +1,43 @@
+{
+    "id": 2929,
+    "wordhead": "𥸅",
+    "explanation": "竹豆也。从竹邊聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "布玄切",
+    "variants": [
+        {
+            "wordhead": "𠥫",
+            "explanation": "籒文籩。",
+            "seal_character": "嬟"
+        }
+    ],
+    "seal_character": "嬞",
+    "pinyin": "bian",
+    "pinyin_full": "biān",
+    "components": [
+        "竹",
+        "匚",
+        "邊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竹豆也。",
+            "note": "豆、古食肉器也。木豆謂之梪。竹豆謂之籩。周禮籩人。掌四籩之實。注曰。籩、竹器如豆者。其容實皆四升。"
+        },
+        {
+            "explanation": "从竹。𨘢聲。",
+            "note": "布玄切。十二部。"
+        },
+        {
+            "explanation": "籒文𥸅。",
+            "note": "𠥓者、籒文匚也。"
+        }
+    ],
+    "indexes": [
+        "𥸅",
+        "𠥫"
+    ]
+}

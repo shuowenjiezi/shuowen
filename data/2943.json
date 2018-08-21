@@ -1,0 +1,43 @@
+{
+    "id": 2943,
+    "wordhead": "箑",
+    "explanation": "扇也。从竹疌聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "山洽切",
+    "variants": [
+        {
+            "wordhead": "䈉",
+            "explanation": "箑或从妾。",
+            "seal_character": "嬰"
+        }
+    ],
+    "seal_character": "嬯",
+    "pinyin": "sha",
+    "pinyin_full": "shà",
+    "components": [
+        "疌",
+        "妾",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "扇也。",
+            "note": "戸部曰。扇、扉也。扉可開合。故箑亦名扇。方言。扇、自關而東謂之箑。自關而西謂之扇。郭曰。今江東亦通名扇爲箑。按今江東皆曰扇。無言箑者。凡江東方言見於郭注者今多不同。葢由時移世易。士民遷徒不常故也。士喪禮下注曰。翣、扇也。此言經文假翣爲箑也。"
+        },
+        {
+            "explanation": "从竹。疌聲。",
+            "note": "山洽切。八部。"
+        },
+        {
+            "explanation": "箑或从妾。",
+            "note": "妾聲。"
+        }
+    ],
+    "indexes": [
+        "箑",
+        "䈉"
+    ]
+}

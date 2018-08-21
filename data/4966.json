@@ -1,0 +1,35 @@
+{
+    "id": 4966,
+    "wordhead": "倭",
+    "explanation": "順皃。从人委聲。《詩》曰：“周道倭遟。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "於爲切",
+    "variants": [],
+    "seal_character": "搻",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "人",
+        "委"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "順皃。",
+            "note": "倭與委義略同。委、隨也。隨、從也。廣韵作愼皃。乃梁時避諱所改耳。"
+        },
+        {
+            "explanation": "从人。委聲。",
+            "note": "於爲切。十六部。音轉則烏何切。"
+        },
+        {
+            "explanation": "詩曰。周道倭遟。",
+            "note": "小雅四牡文。傳曰。倭遟、歷遠之皃。按倭遟合二字成語。韓詩作威夷。故與順訓不同。而亦無不合也。"
+        }
+    ],
+    "indexes": [
+        "倭"
+    ]
+}

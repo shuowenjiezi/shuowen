@@ -1,0 +1,31 @@
+{
+    "id": 684,
+    "wordhead": "菿",
+    "explanation": "艸木倒。从艸到聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "都盜切",
+    "variants": [],
+    "seal_character": "僷",
+    "pinyin": "dao",
+    "pinyin_full": "dào",
+    "components": [
+        "艸",
+        "到"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸大也。",
+            "note": "毛詩。倬彼甫田。韓詩作菿彼圃田。釋古曰。菿、大也。卓聲到聲古同在弟二部。"
+        },
+        {
+            "explanation": "从艸。到聲。",
+            "note": "都盜切。○案各本篆作𦳙。訓同。玉篇、廣韵皆無𦳙字。菿之誤也。後人檢菿字不得。則於艸部末綴菿篆。訓曰艸木倒。語不可通。今更正。爾雅釋文、廣韵四覺皆引說文菿、艸大也。"
+        }
+    ],
+    "indexes": [
+        "菿"
+    ]
+}

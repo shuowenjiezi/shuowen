@@ -1,0 +1,35 @@
+{
+    "id": 190,
+    "wordhead": "玓",
+    "explanation": "玓瓅，明珠色。从玉勺聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "都歴切",
+    "variants": [],
+    "seal_character": "仠",
+    "pinyin": "di",
+    "pinyin_full": "dì",
+    "components": [
+        "勺",
+        "玉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玓瓅、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "明珠光也。",
+            "note": "光各本作色。今依李善所引。史記司馬相如傳曰。明月珠子。玓瓅江靡。應邵曰。靡、邊也。"
+        },
+        {
+            "explanation": "从王。勺聲。",
+            "note": "都歴切。古音在二部。"
+        }
+    ],
+    "indexes": [
+        "玓"
+    ]
+}

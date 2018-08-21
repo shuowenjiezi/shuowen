@@ -1,0 +1,35 @@
+{
+    "id": 5687,
+    "wordhead": "彰",
+    "explanation": "文彰也。从彡从章，章亦聲。",
+    "volume": "09",
+    "radical": "彡",
+    "pronunciation": "諸良切",
+    "variants": [],
+    "seal_character": "杍",
+    "pinyin": "zhang",
+    "pinyin_full": "zhānɡ",
+    "components": [
+        "章",
+        "彡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "彣彰也。",
+            "note": "彣各本作文。今正。文、逪畫也。與彣義別。古人作彣彰。今人作文章、非古也。尚書某氏傳、呂覽注、淮南注、廣雅皆曰。彰、朙也。通作章。"
+        },
+        {
+            "explanation": "从彡章。",
+            "note": "會意。謂文成章。"
+        },
+        {
+            "explanation": "章亦聲。",
+            "note": "諸良切。十部。"
+        }
+    ],
+    "indexes": [
+        "彰"
+    ]
+}

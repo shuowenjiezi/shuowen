@@ -1,0 +1,31 @@
+{
+    "id": 300,
+    "wordhead": "苺",
+    "explanation": "馬苺也。从艸母聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "武辠切",
+    "variants": [],
+    "seal_character": "你",
+    "pinyin": "mei",
+    "pinyin_full": "měi",
+    "components": [
+        "母",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬莓也。",
+            "note": "𦷱篆不廁於此。則非山莓也。"
+        },
+        {
+            "explanation": "从艸。母聲。",
+            "note": "母辠切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "苺"
+    ]
+}

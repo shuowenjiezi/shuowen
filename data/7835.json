@@ -1,0 +1,42 @@
+{
+    "id": 7835,
+    "wordhead": "握",
+    "explanation": "搤持也。从手屋聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "於角切",
+    "variants": [
+        {
+            "wordhead": "𦥆",
+            "explanation": "古文握。",
+            "seal_character": "炖"
+        }
+    ],
+    "seal_character": "炕",
+    "pinyin": "wo",
+    "pinyin_full": "wò",
+    "components": [
+        "手",
+        "屋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "搤持也。",
+            "note": "按下文云搤、一曰握也。"
+        },
+        {
+            "explanation": "从手。屋聲。",
+            "note": "於角切。三部。"
+        },
+        {
+            "explanation": "古文握。",
+            "note": "淮南詮言訓。？無所鑒。謂之狂生。高注。？、持也。所鑒者、玄德也。持無所鑒。所持者非玄德。故謂之狂生。合文選任彥昇哭范僕射詩注及今本淮南子可得其眞矣。俶眞訓曰。其所居神者、臺𥳑其游大淸。此臺亦疑？之誤。"
+        }
+    ],
+    "indexes": [
+        "握",
+        "𦥆"
+    ]
+}

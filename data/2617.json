@@ -1,0 +1,31 @@
+{
+    "id": 2617,
+    "wordhead": "臂",
+    "explanation": "手上也。从肉辟聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "卑義切",
+    "variants": [],
+    "seal_character": "妹",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "肉",
+        "辟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "手上也。",
+            "note": "又部曰。厷、臂上也。此皆析言之。亦下云人之臂亦。渾言之也。渾言則厷臂互偁。"
+        },
+        {
+            "explanation": "从肉。辟聲。",
+            "note": "卑義切。十六部。"
+        }
+    ],
+    "indexes": [
+        "臂"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 149,
+    "wordhead": "玩",
+    "explanation": "弄也。从玉元聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "五換切",
+    "variants": [
+        {
+            "wordhead": "貦",
+            "explanation": "玩或从貝。",
+            "seal_character": "亶"
+        }
+    ],
+    "seal_character": "亵",
+    "pinyin": "wan",
+    "pinyin_full": "wán",
+    "components": [
+        "玉",
+        "元",
+        "貝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弄也。",
+            "note": "廾部曰。弄、玩也。是爲轉注。周禮曰。玩好之用。"
+        },
+        {
+            "explanation": "从王。元聲。",
+            "note": "五換切。十四部。"
+        }
+    ],
+    "indexes": [
+        "玩",
+        "貦"
+    ]
+}

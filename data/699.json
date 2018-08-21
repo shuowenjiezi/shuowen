@@ -1,0 +1,54 @@
+{
+    "id": 699,
+    "wordhead": "薅",
+    "explanation": "拔去田艸也。从蓐，好省聲。",
+    "volume": "01",
+    "radical": "蓐",
+    "pronunciation": "呼毛切",
+    "variants": [
+        {
+            "wordhead": "𦵢",
+            "explanation": "籒文薅省。",
+            "seal_character": "儈"
+        },
+        {
+            "wordhead": "茠",
+            "explanation": "薅或从休。《詩》曰：“旣茠荼蓼”。",
+            "seal_character": "儉"
+        }
+    ],
+    "seal_character": "儇",
+    "pinyin": "hao",
+    "pinyin_full": "hāo",
+    "components": [
+        "艸",
+        "蓐",
+        "好",
+        "休"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "披田艸也。",
+            "note": "大徐作拔去田艸。衆經音義作除田艸。經典釋文、王篇、五經文字作拔田艸。惟繫傳舊本作披、不誤。披者、迫地削去之也。木部曰。槈、薅器也。"
+        },
+        {
+            "explanation": "从蓐。好省聲。",
+            "note": "呼毛切。古音在三部。"
+        },
+        {
+            "explanation": "薅或从休。",
+            "note": "古好聲休聲同在三部。"
+        },
+        {
+            "explanation": "詩曰。旣茠荼蓼。",
+            "note": "周頌文。今詩作以薅。"
+        }
+    ],
+    "indexes": [
+        "薅",
+        "𦵢",
+        "茠"
+    ]
+}

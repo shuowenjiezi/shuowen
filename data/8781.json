@@ -1,0 +1,44 @@
+{
+    "id": 8781,
+    "wordhead": "強",
+    "explanation": "蚚也。从虫弘聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "巨良切",
+    "variants": [
+        {
+            "wordhead": "𧖑",
+            "explanation": "籒文强从䖵从彊。",
+            "seal_character": "璢"
+        }
+    ],
+    "seal_character": "璡",
+    "pinyin": "qiang",
+    "pinyin_full": "qiánɡ",
+    "components": [
+        "虫",
+        "彊",
+        "弘"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“弘與强聲不相近，秦刻石文从口。疑从籒文省。”",
+    "duan_notes": [
+        {
+            "explanation": "蚚也。",
+            "note": "下云蚚、強也。二字爲轉注。釋蟲曰。強、醜捋。郭曰。以腳自摩捋。叚借爲彊弱之彊。"
+        },
+        {
+            "explanation": "从虫。弘聲。",
+            "note": "此聲在六部。而強在十部者、合韵也。巨良切。"
+        },
+        {
+            "explanation": "籒文強。从䖵。从彊。",
+            "note": "據此則強者古文。秦刻石文用強。是用古文爲小篆也。然以強爲彊。是六書之叚借也。"
+        }
+    ],
+    "indexes": [
+        "强",
+        "強",
+        "𧖑"
+    ]
+}

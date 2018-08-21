@@ -1,0 +1,43 @@
+{
+    "id": 68,
+    "wordhead": "祟",
+    "explanation": "神禍也。从示从出。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "雖遂切",
+    "variants": [
+        {
+            "wordhead": "𥜱",
+            "explanation": "籒文祟从𥜹省。",
+            "seal_character": "乗"
+        }
+    ],
+    "seal_character": "乖",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "示",
+        "出",
+        "祟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "神禍也。",
+            "note": "釋玄應衆經音義曰。謂鬼神作災禍也。"
+        },
+        {
+            "explanation": "从示出。",
+            "note": "按出亦聲。雖遂切。十五部。"
+        },
+        {
+            "explanation": "籒文祟。从𥜹省。",
+            "note": "瀆於鬼神則致祟。故从𥜹省。"
+        }
+    ],
+    "indexes": [
+        "祟",
+        "𥜱"
+    ]
+}

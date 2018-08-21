@@ -1,0 +1,31 @@
+{
+    "id": 25,
+    "wordhead": "神",
+    "explanation": "天神，引出萬物者也。从示、申。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "食鄰切",
+    "variants": [],
+    "seal_character": "丢",
+    "pinyin": "shen",
+    "pinyin_full": "shén",
+    "components": [
+        "示",
+        "申"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天神引出萬物者也。",
+            "note": "天神引三字同在古音第十二部。"
+        },
+        {
+            "explanation": "从示。𦥔聲。",
+            "note": "食鄰切。"
+        }
+    ],
+    "indexes": [
+        "神"
+    ]
+}

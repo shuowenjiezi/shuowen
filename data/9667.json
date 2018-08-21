@@ -1,0 +1,43 @@
+{
+    "id": 9667,
+    "wordhead": "𨽵",
+    "explanation": "塞上𠅘守㷭火者。从𨺅从火，遂聲。",
+    "volume": "14",
+    "radical": "𨺅",
+    "pronunciation": "徐醉切",
+    "variants": [
+        {
+            "wordhead": "𤒮",
+            "explanation": "篆文省。",
+            "seal_character": "碎"
+        }
+    ],
+    "seal_character": "碍",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "火",
+        "阜",
+        "遂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "塞上亭。守㷭火者也。",
+            "note": "注見火部㷭下。彼云㷭𤎩、𠊱表也。緫釋此二篆。此云塞上亭守㷭火者、謂邊塞之上守望㷭火之亭。故其字从𨺅。在阸隘之閒也。"
+        },
+        {
+            "explanation": "从𨺅。从火。遂聲。",
+            "note": "徐醉切。十五部。"
+        },
+        {
+            "explanation": "篆文𨽵省。",
+            "note": "此爲小篆、則知上爲籒文矣。"
+        }
+    ],
+    "indexes": [
+        "𨽵",
+        "𤒮"
+    ]
+}

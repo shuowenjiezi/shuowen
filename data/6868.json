@@ -1,0 +1,35 @@
+{
+    "id": 6868,
+    "wordhead": "恫",
+    "explanation": "痛也。一曰呻吟也。从心同聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "他紅切",
+    "variants": [],
+    "seal_character": "汰",
+    "pinyin": "tong",
+    "pinyin_full": "tōnɡ",
+    "components": [
+        "心",
+        "同"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "痛也。",
+            "note": "大雅思齊傳曰。恫。痛也。康誥。恫鰥乃身。"
+        },
+        {
+            "explanation": "从心。同聲。",
+            "note": "他紅切。九部。"
+        },
+        {
+            "explanation": "一曰呻吟也。",
+            "note": "呻吟見口部。匡謬正俗曰。太原俗呼痛而呻吟爲通喚。周書痌瘝是其義。江南謂呻喚。關中謂呻恫。按前說可包後說。此等恐皆後人入也。"
+        }
+    ],
+    "indexes": [
+        "恫"
+    ]
+}

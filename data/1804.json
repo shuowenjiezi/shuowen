@@ -1,0 +1,47 @@
+{
+    "id": 1804,
+    "wordhead": "𩌑",
+    "explanation": "量物之𩌑。一曰抒井𩌑。古以革。从革冤聲。",
+    "volume": "03",
+    "radical": "革",
+    "pronunciation": "於袁切",
+    "variants": [
+        {
+            "wordhead": "䩩",
+            "explanation": "𩌑或从宛。",
+            "seal_character": "嗴"
+        }
+    ],
+    "seal_character": "嗳",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "宛",
+        "冤",
+        "革"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "量物之𩌑。一曰抒井𩌑。",
+            "note": "小徐曰。抒井今言淘井。𩌑、取泥之器。玉裁按。依說文浚、抒也。則小徐說是。依手部抒、挹也。則汲井亦可云抒井。缶部曰。罋、汲缾也。春秋傳言具綆缶。周易言羸其缾。是其物用缶久矣。而其始用革也。"
+        },
+        {
+            "explanation": "古㠯革。",
+            "note": "謂此二者古皆用革。故從革。"
+        },
+        {
+            "explanation": "从革。冤聲。",
+            "note": "於袁切。十四部。"
+        },
+        {
+            "explanation": "𩌑或从宛。",
+            "note": "宛者、下也。宛亦聲。"
+        }
+    ],
+    "indexes": [
+        "𩌑",
+        "䩩"
+    ]
+}

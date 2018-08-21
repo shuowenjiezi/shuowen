@@ -1,0 +1,39 @@
+{
+    "id": 711,
+    "wordhead": "尚",
+    "explanation": "曾也。庶幾也。从八向聲。",
+    "volume": "02",
+    "radical": "八",
+    "pronunciation": "時亮切",
+    "variants": [],
+    "seal_character": "儕",
+    "pinyin": "shang",
+    "pinyin_full": "shànɡ",
+    "components": [
+        "向",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "曾也。",
+            "note": "尚之䛐亦舒。故釋尚爲曾。曾、重也。尚、上也。皆積絫加高之意。義亦相通也。"
+        },
+        {
+            "explanation": "庶幾也。",
+            "note": "釋言曰庶幾、尚也。"
+        },
+        {
+            "explanation": "从八。",
+            "note": "亦象氣之分散。"
+        },
+        {
+            "explanation": "向聲。",
+            "note": "時亮切。十部。"
+        }
+    ],
+    "indexes": [
+        "尚"
+    ]
+}

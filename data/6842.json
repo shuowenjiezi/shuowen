@@ -1,0 +1,39 @@
+{
+    "id": 6842,
+    "wordhead": "怨",
+    "explanation": "恚也。从心夗聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "於願切",
+    "variants": [
+        {
+            "wordhead": "𢘔",
+            "explanation": "古文。",
+            "seal_character": "汕"
+        }
+    ],
+    "seal_character": "汔",
+    "pinyin": "yuan",
+    "pinyin_full": "yuàn",
+    "components": [
+        "令",
+        "夗",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "恚也。从心。夗聲。",
+            "note": "於願切。十四部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "按此篆體葢有誤。集韵、類篇云。古作？。又班馬字類、韵會皆引史記封禪書百姓？其法。字作？。今史記無有如此者。葢古字日卽於亡矣。"
+        }
+    ],
+    "indexes": [
+        "怨",
+        "𢘔"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3057,
+    "wordhead": "旨",
+    "explanation": "美也。从甘匕聲。凡旨之屬皆从旨。",
+    "volume": "05",
+    "radical": "旨",
+    "pronunciation": "職雉切",
+    "variants": [
+        {
+            "wordhead": "𤮻",
+            "explanation": "古文旨<span>[<span>𠤔</span>]</span>。",
+            "seal_character": "宻"
+        }
+    ],
+    "seal_character": "宺",
+    "pinyin": "zhi",
+    "pinyin_full": "zhǐ",
+    "components": [
+        "甘",
+        "千",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "美也。",
+            "note": "㬪韵。今字以爲意恉字。"
+        },
+        {
+            "explanation": "从甘。匕聲。",
+            "note": "職雉切。十五部。"
+        },
+        {
+            "explanation": "古文旨。",
+            "note": "从千甘者、謂甘多也。"
+        }
+    ],
+    "indexes": [
+        "旨",
+        "𤮻"
+    ]
+}

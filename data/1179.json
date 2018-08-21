@@ -1,0 +1,39 @@
+{
+    "id": 1179,
+    "wordhead": "近",
+    "explanation": "附也。从辵斤聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "渠遴切",
+    "variants": [
+        {
+            "wordhead": "𣥍",
+            "explanation": "古文近。",
+            "seal_character": "匨"
+        }
+    ],
+    "seal_character": "匧",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "止",
+        "斤",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "附也。",
+            "note": "許附爲附婁字。坿爲坿益字。疑附近當作坿也。經典釋文。遠近上聲。近之去聲。古無此分別。"
+        },
+        {
+            "explanation": "从辵。斤聲。",
+            "note": "渠遴切。古音十三部。廣韵其謹巨靳切。"
+        }
+    ],
+    "indexes": [
+        "近",
+        "𣥍"
+    ]
+}

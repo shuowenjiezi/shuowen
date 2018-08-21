@@ -1,0 +1,52 @@
+{
+    "id": 5700,
+    "wordhead": "髮",
+    "explanation": "根也。从髟犮聲。",
+    "volume": "09",
+    "radical": "髟",
+    "pronunciation": "方伐切",
+    "variants": [
+        {
+            "wordhead": "𩠖",
+            "explanation": "髮或从首<span>[<span>𩠐</span>]</span>。",
+            "seal_character": "杛"
+        },
+        {
+            "wordhead": "𩑛",
+            "explanation": "古文。",
+            "seal_character": "杜"
+        }
+    ],
+    "seal_character": "杚",
+    "pinyin": "fa",
+    "pinyin_full": "fà",
+    "components": [
+        "犮",
+        "爻",
+        "首",
+        "頁",
+        "髟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "頭上毛也。",
+            "note": "各本作根也。廣韵巳然。以釋名廣雅正之。乃拔也之誤。要此二字可不必有耳。毛部曰。毛者、眉髮之屬。故眉下曰目上毛。須下曰頤下毛。則髮下必當有頭上毛也四字。且下文云鬢者、頰髮。不先言頭上、何以別其在頰者乎。今依玉篇、廣韵語正。"
+        },
+        {
+            "explanation": "从髟犮聲。",
+            "note": "方伐切。十五部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "葢象角羈之形。"
+        }
+    ],
+    "indexes": [
+        "发",
+        "髮",
+        "𩠖",
+        "𩑛"
+    ]
+}

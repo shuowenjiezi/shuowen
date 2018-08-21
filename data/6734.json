@@ -1,0 +1,46 @@
+{
+    "id": 6734,
+    "wordhead": "𢡃",
+    "explanation": "滿也。从心𠶷聲。一曰十萬曰𠶷。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "於力切",
+    "variants": [
+        {
+            "wordhead": "悥",
+            "explanation": "籒文省。",
+            "seal_character": "毝"
+        }
+    ],
+    "seal_character": "毜",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "言",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "滿也。",
+            "note": "方言曰。臆、滿也。廣雅曰。臆、滿也。漢蔣君碑。餘悲馮億。皆意之叚借字也。"
+        },
+        {
+            "explanation": "从心。𠶷聲。",
+            "note": "於力切。一部。"
+        },
+        {
+            "explanation": "一曰十萬曰𢡃。",
+            "note": "詩楚茨傳。萬萬曰億。豐年傳。數萬至萬口億。鄭箋云。十萬曰億。注王制云。億、今十萬。韋昭注鄭語、楚語曰。賈、唐說皆以萬萬爲億。今數也。後鄭十萬爲億。古數也。其詳在說文解字。讀經傳皆作億無作𢡃者。叚借字也。"
+        },
+        {
+            "explanation": "籒文省。",
+            "note": "上从言省。"
+        }
+    ],
+    "indexes": [
+        "𢡃",
+        "悥"
+    ]
+}

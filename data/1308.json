@@ -1,0 +1,35 @@
+{
+    "id": 1308,
+    "wordhead": "齝",
+    "explanation": "吐而噍也。从齒台聲。《爾雅》曰：“牛曰齝。”",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "丑之切",
+    "variants": [],
+    "seal_character": "厸",
+    "pinyin": "chi",
+    "pinyin_full": "chī",
+    "components": [
+        "台",
+        "齒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吐而噍也。",
+            "note": "噍卽嚼字也。見口部。釋獸郭注曰。食之已久。復出嚼之。"
+        },
+        {
+            "explanation": "从齒。台聲。",
+            "note": "丑之切。一部。"
+        },
+        {
+            "explanation": "爾雅曰。牛曰齝。",
+            "note": "釋獸文。"
+        }
+    ],
+    "indexes": [
+        "齝"
+    ]
+}

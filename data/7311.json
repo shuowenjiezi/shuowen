@@ -1,0 +1,39 @@
+{
+    "id": 7311,
+    "wordhead": "浼",
+    "explanation": "汙也。从水免聲。《詩》曰：“河水浼浼。”《孟子》曰：“汝安能浼我？”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "武辠切",
+    "variants": [],
+    "seal_character": "湃",
+    "pinyin": "mei",
+    "pinyin_full": "měi",
+    "components": [
+        "水",
+        "免"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "污也。",
+            "note": "孟子公孫丑篇曰。爾焉能浼我哉。趙注。惡人何能污我也。"
+        },
+        {
+            "explanation": "从水。免聲。",
+            "note": "武罪切。古音免聲字。多在十三部。"
+        },
+        {
+            "explanation": "詩曰。河水浼浼。",
+            "note": "邶風新臺文。毛傳曰。浼浼、平地也。按浼浼與亹亹同。如亹亹文王、卽勉勉文王也。文選吳都賦。淸流亹亹。李注引韓詩亹亹、水流進皃。此必毛詩浼浼之異文。今李注奪一亹字。非。許引此詩者、言假借之義也。"
+        },
+        {
+            "explanation": "孟子曰。汝安能浼我。",
+            "note": "此證本義。"
+        }
+    ],
+    "indexes": [
+        "浼"
+    ]
+}

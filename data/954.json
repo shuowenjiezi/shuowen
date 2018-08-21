@@ -1,0 +1,39 @@
+{
+    "id": 954,
+    "wordhead": "呦",
+    "explanation": "鹿鳴聲也。从口幼聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "伊虬切",
+    "variants": [
+        {
+            "wordhead": "𣢜",
+            "explanation": "呦或从欠。",
+            "seal_character": "判"
+        }
+    ],
+    "seal_character": "刣",
+    "pinyin": "you",
+    "pinyin_full": "yōu",
+    "components": [
+        "口",
+        "欠",
+        "幼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鹿鳴聲也。",
+            "note": "見小雅。"
+        },
+        {
+            "explanation": "从口。幼聲。",
+            "note": "伊虯切。三部。"
+        }
+    ],
+    "indexes": [
+        "呦",
+        "𣢜"
+    ]
+}

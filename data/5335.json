@@ -1,0 +1,41 @@
+{
+    "id": 5335,
+    "wordhead": "衰",
+    "explanation": "艸雨衣。秦謂之萆。从衣，象形。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "穌禾切",
+    "variants": [
+        {
+            "wordhead": "𠆂",
+            "explanation": "古文衰。",
+            "seal_character": "旅"
+        }
+    ],
+    "seal_character": "旄",
+    "pinyin": "suo",
+    "pinyin_full": "suō",
+    "components": [
+        "衰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸雨衣。",
+            "note": "雨衣有不艸者。左傳。成子衣製杖戈。杜曰。製、雨衣。按言製則非艸爲。若今油布衣。"
+        },
+        {
+            "explanation": "秦謂之萆。",
+            "note": "艸部曰。萆、雨衣。一曰衰衣。此則著萆爲秦語也。小雅。何蓑何笠。傳曰。蓑所以僃雨。笠所以禦暑。公羊傳。不蓑城也。何云。若今以艸衣城。齊語注云。襏襫、蓑襞衣也。襞或萆字。亦作薜。六韜。蓑薜簦笠。衰俗从艸作蓑。而衰遂專爲等衰、衰絰字。衰絰本作縗。衰其假借字也。以艸爲雨衣。必層次編之。故引伸爲等衰。後世異其形、異其音。古義茫昧矣。"
+        },
+        {
+            "explanation": "从衣。象形。",
+            "note": "謂冄也。穌禾切。十七部。"
+        }
+    ],
+    "indexes": [
+        "衰",
+        "𠆂"
+    ]
+}

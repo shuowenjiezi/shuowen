@@ -1,0 +1,48 @@
+{
+    "id": 1089,
+    "wordhead": "韙",
+    "explanation": "是也。从是韋聲。《春秋傳》曰：“犯五不韙。”",
+    "volume": "02",
+    "radical": "是",
+    "pronunciation": "于鬼切",
+    "variants": [
+        {
+            "wordhead": "愇",
+            "explanation": "籒文韙从心。",
+            "seal_character": "劵"
+        }
+    ],
+    "seal_character": "労",
+    "pinyin": "wei",
+    "pinyin_full": "wěi",
+    "components": [
+        "是",
+        "韋",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "是也。",
+            "note": "古文尙書曰。時五者來僃。今文尙書作五是來僃。李賢於李雲荀爽傳皆引史記五是來僃可證。凡史記多用今文尙書也。荀爽對策曰。五韙咸僃。韙與是義同。六書之轉注也。李雲上書曰。五氏來僃。氏與是音同在十六部。六書之叚借也。"
+        },
+        {
+            "explanation": "从是。韋聲",
+            "note": "於鬼切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。犯五不韙。",
+            "note": "左傳隱十一年文。"
+        },
+        {
+            "explanation": "籒文韙。从心。",
+            "note": "玉篇云。愇怨恨也。廣韵引字書。愇恨也。皆不云同韙。"
+        }
+    ],
+    "indexes": [
+        "韪",
+        "韙",
+        "愇"
+    ]
+}

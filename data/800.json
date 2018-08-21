@@ -1,0 +1,43 @@
+{
+    "id": 800,
+    "wordhead": "咳",
+    "explanation": "小兒笑也。从口亥聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "戶來切",
+    "variants": [
+        {
+            "wordhead": "孩",
+            "explanation": "古文咳从子。",
+            "seal_character": "兹"
+        }
+    ],
+    "seal_character": "典",
+    "pinyin": "hai",
+    "pinyin_full": "hái",
+    "components": [
+        "口",
+        "子",
+        "亥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小兒𥬇也。",
+            "note": "內則云。孩而名之。爲作小兒𥬇而名之也。"
+        },
+        {
+            "explanation": "从口。亥聲。",
+            "note": "戶來切。一部。"
+        },
+        {
+            "explanation": "古文咳。从子。",
+            "note": "內則孟子皆作此字。按亥部有古文亥。則右當作古文亥。而亦从？者、？亦古文也。於史趙之言知之。"
+        }
+    ],
+    "indexes": [
+        "咳",
+        "孩"
+    ]
+}

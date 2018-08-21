@@ -1,0 +1,62 @@
+{
+    "id": 1803,
+    "wordhead": "鞀",
+    "explanation": "鞀遼也。从革召聲。",
+    "volume": "03",
+    "radical": "革",
+    "pronunciation": "徒刀切",
+    "variants": [
+        {
+            "wordhead": "鞉",
+            "explanation": "鞀或从兆<span>[<span>𡉵</span>]</span>。",
+            "seal_character": "嗰"
+        },
+        {
+            "wordhead": "𪔛",
+            "explanation": "鞀或从鼓从兆<span>[<span>𡉵</span>]</span>。",
+            "seal_character": "嗱"
+        },
+        {
+            "wordhead": "㲈",
+            "explanation": "籒文鞀从殸、召。",
+            "seal_character": "嗲"
+        }
+    ],
+    "seal_character": "嗯",
+    "pinyin": "tao",
+    "pinyin_full": "táo",
+    "components": [
+        "兆",
+        "革",
+        "召",
+        "殸",
+        "鼓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鞀、",
+            "note": "此複字𠜂之未盡者。"
+        },
+        {
+            "explanation": "遼也。",
+            "note": "此門聞也、戸護也、𡔷郭也、琴禁也之例。以曡韵說其義也。遼者、謂遼遠必聞其音也。周禮注曰。鼗如𡔷而小。持其柄搖之。旁耳還自擊。"
+        },
+        {
+            "explanation": "从革。召聲。",
+            "note": "徒刀切。二部。"
+        },
+        {
+            "explanation": "籒文鞀。从殸召。",
+            "note": "周禮以爲韶字。"
+        }
+    ],
+    "indexes": [
+        "鼗",
+        "鞀",
+        "鞉",
+        "𪔛",
+        "㲈"
+    ]
+}

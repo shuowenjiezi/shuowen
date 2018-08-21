@@ -1,0 +1,43 @@
+{
+    "id": 7254,
+    "wordhead": "汓",
+    "explanation": "浮行水上也。从水从子。古或以汓爲没。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "似由切",
+    "variants": [
+        {
+            "wordhead": "泅",
+            "explanation": "汓或从囚聲。",
+            "seal_character": "渆"
+        }
+    ],
+    "seal_character": "清",
+    "pinyin": "qiu",
+    "pinyin_full": "qiú",
+    "components": [
+        "子",
+        "水",
+        "囚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "浮行水上也。",
+            "note": "若今人能划水者是也。列子曰。習於水、勇於泅。"
+        },
+        {
+            "explanation": "从水子。",
+            "note": "子猶小也。浮於水上。望之甚小也。似由切。三部。"
+        },
+        {
+            "explanation": "古文或㠯汓爲𣳚字。",
+            "note": "此古文小篆之別也。其義其音其形皆別矣。按善水者或𣳚或浮皆無不可。則不妨同字同音也。"
+        }
+    ],
+    "indexes": [
+        "汓",
+        "泅"
+    ]
+}

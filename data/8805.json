@@ -1,0 +1,35 @@
+{
+    "id": 8805,
+    "wordhead": "蛅",
+    "explanation": "蛅斯，墨也。从虫占聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "職廉切",
+    "variants": [],
+    "seal_character": "璼",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "虫",
+        "占"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蛅斯、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "墨也。",
+            "note": "釋蟲云。䘃、蛅蟴。郭云。蛓屬。按許蛓下云。毛蟲也。此乃食木葉之蟲。非木中之蠹。其卵育自藏之殻曰雀甕。宜與蛓篆類列。"
+        },
+        {
+            "explanation": "从虫。占聲。",
+            "note": "職廉切。古音在七部。"
+        }
+    ],
+    "indexes": [
+        "蛅"
+    ]
+}

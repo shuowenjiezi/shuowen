@@ -1,0 +1,35 @@
+{
+    "id": 1932,
+    "wordhead": "聿",
+    "explanation": "所以書也。楚謂之聿，吳謂之不律，燕謂之弗。从𦘒一聲。凡聿之屬皆从聿。",
+    "volume": "03",
+    "radical": "聿",
+    "pronunciation": "余律切",
+    "variants": [],
+    "seal_character": "嚟",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "一",
+        "帇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所㠯書也。",
+            "note": "以用也。聿者、所用書之物也。凡言所以者視此。"
+        },
+        {
+            "explanation": "楚謂之聿。吳謂之不律。燕謂之弗。",
+            "note": "一語而聲字各異也。釋器曰。不律謂之筆。郭云。蜀人呼筆爲不律也。語之變轉。按郭云蜀語與許異。郭注爾雅、方言皆不偁說文。弗同拂拭之拂。"
+        },
+        {
+            "explanation": "从𦘒一。",
+            "note": "各本作一聲。今正。此从𦘒而象所書之牘也。余律切。十五部。"
+        }
+    ],
+    "indexes": [
+        "聿"
+    ]
+}

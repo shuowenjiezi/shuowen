@@ -1,0 +1,50 @@
+{
+    "id": 143,
+    "wordhead": "璊",
+    "explanation": "玉䞓色也。从玉㒼聲。禾之赤苗謂之虋，言璊，玉色如之。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "莫奔切",
+    "variants": [
+        {
+            "wordhead": "玧",
+            "explanation": "璊或从允。",
+            "seal_character": "亯"
+        }
+    ],
+    "seal_character": "亮",
+    "pinyin": "men",
+    "pinyin_full": "mén",
+    "components": [
+        "玉",
+        "允"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉䞓色也。",
+            "note": "毛傳曰。璊、赬玉也。今本脫玉字。"
+        },
+        {
+            "explanation": "从王。㒼聲。",
+            "note": "莫奔切。古音在十四部。"
+        },
+        {
+            "explanation": "禾之赤苗謂之𥡹。",
+            "note": "各本从木作樠。今依毛詩釋文宋槧。𥡹卽艸部虋字之或體。艸部不言或作𥡹。而此見之。亦可見或字不能悉載。"
+        },
+        {
+            "explanation": "言璊玉色如之。",
+            "note": "釁聲在十三部。與十四部㒼聲最近。而又雙聲。此璊、𣯩字皆於虋得義也。"
+        },
+        {
+            "explanation": "璊或从允。",
+            "note": "允聲在十三部。"
+        }
+    ],
+    "indexes": [
+        "璊",
+        "玧"
+    ]
+}

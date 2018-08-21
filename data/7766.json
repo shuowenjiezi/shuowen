@@ -1,0 +1,31 @@
+{
+    "id": 7766,
+    "wordhead": "聆",
+    "explanation": "聽也。从耳令聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "灅",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "耳",
+        "令"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聽也。",
+            "note": "二篆轉注。匡謬正俗載俗語云。聆瓦。聆者、聽之知微者也。文王世子曰。夢帝與我九聆。此叚聆爲鈴。夢天以九个鈴與己也。"
+        },
+        {
+            "explanation": "从耳。令聲。",
+            "note": "郎丁切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "聆"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 3608,
+    "wordhead": "棟",
+    "explanation": "極也。从木東聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "多貢切",
+    "variants": [],
+    "seal_character": "幅",
+    "pinyin": "dong",
+    "pinyin_full": "dònɡ",
+    "components": [
+        "木",
+        "東"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "極也。",
+            "note": "極者、謂屋至高之處。繫辭曰。上棟下宇。五架之屋、正中曰棟。釋名曰。棟、中也。居屋之中。"
+        },
+        {
+            "explanation": "從木。東聲。",
+            "note": "多貢切。九部。"
+        }
+    ],
+    "indexes": [
+        "栋",
+        "棟"
+    ]
+}

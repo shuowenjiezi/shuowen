@@ -1,0 +1,39 @@
+{
+    "id": 1054,
+    "wordhead": "趡",
+    "explanation": "動也。从走隹聲。《春秋傳》曰：“盟于趡。”趡，地名。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "千水切",
+    "variants": [],
+    "seal_character": "劌",
+    "pinyin": "cui",
+    "pinyin_full": "cuǐ",
+    "components": [
+        "隹",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "動也。",
+            "note": "楊雄河東賦曰。神騰鬼趡。師古子𥬇才𥬇二反。按說文有趡無趭。廣雅釋室。騰趭犇也。曹音子肖。今疑趭恐誤字。子肖恐誤音耳。然大人賦曰。騰而狂趭。師古音醮。吳都賦。狂趭獷猤。李子召反。則古非無趭字矣。"
+        },
+        {
+            "explanation": "从走。隹聲。",
+            "note": "千水切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。盟于趡。",
+            "note": "見桓十七年。陸翠軌反。"
+        },
+        {
+            "explanation": "趡地名。",
+            "note": "此三字後人增。"
+        }
+    ],
+    "indexes": [
+        "趡"
+    ]
+}

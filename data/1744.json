@@ -1,0 +1,50 @@
+{
+    "id": 1744,
+    "wordhead": "對",
+    "explanation": "譍無方也。从丵从口从寸。",
+    "volume": "03",
+    "radical": "丵",
+    "pronunciation": "都隊切",
+    "variants": [
+        {
+            "wordhead": "對",
+            "explanation": "對或从士。漢文帝以爲責對而爲言，多非誠對，故去其口以从士也。",
+            "seal_character": "喠"
+        }
+    ],
+    "seal_character": "喟",
+    "pinyin": "dui",
+    "pinyin_full": "duì",
+    "components": [
+        "口",
+        "士",
+        "寸",
+        "丵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧭭無方也。",
+            "note": "聘禮注曰。對、荅問也。按對荅古通用。云？無方者、所謂善待問者如撞鐘。叩以大者則大鳴。叩以小者則小鳴也。無方故從丵口。"
+        },
+        {
+            "explanation": "从丵口。从寸。",
+            "note": "寸、法度也。丵口而一歸於法度也。都隊切。十五部。"
+        },
+        {
+            "explanation": "𡭊或从士。漢文帝㠯爲責對而面言。",
+            "note": "依廣韵訂。"
+        },
+        {
+            "explanation": "多非誠對。故去其口㠯從士也。",
+            "note": "鍇曰。士、事也。取事實也。按篇、韵皆作土。未知孰是。趙氏明誠曰。據古鐘鼎皆作對。是漢文亦從古耳。非？更也。"
+        }
+    ],
+    "indexes": [
+        "对",
+        "對",
+        "對",
+        "对"
+    ]
+}

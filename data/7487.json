@@ -1,0 +1,41 @@
+{
+    "id": 7487,
+    "wordhead": "雨",
+    "explanation": "水从雲下也。一象天，冂象雲，水霝其閒也。凡雨之屬皆从雨。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "王矩切",
+    "variants": [
+        {
+            "wordhead": "𠕲",
+            "explanation": "古文。",
+            "seal_character": "漊"
+        }
+    ],
+    "seal_character": "漉",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "雨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水從雲下也。",
+            "note": "引申之凡自上而下者偁雨。"
+        },
+        {
+            "explanation": "一象天。冂象雲。水霝其閒也。",
+            "note": "氺者、水字也。王矩切。五部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "象形。"
+        }
+    ],
+    "indexes": [
+        "雨",
+        "𠕲"
+    ]
+}

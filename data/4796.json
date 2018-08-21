@@ -1,0 +1,43 @@
+{
+    "id": 4796,
+    "wordhead": "𦌔",
+    "explanation": "网也。从网巽聲。",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "思沇切",
+    "variants": [
+        {
+            "wordhead": "𨃿",
+            "explanation": "《逸周書》曰：“不卵不䠣，以成鳥獸”。𦌔者，𦍆獸足也。故或从足。",
+            "seal_character": "捴"
+        }
+    ],
+    "seal_character": "捳",
+    "pinyin": "xuan",
+    "pinyin_full": "xuǎn",
+    "components": [
+        "足",
+        "巽",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "网也。",
+            "note": "网之一也。"
+        },
+        {
+            "explanation": "从网。巺聲。",
+            "note": "思沇切。十四部。"
+        },
+        {
+            "explanation": "𦌔或从足巺。逸周書曰。不卵不䠣。㠯成鳥獸。",
+            "note": "周書文傳解曰。山林非時不𦫵斤斧。以成草木之長。川澤非時不入罔罟。以成魚鼈之長。不麛不卵。以成鳥獸之長。許所據有不䠣二字。"
+        }
+    ],
+    "indexes": [
+        "𦌔",
+        "𨃿"
+    ]
+}

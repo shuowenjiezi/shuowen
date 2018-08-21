@@ -1,0 +1,35 @@
+{
+    "id": 8095,
+    "wordhead": "媰",
+    "explanation": "婦人妊身也。从女芻聲。《周書》曰：“至于媰婦。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "側鳩切",
+    "variants": [],
+    "seal_character": "熪",
+    "pinyin": "chu",
+    "pinyin_full": "chú",
+    "components": [
+        "女",
+        "芻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "婦人妊娠也。",
+            "note": "娠各本作身。今依廣韵十虞正。廣雅曰。媰、㑗也。"
+        },
+        {
+            "explanation": "从女。芻聲。",
+            "note": "側鳩切。古音在四部。"
+        },
+        {
+            "explanation": "周書曰。至于媰婦。",
+            "note": "梓材文。今作屬婦。許所據則壁中文也。崔子玉淸河王誄。惠於媰、孀。亦取諸古文。"
+        }
+    ],
+    "indexes": [
+        "媰"
+    ]
+}

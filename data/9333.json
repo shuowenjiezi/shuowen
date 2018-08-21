@@ -1,0 +1,36 @@
+{
+    "id": 9333,
+    "wordhead": "鐲",
+    "explanation": "鉦也。从金蜀聲。軍法：司馬執鐲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "直角切",
+    "variants": [],
+    "seal_character": "眦",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "金",
+        "蜀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鉦也。",
+            "note": "周禮𡔷人。以金鐲節𡔷。鄭注。鐲、鉦也。形如小鐘。軍行鳴之以爲𡔷節。大鄭云。讀如濁其源之濁。"
+        },
+        {
+            "explanation": "从金。蜀聲。",
+            "note": "直角切。三部。"
+        },
+        {
+            "explanation": "軍灋。司馬執鐲。",
+            "note": "周禮作公司馬執鐲。杜子春云。公司馬謂五人爲伍、伍之司馬也。"
+        }
+    ],
+    "indexes": [
+        "镯",
+        "鐲"
+    ]
+}

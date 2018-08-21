@@ -1,0 +1,55 @@
+{
+    "id": 2784,
+    "wordhead": "制",
+    "explanation": "裁也。从刀从未。未，物成有滋味，可裁斷。一曰止也。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "征例切",
+    "variants": [
+        {
+            "wordhead": "𠝁",
+            "explanation": "古文制如此。",
+            "seal_character": "婺"
+        }
+    ],
+    "seal_character": "婹",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "刀",
+        "未",
+        "彡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "裁也。",
+            "note": "衣部曰。裁、製衣也。製、裁衣也。此裁之本義。此云制、裁也。裁之引伸之義。古多假折爲制。吕㓝。制以㓝。墨子引作折則㓝。魯論。片言可以制獄。古作折獄。羽獵賦。不制中以泉臺。制或爲折。又吕㓝。折民惟㓝。四八目引作制民。"
+        },
+        {
+            "explanation": "从刀未。",
+            "note": "㑹意。征例切。十五部。"
+        },
+        {
+            "explanation": "未、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "物成有滋味可裁𣃔。",
+            "note": "說從未之意。未下曰味也。有滋味可裁𣃔。故刀未爲？。"
+        },
+        {
+            "explanation": "一曰止也。",
+            "note": "前義可包此義。"
+        },
+        {
+            "explanation": "古文制如此。",
+            "note": "從彡者、裁𣃔之而有文也。"
+        }
+    ],
+    "indexes": [
+        "制",
+        "𠝁"
+    ]
+}

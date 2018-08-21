@@ -1,0 +1,39 @@
+{
+    "id": 1050,
+    "wordhead": "䞾",
+    "explanation": "䞾騭，輕薄也。从走虒聲。讀若池。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "直离切",
+    "variants": [],
+    "seal_character": "劈",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "虒",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䞾𨽥、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "輕薄也。",
+            "note": "䞾𨽥、周漢人語。"
+        },
+        {
+            "explanation": "从走。虒聲。",
+            "note": "直离切。十六部。"
+        },
+        {
+            "explanation": "讀若池。",
+            "note": "鍇本作地。"
+        }
+    ],
+    "indexes": [
+        "䞾"
+    ]
+}

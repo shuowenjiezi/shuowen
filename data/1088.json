@@ -1,0 +1,42 @@
+{
+    "id": 1088,
+    "wordhead": "是",
+    "explanation": "直也。从日、正。凡是之屬皆从是。",
+    "volume": "02",
+    "radical": "是",
+    "pronunciation": "承旨切",
+    "variants": [
+        {
+            "wordhead": "𣆞",
+            "explanation": "籒文是从古文正。",
+            "seal_character": "劳"
+        }
+    ],
+    "seal_character": "劲",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "日",
+        "正"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "直也。",
+            "note": "直部曰。正見也。"
+        },
+        {
+            "explanation": "从日正。",
+            "note": "十目燭隱則曰直。以日爲正則日是。从日正會意。天下之物莫正於日也。左傳曰。正直爲正。正曲爲直。五經文字是入曰部。則唐本从曰也。恐非。承𣅀切。𣅀當作紙。十六部。"
+        },
+        {
+            "explanation": "籒文是。从古文正。",
+            "note": "按此知籒篆皆从日。"
+        }
+    ],
+    "indexes": [
+        "是",
+        "𣆞"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 12,
+    "wordhead": "禮",
+    "explanation": "履也。所以事神致福也。从示从豊，豊亦聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "靈啓切",
+    "variants": [
+        {
+            "wordhead": "𠃞",
+            "explanation": "古文禮。",
+            "seal_character": "且"
+        }
+    ],
+    "seal_character": "专",
+    "pinyin": "li",
+    "pinyin_full": "lǐ",
+    "components": [
+        "示",
+        "豊",
+        "乙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𡳐也。",
+            "note": "見禮記祭義、周易序卦傳。𡳐、足所依也。引伸之凡所依皆曰𡳐。此假借之法。屨、𡳐也。禮、𡳐也。𡳐同而義不同。所㠯事神致福也。"
+        },
+        {
+            "explanation": "从示。从豐。",
+            "note": "禮有五經。莫重於祭。故禮字从示。豐者行禮之器。"
+        },
+        {
+            "explanation": "豐亦聲。",
+            "note": "靈啓切。十五部。"
+        }
+    ],
+    "indexes": [
+        "礼",
+        "禮",
+        "𠃞"
+    ]
+}

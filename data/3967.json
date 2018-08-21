@@ -1,0 +1,40 @@
+{
+    "id": 3967,
+    "wordhead": "貧",
+    "explanation": "財分少也。从貝从分，分亦聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "符巾切",
+    "variants": [
+        {
+            "wordhead": "𡧋",
+            "explanation": "古文从宀、分。",
+            "seal_character": "忑"
+        }
+    ],
+    "seal_character": "忐",
+    "pinyin": "pin",
+    "pinyin_full": "pín",
+    "components": [
+        "貝",
+        "分",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "財分少也。",
+            "note": "謂財分而少也。合則見多。分則見少。富、備也、厚也。則貧者、不備、不厚之謂。"
+        },
+        {
+            "explanation": "从貝分。分亦聲。",
+            "note": "符巾切。十三部。"
+        }
+    ],
+    "indexes": [
+        "贫",
+        "貧",
+        "𡧋"
+    ]
+}

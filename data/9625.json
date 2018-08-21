@@ -1,0 +1,32 @@
+{
+    "id": 9625,
+    "wordhead": "隴",
+    "explanation": "天水大阪也。从𨸏龍聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "力鍾切",
+    "variants": [],
+    "seal_character": "硠",
+    "pinyin": "long",
+    "pinyin_full": "lǒnɡ",
+    "components": [
+        "龍",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天水大阪也。",
+            "note": "地理志。天水郡有隴縣。郡國志。漢陽郡、永平十七年天水郡更名也。隴縣有大阪名隴坻。按坻卽上文阺字也。"
+        },
+        {
+            "explanation": "从𨸏。龍聲。",
+            "note": "力歱切。九部。"
+        }
+    ],
+    "indexes": [
+        "陇",
+        "隴"
+    ]
+}

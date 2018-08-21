@@ -1,0 +1,32 @@
+{
+    "id": 1069,
+    "wordhead": "歷",
+    "explanation": "過也。从止厤聲。",
+    "volume": "02",
+    "radical": "止",
+    "pronunciation": "郎擊切",
+    "variants": [],
+    "seal_character": "力",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "止",
+        "厤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "過也。傳也。",
+            "note": "引伸爲治曆明時之曆。"
+        },
+        {
+            "explanation": "从止。厤聲。",
+            "note": "郞擊切。十六部。"
+        }
+    ],
+    "indexes": [
+        "历",
+        "歷"
+    ]
+}

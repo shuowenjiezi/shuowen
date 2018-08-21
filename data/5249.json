@@ -1,0 +1,35 @@
+{
+    "id": 5249,
+    "wordhead": "袍",
+    "explanation": "襺也。从衣包聲。《論語》曰：“衣弊緼袍。”",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "薄襃切",
+    "variants": [],
+    "seal_character": "敧",
+    "pinyin": "pao",
+    "pinyin_full": "páo",
+    "components": [
+        "包",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "襺也。",
+            "note": "秦風。與子同袍。釋言、毛傳皆曰。袍、襺也。玉藻曰。纊爲繭。緼爲袍。注曰。衣有著同褚之異名也。記文袍襺有別。析言之。渾言不別也。古者袍必有表。後代爲外衣之偁。釋名曰。袍、丈夫箸。下至跗者也。袍、苞也。苞、内衣也。婦人以絳作。義亦然也。"
+        },
+        {
+            "explanation": "从衣。包聲。",
+            "note": "薄？切。古音在三部。"
+        },
+        {
+            "explanation": "論語曰。衣敝緼袍。",
+            "note": "敝各本作弊。誤。論語子罕篇文。"
+        }
+    ],
+    "indexes": [
+        "袍"
+    ]
+}

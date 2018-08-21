@@ -1,0 +1,39 @@
+{
+    "id": 8388,
+    "wordhead": "㔶",
+    "explanation": "小桮也。从匚𥫔聲。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "古送切",
+    "variants": [
+        {
+            "wordhead": "㯯",
+            "explanation": "㔶或从木。",
+            "seal_character": "狥"
+        }
+    ],
+    "seal_character": "狤",
+    "pinyin": "gong",
+    "pinyin_full": "ɡònɡ",
+    "components": [
+        "木",
+        "贛",
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小桮也。",
+            "note": "木部曰。桮、㔶也。二篆爲轉注。而桮下見渾言之義。此見析言之義。㒳處互相足而後義全。此許立文之例也。㔶下亦可云桮也。桮下亦可云大㔶也。是互相足之謂也。門部云。大桮爲閜。故小桮爲㔶矣。方言曰。㿿椷盞䀀閜𥂸𥂓桮也。自關而東趙魏之閒曰椷。或曰盞。或曰䀀。按椷葢卽許之㔶。音同字異。許則椷訓匧。各有本義也。"
+        },
+        {
+            "explanation": "从匚。贛聲。",
+            "note": "古送切。按廣韵又音感。正音也。八部。郭注方言椷讀如封緘。略有輕重耳。"
+        }
+    ],
+    "indexes": [
+        "㔶",
+        "㯯"
+    ]
+}

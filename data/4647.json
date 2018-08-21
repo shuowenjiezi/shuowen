@@ -1,0 +1,31 @@
+{
+    "id": 4647,
+    "wordhead": "窣",
+    "explanation": "从穴中卒出。从穴卒聲。",
+    "volume": "07",
+    "radical": "穴",
+    "pronunciation": "蘇骨切",
+    "variants": [],
+    "seal_character": "拏",
+    "pinyin": "su",
+    "pinyin_full": "sū",
+    "components": [
+        "卒",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "從穴中卒出。",
+            "note": "卒猝古今字。子虚賦。媻姍㪍𡨧。上乎金隄。韋昭曰。媻姍㪍𡨧、匍匐上也。按媻姍謂徐行。勃窣謂急行。"
+        },
+        {
+            "explanation": "从穴。卒聲。",
+            "note": "穌骨切。十五部。"
+        }
+    ],
+    "indexes": [
+        "窣"
+    ]
+}

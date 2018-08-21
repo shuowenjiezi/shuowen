@@ -1,0 +1,43 @@
+{
+    "id": 2632,
+    "wordhead": "胑",
+    "explanation": "體四胑也。从肉只聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "章移切",
+    "variants": [
+        {
+            "wordhead": "肢",
+            "explanation": "胑或从支。",
+            "seal_character": "姉"
+        }
+    ],
+    "seal_character": "姈",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "肉",
+        "支",
+        "只"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "體四胑也。",
+            "note": "荀子君道篇。如四胑之從心。淮南脩務訓。四胑不動。孟子謂之四體。孟子注胑作枝。云體者、四枝股肱也。又云折枝、按摩折手節、解罷枝也。自胳胠至腨言手足也。故緫之以胑。"
+        },
+        {
+            "explanation": "从肉。只聲。",
+            "note": "章移切。十六部。"
+        },
+        {
+            "explanation": "胑或从支。",
+            "note": "只支同部。"
+        }
+    ],
+    "indexes": [
+        "胑",
+        "肢"
+    ]
+}

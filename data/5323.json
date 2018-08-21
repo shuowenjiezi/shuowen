@@ -1,0 +1,39 @@
+{
+    "id": 5323,
+    "wordhead": "襭",
+    "explanation": "以衣衽扱物謂之襭。从衣頡聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "胡結切",
+    "variants": [
+        {
+            "wordhead": "擷",
+            "explanation": "襭或从手。",
+            "seal_character": "斸"
+        }
+    ],
+    "seal_character": "斷",
+    "pinyin": "xie",
+    "pinyin_full": "xié",
+    "components": [
+        "手",
+        "衣",
+        "頡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯衣衽扱物謂之襭。",
+            "note": "扱、收也。周南。采采芣苢。薄言襭之。爾雅曰。扱衽謂之襭。毛傳同。"
+        },
+        {
+            "explanation": "从衣。頡聲。",
+            "note": "胡結切。十二部。"
+        }
+    ],
+    "indexes": [
+        "襭",
+        "擷"
+    ]
+}

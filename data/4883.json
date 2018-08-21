@@ -1,0 +1,35 @@
+{
+    "id": 4883,
+    "wordhead": "㡒",
+    "explanation": "載米𤲑也。从巾盾聲。讀若《易》屯卦之屯。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "陟倫切",
+    "variants": [],
+    "seal_character": "換",
+    "pinyin": "zhun",
+    "pinyin_full": "zhūn",
+    "components": [
+        "盾",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "載米𤲑也。",
+            "note": "宁部曰。𤲑、㡒也。所以盛米也。二字相轉注。"
+        },
+        {
+            "explanation": "从巾。",
+            "note": "葢其體方。"
+        },
+        {
+            "explanation": "盾聲。讀若易屯卦之屯。",
+            "note": "陟倫切。十三部。"
+        }
+    ],
+    "indexes": [
+        "㡒"
+    ]
+}

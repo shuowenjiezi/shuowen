@@ -1,0 +1,58 @@
+{
+    "id": 6557,
+    "wordhead": "䞓",
+    "explanation": "赤色也。从赤坙聲。《詩》曰：“魴魚䞓尾。”",
+    "volume": "10",
+    "radical": "赤",
+    "pronunciation": "敕貞切",
+    "variants": [
+        {
+            "wordhead": "赬",
+            "explanation": "䞓或从貞。",
+            "seal_character": "欙"
+        },
+        {
+            "wordhead": "𧹙",
+            "explanation": "或从丁<span>[<span>𠆤</span>]</span>。",
+            "seal_character": "欚"
+        }
+    ],
+    "seal_character": "欘",
+    "pinyin": "cheng",
+    "pinyin_full": "chēnɡ",
+    "components": [
+        "貞",
+        "丁",
+        "赤",
+        "坙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "赤色也。",
+            "note": "周南傳曰。赬、赤也。爾雅釋器。一染謂之縓。再染謂之赬。三染謂之纁。郭曰。縓、今之紅也。赬、染赤也。纁、絳也。按糸部云。縓、帛赤黃色也。絳、大赤也。糸部引爾雅正作䞓。周禮注引爾雅、又哀十七年左傳作竀。假借字也。士喪禮經作䞓。"
+        },
+        {
+            "explanation": "从赤。巠聲。",
+            "note": "勅貞切。十一部。"
+        },
+        {
+            "explanation": "詩曰。魴魚䞓尾。",
+            "note": "周南汝墳文。今詩作赬。"
+        },
+        {
+            "explanation": "䞓或从貞。",
+            "note": "貞聲。"
+        },
+        {
+            "explanation": "或从丁。",
+            "note": "丁聲。"
+        }
+    ],
+    "indexes": [
+        "䞓",
+        "赬",
+        "𧹙"
+    ]
+}

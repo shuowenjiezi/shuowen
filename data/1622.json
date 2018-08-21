@@ -1,0 +1,35 @@
+{
+    "id": 1622,
+    "wordhead": "詍",
+    "explanation": "多言也。从言世聲。《詩》曰：“無然詍詍 。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "余制切",
+    "variants": [],
+    "seal_character": "唔",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "言",
+        "世"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "多言也。",
+            "note": "與口部呭音義皆同。"
+        },
+        {
+            "explanation": "从言。世聲。",
+            "note": "余制切。十五部。"
+        },
+        {
+            "explanation": "詩曰。無然詍詍。",
+            "note": "口部偁詩作呭呭。此作詍詍。葢四家之别也。"
+        }
+    ],
+    "indexes": [
+        "詍"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2043,
+    "wordhead": "敂",
+    "explanation": "擊也。从攴句聲。讀若扣。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "苦候切",
+    "variants": [],
+    "seal_character": "圣",
+    "pinyin": "kou",
+    "pinyin_full": "kòu",
+    "components": [
+        "句",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "擊也。",
+            "note": "周禮。凡四方之賔客敂關。宋書山居賦敂弦、卽江賦之叩舷也。舟底曲如弓。故其上曰弦。自扣叩行而敂廢矣。手部扣、牽馬也。無叩字。"
+        },
+        {
+            "explanation": "从攴。句聲。讀若扣。",
+            "note": "苦𠋫切。四部。"
+        }
+    ],
+    "indexes": [
+        "敂"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": 2392,
+    "wordhead": "𪅀",
+    "explanation": "鳥也。从鳥堇聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "那干切",
+    "variants": [
+        {
+            "wordhead": "𩁘",
+            "explanation": "𪇠或从隹。",
+            "seal_character": "墯"
+        },
+        {
+            "wordhead": "𩁣",
+            "explanation": "古文𪇠。",
+            "seal_character": "墰"
+        },
+        {
+            "wordhead": "𩁳",
+            "explanation": "古文𪇠。",
+            "seal_character": "墱"
+        },
+        {
+            "wordhead": "𩀙",
+            "explanation": "古文𪇠。",
+            "seal_character": "墲"
+        }
+    ],
+    "seal_character": "墮",
+    "pinyin": "nan",
+    "pinyin_full": "nán",
+    "components": [
+        "堇",
+        "隹",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𪄿鳥也。",
+            "note": "今爲難易字、而本義隱矣。"
+        },
+        {
+            "explanation": "从鳥。堇聲。",
+            "note": "那干切。十四部。按堇聲在十三部。合韵也。"
+        },
+        {
+            "explanation": "𪄿或从隹。",
+            "note": "今難易字皆作此。"
+        }
+    ],
+    "indexes": [
+        "𪅀",
+        "𩁘",
+        "𩁣",
+        "𩁳",
+        "𩀙"
+    ]
+}

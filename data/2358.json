@@ -1,0 +1,42 @@
+{
+    "id": 2358,
+    "wordhead": "雧",
+    "explanation": "羣鳥在木上也。从雥从木。",
+    "volume": "04",
+    "radical": "雥",
+    "pronunciation": "秦入切",
+    "variants": [
+        {
+            "wordhead": "集",
+            "explanation": "雧或省。",
+            "seal_character": "墆"
+        }
+    ],
+    "seal_character": "墅",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "木",
+        "雥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羣鳥在木上也。",
+            "note": "引伸爲凡聚之偁。漢人多假襍爲集。"
+        },
+        {
+            "explanation": "从雥木。",
+            "note": "秦人切。七部。"
+        },
+        {
+            "explanation": "雧或省。",
+            "note": "今字作此。"
+        }
+    ],
+    "indexes": [
+        "雧",
+        "集"
+    ]
+}

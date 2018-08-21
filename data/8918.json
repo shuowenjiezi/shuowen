@@ -1,0 +1,57 @@
+{
+    "id": 8918,
+    "wordhead": "蟁",
+    "explanation": "齧人飛蟲。从䖵民聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "無分切",
+    "variants": [
+        {
+            "wordhead": "𧓹",
+            "explanation": "蟁或从昬，以昬時出也。",
+            "seal_character": "甼"
+        },
+        {
+            "wordhead": "蚊",
+            "explanation": "俗蟁从虫从文。",
+            "seal_character": "甽"
+        }
+    ],
+    "seal_character": "画",
+    "pinyin": "wen",
+    "pinyin_full": "wén",
+    "components": [
+        "民",
+        "虫",
+        "文"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧人飛蟲。",
+            "note": "齧人而又善飛者。"
+        },
+        {
+            "explanation": "从䖵。民聲。",
+            "note": "無分切。十三部。此字民聲、則當十二部。疑古本衹有？。而蟁乃後人所製也。"
+        },
+        {
+            "explanation": "蟁或从昏。",
+            "note": "昏从氐省。氐者、下也。俗沾一曰民聲。而？篆上亦沾蟁篆矣。"
+        },
+        {
+            "explanation": "㠯昏時出也。",
+            "note": "說會意之旨。而形聲在其中。"
+        },
+        {
+            "explanation": "俗蟁。从虫。从文。",
+            "note": "虫部曰。秦晉謂之蜹。楚謂之蚊。"
+        }
+    ],
+    "indexes": [
+        "蟁",
+        "𧓹",
+        "蚊"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 6656,
+    "wordhead": "𩓣",
+    "explanation": "待也。从立須聲。",
+    "volume": "10",
+    "radical": "立",
+    "pronunciation": "相俞切",
+    "variants": [
+        {
+            "wordhead": "𥪥",
+            "explanation": "或从芻聲。",
+            "seal_character": "殇"
+        }
+    ],
+    "seal_character": "殆",
+    "pinyin": "xu",
+    "pinyin_full": "xū",
+    "components": [
+        "芻",
+        "立",
+        "須"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "立而待也。",
+            "note": "依韵會補立而二字。今字多作需、作須、而䇓廢矣。雨部曰。需、䇓也。遇雨不進止䇓也。引易云上於天需。需與䇓音義皆同。樊遲名須。須者、䇓之叚借。䇓字僅見漢書翟方進傳。"
+        },
+        {
+            "explanation": "从立。須聲。",
+            "note": "相俞切。古音在四部。"
+        },
+        {
+            "explanation": "或从芻。",
+            "note": "須聲、芻聲同在四部。"
+        }
+    ],
+    "indexes": [
+        "𩓣",
+        "𥪥"
+    ]
+}

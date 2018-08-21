@@ -1,0 +1,38 @@
+{
+    "id": 4372,
+    "wordhead": "秫",
+    "explanation": "稷之黏者。从禾；术，象形。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "食聿切",
+    "variants": [
+        {
+            "wordhead": "朮",
+            "explanation": "秫或省禾。",
+            "seal_character": "憑"
+        }
+    ],
+    "seal_character": "憐",
+    "pinyin": "shu",
+    "pinyin_full": "shú",
+    "components": [
+        "禾",
+        "朮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稷之粘者。",
+            "note": "九穀攷曰。稷、北方謂之高粱。或謂之紅梁。其粘者黃白二種。所謂秫也。秫爲黏稷。而不黏者亦通𧦝爲秫秫。而他穀之黏者亦叚借通偁之曰秫。陶淵明使公田二頃。五十畝種秫。稻之黏者也。崔豹古今注所謂秫爲黏稻是也。"
+        },
+        {
+            "explanation": "从禾。朮象形。",
+            "note": "下象其莖葉。上象其𥝩。食聿切。十五部。鍇本作术聲。"
+        }
+    ],
+    "indexes": [
+        "秫",
+        "朮"
+    ]
+}

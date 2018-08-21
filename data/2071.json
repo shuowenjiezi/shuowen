@@ -1,0 +1,31 @@
+{
+    "id": 2071,
+    "wordhead": "占",
+    "explanation": "視兆問也。从卜从口。",
+    "volume": "03",
+    "radical": "卜",
+    "pronunciation": "職廉切",
+    "variants": [],
+    "seal_character": "坃",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "口",
+        "卜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "視兆問也。",
+            "note": "周禮占人注曰。占蓍龜之卦兆吉凶。又占人掌占龜注曰。占人亦占簭。言掌占龜者。簭短龜長。主於長者。此云視兆問。亦專謂龜⺊。"
+        },
+        {
+            "explanation": "从⺊口。",
+            "note": "職廉切。七部。按上文卟字疑占之變體。後人所竄入。"
+        }
+    ],
+    "indexes": [
+        "占"
+    ]
+}

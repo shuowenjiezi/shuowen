@@ -1,0 +1,43 @@
+{
+    "id": 5969,
+    "wordhead": "仄",
+    "explanation": "側傾也。从人在厂下。",
+    "volume": "09",
+    "radical": "厂",
+    "pronunciation": "阻力切",
+    "variants": [
+        {
+            "wordhead": "𠨮",
+            "explanation": "籒文从夨，夨亦聲。",
+            "seal_character": "梇"
+        }
+    ],
+    "seal_character": "梆",
+    "pinyin": "ze",
+    "pinyin_full": "zè",
+    "components": [
+        "人",
+        "厂",
+        "夨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "側傾也。",
+            "note": "傾下曰。仄也。此仄下云。傾也。是之謂轉注。古與側昃字相假借。"
+        },
+        {
+            "explanation": "从人在厂下。",
+            "note": "會意。阻力切。一部。"
+        },
+        {
+            "explanation": "籒文。从夨。夨亦聲。",
+            "note": "夨、傾頭也。昃亦作𣅔。當是籒文昃字。"
+        }
+    ],
+    "indexes": [
+        "仄",
+        "𠨮"
+    ]
+}

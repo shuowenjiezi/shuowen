@@ -1,0 +1,35 @@
+{
+    "id": 9129,
+    "wordhead": "疁",
+    "explanation": "燒穜也。《漢律》曰：“疁田茠艸。”从田翏聲。",
+    "volume": "13",
+    "radical": "田",
+    "pronunciation": "力求切",
+    "variants": [],
+    "seal_character": "癄",
+    "pinyin": "liu",
+    "pinyin_full": "liú",
+    "components": [
+        "翏",
+        "田"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "燒穜也。",
+            "note": "篇、韵皆云。田不耕、火種也。謂焚其艸木而下種。葢治山田之法爲然。史記曰。楚越之地或火耕。杜甫夔府詩。燒畬度地偏。"
+        },
+        {
+            "explanation": "从田。翏聲。",
+            "note": "力求切。三部。"
+        },
+        {
+            "explanation": "漢律曰。疁田茠艸。",
+            "note": "二者皆農事。茠或薅字。見蓐部。"
+        }
+    ],
+    "indexes": [
+        "疁"
+    ]
+}

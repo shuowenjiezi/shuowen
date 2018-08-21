@@ -1,0 +1,38 @@
+{
+    "id": 5221,
+    "wordhead": "量",
+    "explanation": "稱輕重也。从重省，曏省聲。",
+    "volume": "08",
+    "radical": "重",
+    "pronunciation": "呂張切",
+    "variants": [
+        {
+            "wordhead": "𨤥",
+            "explanation": "古文量。",
+            "seal_character": "敇"
+        }
+    ],
+    "seal_character": "敆",
+    "pinyin": "liang",
+    "pinyin_full": "liánɡ",
+    "components": [
+        "重",
+        "曏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稱輕重也。",
+            "note": "稱者、銓也。漢志曰。量者、所以量多少也。衡權者、所以均物平輕重也。此訓量爲稱輕重者。有多少斯有輕重。視其多少可辜搉其重輕也。其字之所以从重也。引伸之凡料理曰量。凡所容受曰量。"
+        },
+        {
+            "explanation": "从重省。曏省聲。",
+            "note": "吕張切。十部。按亦去聲。"
+        }
+    ],
+    "indexes": [
+        "量",
+        "𨤥"
+    ]
+}

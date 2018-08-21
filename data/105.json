@@ -1,0 +1,31 @@
+{
+    "id": 105,
+    "wordhead": "琳",
+    "explanation": "美玉也。从玉林聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "力尋切",
+    "variants": [],
+    "seal_character": "亅",
+    "pinyin": "lin",
+    "pinyin_full": "lín",
+    "components": [
+        "林",
+        "玉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "美玉也。",
+            "note": "高注淮南、王注楚辭、李孫郭注爾雅皆曰。琳、美玉名。某氏注尙書曰。琳、玉名。"
+        },
+        {
+            "explanation": "从王。林聲。",
+            "note": "力尋切。七部。"
+        }
+    ],
+    "indexes": [
+        "琳"
+    ]
+}

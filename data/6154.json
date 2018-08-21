@@ -1,0 +1,32 @@
+{
+    "id": 6154,
+    "wordhead": "驤",
+    "explanation": "馬之低仰也。从馬襄聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "息良切",
+    "variants": [],
+    "seal_character": "楙",
+    "pinyin": "xiang",
+    "pinyin_full": "xiānɡ",
+    "components": [
+        "襄",
+        "馬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬之低仰也。",
+            "note": "低當作氐。馬之或俛或仰謂之驤。吳都賦。四騏龍驤。古多叚襄爲驤。"
+        },
+        {
+            "explanation": "从馬。襄聲。",
+            "note": "息良切。十部。"
+        }
+    ],
+    "indexes": [
+        "骧",
+        "驤"
+    ]
+}

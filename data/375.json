@@ -1,0 +1,39 @@
+{
+    "id": 375,
+    "wordhead": "𧀦",
+    "explanation": "艸也。可以束。从艸魯聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "郎古切",
+    "variants": [
+        {
+            "wordhead": "蓾",
+            "explanation": "𧀦或从鹵。",
+            "seal_character": "侭"
+        }
+    ],
+    "seal_character": "侬",
+    "pinyin": "lu",
+    "pinyin_full": "lǔ",
+    "components": [
+        "艸",
+        "魯",
+        "鹵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸也。可㠯束。从艸。魯聲。",
+            "note": "郞古切。五部。"
+        },
+        {
+            "explanation": "𧀦或从鹵。",
+            "note": "釋艸云。蓾蔖。郭云。作履苴艸。按說文云。苴、履中艸。謂以艸襯履底曰苴。賈子曰。冠雖敝不以苴履是也。許云可用束。郭云可苴履。大約是一物。"
+        }
+    ],
+    "indexes": [
+        "𧀦",
+        "蓾"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 806,
+    "wordhead": "噍",
+    "explanation": "齧也。从口焦聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "才肖切",
+    "variants": [
+        {
+            "wordhead": "嚼",
+            "explanation": "噍或从爵<span>[<span>𩰦</span>]</span>。",
+            "seal_character": "冀"
+        }
+    ],
+    "seal_character": "兿",
+    "pinyin": "jiao",
+    "pinyin_full": "jiào",
+    "components": [
+        "口",
+        "焦",
+        "爵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧也。",
+            "note": "少儀。侍食於君子。小飯而亟之。數噍。按數噍句絶。所謂亟之也。"
+        },
+        {
+            "explanation": "从口。焦聲。",
+            "note": "才肖切。二部。古讀平聲。如嚼復嚼、今年尙可後年饒是也。"
+        },
+        {
+            "explanation": "噍或从爵。",
+            "note": "古焦爵同部同音。唐韵乃分噍切才𥬇、嚼切才爵矣。今北音去聲。南音入聲。"
+        }
+    ],
+    "indexes": [
+        "噍",
+        "嚼"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1200,
+    "wordhead": "逴",
+    "explanation": "遠也。从辵卓聲。一曰蹇也。讀若棹苕之棹。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "敕角切",
+    "variants": [],
+    "seal_character": "區",
+    "pinyin": "chuo",
+    "pinyin_full": "chuò",
+    "components": [
+        "辵",
+        "卓"
+    ],
+    "xuan_note": "臣鉉等案：棹苕，今無此語，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遠也。",
+            "note": "哀時命曰。處逴逴而日遠。九章曰。道逴遠而日忘。"
+        },
+        {
+            "explanation": "从辵。卓聲。",
+            "note": "敕角切。古音在二部。"
+        },
+        {
+            "explanation": "一曰蹇也。",
+            "note": "此別一義。蹇、？也。莊子。夔謂蚿曰。吾以一足踸踔而行。謂腳長短也。踔卽逴字。今莊子作趻卓。"
+        },
+        {
+            "explanation": "讀若掉苕之掉。",
+            "note": "掉苕未聞。或曰。苕者末也。禽獸之趠於木杪曰掉茗。葢漢時語。"
+        }
+    ],
+    "indexes": [
+        "逴"
+    ]
+}

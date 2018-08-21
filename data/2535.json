@@ -1,0 +1,35 @@
+{
+    "id": 2535,
+    "wordhead": "殣",
+    "explanation": "道中死人，人所覆也。从歺堇聲。《詩》曰：“行有死人，尚或殣之。”",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "渠吝切",
+    "variants": [],
+    "seal_character": "奞",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "堇",
+        "歺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "道中死人。人所覆也。",
+            "note": "今小雅小弁作墐。傳曰。墐、路冢也。按墐者假借字。殣者正字也。義在人所覆。故其字次於殔。左傳。道殣相望。杜云。餓死爲殣。"
+        },
+        {
+            "explanation": "从𣦵。堇聲。",
+            "note": "渠吝切。十三部。"
+        },
+        {
+            "explanation": "詩曰。行有死人。尚或殣之。",
+            "note": "許所據作殣。"
+        }
+    ],
+    "indexes": [
+        "殣"
+    ]
+}

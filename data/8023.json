@@ -1,0 +1,35 @@
+{
+    "id": 8023,
+    "wordhead": "抌",
+    "explanation": "深擊也。从手冘聲。讀若告言不正曰抌。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "竹甚切",
+    "variants": [],
+    "seal_character": "煜",
+    "pinyin": "dan",
+    "pinyin_full": "dǎn",
+    "components": [
+        "冘",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𥥍擊也。",
+            "note": "深淺字許作𥥍。抌深㬪韵字。刺客列傳。左手把其袖。右手揕其匈。揕卽抌字。徐廣曰。一作抗。按抗乃抌之譌耳。"
+        },
+        {
+            "explanation": "从手。冘聲。",
+            "note": "竹甚切。七部。"
+        },
+        {
+            "explanation": "讀若告言不正曰抌。",
+            "note": "宋本無告字。曰抌之抌、未知何字之誤。"
+        }
+    ],
+    "indexes": [
+        "抌"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5102,
+    "wordhead": "𠈈",
+    "explanation": "小皃。从人囟聲。《詩》曰：“𠈈𠈈彼有屋。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "斯氏切",
+    "variants": [],
+    "seal_character": "擆",
+    "pinyin": "ci",
+    "pinyin_full": "cǐ",
+    "components": [
+        "人",
+        "囟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小皃。",
+            "note": "小雅正月曰。佌佌彼有屋。傳曰。佌佌、小也。許所據作{亻+𦥓}。或作𢇌。"
+        },
+        {
+            "explanation": "从人。𦥓聲。",
+            "note": "斯氏切。十六部。按細字亦𦥓聲。葢取雙聲。"
+        }
+    ],
+    "indexes": [
+        "𠈈"
+    ]
+}

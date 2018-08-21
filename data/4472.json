@@ -1,0 +1,39 @@
+{
+    "id": 4472,
+    "wordhead": "𥶶",
+    "explanation": "酒母也。从米，𥷚省聲。",
+    "volume": "07",
+    "radical": "米",
+    "pronunciation": "馳六切",
+    "variants": [
+        {
+            "wordhead": "𩍔",
+            "explanation": "𥷚<span>{<span>𥶶</span>}</span>或从麥，鞠省聲。",
+            "seal_character": "戄"
+        }
+    ],
+    "seal_character": "戃",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "鞠",
+        "米",
+        "麥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酒母也。从米。𥷤省聲。",
+            "note": "𥷤或作？。則亦可云？聲也。駈六切。三部。"
+        },
+        {
+            "explanation": "𥶶或从麥。鞠省聲。",
+            "note": "作麴或以米、或以麥。故其字或从米、或从麥。"
+        }
+    ],
+    "indexes": [
+        "𥶶",
+        "𩍔"
+    ]
+}

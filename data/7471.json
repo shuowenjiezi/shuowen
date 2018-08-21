@@ -1,0 +1,43 @@
+{
+    "id": 7471,
+    "wordhead": "冰",
+    "explanation": "水堅也。从仌从水。",
+    "volume": "11",
+    "radical": "仌",
+    "pronunciation": "魚陵切",
+    "variants": [
+        {
+            "wordhead": "凝",
+            "explanation": "俗𣲝从疑。",
+            "seal_character": "滷"
+        }
+    ],
+    "seal_character": "滶",
+    "pinyin": "ning",
+    "pinyin_full": "nínɡ",
+    "components": [
+        "水",
+        "疑",
+        "仌"
+    ],
+    "xuan_note": "臣鉉等曰：今作筆陵切，以爲冰凍之冰。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水堅也。",
+            "note": "易象傳。初六履霜。陰始凝也。馴致其道。至堅冰也。古本當作陰始冰也。至堅仌也。釋器。冰脂也。孫本冰作凝。按此可證詩膚如凝脂、本作冰脂。以冰代仌、乃別製凝字。經典凡凝字皆冰之變也。"
+        },
+        {
+            "explanation": "从水仌。",
+            "note": "會意。魚陵切。六部。"
+        },
+        {
+            "explanation": "俗冰。从疑。",
+            "note": "以雙聲爲聲。"
+        }
+    ],
+    "indexes": [
+        "冰",
+        "凝"
+    ]
+}

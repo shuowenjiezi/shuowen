@@ -1,0 +1,46 @@
+{
+    "id": 5423,
+    "wordhead": "服",
+    "explanation": "用也。一曰車右騑，所以舟旋。从舟𠬝聲。",
+    "volume": "08",
+    "radical": "舟",
+    "pronunciation": "房六切",
+    "variants": [
+        {
+            "wordhead": "𦨈",
+            "explanation": "古文服从人。",
+            "seal_character": "昦"
+        }
+    ],
+    "seal_character": "春",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "人",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "用也。",
+            "note": "關雎箋曰。服、事也。"
+        },
+        {
+            "explanation": "一曰車右騑所㠯舟旋。",
+            "note": "騑毛刻作騎。誤。馬部曰。騑、驂也。旁馬也。古者夾轅曰服馬。其旁曰驂馬。此析言之。許意謂渾言皆得名服馬也。獨言右騑者、謂將右旋則必策冣右之馬先向右。左旋亦同。舉右以晐左也。舟當作周。馬之周旋如舟之旋。故其字从舟。"
+        },
+        {
+            "explanation": "从舟。𠬝聲",
+            "note": "房六切。古音在一部。"
+        },
+        {
+            "explanation": "古文服。从人。",
+            "note": "从舟从人者。凡事如舟之於人冣切用也。凡事皆當如人之操舟也。"
+        }
+    ],
+    "indexes": [
+        "服",
+        "𦨈"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 239,
+    "wordhead": "熏",
+    "explanation": "火煙上出也。从屮从黑。屮黑，熏黑也。",
+    "volume": "01",
+    "radical": "屮",
+    "pronunciation": "許云切",
+    "variants": [],
+    "seal_character": "伜",
+    "pinyin": "xun",
+    "pinyin_full": "xūn",
+    "components": [
+        "屮",
+        "黑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火煙上出也。",
+            "note": "豳風曰。穹窒熏鼠。"
+        },
+        {
+            "explanation": "从屮。",
+            "note": "象煙上出。此於六書爲叚借。"
+        },
+        {
+            "explanation": "从黑。屮黑熏象。",
+            "note": "此恐學者不達會意。故發明之曰。屮而繼之以黑。此煙上出。而煙所到處成黑色之象也。合二體爲會意。單言上體則爲叚借。與璗本金而从玉同意。故居部末。許云切。十三部。"
+        }
+    ],
+    "indexes": [
+        "熏"
+    ]
+}

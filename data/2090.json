@@ -1,0 +1,35 @@
+{
+    "id": 2090,
+    "wordhead": "𥌡",
+    "explanation": "兒初生瞥者。从目瞏聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "邦免切",
+    "variants": [],
+    "seal_character": "坚",
+    "pinyin": "bian",
+    "pinyin_full": "biǎn",
+    "components": [
+        "目",
+        "睘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "兒初生蔽目者。",
+            "note": "蔽目二字各本作瞥。今依篇、韵正。蔽目謂外有物雍蔽之。非牟子之翳也。"
+        },
+        {
+            "explanation": "从目。瞏聲。",
+            "note": "方辯切。十四部。"
+        },
+        {
+            "explanation": "讀若告之謂調。",
+            "note": "語有譌奪。鉉遂𠜂之。"
+        }
+    ],
+    "indexes": [
+        "𥌡"
+    ]
+}

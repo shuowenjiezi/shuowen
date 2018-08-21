@@ -1,0 +1,31 @@
+{
+    "id": 3737,
+    "wordhead": "棊",
+    "explanation": "博棊。从木其聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "渠之切",
+    "variants": [],
+    "seal_character": "廔",
+    "pinyin": "qi",
+    "pinyin_full": "qí",
+    "components": [
+        "其",
+        "木"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "簙棊。",
+            "note": "竹部曰。簙、局戲也。六箸。十二棊。"
+        },
+        {
+            "explanation": "從木。其聲。",
+            "note": "渠之切。一部。"
+        }
+    ],
+    "indexes": [
+        "棊"
+    ]
+}

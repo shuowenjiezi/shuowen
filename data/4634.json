@@ -1,0 +1,35 @@
+{
+    "id": 4634,
+    "wordhead": "窞",
+    "explanation": "坎中小坎也。从穴从臽，臽亦聲。《易》曰：“入于坎窞。”一曰㫄入也。",
+    "volume": "07",
+    "radical": "穴",
+    "pronunciation": "徒感切",
+    "variants": [],
+    "seal_character": "拂",
+    "pinyin": "dan",
+    "pinyin_full": "dàn",
+    "components": [
+        "臽",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "坎中㪅有坎也。",
+            "note": "各本作坎中小坎。今依易釋文訂。易坎初六曰。入於坎窞。虞翻曰。坎中小穴稱窞。釋文引說文。坎中更有坎也。字林。坎中小坎也。然則今文爲後人以呂改許明矣。"
+        },
+        {
+            "explanation": "从穴臽。臽亦聲。",
+            "note": "徒感切。八部。"
+        },
+        {
+            "explanation": "易曰。入于坎窞。一曰旁入也。",
+            "note": "干寶釋易正用旁入之義。"
+        }
+    ],
+    "indexes": [
+        "窞"
+    ]
+}

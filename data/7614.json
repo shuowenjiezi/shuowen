@@ -1,0 +1,32 @@
+{
+    "id": 7614,
+    "wordhead": "鰒",
+    "explanation": "海魚名。从魚复聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "蒲角切",
+    "variants": [],
+    "seal_character": "澝",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "复",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "海魚也。",
+            "note": "郭注三倉曰。鰒似蛤。一偏著石。廣志曰。鰒無鱗有𣪊。一面附石。細孔襍襍。或七或九。本艸曰。石決明、一名鰒魚。李時珍云。與石決明同類殊種。"
+        },
+        {
+            "explanation": "从魚。𡕨聲。",
+            "note": "蒲角切。三部。"
+        }
+    ],
+    "indexes": [
+        "鳆",
+        "鰒"
+    ]
+}

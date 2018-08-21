@@ -1,0 +1,57 @@
+{
+    "id": 5384,
+    "wordhead": "𡱂",
+    "explanation": "髀也。从尸下丌居几。",
+    "volume": "08",
+    "radical": "尸",
+    "pronunciation": "徒魂切",
+    "variants": [
+        {
+            "wordhead": "𦞠",
+            "explanation": "𡱂或从肉、隼。",
+            "seal_character": "旹"
+        },
+        {
+            "wordhead": "𩪔",
+            "explanation": "𡱂或从骨殿<span>[<span>𣪍</span>]</span>聲。",
+            "seal_character": "旺"
+        }
+    ],
+    "seal_character": "旸",
+    "pinyin": "tun",
+    "pinyin_full": "tún",
+    "components": [
+        "肉",
+        "丌",
+        "尸",
+        "骨",
+        "几",
+        "殿",
+        "隼"
+    ],
+    "xuan_note": "臣鉉等曰：丌、几皆所以凥止也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髀也。",
+            "note": "髀者、股外也。此云髀者。專言股後。"
+        },
+        {
+            "explanation": "从尸下丌凥几。",
+            "note": "凥各本作居。誤。今正。丌、下基也。𡱂者、人之下基。凥几者猶言坐於牀。木部曰。牀安身之几坐也。凥下曰。从尸得几而止。皆謂牀也。徒䰟切。十三部。"
+        },
+        {
+            "explanation": "𡱂或从肉隼。",
+            "note": "隼聲也。與肉部脽字義同字異。"
+        },
+        {
+            "explanation": "𡱂或从骨。𣪍聲。",
+            "note": "今周易、春秋、考工記皆作臋。从肉。軍後曰殿。卽臋之假借字也。"
+        }
+    ],
+    "indexes": [
+        "𡱂",
+        "𦞠",
+        "𩪔"
+    ]
+}

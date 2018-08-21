@@ -1,0 +1,44 @@
+{
+    "id": 6389,
+    "wordhead": "然",
+    "explanation": "燒也。从火肰聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "如延切",
+    "variants": [
+        {
+            "wordhead": "䕼",
+            "explanation": "或从艸、難<span>[<span>𩁘</span>]</span>。<span>   臣鉉等案：艸部有䕼。注云艸也。此重出。 </span>",
+            "seal_character": "橜"
+        }
+    ],
+    "seal_character": "橛",
+    "pinyin": "ran",
+    "pinyin_full": "rán",
+    "components": [
+        "艸",
+        "難",
+        "火",
+        "肰"
+    ],
+    "xuan_note": "臣鉉等曰：今俗別作燃，蓋後人增加。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "燒也。",
+            "note": "通叚爲語䛐。訓爲如此。爾之轉語也。"
+        },
+        {
+            "explanation": "从火。肰聲。",
+            "note": "如延切。十四部。俗作燃。非是。"
+        },
+        {
+            "explanation": "或从艸難。",
+            "note": "徐鉉等曰。艸部有此字。此重出。與火部無涉也。按篆當作？。或古本作？。轉寫奪火耳。漢五行志。巢？墮地。廣韵引陸佐公石闕銘。㓝酷？炭。"
+        }
+    ],
+    "indexes": [
+        "然",
+        "䕼"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 4957,
+    "wordhead": "傀",
+    "explanation": "偉也。从人鬼聲。《周禮》曰：“大傀異。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "公回切",
+    "variants": [
+        {
+            "wordhead": "𤪿",
+            "explanation": "傀或从玉褢聲。",
+            "seal_character": "搱"
+        }
+    ],
+    "seal_character": "搰",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuī",
+    "components": [
+        "人",
+        "玉",
+        "鬼",
+        "褢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "偉也。",
+            "note": "方言𠐤、盛也。注言瓌瑋也。廣雅。傀、盛也。司馬注莊子曰。傀、大也。字林。傀、偉也。"
+        },
+        {
+            "explanation": "从人。鬼聲。",
+            "note": "公回切。十五部。"
+        },
+        {
+            "explanation": "周禮曰。大傀異災。",
+            "note": "大司樂職文。周禮作烖。篆文也。許作災。籒文也。鄭注。傀猶怪也。大傀異烖謂天地奇變。若星辰奔霣及震裂爲害者。"
+        }
+    ],
+    "indexes": [
+        "傀",
+        "𤪿"
+    ]
+}

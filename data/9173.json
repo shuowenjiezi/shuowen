@@ -1,0 +1,43 @@
+{
+    "id": 9173,
+    "wordhead": "勥",
+    "explanation": "迫也。从力强聲。",
+    "volume": "13",
+    "radical": "力",
+    "pronunciation": "巨良切",
+    "variants": [
+        {
+            "wordhead": "𠣃",
+            "explanation": "古文从彊。",
+            "seal_character": "癶"
+        }
+    ],
+    "seal_character": "癵",
+    "pinyin": "qiang",
+    "pinyin_full": "qiǎnɡ",
+    "components": [
+        "彊",
+        "力",
+        "强"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "迫也。",
+            "note": "迫者、近也。按所謂實偪處此也。勥與彊義別。彊者、有力。勥者、以力相迫也。凡云勉勥者、當用此字。今則用強彊而勥？廢矣。"
+        },
+        {
+            "explanation": "从力。強聲。",
+            "note": "巨良切。按此音非也。當依廣韵、玉篇其㒳切。十部。"
+        },
+        {
+            "explanation": "古文从彊。",
+            "note": "按以虫部？籒文強訂之。古當作籒。"
+        }
+    ],
+    "indexes": [
+        "勥",
+        "𠣃"
+    ]
+}

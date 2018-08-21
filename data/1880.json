@@ -1,0 +1,43 @@
+{
+    "id": 1880,
+    "wordhead": "𢀜",
+    "explanation": "袌也。从丮工聲。",
+    "volume": "03",
+    "radical": "丮",
+    "pronunciation": "居悚切",
+    "variants": [
+        {
+            "wordhead": "𢭤",
+            "explanation": "𢀜或加手。",
+            "seal_character": "噗"
+        }
+    ],
+    "seal_character": "噖",
+    "pinyin": "gong",
+    "pinyin_full": "ɡǒnɡ",
+    "components": [
+        "工",
+        "手",
+        "丮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "袌也。",
+            "note": "手部曰。㧬、𢹬也。𢹬、袌也。"
+        },
+        {
+            "explanation": "从𠃨。工聲。",
+            "note": "居竦切。九部。"
+        },
+        {
+            "explanation": "𢀜或加手。",
+            "note": "又見手部。"
+        }
+    ],
+    "indexes": [
+        "𢀜",
+        "𢭤"
+    ]
+}

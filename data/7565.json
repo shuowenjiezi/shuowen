@@ -1,0 +1,43 @@
+{
+    "id": 7565,
+    "wordhead": "鯾",
+    "explanation": "魚名。从魚便聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "房連切",
+    "variants": [
+        {
+            "wordhead": "鯿",
+            "explanation": "鯾又从扁。",
+            "seal_character": "潩"
+        }
+    ],
+    "seal_character": "潨",
+    "pinyin": "bian",
+    "pinyin_full": "biān",
+    "components": [
+        "扁",
+        "便",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鯾魚也。",
+            "note": "爾雅郭注曰。江東呼魴魚爲鯿。海內北經。大鯾居海中。郭曰。鯾卽魴也。"
+        },
+        {
+            "explanation": "从魚。便聲。",
+            "note": "房連切。古音在十一部。"
+        },
+        {
+            "explanation": "鯾或从扁。",
+            "note": "？扁聲同。"
+        }
+    ],
+    "indexes": [
+        "鯾",
+        "鯿"
+    ]
+}

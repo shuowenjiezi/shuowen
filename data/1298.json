@@ -1,0 +1,43 @@
+{
+    "id": 1298,
+    "wordhead": "齰",
+    "explanation": "齧也。从齒㫺聲。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "側革切",
+    "variants": [
+        {
+            "wordhead": "齚",
+            "explanation": "齰或从乍<span>[<span>𠆦</span>]</span>。",
+            "seal_character": "厮"
+        }
+    ],
+    "seal_character": "厭",
+    "pinyin": "ze",
+    "pinyin_full": "zé",
+    "components": [
+        "乍",
+        "昔",
+        "齒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧也。",
+            "note": "漢書灌夫傳。齰舌自殺。鄧通傳。使大子齰癰。"
+        },
+        {
+            "explanation": "从齒。昔聲。",
+            "note": "側革切。古音在五部。"
+        },
+        {
+            "explanation": "齰或从乍。",
+            "note": "乍聲亦五部也。"
+        }
+    ],
+    "indexes": [
+        "齰",
+        "齚"
+    ]
+}

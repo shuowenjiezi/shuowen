@@ -1,0 +1,31 @@
+{
+    "id": 1973,
+    "wordhead": "寸",
+    "explanation": "十分也。人手卻一寸，動𧖴，謂之寸口。从又从一。凡寸之屬皆从寸。",
+    "volume": "03",
+    "radical": "寸",
+    "pronunciation": "倉困切",
+    "variants": [],
+    "seal_character": "囒",
+    "pinyin": "cun",
+    "pinyin_full": "cùn",
+    "components": [
+        "一",
+        "又"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "十分也。",
+            "note": "度別於分。忖於寸。禾部曰。十髮爲程。一程爲分。十分爲寸。"
+        },
+        {
+            "explanation": "人手卻一寸動𧖴謂之寸口。从又一。",
+            "note": "卻猶退也。距手十分動𧖴之處謂之寸口。故字從又一。會意也。周禮注云。脈之大𠋫要在陽明寸口。倉困切。十三部。"
+        }
+    ],
+    "indexes": [
+        "寸"
+    ]
+}

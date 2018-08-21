@@ -1,0 +1,35 @@
+{
+    "id": 1313,
+    "wordhead": "齨",
+    "explanation": "老人齒如臼也。一曰馬八歲齒臼也。从齒从臼，臼亦聲。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "其久切",
+    "variants": [],
+    "seal_character": "厽",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "齒",
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "老人齒如臼也。",
+            "note": "如臼者、齒坳。"
+        },
+        {
+            "explanation": "从齒臼。臼亦聲。",
+            "note": "其久切。三部。"
+        },
+        {
+            "explanation": "一曰馬八歲也。",
+            "note": "馬八歲曰𩡩。齒亦如臼。俗名之齨。亦作？。"
+        }
+    ],
+    "indexes": [
+        "齨"
+    ]
+}

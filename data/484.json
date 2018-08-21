@@ -1,0 +1,43 @@
+{
+    "id": 484,
+    "wordhead": "蕣",
+    "explanation": "木堇，朝華暮落者。从艸䑞聲。《詩》曰：“顔如蕣華。”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "舒閏切",
+    "variants": [],
+    "seal_character": "倢",
+    "pinyin": "shun",
+    "pinyin_full": "shùn",
+    "components": [
+        "艸",
+        "舜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木堇。",
+            "note": "句。"
+        },
+        {
+            "explanation": "朝華莫落者。",
+            "note": "鄭風。顔如舜華。毛曰。舜、木槿也。月令。季夏木堇榮。釋艸云。椴、木堇。櫬、木堇。鄭君曰。木堇、王蒸也。莊子。朝菌不知晦朔。潘尼云。朝菌、木槿也。"
+        },
+        {
+            "explanation": "从艸。",
+            "note": "陸機疏入木類。而爾雅、說文皆入艸類者。樊光曰。其樹如李。其華朝生莫落、與艸同氣。故入艸中。"
+        },
+        {
+            "explanation": "䑞聲。",
+            "note": "舒閏切。十三部。"
+        },
+        {
+            "explanation": "詩曰。顏如蕣華。",
+            "note": "今詩作舜爲假借。"
+        }
+    ],
+    "indexes": [
+        "蕣"
+    ]
+}

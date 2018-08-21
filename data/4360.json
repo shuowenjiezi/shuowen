@@ -1,0 +1,47 @@
+{
+    "id": 4360,
+    "wordhead": "稑",
+    "explanation": "疾孰也。从禾坴聲。《詩》曰：“黍稷種稑。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "力竹切",
+    "variants": [
+        {
+            "wordhead": "穋",
+            "explanation": "稑或从翏。",
+            "seal_character": "憂"
+        }
+    ],
+    "seal_character": "憁",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "翏",
+        "禾",
+        "坴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "疾孰也。",
+            "note": "謂凡穀有如此者。邠風傳曰。先孰曰穋。周禮內宰注。鄭司農云。後種先孰謂之稑。按土宜物性卽同一種而有不同。故大司徒必辨十有二壤之物而知其種。司稼掌巡邦野之稼而辨穜穋之種也。"
+        },
+        {
+            "explanation": "从禾。坴聲。",
+            "note": "力竹切。三部。"
+        },
+        {
+            "explanation": "詩曰。黍稷種稑。",
+            "note": "邠風七月文。按七月及閟宫皆作重。許種下不偁而偁於稑下。葢本作重。轉寫易之也。"
+        },
+        {
+            "explanation": "稑或从翏。",
+            "note": "翏聲也。今周禮作稑。毛詩作穋。"
+        }
+    ],
+    "indexes": [
+        "稑",
+        "穋"
+    ]
+}

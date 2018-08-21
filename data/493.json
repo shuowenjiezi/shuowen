@@ -1,0 +1,31 @@
+{
+    "id": 493,
+    "wordhead": "茁",
+    "explanation": "艸初生出地皃。从艸出聲。《詩》曰：“彼茁者葭。”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "鄒滑切",
+    "variants": [],
+    "seal_character": "倬",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "出",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸初生地皃。从艸出。",
+            "note": "依韵㑹所引。鄒滑切。十五部。言㑹意以包形聲也。"
+        },
+        {
+            "explanation": "詩曰。彼茁者葭。",
+            "note": "召南文。毛曰。茁、出也。按也當爲皃之譌。"
+        }
+    ],
+    "indexes": [
+        "茁"
+    ]
+}

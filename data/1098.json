@@ -1,0 +1,31 @@
+{
+    "id": 1098,
+    "wordhead": "𨑒",
+    "explanation": "步行也。从辵土聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "同都切",
+    "variants": [],
+    "seal_character": "勁",
+    "pinyin": "tu",
+    "pinyin_full": "tú",
+    "components": [
+        "土",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "步行也。",
+            "note": "賁初九。舍車而徒。引伸爲徒搏、徒涉、徒歌、徒擊𡔷。"
+        },
+        {
+            "explanation": "从辵。土聲。",
+            "note": "同都切。五部。𨑒隷變作徒。"
+        }
+    ],
+    "indexes": [
+        "𨑒"
+    ]
+}

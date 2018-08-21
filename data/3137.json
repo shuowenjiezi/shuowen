@@ -1,0 +1,34 @@
+{
+    "id": 3137,
+    "wordhead": "醯",
+    "explanation": "酸也。作醯以𩱙以酒。从𩱙、酒並省，从皿。皿，器也。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "呼雞切",
+    "variants": [],
+    "seal_character": "尙",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酸也。",
+            "note": "酉部曰。酸、酢也。關東謂酢曰酸。周禮醯人。掌共醯物。"
+        },
+        {
+            "explanation": "作醯㠯𩱙㠯酒。",
+            "note": "𩱙者𩱱或字。"
+        },
+        {
+            "explanation": "从𩱙酒、竝省。从皿。皿、器也。",
+            "note": "器者、周禮所謂罋也。呼雞切。十六部。"
+        }
+    ],
+    "indexes": [
+        "醯"
+    ]
+}

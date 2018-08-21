@@ -1,0 +1,35 @@
+{
+    "id": 6300,
+    "wordhead": "獡",
+    "explanation": "犬獡獡不附人也。从犬舄聲。南楚謂相驚曰獡。讀若愬。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "式略切",
+    "variants": [],
+    "seal_character": "槹",
+    "pinyin": "shuo",
+    "pinyin_full": "shuò",
+    "components": [
+        "犬",
+        "舄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬獡獡不附人也。",
+            "note": "良犬宋獡、以此得名。亦作猎、作㹱。"
+        },
+        {
+            "explanation": "从犬。舄聲。南楚謂相驚曰獡。",
+            "note": "方言曰。獡、驚也。宋衛南楚凡相驚曰獡。或曰透。透式六反。"
+        },
+        {
+            "explanation": "讀若愬。",
+            "note": "式略切。五部。古愬讀如朔。"
+        }
+    ],
+    "indexes": [
+        "獡"
+    ]
+}

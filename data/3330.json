@@ -1,0 +1,55 @@
+{
+    "id": 3330,
+    "wordhead": "牆",
+    "explanation": "垣蔽也。从嗇爿聲。",
+    "volume": "05",
+    "radical": "嗇",
+    "pronunciation": "才良切",
+    "variants": [
+        {
+            "wordhead": "𤖣",
+            "explanation": "籒文从二禾。",
+            "seal_character": "崐"
+        },
+        {
+            "wordhead": "𤖧",
+            "explanation": "籒文亦从二來。",
+            "seal_character": "崑"
+        }
+    ],
+    "seal_character": "崏",
+    "pinyin": "qiang",
+    "pinyin_full": "qiánɡ",
+    "components": [
+        "來",
+        "爿",
+        "禾",
+        "嗇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "垣蔽也。",
+            "note": "土部曰。垣、牆也。左傳曰。人之有牆。以蔽惡也。故曰垣蔽。釋宫曰。牆謂之墉。釋名曰。牆、障也。"
+        },
+        {
+            "explanation": "从𠾂。",
+            "note": "小徐曰。取愛𠾂自䕶也。"
+        },
+        {
+            "explanation": "爿聲。",
+            "note": "才良切。十部。按凡爿聲、二徐多肊改爲牀省聲。此爿聲、小徐云亦當言牀省。韵會遂改之。"
+        },
+        {
+            "explanation": "籒文。亦从二來。",
+            "note": "按玉篇云。𤖣者籒文。？者古文。與今本異。"
+        }
+    ],
+    "indexes": [
+        "墙",
+        "牆",
+        "𤖣",
+        "𤖧"
+    ]
+}

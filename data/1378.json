@@ -1,0 +1,36 @@
+{
+    "id": 1378,
+    "wordhead": "躓",
+    "explanation": "跲也。从足質聲。《詩》曰：“載躓其尾。”",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "陟利切",
+    "variants": [],
+    "seal_character": "吂",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "足",
+        "質"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "跲也。",
+            "note": "釋言、毛傳皆曰。疐、跲也。疐者躓之叚借字。"
+        },
+        {
+            "explanation": "从足。質聲。",
+            "note": "陟利切。古音在十二部。詩正義引竹二反。"
+        },
+        {
+            "explanation": "詩曰。載躓其尾。",
+            "note": "豳風。載疐其尾。許所據作躓。"
+        }
+    ],
+    "indexes": [
+        "踬",
+        "躓"
+    ]
+}

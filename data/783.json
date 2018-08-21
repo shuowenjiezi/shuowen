@@ -1,0 +1,43 @@
+{
+    "id": 783,
+    "wordhead": "吻",
+    "explanation": "口邊也。从口勿聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "武粉切",
+    "variants": [
+        {
+            "wordhead": "𦝮",
+            "explanation": "吻或从肉从昬。",
+            "seal_character": "兦"
+        }
+    ],
+    "seal_character": "入",
+    "pinyin": "wen",
+    "pinyin_full": "wěn",
+    "components": [
+        "肉",
+        "口",
+        "勿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "口邊也。",
+            "note": "曲禮注云。口旁曰咡。廣雅云。咡謂之吻。考工記。銳喙、決吻。鄭曰。吻、口腃也。釋名曰。吻、免也。抆也。卷也。"
+        },
+        {
+            "explanation": "从口。勿聲。",
+            "note": "武粉切。十三部。勿聲在十五部。合韵也。"
+        },
+        {
+            "explanation": "吻或从肉从昏。",
+            "note": "昏聲也。凡昏、皆从氏。不从民。字亦作䐇、作脗。皆？之俗也。凡言脗合當用此。"
+        }
+    ],
+    "indexes": [
+        "吻",
+        "𦝮"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 9445,
+    "wordhead": "料",
+    "explanation": "量也。从斗，米在其中。讀若遼。",
+    "volume": "14",
+    "radical": "斗",
+    "pronunciation": "洛蕭切",
+    "variants": [],
+    "seal_character": "瞝",
+    "pinyin": "liao",
+    "pinyin_full": "liào",
+    "components": [
+        "米",
+        "斗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "量也。",
+            "note": "量者、稱輕重也。稱其輕重曰量。稱其多少曰料。其義一也。知其多少、斯知其輕重矣。如稻重一䄷爲粟二十斗是也。引申之、凡所量度豫備之物曰料。讀去聲。"
+        },
+        {
+            "explanation": "从米在斗中。",
+            "note": "米在斗中、非盈斗也。視其淺深而可料其多少。此會意。"
+        },
+        {
+            "explanation": "讀若遼。",
+            "note": "洛蕭切。二部。廣韵又去聲。"
+        }
+    ],
+    "indexes": [
+        "料"
+    ]
+}

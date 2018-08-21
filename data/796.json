@@ -1,0 +1,31 @@
+{
+    "id": 796,
+    "wordhead": "唴",
+    "explanation": "秦晉謂兒泣不止曰唴。从口羌聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "丘尚切",
+    "variants": [],
+    "seal_character": "兴",
+    "pinyin": "qiang",
+    "pinyin_full": "qiànɡ",
+    "components": [
+        "口",
+        "羌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "秦晉調兒泣不止曰唴。",
+            "note": "方言。自關而西秦晉之閒。凡大人少兒泣而不止謂之唴。哭極音絶亦謂之唴。平原謂啼極無聲謂之唴哴。"
+        },
+        {
+            "explanation": "从口。羌聲。",
+            "note": "丘尙切。十部。"
+        }
+    ],
+    "indexes": [
+        "唴"
+    ]
+}

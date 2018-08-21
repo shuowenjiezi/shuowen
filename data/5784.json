@@ -1,0 +1,43 @@
+{
+    "id": 5784,
+    "wordhead": "𠣾",
+    "explanation": "重也。从勹復聲。",
+    "volume": "09",
+    "radical": "勹",
+    "pronunciation": "扶富切",
+    "variants": [
+        {
+            "wordhead": "𠣸",
+            "explanation": "或省彳。",
+            "seal_character": "枺"
+        }
+    ],
+    "seal_character": "枹",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "復",
+        "勹",
+        "复"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "重也。",
+            "note": "今則複行而？廢矣。"
+        },
+        {
+            "explanation": "从勹。復聲。",
+            "note": "扶富切。三部。廣韵匹北切。"
+        },
+        {
+            "explanation": "或省彳。",
+            "note": "集韵云。古作？。按小徐本有？無？。云从勹、？聲。"
+        }
+    ],
+    "indexes": [
+        "𠣾",
+        "𠣸"
+    ]
+}

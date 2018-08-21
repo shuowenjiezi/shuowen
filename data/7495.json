@@ -1,0 +1,35 @@
+{
+    "id": 7495,
+    "wordhead": "霄",
+    "explanation": "雨䨘爲霄。从雨肖聲。齊語也。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "相邀切",
+    "variants": [],
+    "seal_character": "漘",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "雨",
+        "肖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雨霰爲霄。",
+            "note": "雨猶𩂣也。釋天曰。雨䨘爲霄雪。此霄字本義。若淮南書上游於霄雿之野。高讀如紺綃之綃。此則別爲一義。乃今義行而古義䍐用矣。霄亦叚消。"
+        },
+        {
+            "explanation": "从雨。肖聲。",
+            "note": "相邀切。二部。"
+        },
+        {
+            "explanation": "齊語也。",
+            "note": "亦方俗語言如此。"
+        }
+    ],
+    "indexes": [
+        "霄"
+    ]
+}

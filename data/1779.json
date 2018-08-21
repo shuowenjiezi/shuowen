@@ -1,0 +1,61 @@
+{
+    "id": 1779,
+    "wordhead": "䢉",
+    "explanation": "耕也。从䢅囟聲。",
+    "volume": "03",
+    "radical": "䢅",
+    "pronunciation": "奴冬切",
+    "variants": [
+        {
+            "wordhead": "𨑋",
+            "explanation": "籒文䢉从林。",
+            "seal_character": "嗐"
+        },
+        {
+            "wordhead": "𦦥",
+            "explanation": "古文䢉。",
+            "seal_character": "嗑"
+        },
+        {
+            "wordhead": "辳",
+            "explanation": "亦古文䢉。",
+            "seal_character": "嗒"
+        }
+    ],
+    "seal_character": "嗏",
+    "pinyin": "nong",
+    "pinyin_full": "nónɡ",
+    "components": [
+        "辰",
+        "林",
+        "田",
+        "臼",
+        "囟"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“當从凶乃得聲。”",
+    "duan_notes": [
+        {
+            "explanation": "耕人也。",
+            "note": "各本無人字。今依玄應書卷十一補。食貨志。四民有業。闢土植穀曰農。洪範。次三日。農用八政。鄭云。農讀爲醲。易其字也。某氏因訓農爲厚矣。"
+        },
+        {
+            "explanation": "从䢅。",
+            "note": "庶人明而動。晦而休。故從䢅。"
+        },
+        {
+            "explanation": "囟聲。",
+            "note": "鍇曰。當從凶、乃得聲。玉裁按。此囱聲之誤。囱者、明也。"
+        },
+        {
+            "explanation": "亦古文農。",
+            "note": "小徐從艸。大徐從林。夏竦曰。？見古尚書。"
+        }
+    ],
+    "indexes": [
+        "䢉",
+        "𨑋",
+        "𦦥",
+        "辳"
+    ]
+}

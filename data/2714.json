@@ -1,0 +1,50 @@
+{
+    "id": 2714,
+    "wordhead": "肰",
+    "explanation": "犬肉也。从犬、肉。讀若然。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "如延切",
+    "variants": [
+        {
+            "wordhead": "𦝸",
+            "explanation": "古文肰。",
+            "seal_character": "娧"
+        },
+        {
+            "wordhead": "𥇃",
+            "explanation": "亦古文肰。",
+            "seal_character": "娨"
+        }
+    ],
+    "seal_character": "娦",
+    "pinyin": "ran",
+    "pinyin_full": "rán",
+    "components": [
+        "肉",
+        "日",
+        "犬",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬肉也。从肉犬。讀若然。",
+            "note": "如延切。十四部。"
+        },
+        {
+            "explanation": "古文肰。",
+            "note": "小篆從一犬。古文從二犬。"
+        },
+        {
+            "explanation": "亦古文肰。",
+            "note": "按此葢？之譌耳。"
+        }
+    ],
+    "indexes": [
+        "肰",
+        "𦝸",
+        "𥇃"
+    ]
+}

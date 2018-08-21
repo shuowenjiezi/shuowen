@@ -1,0 +1,43 @@
+{
+    "id": 876,
+    "wordhead": "周",
+    "explanation": "密也。从用、口。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "職畱切",
+    "variants": [
+        {
+            "wordhead": "𠄗",
+            "explanation": "古文周字从古文及。",
+            "seal_character": "凎"
+        }
+    ],
+    "seal_character": "凍",
+    "pinyin": "zhou",
+    "pinyin_full": "zhōu",
+    "components": [
+        "口",
+        "及",
+        "用"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "密也。",
+            "note": "密、山部曰山如堂者。引伸訓爲周緻也。左傳。晏子曰。淸濁小大。短長疾徐。哀樂剛柔。遟速高下。出入周疏。以相濟也。以周與疏反對。又襄二十七年。春。胥梁帶使諸喪邑者。具車徒以受地。必周。杜皆云。周、密也。按忠信爲周。謂忠信之人無不周密者。"
+        },
+        {
+            "explanation": "从用口。",
+            "note": "善用其口則密。不密者皆由於口。職畱切。三部。"
+        },
+        {
+            "explanation": "古文周字。从古文及。",
+            "note": "及之者、周至之意。"
+        }
+    ],
+    "indexes": [
+        "周",
+        "𠄗"
+    ]
+}

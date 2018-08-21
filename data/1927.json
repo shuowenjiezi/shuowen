@@ -1,0 +1,38 @@
+{
+    "id": 1927,
+    "wordhead": "支",
+    "explanation": "去竹之枝也。从手持半竹。凡支之屬皆从支。",
+    "volume": "03",
+    "radical": "支",
+    "pronunciation": "章移切",
+    "variants": [
+        {
+            "wordhead": "𢺶",
+            "explanation": "古文支。",
+            "seal_character": "嚗"
+        }
+    ],
+    "seal_character": "嚖",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "又",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "去竹之枝也。从手持半竹。",
+            "note": "此於字形得其義也。章移切。十六部。"
+        },
+        {
+            "explanation": "古文支。",
+            "note": "上下各分竹之半。手在其中。"
+        }
+    ],
+    "indexes": [
+        "支",
+        "𢺶"
+    ]
+}

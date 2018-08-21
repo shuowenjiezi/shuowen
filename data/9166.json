@@ -1,0 +1,43 @@
+{
+    "id": 9166,
+    "wordhead": "勳",
+    "explanation": "能成王功也。从力熏聲。",
+    "volume": "13",
+    "radical": "力",
+    "pronunciation": "許云切",
+    "variants": [
+        {
+            "wordhead": "勛",
+            "explanation": "古文勳从員。",
+            "seal_character": "癮"
+        }
+    ],
+    "seal_character": "癭",
+    "pinyin": "xun",
+    "pinyin_full": "xūn",
+    "components": [
+        "熏",
+        "力",
+        "員"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "能成王功也。",
+            "note": "司勳曰。王功曰勳。鄭云。輔成王業若周公。"
+        },
+        {
+            "explanation": "从力。熏聲。",
+            "note": "許云切。十三部。"
+        },
+        {
+            "explanation": "古文勳。从員。",
+            "note": "員聲也。周禮故書勳作勛。鄭司農云。勛讀爲勳。勳、功也。按此先鄭以今字釋古文也。故書勛字、學者不識。故先鄭云此卽小篆之勳。"
+        }
+    ],
+    "indexes": [
+        "勳",
+        "勛"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 3232,
+    "wordhead": "餞",
+    "explanation": "送去也。从食戔聲。《詩》曰：“顯父餞之。”",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "才線切",
+    "variants": [],
+    "seal_character": "岔",
+    "pinyin": "jian",
+    "pinyin_full": "jiàn",
+    "components": [
+        "戔",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "送去食也。",
+            "note": "各本少食字。今依左傳音義補。毛傳曰。祖而舍軷。飮酒於其側曰餞。"
+        },
+        {
+            "explanation": "从𠊊。戔聲。",
+            "note": "才線切。十四部。"
+        },
+        {
+            "explanation": "詩曰。顯父餞之。",
+            "note": "大雅文。"
+        }
+    ],
+    "indexes": [
+        "饯",
+        "餞"
+    ]
+}

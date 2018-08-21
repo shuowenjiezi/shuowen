@@ -1,0 +1,39 @@
+{
+    "id": 2346,
+    "wordhead": "美",
+    "explanation": "甘也。从羊从大。羊在六畜主給膳也。美與善同意。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "無鄙切",
+    "variants": [],
+    "seal_character": "塷",
+    "pinyin": "mei",
+    "pinyin_full": "měi",
+    "components": [
+        "大",
+        "羊"
+    ],
+    "xuan_note": "臣鉉等曰：羊大則美，故从大。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "甘也。",
+            "note": "甘部曰。美也。甘者、五味之一。而五味之美皆曰甘。引伸之凡好皆謂之美。"
+        },
+        {
+            "explanation": "从羊大。",
+            "note": "羊大則肥美。無鄙切。十五部。"
+        },
+        {
+            "explanation": "羊在六畜主給膳也。",
+            "note": "周禮。膳用六牲。始養之曰六畜。將用之曰六牲。馬牛羊豕犬雞也。膳之言善也。羊者、祥也。故美从羊。此說从羊之意。"
+        },
+        {
+            "explanation": "美與善同意。",
+            "note": "美？義羑皆同意。"
+        }
+    ],
+    "indexes": [
+        "美"
+    ]
+}

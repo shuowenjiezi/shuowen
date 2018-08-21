@@ -1,0 +1,31 @@
+{
+    "id": 3112,
+    "wordhead": "䖐",
+    "explanation": "虎聲也。从虎斤聲。",
+    "volume": "05",
+    "radical": "虎",
+    "pronunciation": "語斤切",
+    "variants": [],
+    "seal_character": "寽",
+    "pinyin": "yin",
+    "pinyin_full": "yín",
+    "components": [
+        "斤",
+        "虎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "虎聲也。",
+            "note": "猶㹞爲犬吠聲。"
+        },
+        {
+            "explanation": "从虎。斤聲。",
+            "note": "語斤切。古音在十三部。"
+        }
+    ],
+    "indexes": [
+        "䖐"
+    ]
+}

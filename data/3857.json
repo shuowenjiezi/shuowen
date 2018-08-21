@@ -1,0 +1,41 @@
+{
+    "id": 3857,
+    "wordhead": "南",
+    "explanation": "艸木至南方，有枝任也。从𣎵𢆉聲。",
+    "volume": "06",
+    "radical": "𣎵",
+    "pronunciation": "那含切",
+    "variants": [
+        {
+            "wordhead": "𡴖",
+            "explanation": "古文。",
+            "seal_character": "彙"
+        }
+    ],
+    "seal_character": "彘",
+    "pinyin": "nan",
+    "pinyin_full": "nán",
+    "components": [
+        "巿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸木至南方有枝任也。",
+            "note": "此亦脫誤。當云南任也。與東動也一例。下乃云艸木至南方有枝任也、發明从𣎵之意。漢律曆志曰。大陽者南方。南任也。陽氣任養物。於時爲夏。云艸木至南方者、猶云艸木至夏也。有枝任者、謂夏時艸木畼楙丁壯、有所枝𠲱任載也。故从𣎵。按古南男二字相假借。"
+        },
+        {
+            "explanation": "从𣎵。𢆉聲。",
+            "note": "𨙻含切。古音在七部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "文六重一"
+        }
+    ],
+    "indexes": [
+        "南",
+        "𡴖"
+    ]
+}

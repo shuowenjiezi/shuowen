@@ -1,0 +1,42 @@
+{
+    "id": 2349,
+    "wordhead": "羴",
+    "explanation": "羊臭也。从三羊。凡羴之屬皆从羴。",
+    "volume": "04",
+    "radical": "羴",
+    "pronunciation": "式連切",
+    "variants": [
+        {
+            "wordhead": "羶",
+            "explanation": "羴或从亶。",
+            "seal_character": "塼"
+        }
+    ],
+    "seal_character": "塻",
+    "pinyin": "shan",
+    "pinyin_full": "shān",
+    "components": [
+        "羊",
+        "亶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羊臭也。",
+            "note": "臭者、气之通於鼻者也。羊多則气羴。故从三羊。"
+        },
+        {
+            "explanation": "从三羊。",
+            "note": "式連切。十四部。"
+        },
+        {
+            "explanation": "羴或从亶。",
+            "note": "亶聲也。今經傳多从或字。"
+        }
+    ],
+    "indexes": [
+        "羴",
+        "羶"
+    ]
+}

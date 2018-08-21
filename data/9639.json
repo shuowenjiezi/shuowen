@@ -1,0 +1,52 @@
+{
+    "id": 9639,
+    "wordhead": "陳",
+    "explanation": "宛丘，舜後嬀滿之所封。从𨸏从木，申聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "直珍切",
+    "variants": [
+        {
+            "wordhead": "𨸬",
+            "explanation": "古文陳。",
+            "seal_character": "硯"
+        }
+    ],
+    "seal_character": "确",
+    "pinyin": "chen",
+    "pinyin_full": "chén",
+    "components": [
+        "申",
+        "木",
+        "阜"
+    ],
+    "xuan_note": "臣鉉等曰：陳者，大昊之虛，畫八卦之所，木德之始，故从木。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宛丘也。",
+            "note": "韵會有也。"
+        },
+        {
+            "explanation": "舜後嬀滿之所封。",
+            "note": "毛傳諩曰。陳者、大皞虙戲氏之墟。帝舜之冑。有虞閼父者、爲周武王陶正。武王賴其利器用。與其神明之後。封其子嬀滿於陳。都於宛丘之側。是曰陳胡公。按今河南陳州府治是其地。許必言宛丘者、爲其字从𨸏也。毛傳曰。四方高中央下曰宛丘。卽釋丘之宛中曰宛丘也。陳本大皞之虛正字。俗叚爲敶列之敶。陳行而敶廢矣。"
+        },
+        {
+            "explanation": "从𨸏。从木。",
+            "note": "大皞以木德王。故字从木。"
+        },
+        {
+            "explanation": "申聲。",
+            "note": "直珍切。十二部。"
+        },
+        {
+            "explanation": "古文陳。",
+            "note": "按古文从申不从木。"
+        }
+    ],
+    "indexes": [
+        "陈",
+        "陳",
+        "𨸬"
+    ]
+}

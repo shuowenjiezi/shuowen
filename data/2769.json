@@ -1,0 +1,35 @@
+{
+    "id": 2769,
+    "wordhead": "剈",
+    "explanation": "挑取也。从刀肙聲。一曰窐也。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "烏玄切",
+    "variants": [],
+    "seal_character": "婪",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "刀",
+        "肙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "挑取也。",
+            "note": "抉而取之也。挑、抉也。今俗云剜。許書無剜字。"
+        },
+        {
+            "explanation": "从刀。肙聲。",
+            "note": "烏玄切。十四部。"
+        },
+        {
+            "explanation": "一曰窐也。",
+            "note": "穴部曰。窐、空也。窐與剈音義通。如圭蠲之比。"
+        }
+    ],
+    "indexes": [
+        "剈"
+    ]
+}

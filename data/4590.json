@@ -1,0 +1,39 @@
+{
+    "id": 4590,
+    "wordhead": "寓",
+    "explanation": "寄也。从宀禺聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "牛具切",
+    "variants": [
+        {
+            "wordhead": "庽",
+            "explanation": "寓或从广。",
+            "seal_character": "抐"
+        }
+    ],
+    "seal_character": "抏",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "禺",
+        "宀",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寄也。",
+            "note": "方言曰。寓、寄也。左傳曰寓書。史記曰木禺、龍禺者、寓之叚借也。"
+        },
+        {
+            "explanation": "从宀。禺聲。",
+            "note": "牛具切。四部。"
+        }
+    ],
+    "indexes": [
+        "寓",
+        "庽"
+    ]
+}

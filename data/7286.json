@@ -1,0 +1,35 @@
+{
+    "id": 7286,
+    "wordhead": "瀀",
+    "explanation": "澤多也。从水憂聲。《詩》曰：“旣瀀旣渥。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "於求切",
+    "variants": [],
+    "seal_character": "温",
+    "pinyin": "you",
+    "pinyin_full": "yōu",
+    "components": [
+        "水",
+        "憂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "澤多也。",
+            "note": "與優。義近。瞻卬傳曰。優、渥也。優卽瀀之假借矣。"
+        },
+        {
+            "explanation": "从水。憂聲。",
+            "note": "於求切。三部。"
+        },
+        {
+            "explanation": "詩曰。旣瀀旣渥。",
+            "note": "小雅信南山文。今詩作優。"
+        }
+    ],
+    "indexes": [
+        "瀀"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6680,
+    "wordhead": "忠",
+    "explanation": "敬也。从心中聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "陟弓切",
+    "variants": [],
+    "seal_character": "殥",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "中",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敬也。",
+            "note": "敬者、肅也。未有盡心而不敬者。此與愼訓謹同義。"
+        },
+        {
+            "explanation": "盡心曰忠。",
+            "note": "各本無此四字。今依孝經疏補。孝經疏、唐元行沖所爲。唐本有此。"
+        },
+        {
+            "explanation": "从心。中聲。",
+            "note": "陟弓切。九部。"
+        }
+    ],
+    "indexes": [
+        "忠"
+    ]
+}

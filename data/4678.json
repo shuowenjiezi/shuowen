@@ -1,0 +1,35 @@
+{
+    "id": 4678,
+    "wordhead": "疴",
+    "explanation": "病也。从疒可聲。《五行傳》曰：“時卽有口痾。”",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "烏何切",
+    "variants": [],
+    "seal_character": "拱",
+    "pinyin": "ke",
+    "pinyin_full": "kē",
+    "components": [
+        "可",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "病也。",
+            "note": "鴻範五行傳鄭注同。"
+        },
+        {
+            "explanation": "从𤕫。可聲。",
+            "note": "烏何切。十七部。"
+        },
+        {
+            "explanation": "五行傳曰。時卽有口疴。",
+            "note": "五行傳者、伏生鴻範五行傳也。言之不從。是謂不乂。時則有口舌之疴。"
+        }
+    ],
+    "indexes": [
+        "疴"
+    ]
+}

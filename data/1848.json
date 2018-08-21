@@ -1,0 +1,35 @@
+{
+    "id": 1848,
+    "wordhead": "鬹",
+    "explanation": "三足釜也。有柄喙。讀若嬀。从鬲規聲。",
+    "volume": "03",
+    "radical": "鬲",
+    "pronunciation": "居隨切",
+    "variants": [],
+    "seal_character": "嘥",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuī",
+    "components": [
+        "鬲",
+        "規"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "三足鬴也。",
+            "note": "廣雅。鬹、鬴也。有柄喙。有柄可持。有喙可寫物。此其別於䰙者也。"
+        },
+        {
+            "explanation": "讀若嬀。",
+            "note": "嬀、漢人以讀如規矣。"
+        },
+        {
+            "explanation": "从鬲。規聲。",
+            "note": "居隨切。十六部。"
+        }
+    ],
+    "indexes": [
+        "鬹"
+    ]
+}

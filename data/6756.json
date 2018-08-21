@@ -1,0 +1,46 @@
+{
+    "id": 6756,
+    "wordhead": "懋",
+    "explanation": "勉也。从心楙聲。《虞書》曰：“時惟懋哉。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "莫候切",
+    "variants": [
+        {
+            "wordhead": "𢘅",
+            "explanation": "或省。",
+            "seal_character": "毷"
+        }
+    ],
+    "seal_character": "毶",
+    "pinyin": "mao",
+    "pinyin_full": "mào",
+    "components": [
+        "楙",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "勉也。",
+            "note": "古多叚茂字爲之。"
+        },
+        {
+            "explanation": "从心。楙聲。",
+            "note": "莫侯切。三部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞當作唐。見禾部。"
+        },
+        {
+            "explanation": "時惟懋哉。",
+            "note": "堯典文。今作惟時。未知孰是。"
+        }
+    ],
+    "indexes": [
+        "懋",
+        "𢘅"
+    ]
+}

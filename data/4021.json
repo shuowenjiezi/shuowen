@@ -1,0 +1,31 @@
+{
+    "id": 4021,
+    "wordhead": "部",
+    "explanation": "天水狄部。从邑咅聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "蒲口切",
+    "variants": [],
+    "seal_character": "怌",
+    "pinyin": "bu",
+    "pinyin_full": "bù",
+    "components": [
+        "咅",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天水狄部。",
+            "note": "地理志天水無狄部。未詳。顧氏祖禹曰。漢天水郡、今陜西鞏昌府以東秦州之境是其地。"
+        },
+        {
+            "explanation": "从邑。否聲。",
+            "note": "蒲口切。四部。按廣韵曰。部、署也。許冣目曰。分別部居。不相雜廁。"
+        }
+    ],
+    "indexes": [
+        "部"
+    ]
+}

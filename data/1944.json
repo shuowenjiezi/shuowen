@@ -1,0 +1,45 @@
+{
+    "id": 1944,
+    "wordhead": "豎",
+    "explanation": "豎立也。从臤豆聲。",
+    "volume": "03",
+    "radical": "臤",
+    "pronunciation": "臣庾切",
+    "variants": [
+        {
+            "wordhead": "䝂",
+            "explanation": "籒文豎从殳。",
+            "seal_character": "嚰"
+        }
+    ],
+    "seal_character": "嚯",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "殳",
+        "臣",
+        "臤",
+        "豆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "堅立也。",
+            "note": "堅立謂堅固立之也。豎與對音義同。而豎從臤。故知爲堅立。周禮內豎。鄭云。豎、未冠者之官名。葢未冠者才能自立。故名之豎。因以爲官名。豎之言孺也。"
+        },
+        {
+            "explanation": "从臤。豆聲。",
+            "note": "臣庾切。古音在四部。"
+        },
+        {
+            "explanation": "籒文豎。从殳。",
+            "note": "文四重一"
+        }
+    ],
+    "indexes": [
+        "竖",
+        "豎",
+        "䝂"
+    ]
+}

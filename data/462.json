@@ -1,0 +1,43 @@
+{
+    "id": 462,
+    "wordhead": "莕",
+    "explanation": "菨餘也。从艸杏聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "何梗切",
+    "variants": [
+        {
+            "wordhead": "荇",
+            "explanation": "莕或从行，同。",
+            "seal_character": "倌"
+        }
+    ],
+    "seal_character": "個",
+    "pinyin": "xing",
+    "pinyin_full": "xìnɡ",
+    "components": [
+        "行",
+        "艸",
+        "杏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "菨餘也。",
+            "note": "周南。參差荇菜。毛傳。荇、接余也。釋艸荇作莕。"
+        },
+        {
+            "explanation": "从艸。杏聲。",
+            "note": "何梗切。古音在十部。"
+        },
+        {
+            "explanation": "莕或从洐。同。",
+            "note": "各本作荇。注云或從行。今依爾雅音義、五經文字正。"
+        }
+    ],
+    "indexes": [
+        "莕",
+        "荇"
+    ]
+}

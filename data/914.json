@@ -1,0 +1,44 @@
+{
+    "id": 914,
+    "wordhead": "嘖",
+    "explanation": "大呼也。从口責聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "士革切",
+    "variants": [
+        {
+            "wordhead": "謮",
+            "explanation": "嘖或从言。",
+            "seal_character": "凶"
+        }
+    ],
+    "seal_character": "凵",
+    "pinyin": "ze",
+    "pinyin_full": "zé",
+    "components": [
+        "口",
+        "言",
+        "責"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大呼也。",
+            "note": "呼當作嘑。廣韵。㗲嘖、叫也。左傳定四年。嘖有煩言。"
+        },
+        {
+            "explanation": "从口。責聲。",
+            "note": "士革切。十六部。"
+        },
+        {
+            "explanation": "嘖或从言。",
+            "note": "百官公卿表。典客、太初元年更名大鴻臚。應劭曰。郊廟行禮謮九賓。鴻聲臚傳之也。今漢書譌讚。"
+        }
+    ],
+    "indexes": [
+        "啧",
+        "嘖",
+        "謮"
+    ]
+}

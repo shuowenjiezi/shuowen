@@ -1,0 +1,35 @@
+{
+    "id": 6373,
+    "wordhead": "鼬",
+    "explanation": "如鼠，赤黃而大，食鼠者。从鼠由聲。",
+    "volume": "10",
+    "radical": "鼠",
+    "pronunciation": "余救切",
+    "variants": [],
+    "seal_character": "橊",
+    "pinyin": "you",
+    "pinyin_full": "yòu",
+    "components": [
+        "由",
+        "鼠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "如鼠。",
+            "note": "如鼠小徐作如鼦。鼦乃俗貂字。貂、鼠屬也。"
+        },
+        {
+            "explanation": "赤黃色。尾大。食鼠者。",
+            "note": "見小正、爾雅。今之黃鼠狼也。"
+        },
+        {
+            "explanation": "从鼠。由聲。",
+            "note": "余救切。三部。"
+        }
+    ],
+    "indexes": [
+        "鼬"
+    ]
+}

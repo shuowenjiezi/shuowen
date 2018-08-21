@@ -1,0 +1,35 @@
+{
+    "id": 2947,
+    "wordhead": "簝",
+    "explanation": "宗廟盛肉竹器也。从竹尞聲。《周禮》：“供盆簝以待事。”",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "洛蕭切",
+    "variants": [],
+    "seal_character": "嬵",
+    "pinyin": "liao",
+    "pinyin_full": "liáo",
+    "components": [
+        "尞",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宗廟盛肉竹器也。",
+            "note": "牛人。其盆簝以待事。注。盆所以盛血。簝受肉籠也。"
+        },
+        {
+            "explanation": "从竹。尞聲。",
+            "note": "洛簫切。二部。"
+        },
+        {
+            "explanation": "周禮供盆財以待事。",
+            "note": "供當依周禮作共。"
+        }
+    ],
+    "indexes": [
+        "簝"
+    ]
+}

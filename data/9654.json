@@ -1,0 +1,35 @@
+{
+    "id": 9654,
+    "wordhead": "隍",
+    "explanation": "城池也。有水曰池，無水曰隍。从𨸏皇聲。《易》曰：“城復于隍。”",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "乎光切",
+    "variants": [],
+    "seal_character": "硿",
+    "pinyin": "huang",
+    "pinyin_full": "huánɡ",
+    "components": [
+        "皇",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "城池也。",
+            "note": "池之在城外者也。"
+        },
+        {
+            "explanation": "有水曰池。無水曰隍矣。",
+            "note": "矣字依水經注補。周易泰上六。城復于隍。虞注曰。隍、城下溝。無水稱隍。有水稱池。"
+        },
+        {
+            "explanation": "从𨸏。皇聲。",
+            "note": "乎光切。十部。"
+        }
+    ],
+    "indexes": [
+        "隍"
+    ]
+}

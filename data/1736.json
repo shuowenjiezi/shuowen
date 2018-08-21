@@ -1,0 +1,31 @@
+{
+    "id": 1736,
+    "wordhead": "竟",
+    "explanation": "樂曲盡爲竟。从音从人。",
+    "volume": "03",
+    "radical": "音",
+    "pronunciation": "居慶切",
+    "variants": [],
+    "seal_character": "喕",
+    "pinyin": "jing",
+    "pinyin_full": "jìnɡ",
+    "components": [
+        "人",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂曲盡爲竟。",
+            "note": "曲之所止也。引伸之凡事之所止、土地之所止皆曰竟。毛傳曰。疆、竟也。俗别製境字。非。"
+        },
+        {
+            "explanation": "从音儿。",
+            "note": "此猶章從音十會意。儿在人下。猶十爲數終也。故竟不入儿部。居慶切。古音在十部。讀如疆。"
+        }
+    ],
+    "indexes": [
+        "竟"
+    ]
+}

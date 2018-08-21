@@ -1,0 +1,37 @@
+{
+    "id": 4430,
+    "wordhead": "秋",
+    "explanation": "禾穀孰也。从禾，𤒅省聲。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "七由切",
+    "variants": [
+        {
+            "wordhead": "𪛁",
+            "explanation": "籒文不省。",
+            "seal_character": "懒"
+        }
+    ],
+    "seal_character": "懑",
+    "pinyin": "qiu",
+    "pinyin_full": "qiū",
+    "components": [
+        "禾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾穀孰也。",
+            "note": "其時萬物皆老。而莫貴於禾穀。故从禾。言禾復言穀者、晐百穀也。禮記曰。西方者秋。秋之爲言揫也。"
+        },
+        {
+            "explanation": "从禾。𪚰省聲。",
+            "note": "七由切。三部。"
+        }
+    ],
+    "indexes": [
+        "秋",
+        "𪛁"
+    ]
+}

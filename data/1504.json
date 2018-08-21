@@ -1,0 +1,52 @@
+{
+    "id": 1504,
+    "wordhead": "謨",
+    "explanation": "議謀也。从言莫聲。《虞書》曰：“咎繇謨。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "莫胡切",
+    "variants": [
+        {
+            "wordhead": "𠻚",
+            "explanation": "古文謨从口<span>[<span>𠙵</span>]</span>。",
+            "seal_character": "咒"
+        }
+    ],
+    "seal_character": "咑",
+    "pinyin": "mo",
+    "pinyin_full": "mó",
+    "components": [
+        "口",
+        "言",
+        "莫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "議謀也。",
+            "note": "釋詁曰。謨、謀也。許於雙聲釋爲議謀。詩巧言假莫爲謨。"
+        },
+        {
+            "explanation": "从言。莫聲。",
+            "note": "莫胡切。五部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "曰當作有。"
+        },
+        {
+            "explanation": "咎繇謨。",
+            "note": "謂自曰若稽古咎繇、至帝拜曰往欽哉一篇也。"
+        },
+        {
+            "explanation": "古文謨。从口。",
+            "note": "此葢壁中尚書古文如此作也。上文言咎繇謨者、孔安國以隷寫之作謨也。"
+        }
+    ],
+    "indexes": [
+        "谟",
+        "謨",
+        "𠻚"
+    ]
+}

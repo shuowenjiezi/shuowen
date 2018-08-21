@@ -1,0 +1,37 @@
+{
+    "id": 4593,
+    "wordhead": "寒",
+    "explanation": "凍也。从人在宀下，以茻薦覆之，下有仌。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "胡安切",
+    "variants": [],
+    "seal_character": "抓",
+    "pinyin": "han",
+    "pinyin_full": "hán",
+    "components": [
+        "人",
+        "仌",
+        "茻",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "凍也。",
+            "note": "凍當作冷。十一篇曰。凍、仌也。冷、寒也。此可證矣。釋名曰。寒、捍也。捍、格也。左傳寒盟。寒者、尋之反。尋卽燅字。"
+        },
+        {
+            "explanation": "从人在宀下。从茻。上下爲覆。",
+            "note": "此依小徐本。上下皆得云覆也。"
+        },
+        {
+            "explanation": "下有仌也。",
+            "note": "合一宀、一人、二艸、一仌會意。胡安切。十四部。"
+        }
+    ],
+    "indexes": [
+        "寒"
+    ]
+}

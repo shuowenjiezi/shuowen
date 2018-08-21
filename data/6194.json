@@ -1,0 +1,31 @@
+{
+    "id": 6194,
+    "wordhead": "驙",
+    "explanation": "駗驙也。从馬亶聲。《易》曰：“乘馬驙如。”",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "張連切",
+    "variants": [],
+    "seal_character": "榃",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "馬",
+        "亶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "駗驙也。从馬。亶聲。",
+            "note": "張連切。十四部。"
+        },
+        {
+            "explanation": "易曰。乘馬驙如。",
+            "note": "周易屯六二。屯如亶如。乘馬班如。亶俗作邅。宋時經典釋文不誤。許所據易葢上句作駗如驙如。乘馬二字當爲誤文。"
+        }
+    ],
+    "indexes": [
+        "驙"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3259,
+    "wordhead": "會",
+    "explanation": "合也。从亼，从曾省。曾，益也。凡會之屬皆从會。",
+    "volume": "05",
+    "radical": "會",
+    "pronunciation": "黃外切",
+    "variants": [
+        {
+            "wordhead": "㣛",
+            "explanation": "古文會如此。",
+            "seal_character": "岳"
+        }
+    ],
+    "seal_character": "岲",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "曾",
+        "亼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "合也。",
+            "note": "見釋詁。禮經。器之葢曰會。爲其上下相合也。凡曰會計者、謂合計之也。皆非異義也。"
+        },
+        {
+            "explanation": "从亼、曾省。",
+            "note": "三合而增之。會意。黃外切。十五部。"
+        },
+        {
+            "explanation": "曾、益也。",
+            "note": "說从曾之意。土部曰。增、益也。是則曾者、增之假借字。如曾祖、曾孫之曾卽含益義。"
+        }
+    ],
+    "indexes": [
+        "会",
+        "會",
+        "㣛"
+    ]
+}

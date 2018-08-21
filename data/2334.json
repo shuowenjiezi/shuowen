@@ -1,0 +1,31 @@
+{
+    "id": 2334,
+    "wordhead": "羖",
+    "explanation": "夏羊牡曰羖。从羊殳聲。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "公戶切",
+    "variants": [],
+    "seal_character": "填",
+    "pinyin": "gu",
+    "pinyin_full": "ɡǔ",
+    "components": [
+        "羊",
+        "殳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "夏羊牡曰羖。",
+            "note": "此牡字大小徐皆不誤。今刻大徐本誤牝。假令羖是牝。則下文安得云犗乎。"
+        },
+        {
+            "explanation": "从羊。殳聲。",
+            "note": "公戸切。五部。"
+        }
+    ],
+    "indexes": [
+        "羖"
+    ]
+}

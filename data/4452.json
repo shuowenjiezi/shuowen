@@ -1,0 +1,35 @@
+{
+    "id": 4452,
+    "wordhead": "香",
+    "explanation": "芳也。从黍从甘。《春秋傳》曰：“黍稷馨香。”凡香之屬皆从香。",
+    "volume": "07",
+    "radical": "香",
+    "pronunciation": "許良切",
+    "variants": [],
+    "seal_character": "懬",
+    "pinyin": "xiang",
+    "pinyin_full": "xiānɡ",
+    "components": [
+        "甘",
+        "黍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "芳也。",
+            "note": "艸部曰。芳、艸香也。芳謂艸。香則氾言之。大雅曰。其香始𦫵。"
+        },
+        {
+            "explanation": "从黍。从甘。",
+            "note": "會意。許良切。十部。"
+        },
+        {
+            "explanation": "春秋傳曰。黍稷馨香。",
+            "note": "約舉左傳僖五年文。此非爲香證。說香必从黍之意也。"
+        }
+    ],
+    "indexes": [
+        "香"
+    ]
+}

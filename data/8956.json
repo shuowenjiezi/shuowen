@@ -1,0 +1,63 @@
+{
+    "id": 8956,
+    "wordhead": "鼀",
+    "explanation": "圥鼀，詹諸也。其鳴詹諸，其皮鼀鼀，其行圥圥。从黽从圥，圥亦聲。",
+    "volume": "13",
+    "radical": "黽",
+    "pronunciation": "七宿切",
+    "variants": [
+        {
+            "wordhead": "𪓰",
+            "explanation": "鼀或从酋。",
+            "seal_character": "畲"
+        }
+    ],
+    "seal_character": "畱",
+    "pinyin": "cu",
+    "pinyin_full": "cù",
+    "components": [
+        "圥",
+        "酋",
+        "黽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "圥鼀、",
+            "note": "逗。㬪韵。"
+        },
+        {
+            "explanation": "詹諸也。",
+            "note": "虫部曰。䗇鼀、詹諸也。一物四名。曰䗇鼀、曰圥鼀、曰詹諸、曰𪓰𪓿。許主名詹諸而詳釋之。"
+        },
+        {
+            "explanation": "其鳴詹諸。",
+            "note": "蝦蟆能作呷呷聲。蟾蜍不能作聲。詹諸象其謇吃之音。此言所以名詹諸也。其字俗作蟾蠩。又作蟾蜍。"
+        },
+        {
+            "explanation": "其皮鼀鼀。",
+            "note": "鼀鼀猶蹙蹙也。其身大。背黑。多痱磊。此言所以名䗇鼀、圥鼀也。䗇之義葢取於拳局。"
+        },
+        {
+            "explanation": "其行圥圥。",
+            "note": "圥圥、舉足不能前之皃。蟾蜍不能跳。菌圥、圜上椎鈍。非銳物也。故以狀其行。此言所以名圥鼀也。"
+        },
+        {
+            "explanation": "从𪓑圥。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "圥亦聲。",
+            "note": "七宿切。三部。"
+        },
+        {
+            "explanation": "鼀或从酋。",
+            "note": "酋聲圥聲同在三部。"
+        }
+    ],
+    "indexes": [
+        "鼀",
+        "𪓰"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 9390,
+    "wordhead": "鈔",
+    "explanation": "叉取也。从金少聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "楚交切",
+    "variants": [],
+    "seal_character": "睢",
+    "pinyin": "chao",
+    "pinyin_full": "chāo",
+    "components": [
+        "金",
+        "少"
+    ],
+    "xuan_note": "臣鉉等曰：今俗別作抄。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "叉取也。",
+            "note": "叉者、手指相逪也。手指突入其閒而取之、是之謂鈔。字从金者、容以金鐵諸器刺取之矣。曲禮曰。母剿說。剿卽鈔字之叚借也。今謂竊取人文字曰鈔。俗作抄。"
+        },
+        {
+            "explanation": "从金。少聲。",
+            "note": "楚交切。二部。"
+        }
+    ],
+    "indexes": [
+        "钞",
+        "鈔"
+    ]
+}

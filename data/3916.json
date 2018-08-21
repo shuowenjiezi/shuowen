@@ -1,0 +1,48 @@
+{
+    "id": 3916,
+    "wordhead": "員",
+    "explanation": "物數也。从貝囗聲。凡員之屬皆从員。",
+    "volume": "06",
+    "radical": "員",
+    "pronunciation": "王權切",
+    "variants": [
+        {
+            "wordhead": "𪔅",
+            "explanation": "籒文从鼎。",
+            "seal_character": "徛"
+        }
+    ],
+    "seal_character": "徚",
+    "pinyin": "yuan",
+    "pinyin_full": "yuán",
+    "components": [
+        "貝",
+        "囗",
+        "鼎"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“古以貝爲貨，故數之。”",
+    "duan_notes": [
+        {
+            "explanation": "物數也。",
+            "note": "本爲物數引伸爲人數。俗偁官員。漢百官公𨜮表曰。吏員、自佐史至丞相十二萬二百八十五人是也。數木曰枚、曰梃。數竹曰箇。數絲曰紽、曰緫。數物曰員。小雅。員于爾輻。毛曰。員、益也。此引伸之義也。又假借爲云字。如秦誓若弗員來、鄭風𦕼樂我員、商頌景員維河。箋云。員、古文云。"
+        },
+        {
+            "explanation": "从貝。",
+            "note": "貝、古以爲貨物之重者也。"
+        },
+        {
+            "explanation": "囗聲。",
+            "note": "王權切。古音云在十三部。囗聲在十五部。合韵冣近。"
+        },
+        {
+            "explanation": "籒文。从鼎。",
+            "note": "鼎下曰。籒文以鼎爲貝字。故員作𪔅、則作𠟭。"
+        }
+    ],
+    "indexes": [
+        "员",
+        "員",
+        "𪔅"
+    ]
+}

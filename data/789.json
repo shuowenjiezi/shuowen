@@ -1,0 +1,42 @@
+{
+    "id": 789,
+    "wordhead": "嗌",
+    "explanation": "咽也。从口益聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "伊昔切",
+    "variants": [
+        {
+            "wordhead": "𠍳",
+            "explanation": "籒文嗌上象口，下象頸脈理也。",
+            "seal_character": "六"
+        }
+    ],
+    "seal_character": "公",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "口",
+        "益"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "咽也。",
+            "note": "嗌者、扼也。扼要之處也。咽嗌雙聲。漢書。昌邑王嗌痛。爾雅注云。江東名咽爲嗌。"
+        },
+        {
+            "explanation": "从口。益聲。",
+            "note": "伊昔切。十六部。"
+        },
+        {
+            "explanation": "籒文嗌。上象口。下象頸脈理也。",
+            "note": "此象形字。與亢略同。漢百官公卿表曰。？作朕虞。應劭曰。？、伯益也。師古曰。？古益字也。按此假借籒文隘爲益。如九歌假借古文番爲播也。趙宋時古文尙書益作？。此本諸漢表耳。○又按凡言項領頸亢胡者、自外言之。言嚨㗋噲吞咽嗌者、自內言之。故皆从口。自口而入也。"
+        }
+    ],
+    "indexes": [
+        "嗌",
+        "𠍳"
+    ]
+}

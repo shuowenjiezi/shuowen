@@ -1,0 +1,31 @@
+{
+    "id": 50,
+    "wordhead": "祈",
+    "explanation": "求福也。从示斤聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "渠稀切",
+    "variants": [],
+    "seal_character": "乀",
+    "pinyin": "qi",
+    "pinyin_full": "qí",
+    "components": [
+        "示",
+        "斤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "求福也。",
+            "note": "祈求雙聲。"
+        },
+        {
+            "explanation": "从示。斤聲。",
+            "note": "渠稀切。古音在十三部。音芹。此如旂字。古今音異。"
+        }
+    ],
+    "indexes": [
+        "祈"
+    ]
+}

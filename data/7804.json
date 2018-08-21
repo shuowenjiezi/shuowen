@@ -1,0 +1,36 @@
+{
+    "id": 7804,
+    "wordhead": "𢳎",
+    "explanation": "首至地也。从手、𠦪。𠦪音忽。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "博怪切",
+    "variants": [
+        {
+            "wordhead": "拜",
+            "explanation": "楊雄說：拜从兩手下。",
+            "seal_character": "灳"
+        },
+        {
+            "wordhead": "𣬓",
+            "explanation": "古文拜。",
+            "seal_character": "灴"
+        }
+    ],
+    "seal_character": "灲",
+    "pinyin": "bai",
+    "pinyin_full": "bài",
+    "components": [
+        "下",
+        "比",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“𠦪進趣之，疾也，故拜从之。”",
+    "duan_notes": [],
+    "indexes": [
+        "𢳎",
+        "拜",
+        "𣬓"
+    ]
+}

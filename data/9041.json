@@ -1,0 +1,59 @@
+{
+    "id": 9041,
+    "wordhead": "坻",
+    "explanation": "小渚也。《詩》曰：“宛在水中坻。”从土氐聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "直尼切",
+    "variants": [
+        {
+            "wordhead": "𣲋",
+            "explanation": "坻或从水从夊。",
+            "seal_character": "痛"
+        },
+        {
+            "wordhead": "𣹡",
+            "explanation": "坻或从水从耆。",
+            "seal_character": "痜"
+        }
+    ],
+    "seal_character": "痚",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "氐",
+        "夊",
+        "土",
+        "水",
+        "耆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小渚也。",
+            "note": "爾雅曰。小州曰渚。小渚曰沚。小沚曰坻。毛詩周南、秦傳曰。水中可居者曰州。渚、小州也。坻、小渚也。小渚曰沚。今按毛傳不應坻沚同訓。若云坻、小沚也。小渚曰沚。則於爾雅合。許水部渚下引爾雅小州曰渚。沚下云小渚也。皆與爾雅、毛傳同。則此小渚亦當作小沚明矣。坻者、水中可居之冣小者也。"
+        },
+        {
+            "explanation": "从土。氐聲。",
+            "note": "直尼切。十五部。與十六部之坁迥別。"
+        },
+        {
+            "explanation": "詩曰。宛在水中坻。",
+            "note": "秦風蒹葭文。"
+        },
+        {
+            "explanation": "坻或从水。从夊。",
+            "note": "夊聲。"
+        },
+        {
+            "explanation": "坻或从水耆。",
+            "note": "耆聲。"
+        }
+    ],
+    "indexes": [
+        "坻",
+        "𣲋",
+        "𣹡"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 9189,
+    "wordhead": "勞",
+    "explanation": "劇也。从力，熒省。熒，火燒冂，用力者勞。",
+    "volume": "13",
+    "radical": "力",
+    "pronunciation": "魯刀切",
+    "variants": [
+        {
+            "wordhead": "𢥒",
+            "explanation": "古文勞从悉。",
+            "seal_character": "皈"
+        }
+    ],
+    "seal_character": "皇",
+    "pinyin": "lao",
+    "pinyin_full": "láo",
+    "components": [
+        "熒",
+        "力",
+        "悉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "勮也。",
+            "note": "勮各本从刀、作劇。今訂从力。文𨕖北征賦注引說文劇、甚也。恐是許書本作勮。用力甚也。後因以爲凡甚之詞。又譌其字从刀耳。以俟明者定之。"
+        },
+        {
+            "explanation": "从力熒省。焱火燒冖。用力者勞。",
+            "note": "焱舊作熒。今正。此析熒字而釋之。燒冖、謂燒屋也。斯時用力者冣勞矣。或改冖作門者、誤。魯刀切。二部。"
+        },
+        {
+            "explanation": "古文如此。",
+            "note": "如此大徐作从悉。篆體作？。今依玉篇、汗𥳑、古文四聲韵所據正。汗𥳑與玉篇中雖小異。下皆从力。竊謂古文乃从熒不省。未可知也。"
+        }
+    ],
+    "indexes": [
+        "劳",
+        "勞",
+        "𢥒"
+    ]
+}

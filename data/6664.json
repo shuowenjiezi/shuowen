@@ -1,0 +1,50 @@
+{
+    "id": 6664,
+    "wordhead": "𤾕",
+    "explanation": "廢，一偏下也。从竝白聲。",
+    "volume": "10",
+    "radical": "竝",
+    "pronunciation": "他計切",
+    "variants": [
+        {
+            "wordhead": "暜",
+            "explanation": "或从曰。",
+            "seal_character": "殐"
+        },
+        {
+            "wordhead": "㬱",
+            "explanation": "或从兟从曰。",
+            "seal_character": "殑"
+        }
+    ],
+    "seal_character": "殏",
+    "pinyin": "ti",
+    "pinyin_full": "tì",
+    "components": [
+        "白",
+        "曰",
+        "兟",
+        "竝"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作替，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "廢也。",
+            "note": "各本奪也字。不可讀。今補。廢者、卻屋也。卻屋言空屋。人所不居。故𤾕廢同義。"
+        },
+        {
+            "explanation": "一偏下也。",
+            "note": "此又爲一義。相竝而一邊庳下、則其勢必至同下。所謂陵夷也。凡陵夷必有漸而然。故曰履霜堅仌至。"
+        },
+        {
+            "explanation": "或从兟。从曰。",
+            "note": "从兟猶从竝也。兟見八篇。"
+        }
+    ],
+    "indexes": [
+        "𤾕",
+        "暜",
+        "㬱"
+    ]
+}

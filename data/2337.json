@@ -1,0 +1,31 @@
+{
+    "id": 2337,
+    "wordhead": "羳",
+    "explanation": "黃腹羊。从羊番聲。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "附袁切",
+    "variants": [],
+    "seal_character": "塮",
+    "pinyin": "fan",
+    "pinyin_full": "fán",
+    "components": [
+        "羊",
+        "番"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黃腹羊也。",
+            "note": "見釋嘼。"
+        },
+        {
+            "explanation": "从羊。畨聲。",
+            "note": "附袁切。十四部。"
+        }
+    ],
+    "indexes": [
+        "羳"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1257,
+    "wordhead": "御",
+    "explanation": "使馬也。从彳从卸。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "牛據切",
+    "variants": [
+        {
+            "wordhead": "馭",
+            "explanation": "古文御从又从馬。",
+            "seal_character": "厂"
+        }
+    ],
+    "seal_character": "厁",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "又",
+        "馬",
+        "彳",
+        "卸"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“卸，解車馬也。或彳或卸皆御者之職。”",
+    "duan_notes": [
+        {
+            "explanation": "使馬也。",
+            "note": "周禮六藝。四曰五馭。大宰注曰。凡言馭者、所以？之內之於善。此引伸之義也。"
+        },
+        {
+            "explanation": "从彳缷。",
+            "note": "按缷亦聲。牛據切。五部。"
+        },
+        {
+            "explanation": "古文御。从又馬。",
+            "note": "惟見周禮。"
+        }
+    ],
+    "indexes": [
+        "御",
+        "馭"
+    ]
+}

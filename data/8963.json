@@ -1,0 +1,35 @@
+{
+    "id": 8963,
+    "wordhead": "鼄",
+    "explanation": "䵹鼄也。从黽朱聲。",
+    "volume": "13",
+    "radical": "黽",
+    "pronunciation": "陟輸切",
+    "variants": [
+        {
+            "wordhead": "蛛",
+            "explanation": "鼄或从虫。",
+            "seal_character": "畻"
+        }
+    ],
+    "seal_character": "畺",
+    "pinyin": "zhu",
+    "pinyin_full": "zhū",
+    "components": [
+        "朱",
+        "虫",
+        "黽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䵹鼄也。从黽。朱聲。",
+            "note": "陟輸切。四部。"
+        }
+    ],
+    "indexes": [
+        "鼄",
+        "蛛"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1295,
+    "wordhead": "齯",
+    "explanation": "老人齒。从齒兒聲。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "五雞切",
+    "variants": [],
+    "seal_character": "厪",
+    "pinyin": "ni",
+    "pinyin_full": "ní",
+    "components": [
+        "齒",
+        "兒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "老人齒。",
+            "note": "魯頌。黃髮兒齒。釋詁曰。黃髮齯齒、壽也。釋名曰。九十或曰齯齒。大齒落盡。更生細者。如小兒齒也。按毛詩作兒。古文。他書作齯。今文也。"
+        },
+        {
+            "explanation": "从齒。兒聲。",
+            "note": "此形聲包會意。五雞切。十六部。"
+        }
+    ],
+    "indexes": [
+        "齯"
+    ]
+}

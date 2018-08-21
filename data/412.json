@@ -1,0 +1,43 @@
+{
+    "id": 412,
+    "wordhead": "芰",
+    "explanation": "蔆也。从艸支聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "奇記切",
+    "variants": [
+        {
+            "wordhead": "茤",
+            "explanation": "杜林說：芰从多。",
+            "seal_character": "俖"
+        }
+    ],
+    "seal_character": "俕",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "艸",
+        "支",
+        "多"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蔆也。",
+            "note": "是謂轉注。"
+        },
+        {
+            "explanation": "从艸。支聲。",
+            "note": "奇寄切。十六部。"
+        },
+        {
+            "explanation": "杜林說芰从多。",
+            "note": "此葢倉頡訓纂、倉頡故二篇中語。支聲在十六部。多聲在十七部。二部合音冣近。古弟十七部中字多轉入弟十六部。"
+        }
+    ],
+    "indexes": [
+        "芰",
+        "茤"
+    ]
+}

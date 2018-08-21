@@ -1,0 +1,35 @@
+{
+    "id": 9446,
+    "wordhead": "斞",
+    "explanation": "量也。从斗臾聲。《周禮》曰：“桼三斞。”",
+    "volume": "14",
+    "radical": "斗",
+    "pronunciation": "以主切",
+    "variants": [],
+    "seal_character": "瞞",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "臾",
+        "斗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "量也。",
+            "note": "此量讀五量之量。"
+        },
+        {
+            "explanation": "从斗。臾聲。",
+            "note": "以主切。古音在四部。"
+        },
+        {
+            "explanation": "周禮曰。桼三斞。",
+            "note": "桼各本譌求。今正。攷工記弓人文。鄭注。斞輕重未聞。許亦但云量也。一弓之膠甚少。與論語、攷工記之庾絶異。"
+        }
+    ],
+    "indexes": [
+        "斞"
+    ]
+}

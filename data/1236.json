@@ -1,0 +1,35 @@
+{
+    "id": 1236,
+    "wordhead": "徥",
+    "explanation": "徥徥，行皃。从彳是聲。《爾雅》曰：“徥，則也。”",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "是支切",
+    "variants": [],
+    "seal_character": "卧",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "是",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "徥徥行皃也。",
+            "note": "方言。徥用行也。郭曰。徥皆行皃。度揩反。集韵曰。徍徥、行皃。於佳度皆二切。"
+        },
+        {
+            "explanation": "从彳。是聲。",
+            "note": "是支切。十六部。"
+        },
+        {
+            "explanation": "爾雅曰。徥則也。",
+            "note": "今本釋言作是則也。葢古爾雅假徥爲是也。此偁爾雅說叚借。"
+        }
+    ],
+    "indexes": [
+        "徥"
+    ]
+}

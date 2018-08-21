@@ -1,0 +1,36 @@
+{
+    "id": 2311,
+    "wordhead": "奮",
+    "explanation": "翬也。从奞在田上。《詩》曰：“不能奮飛。”",
+    "volume": "04",
+    "radical": "奞",
+    "pronunciation": "方問切",
+    "variants": [],
+    "seal_character": "塑",
+    "pinyin": "fen",
+    "pinyin_full": "fèn",
+    "components": [
+        "田",
+        "奞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "翬也。",
+            "note": "㬪韵。羽部曰。翬、大飛也。雉雞羊絕有力皆曰奮。"
+        },
+        {
+            "explanation": "从奞在田上。",
+            "note": "田猶野也。方問切。十三部。"
+        },
+        {
+            "explanation": "詩曰。不能奮飛。",
+            "note": "邶風文。毛云奮翼。卽許云張毛羽自奮奞也。"
+        }
+    ],
+    "indexes": [
+        "奋",
+        "奮"
+    ]
+}

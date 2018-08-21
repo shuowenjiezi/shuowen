@@ -1,0 +1,31 @@
+{
+    "id": 8086,
+    "wordhead": "娶",
+    "explanation": "取婦也。从女从取，取亦聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "七句切",
+    "variants": [],
+    "seal_character": "熞",
+    "pinyin": "qu",
+    "pinyin_full": "qǔ",
+    "components": [
+        "女",
+        "取"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "取婦也。",
+            "note": "取彼之女爲我之婦也。經典多叚取爲娶。"
+        },
+        {
+            "explanation": "从女。取聲。",
+            "note": "說形聲包會意也。此從小徐本七句切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "娶"
+    ]
+}

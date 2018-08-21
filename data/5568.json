@@ -1,0 +1,35 @@
+{
+    "id": 5568,
+    "wordhead": "盜",
+    "explanation": "私利物也。从㳄，㳄欲皿者。",
+    "volume": "08",
+    "radical": "㳄",
+    "pronunciation": "徒到切",
+    "variants": [],
+    "seal_character": "曊",
+    "pinyin": "dao",
+    "pinyin_full": "dào",
+    "components": [
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "厶利物也。",
+            "note": "周公曰。竊賄爲盜。盜器爲姦。米部曰。盜自中出曰竊。"
+        },
+        {
+            "explanation": "从㳄皿。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "㳄、欲也。欲皿爲盜。",
+            "note": "依韵會本。說从㳄之意。徒到切。二部。"
+        }
+    ],
+    "indexes": [
+        "盗",
+        "盜"
+    ]
+}

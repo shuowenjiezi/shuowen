@@ -1,0 +1,39 @@
+{
+    "id": 2844,
+    "wordhead": "觴",
+    "explanation": "觶實曰觴，虚曰觶。从角，𥏻省聲。",
+    "volume": "04",
+    "radical": "角",
+    "pronunciation": "式陽切",
+    "variants": [
+        {
+            "wordhead": "𤔰",
+            "explanation": "籒文觴从爵<span>[<span>𩰦</span>]</span>省。",
+            "seal_character": "媿"
+        }
+    ],
+    "seal_character": "媾",
+    "pinyin": "shang",
+    "pinyin_full": "shānɡ",
+    "components": [
+        "爵",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "實曰觴。虛曰觶。",
+            "note": "投壷。命酌曰。請行觴。觴者、實酒於爵也。韓詩說爵觚觶角散五者緫名曰爵。其實曰觴。觴者、餉也。觥者罰爵。非所以餉。不得名觴。然投壷之請行觴固罰爵也。凡禮經曰實者皆得曰觴。獨於觶言者、觶之用多舉觶以該他也。下文云觴受三升者曰觚。"
+        },
+        {
+            "explanation": "从角。𥏫省聲。",
+            "note": "𥏫從矢。矢從入。故曰𥏫省聲也。式陽切。十部。"
+        }
+    ],
+    "indexes": [
+        "觞",
+        "觴",
+        "𤔰"
+    ]
+}

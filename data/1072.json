@@ -1,0 +1,47 @@
+{
+    "id": 1072,
+    "wordhead": "歸",
+    "explanation": "女嫁也。从止，从婦省，𠂤聲。",
+    "volume": "02",
+    "radical": "止",
+    "pronunciation": "舉韋切",
+    "variants": [
+        {
+            "wordhead": "㱕",
+            "explanation": "籒文省。",
+            "seal_character": "功"
+        }
+    ],
+    "seal_character": "办",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuī",
+    "components": [
+        "止",
+        "婦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "女嫁也。",
+            "note": "公羊傳、毛傳皆云。婦人謂嫁歸。此非婦人假歸名。乃凡還家者假婦嫁之名也。"
+        },
+        {
+            "explanation": "从止、婦省。",
+            "note": "當云从婦止、婦省。寫者奪之。婦止者、婦止於是也。"
+        },
+        {
+            "explanation": "𠂤聲。",
+            "note": "舉韋切。十五部。林罕妄改爲追省聲。"
+        },
+        {
+            "explanation": "籒文省。",
+            "note": "會意。"
+        }
+    ],
+    "indexes": [
+        "归",
+        "歸",
+        "㱕"
+    ]
+}

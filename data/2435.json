@@ -1,0 +1,40 @@
+{
+    "id": 2435,
+    "wordhead": "鶬",
+    "explanation": "麋鴰也。从鳥倉聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "七岡切",
+    "variants": [
+        {
+            "wordhead": "𩀞",
+            "explanation": "鶬或从隹。",
+            "seal_character": "壤"
+        }
+    ],
+    "seal_character": "壣",
+    "pinyin": "cang",
+    "pinyin_full": "cānɡ",
+    "components": [
+        "倉",
+        "隹",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "麋鴰也。",
+            "note": "見釋鳥。郭云。今呼鶬鴰。師古曰。今關西呼爲鴰鹿。山東通謂之鶬。鄙俗名爲錯落。司馬彪云。鶬似鴈而黑。"
+        },
+        {
+            "explanation": "从鳥。倉聲。",
+            "note": "七岡切。十部。"
+        }
+    ],
+    "indexes": [
+        "鸧",
+        "鶬",
+        "𩀞"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 4726,
+    "wordhead": "瘧",
+    "explanation": "熱寒休作。从疒从虐，虐亦聲。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "魚約切",
+    "variants": [],
+    "seal_character": "挢",
+    "pinyin": "nve",
+    "pinyin_full": "nüè",
+    "components": [
+        "虐",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寒𤍽休作病。",
+            "note": "謂寒與𤍽一休一作相代也。釋名曰。瘧、酷虐也。凡疾或寒或、𤍽耳。而此疾先寒後𤍽。兩疾似酷虐者。周禮曰。秋時有瘧寒疾。"
+        },
+        {
+            "explanation": "从𤕫虐。虐亦聲。",
+            "note": "魚約切。二部。"
+        }
+    ],
+    "indexes": [
+        "疟",
+        "瘧"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 1931,
+    "wordhead": "肅",
+    "explanation": "持事振敬也。从𦘒在𣶒上，戰戰兢兢也。",
+    "volume": "03",
+    "radical": "𦘒",
+    "pronunciation": "息逐切",
+    "variants": [
+        {
+            "wordhead": "𦘛",
+            "explanation": "古文肅从心从卪。",
+            "seal_character": "嚞"
+        }
+    ],
+    "seal_character": "嚝",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "心",
+        "卪",
+        "帇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "持事振敬也。",
+            "note": "廣韵。恭也。敬也。戒也。進也。疾也。按訓進者、羞之假借。訓疾者、速之假借。皆見禮。"
+        },
+        {
+            "explanation": "从𦘒在𣶒上。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "戰戰兢兢也。",
+            "note": "引詩說從𣶒之意也。息逐切。三部。"
+        },
+        {
+            "explanation": "古文肅。从心卪。",
+            "note": "聖𨔶節。次守節。下失節。故從卪。"
+        }
+    ],
+    "indexes": [
+        "肃",
+        "肅",
+        "𦘛"
+    ]
+}

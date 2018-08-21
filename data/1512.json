@@ -1,0 +1,32 @@
+{
+    "id": 1512,
+    "wordhead": "諦",
+    "explanation": "審也。从言帝聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "都計切",
+    "variants": [],
+    "seal_character": "咚",
+    "pinyin": "di",
+    "pinyin_full": "dì",
+    "components": [
+        "帝",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "審也。",
+            "note": "毛傳曰審諦如帝。"
+        },
+        {
+            "explanation": "从言。帝聲。",
+            "note": "都計切。十六部。"
+        }
+    ],
+    "indexes": [
+        "谛",
+        "諦"
+    ]
+}

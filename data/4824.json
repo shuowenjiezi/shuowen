@@ -1,0 +1,43 @@
+{
+    "id": 4824,
+    "wordhead": "𦌭",
+    "explanation": "馬絡頭也。从网从𩡧。𩡧，馬絆也。",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "居宜切",
+    "variants": [
+        {
+            "wordhead": "𦍊",
+            "explanation": "𦌭或从革。",
+            "seal_character": "掗"
+        }
+    ],
+    "seal_character": "掖",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "革",
+        "网",
+        "馽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬落頭也。",
+            "note": "落絡古今字。許書古本必是作落。引伸之爲羈旅。"
+        },
+        {
+            "explanation": "从网𩡧。𩡧、絆也。",
+            "note": "旣絆其足。又网其頭。居宜切。十六部。"
+        },
+        {
+            "explanation": "𦌹或从革。",
+            "note": "今字作羈。俗作羇。"
+        }
+    ],
+    "indexes": [
+        "𦌭",
+        "𦍊"
+    ]
+}

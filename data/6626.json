@@ -1,0 +1,57 @@
+{
+    "id": 6626,
+    "wordhead": "奏",
+    "explanation": "奏進也。从𠦍从廾从屮。屮，上進之義。",
+    "volume": "10",
+    "radical": "夲",
+    "pronunciation": "則候切",
+    "variants": [
+        {
+            "wordhead": "𡲯",
+            "explanation": "古文。",
+            "seal_character": "武"
+        },
+        {
+            "wordhead": "𢽥",
+            "explanation": "亦古文。",
+            "seal_character": "歧"
+        }
+    ],
+    "seal_character": "步",
+    "pinyin": "zou",
+    "pinyin_full": "zòu",
+    "components": [
+        "屮",
+        "収",
+        "夲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "奏、",
+            "note": "此複舉字之未𠜂者。"
+        },
+        {
+            "explanation": "進也。",
+            "note": "六月傳曰。奏爲也。其引申之義也。"
+        },
+        {
+            "explanation": "从夲从𠬞。",
+            "note": "竦手也。進之意。"
+        },
+        {
+            "explanation": "从屮。",
+            "note": "則候切。四部。"
+        },
+        {
+            "explanation": "屮、上進之義。",
+            "note": "說𡴞、奏皆从屮之意。"
+        }
+    ],
+    "indexes": [
+        "奏",
+        "𡲯",
+        "𢽥"
+    ]
+}

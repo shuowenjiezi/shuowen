@@ -1,0 +1,32 @@
+{
+    "id": 2627,
+    "wordhead": "腳",
+    "explanation": "脛也。从肉卻聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "居勺切",
+    "variants": [],
+    "seal_character": "姃",
+    "pinyin": "jiao",
+    "pinyin_full": "jiǎo",
+    "components": [
+        "肉",
+        "卻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "脛也。",
+            "note": "東方朔傳曰。結股腳。謂跪坐之狀。股與腳以厀爲中。腳之言卻也。凡卻步必先脛。"
+        },
+        {
+            "explanation": "从肉。卻聲。",
+            "note": "居勺切。五部。"
+        }
+    ],
+    "indexes": [
+        "脚",
+        "腳"
+    ]
+}

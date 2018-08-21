@@ -1,0 +1,54 @@
+{
+    "id": 9739,
+    "wordhead": "育",
+    "explanation": "養子使作善也。从𠫓肉聲。《虞書》曰：“教育子。”",
+    "volume": "14",
+    "radical": "𠫓",
+    "pronunciation": "余六切",
+    "variants": [
+        {
+            "wordhead": "毓",
+            "explanation": "育或从𣫭<span>[<span>𡴋</span>]</span>。",
+            "seal_character": "磬"
+        }
+    ],
+    "seal_character": "磫",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "肉",
+        "每"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“𠫓，不順子也。不順子亦教之，况順者乎？”",
+    "duan_notes": [
+        {
+            "explanation": "養子使作善也。",
+            "note": "孟子曰。中也養不中。才也養不才。"
+        },
+        {
+            "explanation": "从𠫓。",
+            "note": "不从子而从倒子者、正謂不善者可使作善也。"
+        },
+        {
+            "explanation": "肉聲。",
+            "note": "余六切。三部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞書當作唐書。說在禾部。"
+        },
+        {
+            "explanation": "敎育子。",
+            "note": "堯典文。今尙書作冑子。攷鄭注王制作冑。注周官大司樂作育。王肅注尙書作冑。葢今文作育。古文作冑也。釋言曰。育、稚也。故史記作敎稚子。邠風毛傳亦曰。鬻子、稚子也。稚者當養以正。二義實相因。"
+        },
+        {
+            "explanation": "育或从每。",
+            "note": "周禮、周易蒙卦皆作此字。每、艸盛也。養之則盛矣。"
+        }
+    ],
+    "indexes": [
+        "育",
+        "毓"
+    ]
+}

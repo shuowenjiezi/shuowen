@@ -1,0 +1,36 @@
+{
+    "id": 6613,
+    "wordhead": "執",
+    "explanation": "捕罪人也。从丮从幸，幸亦聲。",
+    "volume": "10",
+    "radical": "幸",
+    "pronunciation": "之入切",
+    "variants": [],
+    "seal_character": "歕",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "丮",
+        "幸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捕辠人也。",
+            "note": "辠各本作罪。今依廣韵。手部曰。捕者、取也。引申之爲凡持守之偁。"
+        },
+        {
+            "explanation": "从丮{大丷丅[上下]}。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "{大丷丅[上下]}亦聲。",
+            "note": "之入切。七部。今隷作執。"
+        }
+    ],
+    "indexes": [
+        "执",
+        "執"
+    ]
+}

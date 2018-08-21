@@ -1,0 +1,31 @@
+{
+    "id": 125,
+    "wordhead": "珥",
+    "explanation": "瑱也。从玉、耳，耳亦聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "仍吏切",
+    "variants": [],
+    "seal_character": "亚",
+    "pinyin": "er",
+    "pinyin_full": "ěr",
+    "components": [
+        "玉",
+        "耳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瑱也。",
+            "note": "戰國策。孟嘗君進五珥。以請立后。李斯上書曰。宛珠之簪。傅璣之珥。"
+        },
+        {
+            "explanation": "从耳。耳亦聲。",
+            "note": "仍吏切。一部。"
+        }
+    ],
+    "indexes": [
+        "珥"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1249,
+    "wordhead": "後",
+    "explanation": "遲也。从彳、幺、夊者，後也。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "胡口切",
+    "variants": [
+        {
+            "wordhead": "𨒥",
+            "explanation": "古文後从辵。",
+            "seal_character": "卸"
+        }
+    ],
+    "seal_character": "卷",
+    "pinyin": "hou",
+    "pinyin_full": "hòu",
+    "components": [
+        "夊",
+        "辵",
+        "彳",
+        "幺"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“幺，猶𦌾躓之也。”",
+    "duan_notes": [
+        {
+            "explanation": "遲也。从彳幺夊。幺夊者後也。",
+            "note": "各本奪二字。今補。幺者小也。小而行遲。後可知矣。故从幺夊會意。胡口切。四部。"
+        }
+    ],
+    "indexes": [
+        "后",
+        "後",
+        "𨒥"
+    ]
+}

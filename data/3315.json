@@ -1,0 +1,43 @@
+{
+    "id": 3315,
+    "wordhead": "就",
+    "explanation": "就，高也。从京从尤。尤，異於凡也。",
+    "volume": "05",
+    "radical": "京",
+    "pronunciation": "疾僦切",
+    "variants": [
+        {
+            "wordhead": "𡰗",
+            "explanation": "籒文就。",
+            "seal_character": "峵"
+        }
+    ],
+    "seal_character": "峴",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "高",
+        "京",
+        "尤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "就、",
+            "note": "此複舉字之未刪者。"
+        },
+        {
+            "explanation": "高也。",
+            "note": "廣韵曰。就、成也。迎也。卽也。皆其引伸之義也。"
+        },
+        {
+            "explanation": "从京尤。尤、異於凡也。",
+            "note": "說从尤之意。京者、高也。高則異於凡。疾僦切。三部。"
+        }
+    ],
+    "indexes": [
+        "就",
+        "𡰗"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2354,
+    "wordhead": "靃",
+    "explanation": "飛聲也。雨而雙飛者，其聲靃然。",
+    "volume": "04",
+    "radical": "雔",
+    "pronunciation": "呼郭切",
+    "variants": [],
+    "seal_character": "墁",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "雨",
+        "雔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飛聲也。",
+            "note": "此字之本義也。引伸爲揮霍、爲靃靡。靃靡音選委切。"
+        },
+        {
+            "explanation": "从雨雔。",
+            "note": "各本少此三字。今補。呼郭切。五部。俗作霍。"
+        },
+        {
+            "explanation": "雨而雔飛者其聲靃然。",
+            "note": "說从雨之意。"
+        }
+    ],
+    "indexes": [
+        "靃"
+    ]
+}

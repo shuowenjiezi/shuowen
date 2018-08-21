@@ -1,0 +1,50 @@
+{
+    "id": 8661,
+    "wordhead": "絥",
+    "explanation": "車絥也。从糸伏聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "平袐切",
+    "variants": [
+        {
+            "wordhead": "茯",
+            "explanation": "絥或从艸。",
+            "seal_character": "琖"
+        },
+        {
+            "wordhead": "𩍁",
+            "explanation": "絥或从革𤰈聲。",
+            "seal_character": "琗"
+        }
+    ],
+    "seal_character": "琕",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "艸",
+        "革",
+        "糸",
+        "伏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "車絥也。",
+            "note": "郊祀志。雍五畤路車各一乘。駕被具。西畤、畦畤禺車各一乘。禺馬四匹。駕被具。師古曰。駕車備馬之飾皆具。按駕車之飾此所謂絥也。被馬之飾、革部所謂鞁也。"
+        },
+        {
+            "explanation": "从糸。伏聲。",
+            "note": "平祕切。古音在一部。"
+        },
+        {
+            "explanation": "絥或从革。𤰈聲。",
+            "note": "？聲、伏聲同在弟一部。"
+        }
+    ],
+    "indexes": [
+        "絥",
+        "茯",
+        "𩍁"
+    ]
+}

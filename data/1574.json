@@ -1,0 +1,32 @@
+{
+    "id": 1574,
+    "wordhead": "諺",
+    "explanation": "傳言也。从言彥聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "魚變切",
+    "variants": [],
+    "seal_character": "哞",
+    "pinyin": "yan",
+    "pinyin_full": "yàn",
+    "components": [
+        "言",
+        "彥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傳言也。",
+            "note": "諺傳曡韵。傳言者、古語也。古字從十口、識前言。凡經傳所偁之諺。無非前代故訓。而宋人作注乃以俗語俗諭當之。誤矣。玄應引此下有謂傳世常言也。葢庾儼黙注。"
+        },
+        {
+            "explanation": "从言。彥聲。",
+            "note": "魚變切。十四部。按此與尚書乃逸乃喭、論語由也喭皆訓？喭者各字。衞包改尚書之喭爲諺。大誤。"
+        }
+    ],
+    "indexes": [
+        "谚",
+        "諺"
+    ]
+}

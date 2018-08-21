@@ -1,0 +1,35 @@
+{
+    "id": 3791,
+    "wordhead": "析",
+    "explanation": "破木也。一曰折也。从木从斤。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "先激切",
+    "variants": [],
+    "seal_character": "式",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "斤",
+        "木"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "破木也。",
+            "note": "斯下云析也。柀下云一曰析也。詩多言析薪。"
+        },
+        {
+            "explanation": "一曰折也。",
+            "note": "以斤破木。以斤𣃔艸。其義一也。魏都賦注引說文。析、量也。與今本異。"
+        },
+        {
+            "explanation": "從木。從斤。",
+            "note": "先激切。十六部。"
+        }
+    ],
+    "indexes": [
+        "析"
+    ]
+}

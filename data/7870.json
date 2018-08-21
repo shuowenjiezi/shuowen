@@ -1,0 +1,48 @@
+{
+    "id": 7870,
+    "wordhead": "摕",
+    "explanation": "撮取也。从手帶聲。讀若《詩》曰“螮蝀在東”。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "都計切",
+    "variants": [
+        {
+            "wordhead": "𢰂",
+            "explanation": "摕或从折<span>[<span>㪿</span>]</span>从示。兩手急持人也。",
+            "seal_character": "炻"
+        }
+    ],
+    "seal_character": "為",
+    "pinyin": "di",
+    "pinyin_full": "dì",
+    "components": [
+        "示",
+        "帶",
+        "手",
+        "折"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "撮取也。",
+            "note": "謂撮而取之。亦蒙三指撮言也。有司徹。乃摭于魚腊俎。俎釋三个。其餘皆取之。古文摭爲摕。儀禮宋本、嘉靖本、單行疏本、釋文宋本皆如是。俗本作今文摭爲揲者、非也。凡言撮者皆謂少取。禮經依古文爲是。西京賦。摕飛鼯。亦謂撮取。薛解云。捎取之也。文賦。意徘徊而不能揥。揥當是摕之誤。今俗語云捎帶者、當作摕。"
+        },
+        {
+            "explanation": "从手。帶聲。讀若詩曰螮蝀在東。",
+            "note": "謂讀若螮也。都計切。十五部。經典釋文之舌切。李善大結切。"
+        },
+        {
+            "explanation": "摕或从𣂚、从示。",
+            "note": "葢从𣂚而示聲。"
+        },
+        {
+            "explanation": "㒳手急持人也。",
+            "note": "其義有別。廣韵不云二形一字。"
+        }
+    ],
+    "indexes": [
+        "摕",
+        "𢰂"
+    ]
+}

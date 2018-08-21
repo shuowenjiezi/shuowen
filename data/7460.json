@@ -1,0 +1,48 @@
+{
+    "id": 7460,
+    "wordhead": "𧖴",
+    "explanation": "血理分衺行體者。从𠂢从血。",
+    "volume": "11",
+    "radical": "永",
+    "pronunciation": "莫獲切",
+    "variants": [
+        {
+            "wordhead": "脈",
+            "explanation": "𧖴或从肉。",
+            "seal_character": "滧"
+        },
+        {
+            "wordhead": "衇",
+            "explanation": "籒文。",
+            "seal_character": "滨"
+        }
+    ],
+    "seal_character": "滦",
+    "pinyin": "mai",
+    "pinyin_full": "mài",
+    "components": [
+        "肉",
+        "血"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "血理分衺行體中者。",
+            "note": "理分猶分理。序曰。見鳥獸蹏迒之迹。知分理之可相別異。衺行體中、而大𠋫在寸口。人手卻十分動脈爲寸口也。"
+        },
+        {
+            "explanation": "从𠂢。从血。",
+            "note": "會意。不入血部者、重𠂢也。𠂢亦聲。莫獲切。十六部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "左血左𠂢。"
+        }
+    ],
+    "indexes": [
+        "𧖴",
+        "脈",
+        "衇"
+    ]
+}

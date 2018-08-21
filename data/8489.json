@@ -1,0 +1,32 @@
+{
+    "id": 8489,
+    "wordhead": "織",
+    "explanation": "作布帛之緫名也。从糸戠聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "之弋切",
+    "variants": [],
+    "seal_character": "獛",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "糸",
+        "戠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "作布帛之總名也。",
+            "note": "布者麻縷所成。帛者絲所成。作之皆謂之織。許此部别布於絲。自緝篆至絣篆二十六字皆言布也。而有不可分者、如織篆是也。經與緯相成曰織。古叚爲識字。如詩之織文、微識也。"
+        },
+        {
+            "explanation": "从糸。戠聲。",
+            "note": "之弋切。一部。"
+        }
+    ],
+    "indexes": [
+        "织",
+        "織"
+    ]
+}

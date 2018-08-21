@@ -1,0 +1,44 @@
+{
+    "id": 8701,
+    "wordhead": "紵",
+    "explanation": "檾屬。細者爲絟，粗者爲紵。从糸宁聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "直呂切",
+    "variants": [
+        {
+            "wordhead": "𦂂",
+            "explanation": "紵或从緒省。",
+            "seal_character": "瑇"
+        }
+    ],
+    "seal_character": "瑆",
+    "pinyin": "zhu",
+    "pinyin_full": "zhù",
+    "components": [
+        "糸",
+        "宁",
+        "緒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "檾屬。",
+            "note": "檾者、枲屬也。陳風曰。東門之池。可以漚紵。"
+        },
+        {
+            "explanation": "細者爲絟。布白而細曰紵。",
+            "note": "各本作粗者爲紵。今依玄應書正。卷十二、十五略同也。周禮典枲掌布緦縷紵之麻艸之物。白而細疏曰紵。古亦借爲褚衣之褚。"
+        },
+        {
+            "explanation": "从糸。宁聲。",
+            "note": "直呂切。五部。"
+        }
+    ],
+    "indexes": [
+        "纻",
+        "紵",
+        "𦂂"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3047,
+    "wordhead": "𠣬",
+    "explanation": "驚辭也。从兮旬聲。",
+    "volume": "05",
+    "radical": "兮",
+    "pronunciation": "思允切",
+    "variants": [
+        {
+            "wordhead": "𢞛",
+            "explanation": "𠣤或从心。",
+            "seal_character": "宯"
+        }
+    ],
+    "seal_character": "宮",
+    "pinyin": "sun",
+    "pinyin_full": "sǔn",
+    "components": [
+        "旬",
+        "心",
+        "兮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驚䛐也。",
+            "note": "䛐各本作辭。誤。今依篇、韵正。其意驚也。其言𠣤也。是爲意內言外。"
+        },
+        {
+            "explanation": "从兮。旬聲。",
+            "note": "思允切。十二部。"
+        },
+        {
+            "explanation": "𠣤或从心。",
+            "note": "大學。瑟兮僩兮者、恂栗也。注曰。恂字或作峻。讀爲嚴峻之峻。言其容貌嚴栗也。按大學之恂、卽說文之？。有驚懼之意。故恂栗爲容皃嚴栗。心部曰。恂、信心也。是其本義。大學則假恂爲？也。莊子。衆狙見之。恂然棄而走。亦是驚意。"
+        }
+    ],
+    "indexes": [
+        "𠣬",
+        "𢞛"
+    ]
+}

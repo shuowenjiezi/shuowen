@@ -1,0 +1,38 @@
+{
+    "id": 1777,
+    "wordhead": "要",
+    "explanation": "身中也。象人要自𦥑之形。从𦥑，交省聲。",
+    "volume": "03",
+    "radical": "𦥑",
+    "pronunciation": "於消切",
+    "variants": [
+        {
+            "wordhead": "𡢗",
+            "explanation": "古文要。",
+            "seal_character": "嗍"
+        }
+    ],
+    "seal_character": "嗌",
+    "pinyin": "yao",
+    "pinyin_full": "yāo",
+    "components": [
+        "交",
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "身中也。象人𦥺自臼之形。从臼。",
+            "note": "按各本篆作？。從臼下有交省聲三字。淺人所妄改也。今依玉篇、九經字㨾訂。顧氏、唐氏所據說文未誤也。漢地理志。北地大？縣。注。一遥反。上黨沾縣大？谷。淸漳水所岀。說文、水經注作大要谷。今志誤爲黽字矣。上象人首。下象人足。中象人𦝫。而自臼持之。故從臼。必從臼者、象形猶未顯。人多護惜其𦝫故也。於消切。二部。"
+        },
+        {
+            "explanation": "古文𦥺。",
+            "note": "按今人變爲要。以爲要約、𥳑要字。於消、於𥬇切。"
+        }
+    ],
+    "indexes": [
+        "要",
+        "𡢗"
+    ]
+}

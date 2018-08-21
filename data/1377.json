@@ -1,0 +1,31 @@
+{
+    "id": 1377,
+    "wordhead": "䟺",
+    "explanation": "步行獵跋也。从足貝聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "博蓋切",
+    "variants": [],
+    "seal_character": "吁",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "貝",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "步行獵跋也。",
+            "note": "獵今之躐字。踐也。毛傳曰。跋、躐也。老狼進則躐其胡。獵跋猶踐踏也。"
+        },
+        {
+            "explanation": "从足。貝聲。",
+            "note": "博葢切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䟺"
+    ]
+}

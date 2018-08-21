@@ -1,0 +1,32 @@
+{
+    "id": 6170,
+    "wordhead": "駸",
+    "explanation": "馬行疾也。从馬，㑴省聲。《詩》曰：“載驟𩤿𩤿。”",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "子林切",
+    "variants": [],
+    "seal_character": "楪",
+    "pinyin": "qin",
+    "pinyin_full": "qīn",
+    "components": [
+        "馬",
+        "侵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬行疾皃。",
+            "note": "馬行上當本有駸駸字。皃各本作也。今依篇、韵正。小雅四牡傳曰。駸駸、驟皃。驟者、馬捷步也。"
+        },
+        {
+            "explanation": "从馬。侵省聲。",
+            "note": "子林切。七部。"
+        }
+    ],
+    "indexes": [
+        "骎",
+        "駸"
+    ]
+}

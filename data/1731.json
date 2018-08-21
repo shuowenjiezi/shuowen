@@ -1,0 +1,35 @@
+{
+    "id": 1731,
+    "wordhead": "音",
+    "explanation": "聲也。生於心，有節於外，謂之音。宮商角徵羽，聲；絲竹金石匏土革木，音也。从言含一。凡音之屬皆从音。",
+    "volume": "03",
+    "radical": "音",
+    "pronunciation": "於今切",
+    "variants": [],
+    "seal_character": "喐",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "一",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聲生於心有節於外謂之音。",
+            "note": "十一字一句。各本聲下衍也字。樂記曰。聲成文謂之音。"
+        },
+        {
+            "explanation": "宫商角徵羽、聲也。",
+            "note": "宋本無也。"
+        },
+        {
+            "explanation": "絲竹金石匏土革木、音也。从言含一。",
+            "note": "有節之意也。於今切。七部。"
+        }
+    ],
+    "indexes": [
+        "音"
+    ]
+}

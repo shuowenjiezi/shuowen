@@ -1,0 +1,38 @@
+{
+    "id": 1588,
+    "wordhead": "讇",
+    "explanation": "諛也。从言閻聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "丑𤥎切",
+    "variants": [
+        {
+            "wordhead": "諂",
+            "explanation": "讇或省。",
+            "seal_character": "哯"
+        }
+    ],
+    "seal_character": "哮",
+    "pinyin": "chan",
+    "pinyin_full": "chǎn",
+    "components": [
+        "言",
+        "閻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "諛也。",
+            "note": "讇者未有不諛。"
+        },
+        {
+            "explanation": "从言。閻聲。",
+            "note": "丑剡切。八部。"
+        }
+    ],
+    "indexes": [
+        "讇",
+        "諂"
+    ]
+}

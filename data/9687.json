@@ -1,0 +1,45 @@
+{
+    "id": 9687,
+    "wordhead": "禹",
+    "explanation": "蟲也。从厹，象形。",
+    "volume": "14",
+    "radical": "禸",
+    "pronunciation": "王矩切",
+    "variants": [
+        {
+            "wordhead": "𥜼",
+            "explanation": "古文禹。",
+            "seal_character": "碨"
+        }
+    ],
+    "seal_character": "碧",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "禹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蟲也。",
+            "note": "夏王以爲名。學者昧其本義。"
+        },
+        {
+            "explanation": "从厹。",
+            "note": "葢亦四足。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "王矩切。五部。"
+        },
+        {
+            "explanation": "古文禹。",
+            "note": "見漢書。"
+        }
+    ],
+    "indexes": [
+        "禹",
+        "𥜼"
+    ]
+}

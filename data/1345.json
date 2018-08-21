@@ -1,0 +1,31 @@
+{
+    "id": 1345,
+    "wordhead": "踊",
+    "explanation": "跳也。从足甬聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "余隴切",
+    "variants": [],
+    "seal_character": "叠",
+    "pinyin": "yong",
+    "pinyin_full": "yǒnɡ",
+    "components": [
+        "足",
+        "甬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "跳也。",
+            "note": "與走部？別。"
+        },
+        {
+            "explanation": "从足。甬聲。",
+            "note": "余隴切。九部。"
+        }
+    ],
+    "indexes": [
+        "踊"
+    ]
+}

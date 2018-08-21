@@ -1,0 +1,42 @@
+{
+    "id": 7382,
+    "wordhead": "𤃬",
+    "explanation": "濯衣垢也。从水𧹳聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "胡玩切",
+    "variants": [
+        {
+            "wordhead": "浣",
+            "explanation": "𤃬或从完。",
+            "seal_character": "溏"
+        }
+    ],
+    "seal_character": "溎",
+    "pinyin": "huan",
+    "pinyin_full": "huàn",
+    "components": [
+        "水",
+        "完"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "濯衣垢也。",
+            "note": "周南箋云。澣謂濯之。半澣曰湔。見上文。"
+        },
+        {
+            "explanation": "从水。𧹳聲。",
+            "note": "胡玩切。十四部。篇、韵皆上聲。按作澣者、今俗字也。"
+        },
+        {
+            "explanation": "今𤃬从完。",
+            "note": "小徐本如此。按儀禮古文假浣爲盥。公羊傳亦有此字。"
+        }
+    ],
+    "indexes": [
+        "𤃬",
+        "浣"
+    ]
+}

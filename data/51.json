@@ -1,0 +1,51 @@
+{
+    "id": 51,
+    "wordhead": "禱",
+    "explanation": "告事求福也。从示壽聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "都浩切",
+    "variants": [
+        {
+            "wordhead": "𥛇",
+            "explanation": "禱或省。",
+            "seal_character": "乂"
+        },
+        {
+            "wordhead": "𥜹",
+            "explanation": "籒文禱。",
+            "seal_character": "乃"
+        }
+    ],
+    "seal_character": "乁",
+    "pinyin": "dao",
+    "pinyin_full": "dǎo",
+    "components": [
+        "示",
+        "壽",
+        "真",
+        "夊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吿事求福也。",
+            "note": "禱吿求三字曡韵。"
+        },
+        {
+            "explanation": "从示。壽聲。",
+            "note": "都浩切。古音在三部。"
+        },
+        {
+            "explanation": "籒文禱。",
+            "note": "以眞致福意。疑下從攵。非從夊也。攵陟侈切。"
+        }
+    ],
+    "indexes": [
+        "祷",
+        "禱",
+        "𥛇",
+        "𥜹"
+    ]
+}

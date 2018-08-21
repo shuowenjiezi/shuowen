@@ -1,0 +1,42 @@
+{
+    "id": 1434,
+    "wordhead": "嘂",
+    "explanation": "高聲也。一曰大呼也。从㗊丩聲。《春秋公羊傳》曰：“魯昭公叫然而哭。”",
+    "volume": "03",
+    "radical": "㗊",
+    "pronunciation": "古弔切",
+    "variants": [],
+    "seal_character": "呁",
+    "pinyin": "jiao",
+    "pinyin_full": "jiào",
+    "components": [
+        "丩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高聲也。",
+            "note": "此與口部叫噭聲同義異。"
+        },
+        {
+            "explanation": "一曰大嘑也。",
+            "note": "嘑各本譌呼。今正。此與叫噭義略同。小雅。或不知嘂號。周禮。禁嘂呼歎嗚于國中者。夜嘑旦以嘂百官。"
+        },
+        {
+            "explanation": "从㗊。丩聲。",
+            "note": "古弔切。古音在三部。"
+        },
+        {
+            "explanation": "春秋公羊傳曰。",
+            "note": "言公羊者以别於凡偁左氏徑云春秋傳也。序言其偁春秋左氏。葢主左氏而不廢公羊。"
+        },
+        {
+            "explanation": "魯昭公嘂然而哭。",
+            "note": "嘂各本作叫。譌。今正。昭卄五年傳文。今本昭公於是噭然而哭。何云。噭然、哭聲皃。"
+        }
+    ],
+    "indexes": [
+        "嘂"
+    ]
+}

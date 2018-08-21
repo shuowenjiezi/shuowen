@@ -1,0 +1,43 @@
+{
+    "id": 623,
+    "wordhead": "蒸",
+    "explanation": "折麻中榦也。从艸烝聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "煑仍切",
+    "variants": [
+        {
+            "wordhead": "䒱",
+            "explanation": "蒸或省火。",
+            "seal_character": "傷"
+        }
+    ],
+    "seal_character": "傶",
+    "pinyin": "zheng",
+    "pinyin_full": "zhēnɡ",
+    "components": [
+        "艸",
+        "烝",
+        "丞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "析麻中榦也。",
+            "note": "析各本作折。誤。謂木音匹刃切其皮爲麻。其中莖謂之蒸。亦謂之菆。今俗所謂麻骨棓也。潘岳西征賦李注云。菆井卽渭城賣麻蒸市也。毛詩傳曰。粗曰薪。細曰蒸。周禮甸師注云。大曰薪。小曰蒸。是凡言薪蒸者、皆不必專謂麻骨。古凡燭用蒸。弟子職云。蒸閒容蒸。毛詩傳云。蒸盡摍屋而繼之是也。"
+        },
+        {
+            "explanation": "从艸。烝聲。",
+            "note": "煑仍切。六部。"
+        },
+        {
+            "explanation": "蒸或省火。",
+            "note": "丞聲烝聲一也。大射儀注、旣夕禮注皆作此䒱。張淳、葉林宗所見釋文皆爾。"
+        }
+    ],
+    "indexes": [
+        "蒸",
+        "䒱"
+    ]
+}

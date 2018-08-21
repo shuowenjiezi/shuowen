@@ -1,0 +1,35 @@
+{
+    "id": 6272,
+    "wordhead": "尨",
+    "explanation": "犬之多毛者。从犬从彡。《詩》曰：“無使尨也吠。”",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "莫江切",
+    "variants": [],
+    "seal_character": "槝",
+    "pinyin": "mang",
+    "pinyin_full": "mánɡ",
+    "components": [
+        "犬",
+        "彡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬之多毛者。",
+            "note": "釋嘼、毛傳皆曰。尨、狗也。此渾言之。許就字分別言之也。引伸爲襍亂之偁。小戎箋曰䝉尨是也。牛白黑襍毛曰牻。襍語曰哤。皆取以會意。"
+        },
+        {
+            "explanation": "从犬彡。",
+            "note": "會意。彡以言其多毛也。莫江切。九部。"
+        },
+        {
+            "explanation": "詩曰。無使尨也吠。",
+            "note": "召南野有死麇文。"
+        }
+    ],
+    "indexes": [
+        "尨"
+    ]
+}

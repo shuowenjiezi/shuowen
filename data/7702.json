@@ -1,0 +1,40 @@
+{
+    "id": 7702,
+    "wordhead": "閻",
+    "explanation": "里中門也。从門臽聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "余廉切",
+    "variants": [
+        {
+            "wordhead": "壛",
+            "explanation": "閻或从土。",
+            "seal_character": "濿"
+        }
+    ],
+    "seal_character": "濾",
+    "pinyin": "yan",
+    "pinyin_full": "yán",
+    "components": [
+        "土",
+        "門",
+        "臽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "里中門也。",
+            "note": "別於閭閈爲里外門也。"
+        },
+        {
+            "explanation": "从門。臽聲。",
+            "note": "余廉切。八部。"
+        }
+    ],
+    "indexes": [
+        "阎",
+        "閻",
+        "壛"
+    ]
+}

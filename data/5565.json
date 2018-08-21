@@ -1,0 +1,53 @@
+{
+    "id": 5565,
+    "wordhead": "㳄",
+    "explanation": "慕欲口液也。从欠从水。凡㳄之屬皆从㳄。",
+    "volume": "08",
+    "radical": "㳄",
+    "pronunciation": "叙連切",
+    "variants": [
+        {
+            "wordhead": "𣶚",
+            "explanation": "㳄或从侃。",
+            "seal_character": "曆"
+        },
+        {
+            "wordhead": "𣶙",
+            "explanation": "籒文㳄。",
+            "seal_character": "曇"
+        }
+    ],
+    "seal_character": "曅",
+    "pinyin": "xian",
+    "pinyin_full": "xián",
+    "components": [
+        "水",
+        "欠",
+        "侃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "慕欲口液也。",
+            "note": "有所慕欲而口生液也。故其其字从欠水。"
+        },
+        {
+            "explanation": "从欠水。",
+            "note": "會意。敘連切。十四部。俗作涎。郭注爾雅作唌。"
+        },
+        {
+            "explanation": "㳄或从侃。",
+            "note": "侃聲也。"
+        },
+        {
+            "explanation": "籒文㳄。",
+            "note": "如𣹳𣻣皆籒文。"
+        }
+    ],
+    "indexes": [
+        "㳄",
+        "𣶚",
+        "𣶙"
+    ]
+}

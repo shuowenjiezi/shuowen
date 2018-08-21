@@ -1,0 +1,47 @@
+{
+    "id": 3034,
+    "wordhead": "乃",
+    "explanation": "曳詞之難也。象气之出難。凡𠄎之屬皆从𠄎。",
+    "volume": "05",
+    "radical": "乃",
+    "pronunciation": "奴亥切",
+    "variants": [
+        {
+            "wordhead": "𢎧",
+            "explanation": "古文乃。",
+            "seal_character": "実"
+        },
+        {
+            "wordhead": "𠄕",
+            "explanation": "籒文乃。",
+            "seal_character": "宠"
+        }
+    ],
+    "seal_character": "实",
+    "pinyin": "nai",
+    "pinyin_full": "nǎi",
+    "components": [
+        "乃"
+    ],
+    "xuan_note": "臣鉉等曰：今隸書作乃。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "曳䛐之難也。",
+            "note": "玉篇䛐作離、非也。上當有者字。曳有矯拂之意。曳其言而轉之。若而、若乃皆是也。乃則其曳之難者也。春秋宣八年。日中而克葬。定十五年。日下昃乃克葬。公羊傳曰。而者何。難也。乃者何。難也。曷爲或言而、或言乃。乃難乎而也。何注。言乃者內而湥。言而者外而淺。按乃然而汝若、一語之轉。故乃又訓汝也。"
+        },
+        {
+            "explanation": "象气之出難也。",
+            "note": "气出不能直遂。象形。奴亥切。一部。"
+        },
+        {
+            "explanation": "籒文乃。",
+            "note": "三之以見其意。"
+        }
+    ],
+    "indexes": [
+        "乃",
+        "𢎧",
+        "𠄕"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2105,
+    "wordhead": "盼",
+    "explanation": "《詩》曰：“美目盼兮。”从目分聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "匹莧切",
+    "variants": [],
+    "seal_character": "坪",
+    "pinyin": "pan",
+    "pinyin_full": "pàn",
+    "components": [
+        "目",
+        "分"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "白黑分也。",
+            "note": "玄應書引如此。"
+        },
+        {
+            "explanation": "詩曰。美目盼兮。",
+            "note": "見衞風。毛曰。盼、白黑分也。韓詩云。黑色也。馬融曰。動目皃。按許从毛。"
+        },
+        {
+            "explanation": "从目。分聲。",
+            "note": "此形聲包會意。从毛則以目分會意也。匹莧切。古音在十三部。按盼眄盻三字形近。多互譌。不可不正。"
+        }
+    ],
+    "indexes": [
+        "盼"
+    ]
+}

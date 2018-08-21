@@ -1,0 +1,39 @@
+{
+    "id": 3276,
+    "wordhead": "缾",
+    "explanation": "𦉥也。从缶幷聲。",
+    "volume": "05",
+    "radical": "缶",
+    "pronunciation": "蒲經切",
+    "variants": [
+        {
+            "wordhead": "甁",
+            "explanation": "缾或从瓦。",
+            "seal_character": "峈"
+        }
+    ],
+    "seal_character": "峇",
+    "pinyin": "ping",
+    "pinyin_full": "pínɡ",
+    "components": [
+        "并",
+        "瓦",
+        "缶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦉥也。",
+            "note": "易井卦辭曰。羸其甁。左傳衞孫蒯飮馬於重丘。毀其甁。按甁亦𧦝缶。左傳具綆缶。此缶之小者。"
+        },
+        {
+            "explanation": "从缶。幷聲。",
+            "note": "薄經切。十一部。"
+        }
+    ],
+    "indexes": [
+        "缾",
+        "甁"
+    ]
+}

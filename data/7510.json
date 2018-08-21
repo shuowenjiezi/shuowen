@@ -1,0 +1,31 @@
+{
+    "id": 7510,
+    "wordhead": "霖",
+    "explanation": "雨三日已往。从雨林聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "力尋切",
+    "variants": [],
+    "seal_character": "漩",
+    "pinyin": "lin",
+    "pinyin_full": "lín",
+    "components": [
+        "雨",
+        "林"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "凡雨三日已往爲霖。",
+            "note": "左傳隱九年。春王三月癸酉。大雨霖以震。書始也。庚辰。大雨雪。亦如之。書時失也。凡雨自三日以往爲霖。平地尺爲大雪。按許直用傳文爲說也。已當作以。自三日以往、謂雨三日又不止。不定其日數也。雨三日止、不得謂霖矣。韋注國語亦曰。雨三日以上爲霖。若宋人注尚書云三日雨爲霖。失古義矣。釋天。久雨謂之淫。淫謂之霖。"
+        },
+        {
+            "explanation": "从雨。林聲。",
+            "note": "力尋切。七部。"
+        }
+    ],
+    "indexes": [
+        "霖"
+    ]
+}

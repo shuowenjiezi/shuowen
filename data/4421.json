@@ -1,0 +1,36 @@
+{
+    "id": 4421,
+    "wordhead": "秊",
+    "explanation": "穀孰也。从禾千聲。《春秋傳》曰：“大有秊。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "奴顛切",
+    "variants": [],
+    "seal_character": "懈",
+    "pinyin": "nian",
+    "pinyin_full": "nián",
+    "components": [
+        "禾",
+        "千"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穀孰也。",
+            "note": "爾雅曰。夏曰歲。商曰祀。周曰年。唐虞曰載。年者、取禾一孰也。"
+        },
+        {
+            "explanation": "从禾。千聲。",
+            "note": "奴顚切。古音在十二部。"
+        },
+        {
+            "explanation": "春秋傳曰。大有年。",
+            "note": "宣十六年經文。穀梁傳曰。五穀皆孰爲有年。五穀皆大孰爲大有年。"
+        }
+    ],
+    "indexes": [
+        "秊",
+        "年"
+    ]
+}

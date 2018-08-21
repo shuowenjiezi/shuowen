@@ -1,0 +1,32 @@
+{
+    "id": 7719,
+    "wordhead": "閘",
+    "explanation": "開閉門也。从門甲聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "烏甲切",
+    "variants": [],
+    "seal_character": "瀓",
+    "pinyin": "ya",
+    "pinyin_full": "yā",
+    "components": [
+        "門",
+        "甲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "開閉門也。",
+            "note": "謂樞轉軋軋有聲。"
+        },
+        {
+            "explanation": "从門。甲聲。",
+            "note": "烏甲切。八部。"
+        }
+    ],
+    "indexes": [
+        "闸",
+        "閘"
+    ]
+}

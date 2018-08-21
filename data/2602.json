@@ -1,0 +1,32 @@
+{
+    "id": 2602,
+    "wordhead": "腸",
+    "explanation": "大小腸也。从肉昜聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "直良切",
+    "variants": [],
+    "seal_character": "妧",
+    "pinyin": "chang",
+    "pinyin_full": "chánɡ",
+    "components": [
+        "肉",
+        "昜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大小腸也。",
+            "note": "白虎通曰。大腸小腸、心之府也。心者、主禮。禮者、有分理。腸之大小相承受也。腸爲胃紀。胃爲脾府。心爲支體主。故有兩府。素問曰。大腸者、傳道之官。變化出焉。小腸者、受盛之官。化物出焉。按所引白虎通從顏氏急就篇注所引也。藏府古通偁。如周禮注五藏倂胃、旁光、大腸、小腸爲九藏是也。"
+        },
+        {
+            "explanation": "从肉。昜聲。",
+            "note": "直良切。十部。"
+        }
+    ],
+    "indexes": [
+        "肠",
+        "腸"
+    ]
+}

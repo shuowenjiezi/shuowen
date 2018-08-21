@@ -1,0 +1,67 @@
+{
+    "id": 9717,
+    "wordhead": "子",
+    "explanation": "十一月，陽气動，萬物滋，人以爲偁。象形。凡子之屬皆从子。(李陽冰曰：“子在襁緥中，足併也。”)",
+    "volume": "14",
+    "radical": "子",
+    "pronunciation": "卽里切",
+    "variants": [
+        {
+            "wordhead": "𡿹",
+            "explanation": "古文子从巛，象髪也。",
+            "seal_character": "磐"
+        },
+        {
+            "wordhead": "𢀇",
+            "explanation": "籒文子囟有髪，臂脛在几上也。",
+            "seal_character": "磑"
+        }
+    ],
+    "seal_character": "磏",
+    "pinyin": "zi",
+    "pinyin_full": "zǐ",
+    "components": [
+        "子"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "十一月昜气動。萬物滋。",
+            "note": "律書。子者、滋也。言萬物滋於下也。律曆志曰。孶萌於子。"
+        },
+        {
+            "explanation": "人㠯爲偁。",
+            "note": "人各本譌入。今正。此與以朋爲朋攩、以韋爲皮韋、以烏爲烏呼、以來爲行來、以西爲東西一例。凡言以爲者、皆許君發明六書叚借之法。子本陽气動萬物滋之偁。萬物莫靈於人。故因叚借以爲人之偁。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "象物滋生之形。亦象人首與手足之形也。卽里切。一部。"
+        },
+        {
+            "explanation": "古文子。从巛。象髮也。",
+            "note": "象髮與𩠐同意。"
+        },
+        {
+            "explanation": "籒文子。𦥓有髮。",
+            "note": "巛也。"
+        },
+        {
+            "explanation": "臂",
+            "note": "北也。"
+        },
+        {
+            "explanation": "脛",
+            "note": "人也。"
+        },
+        {
+            "explanation": "在几上也。",
+            "note": "木部曰。牀者、安身之几坐也。"
+        }
+    ],
+    "indexes": [
+        "子",
+        "𡿹",
+        "𢀇"
+    ]
+}

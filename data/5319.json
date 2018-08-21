@@ -1,0 +1,42 @@
+{
+    "id": 5319,
+    "wordhead": "𧝹",
+    "explanation": "袒也。从衣𣎆聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "郎果切",
+    "variants": [
+        {
+            "wordhead": "裸",
+            "explanation": "𧝹或从果。",
+            "seal_character": "斳"
+        }
+    ],
+    "seal_character": "斲",
+    "pinyin": "luo",
+    "pinyin_full": "luǒ",
+    "components": [
+        "果",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "但也。",
+            "note": "但各本作袒。今正。左傳。欲觀其裸。正義曰。裸謂赤體無衣也。大戴禮曰。倮蟲三百六十。聖人爲之長。王制。？股肱。注曰。㩊衣出其臂脛也。按人部曰。但、裼也。謂免上衣。露裼衣。此裸裎皆訓但者。裸裎者、但之尢甚者也。"
+        },
+        {
+            "explanation": "从衣。𦟀聲。",
+            "note": "郞果切。十七部。"
+        },
+        {
+            "explanation": "𧝹或从果。",
+            "note": "果聲也。俗作𦟀。致爲不通。"
+        }
+    ],
+    "indexes": [
+        "𧝹",
+        "裸"
+    ]
+}

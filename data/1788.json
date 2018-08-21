@@ -1,0 +1,43 @@
+{
+    "id": 1788,
+    "wordhead": "䩵",
+    "explanation": "攻皮治鼓工也。从革軍聲。讀若運。",
+    "volume": "03",
+    "radical": "革",
+    "pronunciation": "王問切",
+    "variants": [
+        {
+            "wordhead": "韗",
+            "explanation": "䩵或从韋。",
+            "seal_character": "嗞"
+        }
+    ],
+    "seal_character": "嗝",
+    "pinyin": "yun",
+    "pinyin_full": "yùn",
+    "components": [
+        "軍",
+        "革",
+        "韋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "攻皮治𡔷工也。",
+            "note": "考工記注。先鄭云。韗、書或爲𩋃。皋陶𡔷木也。後鄭云。𩋃者以皋陶名官也。𩋃則陶字從革。按先後鄭䩵𩋃兩存。許從䩵不從𩋃也。"
+        },
+        {
+            "explanation": "从革。軍聲。讀若運。",
+            "note": "先鄭云。讀如曆運之運。王問切。十三部。"
+        },
+        {
+            "explanation": "䩵或從韋。",
+            "note": "今周禮如此作。釋文曰。韗或作䩵。"
+        }
+    ],
+    "indexes": [
+        "䩵",
+        "韗"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1016,
+    "wordhead": "起",
+    "explanation": "能立也。从走巳聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "墟里切",
+    "variants": [
+        {
+            "wordhead": "𨑔",
+            "explanation": "古文起从辵。",
+            "seal_character": "剦"
+        }
+    ],
+    "seal_character": "剥",
+    "pinyin": "qi",
+    "pinyin_full": "qǐ",
+    "components": [
+        "巳",
+        "走",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "能立也。",
+            "note": "起本發步之偁。引伸之訓爲立。又引伸之爲凡始事、凡興作之偁。"
+        },
+        {
+            "explanation": "从走。已聲。",
+            "note": "五經文字云从辰巳之巳。是。字鑑从戊己之己。非也。墟里切。十五部。"
+        }
+    ],
+    "indexes": [
+        "起",
+        "𨑔"
+    ]
+}

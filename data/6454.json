@@ -1,0 +1,38 @@
+{
+    "id": 6454,
+    "wordhead": "𤓪",
+    "explanation": "火所傷也。从火雥聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "即消切",
+    "variants": [
+        {
+            "wordhead": "𤊙",
+            "explanation": "或省。",
+            "seal_character": "檡"
+        }
+    ],
+    "seal_character": "檠",
+    "pinyin": "jiao",
+    "pinyin_full": "jiāo",
+    "components": [
+        "火",
+        "雥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火所傷也。从火。雥聲。",
+            "note": "卽消切。二部。按廣韵雥徂合切。玉篇才帀走合二切。今以許書焦字从雥聲訂之。則知雥之古音讀如揫、如椒。雧者會意字。非用雥聲。後人昧其本音。乃以襍字之反語爲雥之反語。非也。戴氏侗乃疑作㸈乃得聲矣。"
+        },
+        {
+            "explanation": "或省。",
+            "note": "按廣韵？爲籒文。此必有所據。"
+        }
+    ],
+    "indexes": [
+        "𤓪",
+        "𤊙"
+    ]
+}

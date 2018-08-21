@@ -1,0 +1,43 @@
+{
+    "id": 3632,
+    "wordhead": "植",
+    "explanation": "戶植也。从木直聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "常職切",
+    "variants": [
+        {
+            "wordhead": "㯰",
+            "explanation": "或从置<span>[<span>𦋘</span>]</span>。",
+            "seal_character": "幞"
+        }
+    ],
+    "seal_character": "幝",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "木",
+        "直",
+        "置"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "戸植也。",
+            "note": "釋宮曰。植謂之傳。傳謂之突。郭曰。持戸鎖植也。見埤蒼。邵氏晉涵曰。墨子。爭門關決植。淮南云。縣䏈房植。高曰。植、戸植也。植當爲直立之木。徐鍇以爲横鍵。非也。按今豎直木而以鐵了鳥關之。可以加鎖。故曰持鎖植。植之引伸爲凡植物、植立之植。"
+        },
+        {
+            "explanation": "從木。直聲。",
+            "note": "常職切。一部。"
+        },
+        {
+            "explanation": "或從置。",
+            "note": "置亦直聲也。漢石經論語。置其杖而耘。商頌。置我鼗鼔。皆以置爲植。"
+        }
+    ],
+    "indexes": [
+        "植",
+        "㯰"
+    ]
+}

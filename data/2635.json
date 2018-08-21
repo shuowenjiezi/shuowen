@@ -1,0 +1,48 @@
+{
+    "id": 2635,
+    "wordhead": "胤",
+    "explanation": "子孫相承續也。从肉；从八，象其長也；从幺，象重累也。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "羊晉切",
+    "variants": [
+        {
+            "wordhead": "𦛬",
+            "explanation": "古文胤。",
+            "seal_character": "姍"
+        }
+    ],
+    "seal_character": "姌",
+    "pinyin": "yin",
+    "pinyin_full": "yìn",
+    "components": [
+        "肉",
+        "八",
+        "幺",
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "子孫相承續也。",
+            "note": "釋詁。胤嗣繼也。大雅毛傳。胤嗣也。"
+        },
+        {
+            "explanation": "从肉。从八。象其長也。",
+            "note": "八分也。骨肉所傳。支分𠂢別。傳之無竆。"
+        },
+        {
+            "explanation": "㕕亦象重絫也。",
+            "note": "絫俗作累。上非幺麼之幺。直像其重絫之意。羊晉切。十二部。"
+        },
+        {
+            "explanation": "古文胤。",
+            "note": "兩旁葢亦從八之意。"
+        }
+    ],
+    "indexes": [
+        "胤",
+        "𦛬"
+    ]
+}

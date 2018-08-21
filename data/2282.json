@@ -1,0 +1,36 @@
+{
+    "id": 2282,
+    "wordhead": "雞",
+    "explanation": "知時畜也。从隹奚聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "古兮切",
+    "variants": [
+        {
+            "wordhead": "鷄",
+            "explanation": "籒文雞从鳥。",
+            "seal_character": "堫"
+        }
+    ],
+    "seal_character": "堪",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "隹",
+        "鳥",
+        "奚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "知時畜也。从隹。奚聲。",
+            "note": "古兮切。十六部。"
+        }
+    ],
+    "indexes": [
+        "鸡",
+        "雞",
+        "鷄"
+    ]
+}

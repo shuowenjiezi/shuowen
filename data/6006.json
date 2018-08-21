@@ -1,0 +1,42 @@
+{
+    "id": 6006,
+    "wordhead": "确",
+    "explanation": "礊石也。从石角聲。",
+    "volume": "09",
+    "radical": "石",
+    "pronunciation": "胡角切",
+    "variants": [
+        {
+            "wordhead": "𥔳",
+            "explanation": "确或从㱿。",
+            "seal_character": "梯"
+        }
+    ],
+    "seal_character": "梮",
+    "pinyin": "que",
+    "pinyin_full": "què",
+    "components": [
+        "石",
+        "角"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作確，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "礊也。",
+            "note": "依韵會訂。确卽今之埆字。與土部之墧音義同。丘中有麻傳曰。丘中、墝埆之處也。墝埆、謂多石瘠薄。㹜部曰。獄、确也。召南傳曰。獄、埆也。謂堅剛相訟。其引伸之義也。鉉等曰。今俗作確。"
+        },
+        {
+            "explanation": "从石。角聲。",
+            "note": "胡角切。三部。"
+        },
+        {
+            "explanation": "确或从㱿。",
+            "note": "㱿聲。管子地貟。剛而不觳。觳、薄也。當是𥔳之誤。"
+        }
+    ],
+    "indexes": [
+        "确",
+        "𥔳"
+    ]
+}

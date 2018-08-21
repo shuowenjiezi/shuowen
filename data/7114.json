@@ -1,0 +1,42 @@
+{
+    "id": 7114,
+    "wordhead": "活",
+    "explanation": "水流聲。从水𠯑聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "古活切",
+    "variants": [
+        {
+            "wordhead": "𣿛",
+            "explanation": "𣴠或从𦕾。",
+            "seal_character": "浰"
+        }
+    ],
+    "seal_character": "浯",
+    "pinyin": "guo",
+    "pinyin_full": "ɡuō",
+    "components": [
+        "水",
+        "聒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "流聲也。",
+            "note": "衛風。北流𣴠𣴠。毛傳曰。𣴠𣴠、流也。按傳當作流貌。其音戶括切。引伸爲凡不死之稱。邶風不我活兮、孟子民非水火不生活是也。許書當亦本作流貌。淺人妄改竄之耳。"
+        },
+        {
+            "explanation": "从水。𠯑聲。",
+            "note": "古活切。按古當作呼。活當作括。衛風音義曰如字。是也。十五部活。"
+        },
+        {
+            "explanation": "𣴠或从𦕾。",
+            "note": "此字當是旣改貌爲聲、讀古活切。乃製字。非許書本有也。"
+        }
+    ],
+    "indexes": [
+        "活",
+        "𣿛"
+    ]
+}

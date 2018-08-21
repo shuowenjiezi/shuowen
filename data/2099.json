@@ -1,0 +1,39 @@
+{
+    "id": 2099,
+    "wordhead": "睅",
+    "explanation": "大目也。从目旱聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "戶版切",
+    "variants": [
+        {
+            "wordhead": "睆",
+            "explanation": "睅或从完。",
+            "seal_character": "坤"
+        }
+    ],
+    "seal_character": "坣",
+    "pinyin": "han",
+    "pinyin_full": "hàn",
+    "components": [
+        "目",
+        "旱",
+        "完"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大目也。",
+            "note": "左傳。宋城者謳曰。睅其目。杜曰。睅、出目。"
+        },
+        {
+            "explanation": "从目。旱聲。",
+            "note": "戸版切。十四部。按鉉本補睆篆。云或睅字。"
+        }
+    ],
+    "indexes": [
+        "睅",
+        "睆"
+    ]
+}

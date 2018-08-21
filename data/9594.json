@@ -1,0 +1,40 @@
+{
+    "id": 9594,
+    "wordhead": "陟",
+    "explanation": "登也。从𨸏从步。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "竹力切",
+    "variants": [
+        {
+            "wordhead": "𠌹",
+            "explanation": "古文陟。",
+            "seal_character": "砾"
+        }
+    ],
+    "seal_character": "砽",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "人",
+        "步",
+        "日",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "登也。",
+            "note": "釋詁曰。陟、陞也。毛傳曰。陟、𦫵也。陞者、𦫵之俗字。𦫵者、登之叚借。禮喪服注曰。今文禮皆登爲𦫵。俗誤巳行久矣。據鄭說則古文禮皆作登也。許此作登不作𦫵者、許書說解不用叚借字也。漢人用同音字代本字。旣乃不知有本字。所謂本有其字、依聲託事者然也。"
+        },
+        {
+            "explanation": "从𨸏步。",
+            "note": "謂緣𨸏而步也。𨸏有層次可尋。是謂會意。竹力切。一部。"
+        }
+    ],
+    "indexes": [
+        "陟",
+        "𠌹"
+    ]
+}

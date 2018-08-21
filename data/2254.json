@@ -1,0 +1,35 @@
+{
+    "id": 2254,
+    "wordhead": "翜",
+    "explanation": "捷也。飛之疾也。从羽夾聲。讀若瀒。一曰俠也。",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "山洽切",
+    "variants": [],
+    "seal_character": "堌",
+    "pinyin": "sha",
+    "pinyin_full": "shà",
+    "components": [
+        "羽",
+        "夾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捷也。",
+            "note": "釋詁曰。際接翜捷也。郭云。捷謂相接續也。按翜捷皆謂敏疾。敏疾則際按無痕。其義相成也。許舉其本義。故下云飛之疾也。以釋从羽。今俗語霎時者當作此。止部曰。？、疾也。俗通用捷。疌翜㬪韵。"
+        },
+        {
+            "explanation": "飛之疾也。从羽。夾聲。讀若濇。",
+            "note": "濇、不滑也。與歰同義而雙聲。讀若濇、卽讀若歰。山洽切。七部。"
+        },
+        {
+            "explanation": "一曰俠也。",
+            "note": "人部曰。俠、俜也。漢人多用俠爲夾。此俠當爲夾。或當爲挾。"
+        }
+    ],
+    "indexes": [
+        "翜"
+    ]
+}

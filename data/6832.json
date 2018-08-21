@@ -1,0 +1,35 @@
+{
+    "id": 6832,
+    "wordhead": "惷",
+    "explanation": "亂也。从心春聲。《春秋傳》曰：“王室日惷惷焉。”一曰厚也。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "尺允切",
+    "variants": [],
+    "seal_character": "汉",
+    "pinyin": "chun",
+    "pinyin_full": "chǔn",
+    "components": [
+        "心",
+        "春"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亂也。从心。萅聲。",
+            "note": "尺允切。十三部。"
+        },
+        {
+            "explanation": "春秋傳曰。王室日惷惷焉。",
+            "note": "昭二十四年左傳文。今本作王室實蠢蠢焉。杜注。動擾皃。"
+        },
+        {
+            "explanation": "一曰𣆪也。",
+            "note": "別一義。"
+        }
+    ],
+    "indexes": [
+        "惷"
+    ]
+}

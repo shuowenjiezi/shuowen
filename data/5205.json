@@ -1,0 +1,42 @@
+{
+    "id": 5205,
+    "wordhead": "比",
+    "explanation": "密也。二人爲从，反从爲比。凡比之屬皆从比。",
+    "volume": "08",
+    "radical": "比",
+    "pronunciation": "毗至切",
+    "variants": [
+        {
+            "wordhead": "夶",
+            "explanation": "古文比。",
+            "seal_character": "攲"
+        }
+    ],
+    "seal_character": "攱",
+    "pinyin": "bi",
+    "pinyin_full": "bǐ",
+    "components": [
+        "大",
+        "人"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "密也。",
+            "note": "今韵平上去入四聲皆錄此字。要宻義足以？之。其本義謂相親密也。餘義俌也、及也、次也、校也、例也、類也、頻也、擇善而從之也、阿黨也。皆其所引伸。許書無篦字。古衹作比。見蒼頡篇、釋名、漢書匈奴傳。周禮或叚比爲庀。"
+        },
+        {
+            "explanation": "二人爲从。反从爲比。",
+            "note": "猶反人爲匕也。毗二切。按四聲俱收。其義本一。其音強分耳。唐人詩多讀入聲者。十五部。"
+        },
+        {
+            "explanation": "古文比。",
+            "note": "按葢从二大也。二大者、二人也。"
+        }
+    ],
+    "indexes": [
+        "比",
+        "夶"
+    ]
+}

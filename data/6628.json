@@ -1,0 +1,39 @@
+{
+    "id": 6628,
+    "wordhead": "夰",
+    "explanation": "放也。从大而八分也。凡夰之屬皆从夰。",
+    "volume": "10",
+    "radical": "夰",
+    "pronunciation": "古老切",
+    "variants": [],
+    "seal_character": "歩",
+    "pinyin": "gao",
+    "pinyin_full": "ɡǎo",
+    "components": [
+        "大",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "放也。",
+            "note": "放者、逐也。"
+        },
+        {
+            "explanation": "从大八。",
+            "note": "句。"
+        },
+        {
+            "explanation": "八、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "分也。",
+            "note": "各本从大而八分也。今正。{大+八[上下]}者，大分之意也。古老切。二部。"
+        }
+    ],
+    "indexes": [
+        "夰"
+    ]
+}

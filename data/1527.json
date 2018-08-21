@@ -1,0 +1,31 @@
+{
+    "id": 1527,
+    "wordhead": "誓",
+    "explanation": "約束也。从言折聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "時制切",
+    "variants": [],
+    "seal_character": "咭",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "言",
+        "折"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "約束也。",
+            "note": "周禮五戒。一曰誓。用之於軍旅。按凡自表不食言之辭皆曰誓。亦約束之意也。"
+        },
+        {
+            "explanation": "从言。㪿聲。",
+            "note": "時制切。十五部。"
+        }
+    ],
+    "indexes": [
+        "誓"
+    ]
+}

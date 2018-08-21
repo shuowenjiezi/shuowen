@@ -1,0 +1,35 @@
+{
+    "id": 7100,
+    "wordhead": "洚",
+    "explanation": "水不遵道。一曰下也。从水夅聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "戶工切",
+    "variants": [],
+    "seal_character": "浡",
+    "pinyin": "hong",
+    "pinyin_full": "jiànɡ",
+    "components": [
+        "水",
+        "夅"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水不遵道。",
+            "note": "孟子滕文公篇。書曰。洚水警予。洚水者、洪水也。吿子篇。水逆行謂之洚水。洚水者、洪水也。水不遵道、正謂逆行。惟其逆行。是以絕大。洚洪二字義實相因。"
+        },
+        {
+            "explanation": "一曰下也。",
+            "note": "此別一義。洚與夅降音義同。"
+        },
+        {
+            "explanation": "从水。夅聲。",
+            "note": "戶工切。又下江切。九部。"
+        }
+    ],
+    "indexes": [
+        "洚"
+    ]
+}

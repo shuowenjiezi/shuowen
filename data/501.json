@@ -1,0 +1,35 @@
+{
+    "id": 501,
+    "wordhead": "蘳",
+    "explanation": "黃華。从艸黊聲。讀若壞。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "乎瓦切",
+    "variants": [],
+    "seal_character": "倴",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "艸",
+        "黊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黃華。",
+            "note": "後漢書馬融傳曰。蓶扈黊榮。黊或作蘳。"
+        },
+        {
+            "explanation": "从艸。黊聲。",
+            "note": "此舉形聲見㑹意。"
+        },
+        {
+            "explanation": "讀若墮壞。",
+            "note": "此謂讀如墮壞之墮也。墮、隋聲在十七部。音轉許規切。入十六部。凡圭聲字在十六部。鉉本脫去墮字。廣韵蘳有壞音。誤矣。唐韵胡瓦切。十七部之音變也。"
+        }
+    ],
+    "indexes": [
+        "蘳"
+    ]
+}

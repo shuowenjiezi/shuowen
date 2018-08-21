@@ -1,0 +1,41 @@
+{
+    "id": 7233,
+    "wordhead": "𤅩",
+    "explanation": "水濡而乾也。从水𪄿聲。《詩》曰：“𤅩其乾矣。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "呼旰切",
+    "variants": [
+        {
+            "wordhead": "灘",
+            "explanation": "俗𤅩从隹。",
+            "seal_character": "淭"
+        }
+    ],
+    "seal_character": "淬",
+    "pinyin": "tan",
+    "pinyin_full": "tān",
+    "components": [
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水濡而乾也。",
+            "note": "𤅩字古義如此。後人用爲沙灘。此之謂古今字也。沙灘字亦或作潬。"
+        },
+        {
+            "explanation": "从水。𪄿聲。",
+            "note": "詩釋文引說文他安反。大徐益以呼旰切。非也。十四部。"
+        },
+        {
+            "explanation": "詩曰。𤅩其乾矣。",
+            "note": "王風文。今毛詩作暵。葢非也。一章曰𤅩其乾矣。二章曰𤅩其脩矣。脩且乾也。三章曰𤅩其溼矣。知𤅩兼濡與乾言之。毛傳曰菸皃。菸者、一物而濡之乾之、則菸邑無色也。"
+        }
+    ],
+    "indexes": [
+        "𤅩",
+        "灘"
+    ]
+}

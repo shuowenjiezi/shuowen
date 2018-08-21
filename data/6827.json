@@ -1,0 +1,47 @@
+{
+    "id": 6827,
+    "wordhead": "愆",
+    "explanation": "過也。从心衍聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "去虔切",
+    "variants": [
+        {
+            "wordhead": "㥶",
+            "explanation": "或从寒<span>[<span>𡫾</span>]</span>省。",
+            "seal_character": "汃"
+        },
+        {
+            "wordhead": "𠏘",
+            "explanation": "籒文。",
+            "seal_character": "汄"
+        }
+    ],
+    "seal_character": "求",
+    "pinyin": "qian",
+    "pinyin_full": "qiān",
+    "components": [
+        "言",
+        "心",
+        "侃",
+        "寒",
+        "衍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "實也。",
+            "note": "邶風。其心塞淵。毛傳。塞、瘞也。崔集注本作實也。今以許書繩之。作實爲是矣。詩秉心塞淵、王猷允塞皆同。鄭箋云。塞、充實也。今文尙書。文塞晏晏。鄭注考靈耀云。道德純僃謂之塞。道德純僃、充實之意也。咎繇謨。剛而塞。夏本紀作剛而實。按㠭部曰。𡫳、窒也。穴部曰。窒、𡫳也。窴、𡫳也。𡫳廢而俗多用塞。塞、隔也。非其義也。至若燕燕、定之方中、堯典、咎繇謨諸塞字又皆當作𢥛。卽曰叚借。亦當叚𡫳。而不當叚𡫼也。"
+        },
+        {
+            "explanation": "从心。𡫳聲。",
+            "note": "各本作塞省聲。今正。𡫳、窒也。龤聲中有會意。先則切。一部。"
+        }
+    ],
+    "indexes": [
+        "愆",
+        "㥶",
+        "𠏘"
+    ]
+}

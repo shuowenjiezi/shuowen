@@ -1,0 +1,37 @@
+{
+    "id": 8382,
+    "wordhead": "匚",
+    "explanation": "受物之器。象形。凡匚之屬皆从匚。讀若方。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "府良切",
+    "variants": [
+        {
+            "wordhead": "𠥓",
+            "explanation": "籒文匚。",
+            "seal_character": "狜"
+        }
+    ],
+    "seal_character": "狛",
+    "pinyin": "fang",
+    "pinyin_full": "fānɡ",
+    "components": [
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "受物之器。",
+            "note": "此其器葢正方。文如此作者、横視之耳。直者其底。横者其四圍。右其口也。廣韵曰。或曰受一斗曰匚。按囗部云。囿、規也。今人皆作圜、作圓。方、本無正字。故自古叚方爲之。依字、匚有榘形。固可叚作方也。"
+        },
+        {
+            "explanation": "象形。凡匚之屬皆从匚。讀若方。",
+            "note": "府良切。十部。"
+        }
+    ],
+    "indexes": [
+        "匚",
+        "𠥓"
+    ]
+}

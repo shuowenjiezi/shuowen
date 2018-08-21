@@ -1,0 +1,42 @@
+{
+    "id": 4797,
+    "wordhead": "䍘",
+    "explanation": "周行也。从网米聲。《詩》曰：“𦊮入其阻。”",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "武移切",
+    "variants": [
+        {
+            "wordhead": "𥹐",
+            "explanation": "𦊮或从𣦵。",
+            "seal_character": "捶"
+        }
+    ],
+    "seal_character": "捵",
+    "pinyin": "mi",
+    "pinyin_full": "mí",
+    "components": [
+        "米",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "网也。",
+            "note": "各本作周行也。詩釋文引作冒也。乃涉鄭箋而誤。今尋上下文皆网名。篇、韵皆云。䍘、罟也。更正。葢䍘亦网名。其用主自上冒下。故鄭氏箋詩殷武。改毛之？入其阻爲䍘入。云冒也。就字本義引伸之。此鄭箋之易舊。非經本有作䍘者也。各本米聲下有詩曰䍘入其阻六字。似許用鄭本。恐後人所增。今刪。"
+        },
+        {
+            "explanation": "从网。米聲。",
+            "note": "武移切。按古音在十五部。"
+        },
+        {
+            "explanation": "䍘或从𣦵。",
+            "note": "𣦵者、列骨之殘也。从𣦵亦网罟殘害之意也。"
+        }
+    ],
+    "indexes": [
+        "䍘",
+        "𥹐"
+    ]
+}

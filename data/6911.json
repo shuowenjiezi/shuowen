@@ -1,0 +1,39 @@
+{
+    "id": 6911,
+    "wordhead": "惕",
+    "explanation": "敬也。从心易聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "他歴切",
+    "variants": [
+        {
+            "wordhead": "悐",
+            "explanation": "或从狄。",
+            "seal_character": "沟"
+        }
+    ],
+    "seal_character": "沞",
+    "pinyin": "ti",
+    "pinyin_full": "tì",
+    "components": [
+        "心",
+        "狄",
+        "易"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敬也。从心。易聲。",
+            "note": "他歷切。十六部。"
+        },
+        {
+            "explanation": "或从狄。",
+            "note": "狄聲也。漢書王商傳如此作。"
+        }
+    ],
+    "indexes": [
+        "惕",
+        "悐"
+    ]
+}

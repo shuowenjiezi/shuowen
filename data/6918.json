@@ -1,0 +1,38 @@
+{
+    "id": 6918,
+    "wordhead": "𢟡",
+    "explanation": "𢢞也。从心𤰈聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "蒲拜切",
+    "variants": [
+        {
+            "wordhead": "𤸶",
+            "explanation": "或从疒<span>[<span>𤕫</span><span>𤕬</span>]</span>。",
+            "seal_character": "沨"
+        }
+    ],
+    "seal_character": "沧",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "心",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢢞也。",
+            "note": "通俗文。疲極曰𢣍。"
+        },
+        {
+            "explanation": "从心。𤰈聲。",
+            "note": "蒲拜切。十五部。今周易、公羊傳皆作𢣍。"
+        }
+    ],
+    "indexes": [
+        "𢟡",
+        "𤸶"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 18,
+    "wordhead": "祥",
+    "explanation": "福也。从示羊聲。一云善。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "似羊切",
+    "variants": [],
+    "seal_character": "业",
+    "pinyin": "xiang",
+    "pinyin_full": "xiánɡ",
+    "components": [
+        "示",
+        "羊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "福也。",
+            "note": "凡統言則災亦謂之祥。析言則善者謂之祥。"
+        },
+        {
+            "explanation": "从示。羊聲。",
+            "note": "似羊切。十部。鉉本此下有一云善三字。淺人所增。一書中此類不少。"
+        }
+    ],
+    "indexes": [
+        "祥"
+    ]
+}

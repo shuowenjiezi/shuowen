@@ -1,0 +1,35 @@
+{
+    "id": 5,
+    "wordhead": "吏",
+    "explanation": "治人者也。从一从史，史亦聲。",
+    "volume": "01",
+    "radical": "一",
+    "pronunciation": "力置切",
+    "variants": [],
+    "seal_character": "丅",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "一",
+        "史"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“吏之治人，心主於一，故从一。”",
+    "duan_notes": [
+        {
+            "explanation": "治人者也。",
+            "note": "治與吏同在第一部。此亦以同部曡韵爲訓也。"
+        },
+        {
+            "explanation": "从一。从史。",
+            "note": "此亦㑹意也。天下曰从一大。此不曰从一史者。吏必以一爲體。以史爲用。一與史二事。故異其詞也。史者、記事者也。"
+        },
+        {
+            "explanation": "史亦聲。",
+            "note": "凡言亦聲者、㑹意兼形聲也。凡字有用六書之一者。有兼六書之二者。力置切。一部。"
+        }
+    ],
+    "indexes": [
+        "吏"
+    ]
+}

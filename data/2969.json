@@ -1,0 +1,35 @@
+{
+    "id": 2969,
+    "wordhead": "籤",
+    "explanation": "驗也。一曰銳也，貫也。从竹韱聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "七廉切",
+    "variants": [],
+    "seal_character": "孋",
+    "pinyin": "qian",
+    "pinyin_full": "qiān",
+    "components": [
+        "竹",
+        "韱"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驗也。",
+            "note": "驗當作譣。占譣然不也。小徐曰。籤出其處爲驗也。"
+        },
+        {
+            "explanation": "一曰𨦣也。貫也。",
+            "note": "𨦣貫二義相成。與占驗意相足。"
+        },
+        {
+            "explanation": "从竹。韱聲。",
+            "note": "七廉切。七部。"
+        }
+    ],
+    "indexes": [
+        "籤"
+    ]
+}

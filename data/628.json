@@ -1,0 +1,50 @@
+{
+    "id": 628,
+    "wordhead": "㪿",
+    "explanation": "斷也。从斤斷艸。譚長說。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "食列切",
+    "variants": [
+        {
+            "wordhead": "𣂹",
+            "explanation": "籒文折从艸在仌中，仌寒故折。",
+            "seal_character": "傼"
+        },
+        {
+            "wordhead": "折",
+            "explanation": "篆文折从手。",
+            "seal_character": "傽"
+        }
+    ],
+    "seal_character": "傻",
+    "pinyin": "she",
+    "pinyin_full": "shé",
+    "components": [
+        "斤",
+        "艸",
+        "仌",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𣃔也。从斤𣃔艸。譚長說。",
+            "note": "㑹意也。食列切。十五部。周禮折瘍。劉昌宗本作㪿。此漢人之舊也。"
+        },
+        {
+            "explanation": "籒文㪿。从艸在仌中。仌寒故折。",
+            "note": "廣雅釋器？字從此。"
+        },
+        {
+            "explanation": "篆文㪿。从手。",
+            "note": "按此唐後人所𡚶增。斤𣃔艸、小篆文也。艸在仌中。籒文也。從手從斤、隷字也。九經字㨾云。說文作㪿。隷省作折。類篇、集韵皆云隷從手。則折非篆文明矣。"
+        }
+    ],
+    "indexes": [
+        "㪿",
+        "𣂹",
+        "折"
+    ]
+}

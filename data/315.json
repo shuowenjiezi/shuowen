@@ -1,0 +1,39 @@
+{
+    "id": 315,
+    "wordhead": "蓡",
+    "explanation": "人薓，藥艸，出上黨。从艸𣹰聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "山林切",
+    "variants": [],
+    "seal_character": "佯",
+    "pinyin": "shen",
+    "pinyin_full": "shēn",
+    "components": [
+        "艸",
+        "浸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人薓、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "藥艸。",
+            "note": "句。"
+        },
+        {
+            "explanation": "出上黨。",
+            "note": "本艸經作人參。"
+        },
+        {
+            "explanation": "从艸。𣹰聲。",
+            "note": "山林切。七部。"
+        }
+    ],
+    "indexes": [
+        "蓡"
+    ]
+}

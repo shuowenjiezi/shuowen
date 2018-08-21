@@ -1,0 +1,31 @@
+{
+    "id": 4482,
+    "wordhead": "粹",
+    "explanation": "不雜也。从米卒聲。",
+    "volume": "07",
+    "radical": "米",
+    "pronunciation": "雖遂切",
+    "variants": [],
+    "seal_character": "戏",
+    "pinyin": "cui",
+    "pinyin_full": "cuì",
+    "components": [
+        "卒",
+        "米"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不襍也。",
+            "note": "劉逵引班固云。不變曰醇。不襍曰粹。按粹本是精米之偁。引伸爲凡純美之偁。"
+        },
+        {
+            "explanation": "从米。卒聲。",
+            "note": "雖遂切。十五部。"
+        }
+    ],
+    "indexes": [
+        "粹"
+    ]
+}

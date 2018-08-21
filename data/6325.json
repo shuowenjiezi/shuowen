@@ -1,0 +1,48 @@
+{
+    "id": 6325,
+    "wordhead": "𤣔",
+    "explanation": "秋田也。从犬璽聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "息淺切",
+    "variants": [
+        {
+            "wordhead": "𥙮",
+            "explanation": "𤣔或从豕。宗廟之田也，故从豕、示。",
+            "seal_character": "樔"
+        }
+    ],
+    "seal_character": "樓",
+    "pinyin": "xian",
+    "pinyin_full": "xiǎn",
+    "components": [
+        "示",
+        "犬",
+        "豕",
+        "璽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "秌田也。",
+            "note": "釋天曰。秋獵爲獮。鄭君、韋昭、薛綜、杜預皆曰。獮、殺也。釋獮爲殺者、以曡韵爲訓。古音獮與璽同也。若明堂位叚省爲獮、取其雙聲耳。"
+        },
+        {
+            "explanation": "从犬。",
+            "note": "取載獫？獢之意。"
+        },
+        {
+            "explanation": "壐聲。",
+            "note": "各本篆作璽。云璽聲。非是。依左傳釋文正。此从小篆文。非从籒文也。息淺切。古音在十五部。"
+        },
+        {
+            "explanation": "𤣔或从示。宗廟之田也。故从豕示。",
+            "note": "此篆文及解疑皆有譌。不能遽定。姑仍其舊。"
+        }
+    ],
+    "indexes": [
+        "𤣔",
+        "𥙮"
+    ]
+}

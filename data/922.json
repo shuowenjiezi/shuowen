@@ -1,0 +1,39 @@
+{
+    "id": 922,
+    "wordhead": "哤",
+    "explanation": "哤異之言。从口尨聲。一曰雜語。讀若尨。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "莫江切",
+    "variants": [],
+    "seal_character": "刀",
+    "pinyin": "mang",
+    "pinyin_full": "mánɡ",
+    "components": [
+        "口",
+        "尨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "哤異之言。",
+            "note": "齊語曰。四民者勿使襍處。襍處則其言哤。其事易。韋注。哤、亂也。"
+        },
+        {
+            "explanation": "从口。尨聲。",
+            "note": "莫江切。九部。"
+        },
+        {
+            "explanation": "一曰襍語。",
+            "note": "漢人多用襍爲集字。集語猶聚語也。"
+        },
+        {
+            "explanation": "讀若尨。",
+            "note": "㒳義讀同。"
+        }
+    ],
+    "indexes": [
+        "哤"
+    ]
+}

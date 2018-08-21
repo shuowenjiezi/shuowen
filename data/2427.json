@@ -1,0 +1,47 @@
+{
+    "id": 2427,
+    "wordhead": "鴇",
+    "explanation": "鳥也。肉出尺𦛹。从鳥𠤏聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "博好切",
+    "variants": [
+        {
+            "wordhead": "䳈",
+            "explanation": "鴇或从包。",
+            "seal_character": "壘"
+        }
+    ],
+    "seal_character": "壗",
+    "pinyin": "bao",
+    "pinyin_full": "bǎo",
+    "components": [
+        "包",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鴇鳥也。",
+            "note": "鴇見詩、禮記。陸疏曰。連蹄。性不樹止。"
+        },
+        {
+            "explanation": "肉出尺胾。",
+            "note": "未聞。按内則鵠鴞判。謂脅側薄肉也。鵠或爲鴇。鴇胖在不利人之列。此云出尺胾者、葢謂去此尺胾不食。其餘可食。"
+        },
+        {
+            "explanation": "从鳥。𠤏聲。",
+            "note": "博好切。古音在三部。"
+        },
+        {
+            "explanation": "鴇或从包。",
+            "note": "古𠤏聲包聲同在三部。管子、周禮注皆作𪀀。"
+        }
+    ],
+    "indexes": [
+        "鸨",
+        "鴇",
+        "䳈"
+    ]
+}

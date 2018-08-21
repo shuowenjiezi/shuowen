@@ -1,0 +1,50 @@
+{
+    "id": 4816,
+    "wordhead": "罝",
+    "explanation": "兔网也。从网且聲。",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "子邪切",
+    "variants": [
+        {
+            "wordhead": "𦋽",
+            "explanation": "罝或从糸。",
+            "seal_character": "掍"
+        },
+        {
+            "wordhead": "𦋾",
+            "explanation": "籒文从虘。",
+            "seal_character": "掎"
+        }
+    ],
+    "seal_character": "掌",
+    "pinyin": "ju",
+    "pinyin_full": "jiē",
+    "components": [
+        "且",
+        "虘",
+        "网",
+        "組"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "兔网也。",
+            "note": "周南。肅肅兔罝。釋器、毛傳皆曰。兔罟也。"
+        },
+        {
+            "explanation": "从网。且聲。",
+            "note": "子邪切。古音在五部。"
+        },
+        {
+            "explanation": "籒文。从虘。",
+            "note": "虘聲。自羅至此八篆皆以田者也。"
+        }
+    ],
+    "indexes": [
+        "罝",
+        "𦋽",
+        "𦋾"
+    ]
+}

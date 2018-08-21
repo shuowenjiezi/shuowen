@@ -1,0 +1,47 @@
+{
+    "id": 6823,
+    "wordhead": "懖",
+    "explanation": "善自用之意也。从心銛聲。《商書》曰：“今汝懖懖。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "古活切",
+    "variants": [
+        {
+            "wordhead": "𦘉",
+            "explanation": "古文从耳。",
+            "seal_character": "氾"
+        }
+    ],
+    "seal_character": "氽",
+    "pinyin": "kuo",
+    "pinyin_full": "kuò",
+    "components": [
+        "耳",
+        "心",
+        "銛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "歫善自用之意也。",
+            "note": "歫字各本無。依尙書音義所引補。許書無拒。歫卽今拒字。"
+        },
+        {
+            "explanation": "从心。銽聲。",
+            "note": "古？切。十五部。"
+        },
+        {
+            "explanation": "商書曰。今女懖懖。",
+            "note": "般庚上篇文。馬云。拒善自用之意。許同之。鄭云。難告之意。其義略同。其字皆作懖。未嘗作聒也。衞包因鄭云懖讀如聒耳之聒。竟改經文作䀨䀨。開成石經從之。學者取以改孔氏正義、陸氏釋文。至宋人乃有訓聒聒爲譊譊多言者。"
+        },
+        {
+            "explanation": "古文从耳。",
+            "note": "葢壁中文如是。孔安國易从耳爲从心。葢由伏生尙書如是。"
+        }
+    ],
+    "indexes": [
+        "懖",
+        "𦘉"
+    ]
+}

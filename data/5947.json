@@ -1,0 +1,42 @@
+{
+    "id": 5947,
+    "wordhead": "厂",
+    "explanation": "山石之厓巖，人可居。象形。凡厂之屬皆从厂。",
+    "volume": "09",
+    "radical": "厂",
+    "pronunciation": "呼旱切",
+    "variants": [
+        {
+            "wordhead": "厈",
+            "explanation": "籒文从干。",
+            "seal_character": "桮"
+        }
+    ],
+    "seal_character": "桭",
+    "pinyin": "han",
+    "pinyin_full": "hǎn",
+    "components": [
+        "干",
+        "厂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山石之厓巗。人可凥。",
+            "note": "凥舊作居。今正。厓、山邊也。巗者、厓也。人可居者、謂其下可居也。屋其上則謂之广。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "謂象嵌空可居之形。呼旱切。十四部。"
+        },
+        {
+            "explanation": "籒文从干。",
+            "note": "象形而从干聲。"
+        }
+    ],
+    "indexes": [
+        "厂",
+        "厈"
+    ]
+}

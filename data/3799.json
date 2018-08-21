@@ -1,0 +1,37 @@
+{
+    "id": 3799,
+    "wordhead": "休",
+    "explanation": "息止也。从人依木。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "許尤切",
+    "variants": [],
+    "seal_character": "弘",
+    "pinyin": "xiu",
+    "pinyin_full": "xiū",
+    "components": [
+        "人",
+        "木",
+        "休",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "息止也。",
+            "note": "周南曰。南有喬木。不可休思。"
+        },
+        {
+            "explanation": "從人依木。",
+            "note": "許尢切。三部。"
+        },
+        {
+            "explanation": "休或從广。",
+            "note": "釋詁曰。休、戾也。又曰。庇、庥、廕也。此可證休庥同字。"
+        }
+    ],
+    "indexes": [
+        "休"
+    ]
+}

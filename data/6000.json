@@ -1,0 +1,31 @@
+{
+    "id": 6000,
+    "wordhead": "磕",
+    "explanation": "石聲。从石盍聲。",
+    "volume": "09",
+    "radical": "石",
+    "pronunciation": "口太切",
+    "variants": [],
+    "seal_character": "梨",
+    "pinyin": "kai",
+    "pinyin_full": "kài",
+    "components": [
+        "石",
+        "盍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "石聲也。",
+            "note": "高唐賦曰。礫磥磥而相摩兮。巆震天之礚礚。子虛賦曰。礧石相擊。硍硍礚礚。甘泉賦曰。登長平兮雷𡔷礚。今俗用爲磕破、磕𨼦字。讀苦盍切。"
+        },
+        {
+            "explanation": "从石。盇聲。",
+            "note": "篆體本如此。俗字則從葢聲。口太切。十五部。按玉篇磕與硠相屬。云硠磕、石聲。廣韵亦云。硠磕、石聲。是皆硍磕之誤也。"
+        }
+    ],
+    "indexes": [
+        "磕"
+    ]
+}

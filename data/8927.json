@@ -1,0 +1,59 @@
+{
+    "id": 8927,
+    "wordhead": "𧔨",
+    "explanation": "蟲食艸根者。从蟲，象其形。吏抵冒取民財則生。",
+    "volume": "13",
+    "radical": "蟲",
+    "pronunciation": "莫浮切",
+    "variants": [
+        {
+            "wordhead": "蝥",
+            "explanation": "蟊<span>[<span>𧔨</span>]</span>或从敄。<span>   臣鉉等按：虫部已有，莫交切<span>[<span>m</span><span>a</span><span>u</span>]</span>。作螌蝥蟲。此重出。 </span>",
+            "seal_character": "界"
+        },
+        {
+            "wordhead": "蛑",
+            "explanation": "古文蟊<span>[<span>𧔨</span>]</span>从虫从牟。",
+            "seal_character": "畍"
+        }
+    ],
+    "seal_character": "畋",
+    "pinyin": "mao",
+    "pinyin_full": "máo",
+    "components": [
+        "虫",
+        "敄",
+        "弔",
+        "蟲",
+        "牟"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“唯此一字象蟲形，不从矛，書者多誤。”",
+    "duan_notes": [
+        {
+            "explanation": "蟲食艸𣒨者。",
+            "note": "艸當作苗。小雅。去其螟螣。及其蟊賊。釋蟲。食苗𣒨、蟊。毛傳。食𣒨曰蟊。螟𧎢已見虫部。𧎢是介屬。螟𧎢是𧝹屬。"
+        },
+        {
+            "explanation": "从蟲。弔象形。",
+            "note": "謂上體象此蟲繚繞於苗榦之形。與䖵部蠿蟊字从䖵矛聲不同也。今人則盡叚蟊爲之矣。莫浮切。三部。"
+        },
+        {
+            "explanation": "吏抵冒取民財則生。",
+            "note": "抵當作牴。觸也。冒者、冡而前也。吏不卹其民。彊禦而取民財、則生此。抵冒亦見董仲舒傳。冒古音茂。以㬪韵爲訓。"
+        },
+        {
+            "explanation": "𧔨或从敄。",
+            "note": "敄聲也。此則與虫部螌蝥同字。"
+        },
+        {
+            "explanation": "古文𧔨。从虫。从牟。",
+            "note": "牟聲。竹、邑相張君碑。蛑賊不起。凡漢人言侵牟皆蛑之叚借。"
+        }
+    ],
+    "indexes": [
+        "𧔨",
+        "蝥",
+        "蛑"
+    ]
+}

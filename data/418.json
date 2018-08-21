@@ -1,0 +1,35 @@
+{
+    "id": 418,
+    "wordhead": "藗",
+    "explanation": "牡茅也。从艸遬聲。遬，籀文速。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "桑谷切",
+    "variants": [],
+    "seal_character": "保",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "艸",
+        "遬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牡茅也。",
+            "note": "見釋艸。此當與菅茅二篆類廁而不爾者、葢其種類殊也。"
+        },
+        {
+            "explanation": "从艸。遬聲。",
+            "note": "桑谷切。三部。"
+        },
+        {
+            "explanation": "遬籒文速。",
+            "note": "凡速聲字皆從速。則牡茅字作䔎可矣。而小篆偶從遬。與他速聲字不畫一。故箸之。序曰。小篆取史籒大篆或頗省改。藗者、大篆文應省改而不省改者也。"
+        }
+    ],
+    "indexes": [
+        "藗"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": 6456,
+    "wordhead": "煙",
+    "explanation": "火气也。从火垔聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "烏前切",
+    "variants": [
+        {
+            "wordhead": "烟",
+            "explanation": "或从因。",
+            "seal_character": "檧"
+        },
+        {
+            "wordhead": "𠖜",
+            "explanation": "古文。",
+            "seal_character": "檨"
+        },
+        {
+            "wordhead": "𠖣",
+            "explanation": "籒文从宀。",
+            "seal_character": "檩"
+        }
+    ],
+    "seal_character": "檦",
+    "pinyin": "yan",
+    "pinyin_full": "yān",
+    "components": [
+        "垔",
+        "因",
+        "宀",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火气也。",
+            "note": "陸璣連珠曰。火壯則煙㣲。"
+        },
+        {
+            "explanation": "从火。垔聲。",
+            "note": "烏前切。十二部。"
+        },
+        {
+            "explanation": "或从因。",
+            "note": "因聲。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "汲古閣少首筆。从冂。誤。今從廣韵、集韵、類篇正。"
+        }
+    ],
+    "indexes": [
+        "烟",
+        "煙",
+        "烟",
+        "𠖜",
+        "𠖣"
+    ]
+}

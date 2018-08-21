@@ -1,0 +1,42 @@
+{
+    "id": 5558,
+    "wordhead": "次",
+    "explanation": "不前，不精也。从欠二聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "七四切",
+    "variants": [
+        {
+            "wordhead": "𠕞",
+            "explanation": "古文次。",
+            "seal_character": "暻"
+        }
+    ],
+    "seal_character": "暺",
+    "pinyin": "ci",
+    "pinyin_full": "cì",
+    "components": [
+        "二",
+        "欠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不前不精也",
+            "note": "前當作歬。不歬不精皆居次之意也。"
+        },
+        {
+            "explanation": "从欠。二聲。",
+            "note": "當作从二、从欠。从二故爲次。七四切。古音在十二部。讀如漆。是以魯漆室之女、或作次室。周禮巾車軟字、杜子春讀爲桼也。"
+        },
+        {
+            "explanation": "古文次。",
+            "note": "葢象相次形。"
+        }
+    ],
+    "indexes": [
+        "次",
+        "𠕞"
+    ]
+}

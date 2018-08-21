@@ -1,0 +1,35 @@
+{
+    "id": 8221,
+    "wordhead": "媛",
+    "explanation": "美女也。人所援也。从女从爰。爰，引也。《詩》曰：“邦之媛兮。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "玉眷切",
+    "variants": [],
+    "seal_character": "爮",
+    "pinyin": "yuan",
+    "pinyin_full": "yuàn",
+    "components": [
+        "爰",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "美女也。人所欲援也。",
+            "note": "庸風。邦之媛也。傳曰。美女爲媛。援者、引也。謂人所欲引爲己助者也。鄭箋詩云。邦人所依倚以爲援助也。援媛以㬪韵爲訓。"
+        },
+        {
+            "explanation": "从女。爰聲。",
+            "note": "依小徐本。無爰引也三字。王眷切。十四部。"
+        },
+        {
+            "explanation": "詩曰。邦之媛兮。",
+            "note": "君子偕老文。兮今詩作也。許作兮。又偁玉之瑱兮。可證許所據也字皆作兮。"
+        }
+    ],
+    "indexes": [
+        "媛"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2080,
+    "wordhead": "棥",
+    "explanation": "藩也。从爻从林。《詩》曰：“營營青蠅，止于棥。”",
+    "volume": "03",
+    "radical": "爻",
+    "pronunciation": "附袁切",
+    "variants": [],
+    "seal_character": "坎",
+    "pinyin": "fan",
+    "pinyin_full": "fán",
+    "components": [
+        "林",
+        "爻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "藩也。",
+            "note": "艸部曰。藩、屏也。按齊風。折桺樊圃。毛曰。樊、藩也。？者、棥之假借。藩、今人謂之籬笆。籬說文作杝。通俗文曰。柴垣曰㰚。木垣曰柵。字作㰚。六朝人謂之援。謝靈運云激流植援是也。"
+        },
+        {
+            "explanation": "从爻林。",
+            "note": "會意。附袁切。十四部。"
+        },
+        {
+            "explanation": "詩曰。營營靑蠅。止于棥。",
+            "note": "小雅文。營營言部引作謍謍。棥今詩作樊。毛曰。樊、藩也。三章曰。榛所以爲藩也。"
+        }
+    ],
+    "indexes": [
+        "棥"
+    ]
+}

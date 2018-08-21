@@ -1,0 +1,32 @@
+{
+    "id": 7575,
+    "wordhead": "鰻",
+    "explanation": "魚名。从魚曼聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "母官切",
+    "variants": [],
+    "seal_character": "潴",
+    "pinyin": "man",
+    "pinyin_full": "mán",
+    "components": [
+        "曼",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鰻魚也。",
+            "note": "亦二篆相比近。而不言爲一。葢許於此等在疑信之閒。"
+        },
+        {
+            "explanation": "从魚。曼聲。",
+            "note": "母官切。十四部。"
+        }
+    ],
+    "indexes": [
+        "鳗",
+        "鰻"
+    ]
+}

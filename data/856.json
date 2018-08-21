@@ -1,0 +1,35 @@
+{
+    "id": 856,
+    "wordhead": "噂",
+    "explanation": "聚語也。从口尊聲。《詩》曰：“噂沓背憎。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "子損切",
+    "variants": [],
+    "seal_character": "冷",
+    "pinyin": "zun",
+    "pinyin_full": "zǔn",
+    "components": [
+        "口",
+        "尊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聚語也。",
+            "note": "小雅傳曰。噂猶噂噂。沓猶沓沓。"
+        },
+        {
+            "explanation": "从口。尊聲。",
+            "note": "子損切。十三部。"
+        },
+        {
+            "explanation": "詩曰。噂沓背憎。",
+            "note": "人部又引詩僔沓背憎。詩釋文曰。噂說文作僔。五經文字亦云。僔詩小雅作噂。陸、張皆不云說文有噂。則知淺人依詩增也。"
+        }
+    ],
+    "indexes": [
+        "噂"
+    ]
+}

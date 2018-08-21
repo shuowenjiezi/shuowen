@@ -1,0 +1,48 @@
+{
+    "id": 1989,
+    "wordhead": "徹",
+    "explanation": "通也。从彳从攴从育。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "丑列切",
+    "variants": [
+        {
+            "wordhead": "𢖉",
+            "explanation": "古文徹。",
+            "seal_character": "囨"
+        }
+    ],
+    "seal_character": "囧",
+    "pinyin": "che",
+    "pinyin_full": "chè",
+    "components": [
+        "育",
+        "彳",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "通也。",
+            "note": "孟子曰。徹者、徹也。鄭注論語曰。徹通也。爲天下通法也。按詩徹彼桑土。傳曰裂也。徹我牆屋。曰毀也。天命不徹。曰道也。徹我疆土。曰治也。各隨文解之。而通字可以隱栝。古有徹無轍。"
+        },
+        {
+            "explanation": "从彳。从攴。从育。",
+            "note": "葢合三字會意。攵之、而養育之、而行之、則無不通矣。毛傳所謂治也。丑列切。十五部。"
+        },
+        {
+            "explanation": "一曰相臣。",
+            "note": "疑有譌。鉉本無此四字。"
+        },
+        {
+            "explanation": "古文徹。",
+            "note": "中從鬲。"
+        }
+    ],
+    "indexes": [
+        "彻",
+        "徹",
+        "𢖉"
+    ]
+}

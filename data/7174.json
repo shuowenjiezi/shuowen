@@ -1,0 +1,61 @@
+{
+    "id": 7174,
+    "wordhead": "淵",
+    "explanation": "回水也。从水，象形。左右，岸也。中象水皃。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "烏玄切",
+    "variants": [
+        {
+            "wordhead": "𣶒",
+            "explanation": "淵或省水。",
+            "seal_character": "涮"
+        },
+        {
+            "wordhead": "𡇋",
+            "explanation": "古文从囗、水。",
+            "seal_character": "涯"
+        }
+    ],
+    "seal_character": "涭",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "囗",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "回水也。",
+            "note": "顏回字子淵。"
+        },
+        {
+            "explanation": "从水。象形。",
+            "note": "下文釋象形。"
+        },
+        {
+            "explanation": "左右",
+            "note": "謂{𣶒外左右兩畫}"
+        },
+        {
+            "explanation": "岸也。中",
+            "note": "謂{𣶒中七畫}"
+        },
+        {
+            "explanation": "象水兒。",
+            "note": "烏懸切。十二部。"
+        },
+        {
+            "explanation": "古文从囗水",
+            "note": "囗其外而水其中。江賦。瀇滉囦泫。用囦字。"
+        }
+    ],
+    "indexes": [
+        "渊",
+        "淵",
+        "𣶒",
+        "𡇋"
+    ]
+}

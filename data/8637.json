@@ -1,0 +1,43 @@
+{
+    "id": 8637,
+    "wordhead": "緁",
+    "explanation": "緶衣也。从糸疌聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "七接切",
+    "variants": [
+        {
+            "wordhead": "䌌",
+            "explanation": "緁或从習。",
+            "seal_character": "珽"
+        }
+    ],
+    "seal_character": "珼",
+    "pinyin": "qie",
+    "pinyin_full": "qiè",
+    "components": [
+        "疌",
+        "糸",
+        "習"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦄱衣也。",
+            "note": "下文緶下曰。緁衣也。與此爲轉注。衣部曰。𪗋者、緶也。喪服傳曰。斬者何。不緝也。齊者何。緝也。齊卽𪗋。緝卽緁。叚借字也。緁者、緶其邊也。"
+        },
+        {
+            "explanation": "从糸。疌聲。",
+            "note": "七接切。八部。"
+        },
+        {
+            "explanation": "緁或从習。",
+            "note": "習聲與緁聲相近也。"
+        }
+    ],
+    "indexes": [
+        "緁",
+        "䌌"
+    ]
+}

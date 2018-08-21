@@ -1,0 +1,43 @@
+{
+    "id": 1274,
+    "wordhead": "𧗳",
+    "explanation": "行且賣也。从行从言。",
+    "volume": "02",
+    "radical": "行",
+    "pronunciation": "黃絢切",
+    "variants": [
+        {
+            "wordhead": "衒",
+            "explanation": "𧗳或从玄。",
+            "seal_character": "厔"
+        }
+    ],
+    "seal_character": "厓",
+    "pinyin": "xuan",
+    "pinyin_full": "xuàn",
+    "components": [
+        "行",
+        "言",
+        "玄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行且賣也。",
+            "note": "周禮。飾行儥慝。大鄭云。儥、賣也。慝、惡也。謂行且賣姦僞惡物者。後鄭云。謂使人行賣惡物於市。巧飾之令欺誑？者。"
+        },
+        {
+            "explanation": "从行言。",
+            "note": "黃絢切。十四部。言亦聲也。"
+        },
+        {
+            "explanation": "𧗳或从玄。",
+            "note": "依或字諧聲。則在十二部。"
+        }
+    ],
+    "indexes": [
+        "𧗳",
+        "衒"
+    ]
+}

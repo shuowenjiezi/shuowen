@@ -1,0 +1,35 @@
+{
+    "id": 8800,
+    "wordhead": "蛸",
+    "explanation": "𧓎蛸，堂蜋子。从虫肖聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "相邀切",
+    "variants": [],
+    "seal_character": "璷",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "虫",
+        "肖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧓎蛸、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "堂蜋子。",
+            "note": "月令。仲夏之月、螳蜋生。注云。螳蜋、螵蛸母也。鄭志。王瓚問曰。爾雅莫貉、螳蜋同類物也。今沛魯以南謂之螳蠰。三河之域謂之螳蜋。燕趙之際謂之食厖。齊濟以東謂之馬敫。然名其子則同云螵蛸。是以注云螵蛸母也。按堂蜋卵附於木。堅韌不可動。至小暑而子羣生焉。"
+        },
+        {
+            "explanation": "从虫。肖聲。",
+            "note": "相邀切。二部。按𧓎字从䖵。故入䖵部。凡一物二字而異部者例此。"
+        }
+    ],
+    "indexes": [
+        "蛸"
+    ]
+}

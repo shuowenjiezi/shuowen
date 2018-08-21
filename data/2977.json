@@ -1,0 +1,36 @@
+{
+    "id": 2977,
+    "wordhead": "簫",
+    "explanation": "參差管樂。象鳳之翼。从竹肅聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "穌彫切",
+    "variants": [],
+    "seal_character": "孓",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "肅",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "參差管樂。",
+            "note": "言管樂之列管參差者。竽笙列管雖多而不參差也。周禮小師注。簫、編小竹管如今賣飴餳所吹者。周頌箋同。廣雅云。大者二十三管。小者十六管。王逸注楚辭云。參差洞簫也。"
+        },
+        {
+            "explanation": "象鳳之翼。",
+            "note": "排其管相對如翼。"
+        },
+        {
+            "explanation": "从竹。肅聲。",
+            "note": "釋名。簫、肅也。其聲肅肅而淸也。穌雕切。古音在三部。"
+        }
+    ],
+    "indexes": [
+        "箫",
+        "簫"
+    ]
+}

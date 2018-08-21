@@ -1,0 +1,31 @@
+{
+    "id": 2872,
+    "wordhead": "篆",
+    "explanation": "引書也。从竹彖聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "持兖切",
+    "variants": [],
+    "seal_character": "嫟",
+    "pinyin": "zhuan",
+    "pinyin_full": "zhuàn",
+    "components": [
+        "彖",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "引書也。",
+            "note": "引書者、引筆而箸於竹帛也。因之李斯所作曰篆書。而謂史籒所作曰大篆。旣又謂篆書曰小篆。其字之本義爲引書。如雕刻圭璧曰瑑。周禮注。五采畫轂約謂之夏篆。"
+        },
+        {
+            "explanation": "从竹。彖聲。",
+            "note": "特兖切。十五部。"
+        }
+    ],
+    "indexes": [
+        "篆"
+    ]
+}

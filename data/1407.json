@@ -1,0 +1,31 @@
+{
+    "id": 1407,
+    "wordhead": "路",
+    "explanation": "道也。从足从各。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "洛故切",
+    "variants": [],
+    "seal_character": "吡",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "各",
+        "足"
+    ],
+    "xuan_note": "臣鉉等曰：言道路人各有適也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "道也。",
+            "note": "釋宮。一達謂之道路。此統言也。周禮。澮上有道。川上有路。此析言也。爾雅、毛傳。路、大也。此引伸之義也。"
+        },
+        {
+            "explanation": "从足。各聲。",
+            "note": "洛故切。五部。"
+        }
+    ],
+    "indexes": [
+        "路"
+    ]
+}

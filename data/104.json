@@ -1,0 +1,43 @@
+{
+    "id": 104,
+    "wordhead": "球",
+    "explanation": "玉聲也。从玉求聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "巨鳩切",
+    "variants": [
+        {
+            "wordhead": "璆",
+            "explanation": "球或从翏。",
+            "seal_character": "亄"
+        }
+    ],
+    "seal_character": "亃",
+    "pinyin": "qiu",
+    "pinyin_full": "qiú",
+    "components": [
+        "玉",
+        "求",
+        "翏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉也。",
+            "note": "鉉本玉罄也。非。爾雅釋器曰。璆、美玉也。禹貢、禮器鄭注同。商頌小球大球傳曰。球、玉也。按磬以球爲之。故名球。非球之本訓爲玉磬。"
+        },
+        {
+            "explanation": "从王。求聲。",
+            "note": "巨鳩切。三部。"
+        },
+        {
+            "explanation": "球或从翏。",
+            "note": "求翏二聲同三部。"
+        }
+    ],
+    "indexes": [
+        "球",
+        "璆"
+    ]
+}

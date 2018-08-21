@@ -1,0 +1,35 @@
+{
+    "id": 6419,
+    "wordhead": "熄",
+    "explanation": "畜火也。从火息聲。亦曰滅火。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "相即切",
+    "variants": [],
+    "seal_character": "橺",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "火",
+        "息"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "畜火也。",
+            "note": "畜當从艸。積也。熄取滋息之意。"
+        },
+        {
+            "explanation": "从火。息聲。",
+            "note": "相卽切。一部。"
+        },
+        {
+            "explanation": "亦曰滅火。",
+            "note": "小徐無此四字。滅與蓄義似相反而實相成。止息卽滋息也。孟子曰。王者之迹熄而詩亡。詩亡然後春秋作。"
+        }
+    ],
+    "indexes": [
+        "熄"
+    ]
+}

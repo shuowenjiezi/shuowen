@@ -1,0 +1,68 @@
+{
+    "id": 8,
+    "wordhead": "旁",
+    "explanation": "溥也。从二，闕；方聲。",
+    "volume": "01",
+    "radical": "丄",
+    "pronunciation": "步光切",
+    "variants": [
+        {
+            "wordhead": "𣃟",
+            "explanation": "古文㫄。",
+            "seal_character": "下"
+        },
+        {
+            "wordhead": "𣃙",
+            "explanation": "亦古文㫄。",
+            "seal_character": "丌"
+        },
+        {
+            "wordhead": "𣃪",
+            "explanation": "籒文。",
+            "seal_character": "不"
+        }
+    ],
+    "seal_character": "上",
+    "pinyin": "pang",
+    "pinyin_full": "pánɡ",
+    "components": [
+        "一",
+        "二",
+        "方",
+        "雨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "溥也。",
+            "note": "司馬相如封禪文曰。㫄魄四塞。張揖曰。㫄、衍也。廣雅曰。㫄、大也。按㫄讀如𣶢。與溥雙聲。後人訓側。其義偏矣。"
+        },
+        {
+            "explanation": "从𠄞。闕。",
+            "note": "闕謂从<>之說未聞也。李陽冰曰。<>象㫄達之形也。按自序云。其於所不知。葢闕如也。凡言闕者。或謂形、或謂音、或謂義。分別讀之。"
+        },
+        {
+            "explanation": "方聲。",
+            "note": "凡徐氏鉉鍇二本不同、各从其長者。如此處鍇作方聲闕。闕字在方聲下。於未聞从<>之說不瞭。故不从之是也。後不悉注。步光切。十部。"
+        },
+        {
+            "explanation": "古文㫄。",
+            "note": "以許說推之。亦小篆从𠄞、古文从一也。"
+        },
+        {
+            "explanation": "亦古文㫄。",
+            "note": "李斯改一爲𠄞。則爲小篆。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "詩。雨雪其雱。故訓傳曰。雱、盛皃。卽此字也。籒文从雨。衆多如雨意也。毛云盛、與許云溥正合。今人不知㫄雱同字。音讀各殊。古形古音古義皆廢矣。"
+        }
+    ],
+    "indexes": [
+        "旁",
+        "𣃟",
+        "𣃙",
+        "𣃪"
+    ]
+}

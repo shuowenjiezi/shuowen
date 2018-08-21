@@ -1,0 +1,42 @@
+{
+    "id": 4582,
+    "wordhead": "寑",
+    "explanation": "臥也。从宀钅聲鲞。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "七荏切",
+    "variants": [
+        {
+            "wordhead": "𠖗",
+            "explanation": "籒文寑省。",
+            "seal_character": "抇"
+        }
+    ],
+    "seal_character": "抆",
+    "pinyin": "qin",
+    "pinyin_full": "qǐn",
+    "components": [
+        "宀",
+        "冂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臥也。",
+            "note": "李善引論語鄭注。寝、臥息也。臥必於室。故其字从宀。引伸爲宫室之偁。周禮宮人。掌王之六寢之脩。釋宫曰。室有東西箱曰廟。無東西箱有室曰寢。又引伸之凡事止亦曰寢。"
+        },
+        {
+            "explanation": "从宀。㑴聲。",
+            "note": "今人皆作寢。寢乃㝱部㝲字之省。與寑異義。七荏切。七部。"
+        },
+        {
+            "explanation": "籒文𡪢。省。",
+            "note": "省人也。水部濅下曰。𡩠、籒文𡪢。"
+        }
+    ],
+    "indexes": [
+        "寑",
+        "𠖗"
+    ]
+}

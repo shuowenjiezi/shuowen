@@ -1,0 +1,40 @@
+{
+    "id": 8491,
+    "wordhead": "紝",
+    "explanation": "機縷也。从糸壬聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "如甚切",
+    "variants": [
+        {
+            "wordhead": "䋕",
+            "explanation": "紝或从任。",
+            "seal_character": "獞"
+        }
+    ],
+    "seal_character": "獝",
+    "pinyin": "ren",
+    "pinyin_full": "rèn",
+    "components": [
+        "任",
+        "壬",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "機縷也。",
+            "note": "蠶曰絲。麻曰縷。縷者、綫也。綫者、縷也。喪服言縷若干升。孟子以麻縷絲絮竝言。皆謂麻也。然亦有麻絲竝言縷者。機縷是也。機縷、今之機頭。內則曰。執麻枲。治絲繭。織紝組紃。紝合麻枲絲繭言之。左傳魯賂楚以執？、執鍼、織紝皆百人。杜曰。織紝、織繒布者。"
+        },
+        {
+            "explanation": "从糸。壬聲。",
+            "note": "如甚切。七部。按此字經典及玉篇廣韵皆平聲。豈唐韵有上聲一切耶。㧕二徐誤耳。"
+        }
+    ],
+    "indexes": [
+        "纴",
+        "紝",
+        "䋕"
+    ]
+}

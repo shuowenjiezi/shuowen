@@ -1,0 +1,43 @@
+{
+    "id": 9809,
+    "wordhead": "酸",
+    "explanation": "酢也。从酉夋聲。關東謂酢曰酸。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "素官切",
+    "variants": [
+        {
+            "wordhead": "𨢽",
+            "explanation": "籒文酸从畯。",
+            "seal_character": "礼"
+        }
+    ],
+    "seal_character": "礻",
+    "pinyin": "suan",
+    "pinyin_full": "suān",
+    "components": [
+        "夋",
+        "酉",
+        "畯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酢也。",
+            "note": "月令。春三月、其味酸。鴻範。曲直作酸。"
+        },
+        {
+            "explanation": "从酉。夋聲。",
+            "note": "素官切。十四部。"
+        },
+        {
+            "explanation": "籒文酸。从畯。",
+            "note": "畯聲也。"
+        }
+    ],
+    "indexes": [
+        "酸",
+        "𨢽"
+    ]
+}

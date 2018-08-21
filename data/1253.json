@@ -1,0 +1,43 @@
+{
+    "id": 1253,
+    "wordhead": "得",
+    "explanation": "行有所得也。从彳㝵聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "多則切",
+    "variants": [
+        {
+            "wordhead": "䙷",
+            "explanation": "古文省彳。",
+            "seal_character": "卽"
+        }
+    ],
+    "seal_character": "卼",
+    "pinyin": "de",
+    "pinyin_full": "dé",
+    "components": [
+        "見",
+        "彳",
+        "寸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行有所㝵也。",
+            "note": "㝵各本作得誤。今正。見部曰。䙷、取也。行而有所取。是曰得也。左傳曰。凡獲器用曰得。"
+        },
+        {
+            "explanation": "从彳。䙷聲。",
+            "note": "多則切。一部。"
+        },
+        {
+            "explanation": "古文省彳。",
+            "note": "按此字已見於見部。與得並爲小篆。義亦少異。"
+        }
+    ],
+    "indexes": [
+        "得",
+        "䙷"
+    ]
+}

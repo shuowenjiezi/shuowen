@@ -1,0 +1,42 @@
+{
+    "id": 2148,
+    "wordhead": "睦",
+    "explanation": "目順也。从目坴聲。一曰敬和也。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "莫卜切",
+    "variants": [
+        {
+            "wordhead": "𡍬",
+            "explanation": "古文睦。",
+            "seal_character": "垙"
+        }
+    ],
+    "seal_character": "垘",
+    "pinyin": "mu",
+    "pinyin_full": "mù",
+    "components": [
+        "目",
+        "坴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "目順也。从目。坴聲。",
+            "note": "莫⺊切。廣韵莫六切。三部。"
+        },
+        {
+            "explanation": "一曰敬和也。",
+            "note": "五字疑後增。古書睦穆通用。如孟子注君臣集穆、史記旼旼睦睦、漢書作旼旼穆穆是也。穆多訓敬。故於睦曰敬和。"
+        },
+        {
+            "explanation": "古文睦。",
+            "note": "按此从古文目、圥聲也。各本作𡍬、則从囧。非字意也。今依戴氏六書故正。凡从𡐑之字皆當作此。○江沅曰。不必依。"
+        }
+    ],
+    "indexes": [
+        "睦",
+        "𡍬"
+    ]
+}

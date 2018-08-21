@@ -1,0 +1,31 @@
+{
+    "id": 222,
+    "wordhead": "班",
+    "explanation": "分瑞玉。从𤤴从刀。",
+    "volume": "01",
+    "radical": "玨",
+    "pronunciation": "布還切",
+    "variants": [],
+    "seal_character": "伄",
+    "pinyin": "ban",
+    "pinyin_full": "bān",
+    "components": [
+        "玨",
+        "刀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "分瑞玉。",
+            "note": "堯典曰。班瑞于羣后。"
+        },
+        {
+            "explanation": "从玨刀。",
+            "note": "會意。刀所以分也。布還切。古音在十三部。讀如文質份份之份。周禮以頒爲班。古頒班同部。"
+        }
+    ],
+    "indexes": [
+        "班"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 972,
+    "wordhead": "嚴",
+    "explanation": "教命急也。从吅𠪚聲。",
+    "volume": "02",
+    "radical": "吅",
+    "pronunciation": "語杴切",
+    "variants": [
+        {
+            "wordhead": "𡅮",
+            "explanation": "古文。",
+            "seal_character": "刹"
+        }
+    ],
+    "seal_character": "券",
+    "pinyin": "yan",
+    "pinyin_full": "yán",
+    "components": [
+        "口",
+        "吅",
+        "厂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敎命急也。",
+            "note": "嚴急㬪韵。趙注孟子曰。事嚴、喪事急。"
+        },
+        {
+            "explanation": "从吅。",
+            "note": "敦促之意。"
+        },
+        {
+            "explanation": "𠪚聲。",
+            "note": "語杴切。八部。"
+        }
+    ],
+    "indexes": [
+        "严",
+        "嚴",
+        "𡅮"
+    ]
+}

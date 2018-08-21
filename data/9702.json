@@ -1,0 +1,35 @@
+{
+    "id": 9702,
+    "wordhead": "巹",
+    "explanation": "謹身有所承也。从己、丞。讀若《詩》云“赤舄己己”。",
+    "volume": "14",
+    "radical": "己",
+    "pronunciation": "居隱切",
+    "variants": [],
+    "seal_character": "碼",
+    "pinyin": "jin",
+    "pinyin_full": "jǐn",
+    "components": [
+        "己",
+        "丞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謹身有所承也。",
+            "note": "承者、奉也。受也。按禮記借爲合？字。？見豆部。"
+        },
+        {
+            "explanation": "从己丞。",
+            "note": "會意。丞卽承也。"
+        },
+        {
+            "explanation": "讀若詩云赤舄几几。",
+            "note": "几几各本作已已。非韵。昏義釋文作几几。今據以正之。許讀同几。今居隱切。十五十三部之轉也。"
+        }
+    ],
+    "indexes": [
+        "巹"
+    ]
+}

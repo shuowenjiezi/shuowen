@@ -1,0 +1,31 @@
+{
+    "id": 6299,
+    "wordhead": "㹞",
+    "explanation": "犬吠聲。从犬斤聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "語斤切",
+    "variants": [],
+    "seal_character": "槸",
+    "pinyin": "yin",
+    "pinyin_full": "yín",
+    "components": [
+        "斤",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬吠聲。",
+            "note": "九辨。猛犬狺狺而迎吠。王注。讒佞讙呼而在側也。狺卽㹞字。"
+        },
+        {
+            "explanation": "从犬。斤聲。",
+            "note": "語斤切。十三部。"
+        }
+    ],
+    "indexes": [
+        "㹞"
+    ]
+}

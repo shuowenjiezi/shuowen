@@ -1,0 +1,47 @@
+{
+    "id": 9694,
+    "wordhead": "乾",
+    "explanation": "上出也。从乙，乙，物之達也；倝聲。",
+    "volume": "14",
+    "radical": "乙",
+    "pronunciation": "渠焉切",
+    "variants": [
+        {
+            "wordhead": "𠄃",
+            "explanation": "籒文乾。",
+            "seal_character": "碲"
+        }
+    ],
+    "seal_character": "碱",
+    "pinyin": "qian",
+    "pinyin_full": "qián",
+    "components": [
+        "乙",
+        "倝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "上出也。",
+            "note": "此乾字之本義也。自有文字以後。乃用爲卦名。而孔子釋之曰。健也。健之義生於上出。上出爲乾。下注則爲溼。故乾與溼相對。俗別其音。古無是也。"
+        },
+        {
+            "explanation": "从乙。乙、物之𨔶也。",
+            "note": "釋从乙之恉。物𨔶則上出矣。"
+        },
+        {
+            "explanation": "倝聲。",
+            "note": "？者、日始出光？？也。然則形聲中有會意焉。渠焉切。又古寒切。十四部。"
+        },
+        {
+            "explanation": "籒文乾。",
+            "note": "𠐱葢籒文倝。故籒文朝、籒文乾皆从之。"
+        }
+    ],
+    "indexes": [
+        "干",
+        "乾",
+        "𠄃"
+    ]
+}

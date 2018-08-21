@@ -1,0 +1,39 @@
+{
+    "id": 1639,
+    "wordhead": "譀",
+    "explanation": "誕也。从言敢聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "下闞切",
+    "variants": [
+        {
+            "wordhead": "𧧴",
+            "explanation": "俗譀从忘<span>[<span>㤀</span>]</span>。",
+            "seal_character": "唨"
+        }
+    ],
+    "seal_character": "唧",
+    "pinyin": "han",
+    "pinyin_full": "hàn",
+    "components": [
+        "言",
+        "忘",
+        "敢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "誕也。",
+            "note": "東觀漢記曰。雖誇譀猶令人熱。按誕也當作誇也。譀與誇互訓。"
+        },
+        {
+            "explanation": "从言。敢聲。",
+            "note": "下闞切。八部。"
+        }
+    ],
+    "indexes": [
+        "譀",
+        "𧧴"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 94,
+    "wordhead": "瓊",
+    "explanation": "赤玉也。从玉敻聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "渠營切",
+    "variants": [
+        {
+            "wordhead": "璚",
+            "explanation": "瓊或从矞。",
+            "seal_character": "乵"
+        },
+        {
+            "wordhead": "瓗",
+            "explanation": "瓊或从巂<span>[<span>雟</span>]</span>。",
+            "seal_character": "乶"
+        },
+        {
+            "wordhead": "琁",
+            "explanation": "瓊或从旋省。",
+            "seal_character": "乷"
+        }
+    ],
+    "seal_character": "乴",
+    "pinyin": "qiong",
+    "pinyin_full": "qiónɡ",
+    "components": [
+        "玉",
+        "敻",
+        "矞",
+        "巂",
+        "旋"
+    ],
+    "xuan_note": "臣鉉等曰：今與璿同。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亦玉也。",
+            "note": "亦各本作赤。非。說文時有言亦者。如李賢所引診亦視也、鳥部鸞亦神靈之精也之類。此上下文皆云玉也。則瓊亦當爲玉名。倘是赤玉。當廁璊瑕二篆閒矣。離騷曰。折瓊枝以爲羞。廣雅玉類首瓊支。此瓊爲玉名之證也。唐人陸德明、張守節皆引作赤玉。則其誤已久。詩瓊琚、瓊瑤、瓊華、瓊瑩、瓊英、瓊瑰。毛傳云。瓊、玉之美者也。葢瓊支爲玉之最美者。故廣雅言玉首瓊支。因而引伸凡玉石之美皆謂之瓊。應劭曰。瓊、玉之華也。是其理也。"
+        },
+        {
+            "explanation": "从王。夐聲。",
+            "note": "渠營切。古音在十四部。招䰟與姦安軒山連寒湲蘭筵韻。"
+        },
+        {
+            "explanation": "瓊或从矞。",
+            "note": "巂聲也。矞爲夐之入聲。角部觼或作鐍。此十四部與十五部合音之理。"
+        },
+        {
+            "explanation": "瓊或从瓗。",
+            "note": "巂聲也。此十四部與十六部合音之理。虫部蠵亦作瓊。"
+        }
+    ],
+    "indexes": [
+        "琼",
+        "瓊",
+        "璚",
+        "瓗",
+        "琁"
+    ]
+}

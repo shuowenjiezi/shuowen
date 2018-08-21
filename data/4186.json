@@ -1,0 +1,31 @@
+{
+    "id": 4186,
+    "wordhead": "晵",
+    "explanation": "雨而晝夝也。从日，啓省聲。",
+    "volume": "07",
+    "radical": "日",
+    "pronunciation": "康禮切",
+    "variants": [],
+    "seal_character": "悵",
+    "pinyin": "qi",
+    "pinyin_full": "qǐ",
+    "components": [
+        "日",
+        "啓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雨而晝夝也。",
+            "note": "晵之言闓也。夝者、雨而夜除星見也。雨而晝除見日則謂之晵。晵亦謂之夝。"
+        },
+        {
+            "explanation": "从曰。啟省聲。",
+            "note": "康禮切。十五部。按集韵又輕甸切。語之轉也。今蘇州俗語云。晵晝不是好晴。正作此音。"
+        }
+    ],
+    "indexes": [
+        "晵"
+    ]
+}

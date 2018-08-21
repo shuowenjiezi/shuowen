@@ -1,0 +1,31 @@
+{
+    "id": 7500,
+    "wordhead": "零",
+    "explanation": "餘雨也。从雨令聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "漟",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "雨",
+        "令"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "徐雨也。",
+            "note": "徐各本作餘。今依玉篇、廣韵及太平御覽所引纂要訂。謂徐徐而下之雨。小雅。興雲祁祁。傳曰。祁祁、徐也。箋云。古者陰陽和。風雨時。其來祁祁然而不曓疾。引申之義爲零星、爲凋零。"
+        },
+        {
+            "explanation": "从雨。令聲。",
+            "note": "郎丁切。古音在十二部。讀如鄰。"
+        }
+    ],
+    "indexes": [
+        "零"
+    ]
+}

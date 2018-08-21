@@ -1,0 +1,35 @@
+{
+    "id": 6098,
+    "wordhead": "貒",
+    "explanation": "獸也。从豸耑聲。讀若湍。",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "他耑切",
+    "variants": [],
+    "seal_character": "椛",
+    "pinyin": "tuan",
+    "pinyin_full": "tuān",
+    "components": [
+        "耑",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "貒獸也。",
+            "note": "各本無貒字。今補。三字爲一句。釋獸曰。狐貍貒貈醜。其足蹯。其跡𠘯。貒子貗。"
+        },
+        {
+            "explanation": "似豕而肥。",
+            "note": "各本無此四字。今依韵會所據及爾雅音義所引補。"
+        },
+        {
+            "explanation": "从豸。耑聲。讀若湍。",
+            "note": "他耑切。十四部。"
+        }
+    ],
+    "indexes": [
+        "貒"
+    ]
+}

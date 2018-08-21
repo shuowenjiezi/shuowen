@@ -1,0 +1,40 @@
+{
+    "id": 2283,
+    "wordhead": "雛",
+    "explanation": "雞子也。从隹芻聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "士于切",
+    "variants": [
+        {
+            "wordhead": "鶵",
+            "explanation": "籒文雛从鳥。",
+            "seal_character": "堭"
+        }
+    ],
+    "seal_character": "堬",
+    "pinyin": "chu",
+    "pinyin_full": "chú",
+    "components": [
+        "隹",
+        "鳥",
+        "芻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雞子也。",
+            "note": "雞子、雞之小者也。淮南。天子以雛嘗黍。高曰。雛、新雞也。吕覽注云。雛、春雡也。郭景純言今呼少雞爲？。則二注正同。王制。春薦韭。韭以？。？謂少雞。古者少雞亦曰？。方言。雞雛、徐魯之閒謂之？子。按雛引伸爲凡鳥子細小之偁。釋鳥曰。生哺？、生噣雛。"
+        },
+        {
+            "explanation": "从隹。芻聲。",
+            "note": "士于切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "雏",
+        "雛",
+        "鶵"
+    ]
+}

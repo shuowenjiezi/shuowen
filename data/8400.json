@@ -1,0 +1,35 @@
+{
+    "id": 8400,
+    "wordhead": "匰",
+    "explanation": "宗廟盛主器也。《周禮》曰：“祭祀共匰主。”从匚單聲。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "都寒切",
+    "variants": [],
+    "seal_character": "狲",
+    "pinyin": "dan",
+    "pinyin_full": "dān",
+    "components": [
+        "單",
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宗廟盛宔器也。",
+            "note": "周禮司巫。祭祀共匰主。杜子春云。匰、器名。主、木主也。許云宗廟盛宔器。亦用杜說。"
+        },
+        {
+            "explanation": "从匚。單聲。",
+            "note": "都寒切。十四部。"
+        },
+        {
+            "explanation": "周禮曰。祭祀共匰主。",
+            "note": "匰主謂主之匰。鄭曰。大祝取主陳之器則退也。"
+        }
+    ],
+    "indexes": [
+        "匰"
+    ]
+}

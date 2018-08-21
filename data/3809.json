@@ -1,0 +1,33 @@
+{
+    "id": 3809,
+    "wordhead": "柙",
+    "explanation": "檻也。以藏虎兕。从木甲聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "烏匣切",
+    "variants": [],
+    "seal_character": "弤",
+    "pinyin": "xia",
+    "pinyin_full": "xiá",
+    "components": [
+        "木",
+        "囗",
+        "屮",
+        "甲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "檻也。所㠯臧虎兕也。",
+            "note": "所、也二字依廣韵補。論語。虎兕出於柙。馬曰。柙、檻也。引伸爲凡檢柙之偁。如上文云柙指是也。"
+        },
+        {
+            "explanation": "從木。甲聲。",
+            "note": "烏匣切。廣韵胡甲切。八部。"
+        }
+    ],
+    "indexes": [
+        "柙"
+    ]
+}

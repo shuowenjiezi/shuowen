@@ -1,0 +1,44 @@
+{
+    "id": 2979,
+    "wordhead": "籟",
+    "explanation": "三孔龠也。大者謂之笙，其中謂之籟，小者謂之箹。从竹賴聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "洛帶切",
+    "variants": [],
+    "seal_character": "孕",
+    "pinyin": "lai",
+    "pinyin_full": "lài",
+    "components": [
+        "竹",
+        "賴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "三孔龠也。",
+            "note": "龠部曰。龠、管樂。六孔。以和衆聲。按毛詩傳曰。龠六孔。許龠下從之。此云三孔龠者、謂龠之三孔者則名籟也。鄭注笙師、少儀、明掌位皆云。籥如笛、三孔。鄭專謂籟耳。今本說文龠下爲淺人所亂。然於此可以正彼。莊子人籟、地籟、天籟、引伸義也。"
+        },
+        {
+            "explanation": "大者謂之笙。",
+            "note": "笙、釋樂作產。"
+        },
+        {
+            "explanation": "其中謂之籟。",
+            "note": "釋樂作謂之仲。葢誤。"
+        },
+        {
+            "explanation": "小者謂之箹。",
+            "note": "三句見釋樂。大者葢六孔者也。中者三孔。"
+        },
+        {
+            "explanation": "从竹。賴聲。",
+            "note": "洛帶切。十五部。"
+        }
+    ],
+    "indexes": [
+        "籁",
+        "籟"
+    ]
+}

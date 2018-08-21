@@ -1,0 +1,35 @@
+{
+    "id": 8137,
+    "wordhead": "姶",
+    "explanation": "女字也。从女合聲。《春秋傳》曰：“嬖人婤姶。”一曰無聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "烏合切",
+    "variants": [],
+    "seal_character": "燘",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "合",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "女字也。从女。合聲。",
+            "note": "烏合切。七部。"
+        },
+        {
+            "explanation": "春秋傳曰。嬖人婤姶。",
+            "note": "昭公七年左氏傳曰。衞襄公夫人姜氏無子。嬖人婤姶生孟縶。"
+        },
+        {
+            "explanation": "一曰無聲。",
+            "note": "別一義。"
+        }
+    ],
+    "indexes": [
+        "姶"
+    ]
+}

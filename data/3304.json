@@ -1,0 +1,48 @@
+{
+    "id": 3304,
+    "wordhead": "䯧",
+    "explanation": "小堂也。从高省，冋聲。",
+    "volume": "05",
+    "radical": "高",
+    "pronunciation": "去颍切",
+    "variants": [
+        {
+            "wordhead": "廎",
+            "explanation": "䯧或从广頃聲。",
+            "seal_character": "峧"
+        }
+    ],
+    "seal_character": "峦",
+    "pinyin": "qing",
+    "pinyin_full": "qǐnɡ",
+    "components": [
+        "高",
+        "冋",
+        "广",
+        "頃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小堂也。",
+            "note": "集韵曰。傾敻切。瓜屋也。"
+        },
+        {
+            "explanation": "从高省。冋聲。",
+            "note": "去潁切。十一部。"
+        },
+        {
+            "explanation": "䯧或从广。",
+            "note": "元次山𢈪廎。宋人多謂廎卽亭字。非也。今按可讀如今之廳。"
+        },
+        {
+            "explanation": "頃聲。",
+            "note": "宋本有聲。"
+        }
+    ],
+    "indexes": [
+        "䯧",
+        "廎"
+    ]
+}

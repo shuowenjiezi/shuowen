@@ -1,0 +1,31 @@
+{
+    "id": 1230,
+    "wordhead": "彼",
+    "explanation": "往，有所加也。从彳皮聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "補委切",
+    "variants": [],
+    "seal_character": "卡",
+    "pinyin": "bi",
+    "pinyin_full": "bǐ",
+    "components": [
+        "彳",
+        "皮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往有所加也。",
+            "note": "彼加曡韵。"
+        },
+        {
+            "explanation": "从彳。皮聲。",
+            "note": "補委切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "彼"
+    ]
+}

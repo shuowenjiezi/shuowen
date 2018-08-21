@@ -1,0 +1,31 @@
+{
+    "id": 1267,
+    "wordhead": "街",
+    "explanation": "四通道也。从行圭聲。",
+    "volume": "02",
+    "radical": "行",
+    "pronunciation": "古膎切",
+    "variants": [],
+    "seal_character": "厌",
+    "pinyin": "jie",
+    "pinyin_full": "jiē",
+    "components": [
+        "行",
+        "圭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "四通道也。",
+            "note": "風俗通曰。街、攜也。離也。四出之路、攜離而別也。按此以曡韵爲訓。"
+        },
+        {
+            "explanation": "从行。圭聲。",
+            "note": "古膎切。十六部。"
+        }
+    ],
+    "indexes": [
+        "街"
+    ]
+}

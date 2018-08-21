@@ -1,0 +1,58 @@
+{
+    "id": 1147,
+    "wordhead": "遲",
+    "explanation": "徐行也。从辵犀聲。《詩》曰：“行道遲遲。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "直尼切",
+    "variants": [
+        {
+            "wordhead": "𨒈",
+            "explanation": "遲或从𡰥。",
+            "seal_character": "勿"
+        },
+        {
+            "wordhead": "遟",
+            "explanation": "籒文遲从屖。",
+            "seal_character": "匀"
+        }
+    ],
+    "seal_character": "勾",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "辵",
+        "犀",
+        "屖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "徐行也。",
+            "note": "今人謂稽延爲遲。平聲。謂待之爲遲。去聲。"
+        },
+        {
+            "explanation": "从辵。犀聲。",
+            "note": "直尼切。十五部。"
+        },
+        {
+            "explanation": "詩曰。行道遲遲。",
+            "note": "邶風文。毛曰。遲遲、舒行皃。"
+        },
+        {
+            "explanation": "遲或从𡰥。",
+            "note": "按此字疑後人因楊雄傳而增也。甘泉賦曰。靈遟𨒈兮。說者皆云上音棲。下音遲。𨒈卽遲字也。然文𨕖作迉迡、與漢書異。玉篇汗𥳑亦皆作迡。集韵引尙書迡任。又未必眞壁中古文也。"
+        },
+        {
+            "explanation": "籒文遲。从屖。",
+            "note": "兼會意形聲也。五經文字曰。今从籒文。謂唐人經典用遟不用遲也。"
+        }
+    ],
+    "indexes": [
+        "迟",
+        "遲",
+        "𨒈",
+        "遟"
+    ]
+}

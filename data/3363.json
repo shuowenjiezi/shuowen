@@ -1,0 +1,44 @@
+{
+    "id": 3363,
+    "wordhead": "舞",
+    "explanation": "樂也。用足相背，从舛；無聲。",
+    "volume": "05",
+    "radical": "舛",
+    "pronunciation": "文撫切",
+    "variants": [
+        {
+            "wordhead": "𦏶",
+            "explanation": "古文舞从羽<span>[<span>𦏲</span>]</span>、亡<span>[<span>亾</span>]</span>。",
+            "seal_character": "崸"
+        }
+    ],
+    "seal_character": "崷",
+    "pinyin": "wu",
+    "pinyin_full": "wǔ",
+    "components": [
+        "無",
+        "羽",
+        "亡",
+        "舛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂也。用足相背。",
+            "note": "說从舛之意。"
+        },
+        {
+            "explanation": "从舛。𣞤聲。",
+            "note": "文撫切。五部。按諸書多作儛。"
+        },
+        {
+            "explanation": "古文舞。从羽亾。",
+            "note": "亾聲也。攴部曰。𢻲、讀與撫同。然則以亾爲無也古矣。"
+        }
+    ],
+    "indexes": [
+        "舞",
+        "𦏶"
+    ]
+}

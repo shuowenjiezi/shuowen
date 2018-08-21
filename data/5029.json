@@ -1,0 +1,31 @@
+{
+    "id": 5029,
+    "wordhead": "侍",
+    "explanation": "承也。从人寺聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "時吏切",
+    "variants": [],
+    "seal_character": "摽",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "人",
+        "寺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "承也。",
+            "note": "承者、奉也。受也。凡言侍者皆敬恭承奉之義。"
+        },
+        {
+            "explanation": "从人。寺聲。",
+            "note": "小徐作从人、从寺。時吏切。一部。"
+        }
+    ],
+    "indexes": [
+        "侍"
+    ]
+}

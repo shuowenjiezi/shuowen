@@ -1,0 +1,35 @@
+{
+    "id": 6014,
+    "wordhead": "碎",
+    "explanation": "䃺也。从石卒聲。",
+    "volume": "09",
+    "radical": "石",
+    "pronunciation": "蘇對切",
+    "variants": [],
+    "seal_character": "梹",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "石",
+        "卒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䊳也。",
+            "note": "䊳各本作䃺。其義迥殊矣。䃺所以碎物而非碎也。今正。米部曰。䊳、碎也。二篆爲轉注。䊳各書假靡爲之。孟子假糜爲之。碎者、破也。䊳者、破之甚也。義少別而可互訓。瓦部曰。𤭢者、破也。音義同。"
+        },
+        {
+            "explanation": "从石。",
+            "note": "石可碎物。物亦可碎石。兼此二義。"
+        },
+        {
+            "explanation": "卒聲。",
+            "note": "蘇對切。十五部。"
+        }
+    ],
+    "indexes": [
+        "碎"
+    ]
+}

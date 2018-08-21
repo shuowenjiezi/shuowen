@@ -1,0 +1,47 @@
+{
+    "id": 3059,
+    "wordhead": "喜",
+    "explanation": "樂也。从壴从口。凡喜之屬皆从喜。",
+    "volume": "05",
+    "radical": "喜",
+    "pronunciation": "虚里切",
+    "variants": [
+        {
+            "wordhead": "歖",
+            "explanation": "古文喜从欠，與歡同。",
+            "seal_character": "宾"
+        }
+    ],
+    "seal_character": "宽",
+    "pinyin": "xi",
+    "pinyin_full": "xǐ",
+    "components": [
+        "口",
+        "欠",
+        "壴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂也。",
+            "note": "樂者、五聲八音緫名。樂記曰。樂者、樂也。古音樂與喜樂無二字。亦無二音。"
+        },
+        {
+            "explanation": "从壴。从口。",
+            "note": "壴象陳樂立而上見。从口者、𥬇下曰喜也。聞樂則𥬇。故从壴从口會意。虛里切。一部。"
+        },
+        {
+            "explanation": "古文喜。从欠。",
+            "note": "葢古文作㰻。轉寫誤耳。"
+        },
+        {
+            "explanation": "與歡同。",
+            "note": "同下當有意。謂皆从欠也。"
+        }
+    ],
+    "indexes": [
+        "喜",
+        "歖"
+    ]
+}

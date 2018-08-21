@@ -1,0 +1,31 @@
+{
+    "id": 65,
+    "wordhead": "禓",
+    "explanation": "道上祭。从示昜聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "與章切",
+    "variants": [],
+    "seal_character": "乓",
+    "pinyin": "yang",
+    "pinyin_full": "yánɡ",
+    "components": [
+        "示",
+        "昜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "道上祭。",
+            "note": "史游急就篇曰。謁禓塞。王伯厚曰。周禮注。衍祭、羨之道中。如今祭殤。"
+        },
+        {
+            "explanation": "从示。昜聲。",
+            "note": "與章切。十部。按郊特牲。鄉人禓。孔子朝服立於阼。即論語鄉人難、朝服而立於阼階也。注。禓或爲獻、或爲儺。凡云或爲者、必此彼音讀有相通之理。昜聲與獻儺音理遠隔。記當本是禓字。從示易聲。則與獻儺差近。徐仙民音禓爲儺。當由本是禓字、相傳讀儺也。"
+        }
+    ],
+    "indexes": [
+        "禓"
+    ]
+}

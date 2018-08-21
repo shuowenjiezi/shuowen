@@ -1,0 +1,39 @@
+{
+    "id": 8251,
+    "wordhead": "婞",
+    "explanation": "很也。从女幸聲。《楚詞》曰：“鯀婞直。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "胡頂切",
+    "variants": [],
+    "seal_character": "牌",
+    "pinyin": "xing",
+    "pinyin_full": "xìnɡ",
+    "components": [
+        "女",
+        "幸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "很也。",
+            "note": "很者、不聽從也。王逸離騷注同。"
+        },
+        {
+            "explanation": "一曰見親。",
+            "note": "小徐有此四字。按凡親幸、嬖幸、當作此婞。"
+        },
+        {
+            "explanation": "从女。幸聲。",
+            "note": "胡頂切。十一部。"
+        },
+        {
+            "explanation": "楚詞曰。鯀婞直。",
+            "note": "離騷文。此證佷義。"
+        }
+    ],
+    "indexes": [
+        "婞"
+    ]
+}

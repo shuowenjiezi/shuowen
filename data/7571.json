@@ -1,0 +1,32 @@
+{
+    "id": 7571,
+    "wordhead": "鮒",
+    "explanation": "魚名。从魚付聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "符遇切",
+    "variants": [],
+    "seal_character": "潰",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "付",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鮒魚也。",
+            "note": "鮒見易、禮。鄭注易曰。鮒魚微小。虞翻曰。鮒、小鮮也。王逸注大招及廣雅皆云。𩺀、鮒也。"
+        },
+        {
+            "explanation": "从魚。付聲。",
+            "note": "符遇切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "鲋",
+        "鮒"
+    ]
+}

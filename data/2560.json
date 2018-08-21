@@ -1,0 +1,35 @@
+{
+    "id": 2560,
+    "wordhead": "髑",
+    "explanation": "髑髏，頂也。从骨蜀聲。",
+    "volume": "04",
+    "radical": "骨",
+    "pronunciation": "徒谷切",
+    "variants": [],
+    "seal_character": "奺",
+    "pinyin": "du",
+    "pinyin_full": "dú",
+    "components": [
+        "蜀",
+        "骨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髑髏、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "頂也。",
+            "note": "頁部曰。頂、顚也。廣雅。？顱謂之髑髏。按頁部。？顱、頭骨也。"
+        },
+        {
+            "explanation": "从骨。蜀聲。",
+            "note": "徒谷切。三部。"
+        }
+    ],
+    "indexes": [
+        "髑"
+    ]
+}

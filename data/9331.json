@@ -1,0 +1,44 @@
+{
+    "id": 9331,
+    "wordhead": "鈞",
+    "explanation": "三十斤也。从金勻聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "居勻切",
+    "variants": [
+        {
+            "wordhead": "銞",
+            "explanation": "古文鈞从旬。",
+            "seal_character": "眤"
+        }
+    ],
+    "seal_character": "眣",
+    "pinyin": "jun",
+    "pinyin_full": "jūn",
+    "components": [
+        "旬",
+        "金",
+        "勻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "三十斤也。",
+            "note": "斤者、十六兩也。三十斤、爲銖萬一千五百二十。爲絫二十七萬六千四百八十。漢志曰。鈞者、均也。陽施其氣。陰化其物。皆得其成就平均也。按古多叚鈞爲均。"
+        },
+        {
+            "explanation": "从金。匀聲。",
+            "note": "居匀切。十二部。"
+        },
+        {
+            "explanation": "古文鈞。从旬。",
+            "note": "古旬匀多通用。"
+        }
+    ],
+    "indexes": [
+        "钧",
+        "鈞",
+        "銞"
+    ]
+}

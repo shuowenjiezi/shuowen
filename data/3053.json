@@ -1,0 +1,43 @@
+{
+    "id": 3053,
+    "wordhead": "虧",
+    "explanation": "气損也。从亏雐聲。",
+    "volume": "05",
+    "radical": "亏",
+    "pronunciation": "去爲切",
+    "variants": [
+        {
+            "wordhead": "𧇾",
+            "explanation": "虧或从兮。",
+            "seal_character": "家"
+        }
+    ],
+    "seal_character": "宵",
+    "pinyin": "kui",
+    "pinyin_full": "kuī",
+    "components": [
+        "亏",
+        "兮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "气損也。",
+            "note": "引伸凡損皆曰虧。小雅㒳言不騫不𡹔。魯頌作不虧不𡹔。毛曰。騫、虧也。"
+        },
+        {
+            "explanation": "从亏。雐聲。",
+            "note": "去爲切。據道德經古音在十七部。雐在五部。魚歌合韵也。"
+        },
+        {
+            "explanation": "虧或从兮。",
+            "note": "亏兮皆謂气。"
+        }
+    ],
+    "indexes": [
+        "亏",
+        "虧",
+        "𧇾"
+    ]
+}

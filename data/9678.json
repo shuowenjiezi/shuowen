@@ -1,0 +1,45 @@
+{
+    "id": 9678,
+    "wordhead": "五",
+    "explanation": "五行也。从二，陰陽在天地閒交午也。凡五之屬皆从五。",
+    "volume": "14",
+    "radical": "五",
+    "pronunciation": "疑古切",
+    "variants": [
+        {
+            "wordhead": "㐅",
+            "explanation": "古文五省。",
+            "seal_character": "碜"
+        }
+    ],
+    "seal_character": "碛",
+    "pinyin": "wu",
+    "pinyin_full": "wǔ",
+    "components": [
+        "五"
+    ],
+    "xuan_note": "臣鉉等曰：二，天天地也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "五行也。",
+            "note": "古之聖人知有水火木金土五者。而後造此字也。"
+        },
+        {
+            "explanation": "从二。",
+            "note": "像天地。"
+        },
+        {
+            "explanation": "侌昜在天地閒交午也。",
+            "note": "此謂㐅也。卽釋古文之意。水火木金土相尅相生。陰陽交午也。疑古切。五部。"
+        },
+        {
+            "explanation": "古文五如此。",
+            "note": "小篆益之以二耳。古文像陰陽午貫之形。毛詩。七月鳴鴂。王肅云。當爲五月。正爲古文五與七相近似。"
+        }
+    ],
+    "indexes": [
+        "五",
+        "㐅"
+    ]
+}

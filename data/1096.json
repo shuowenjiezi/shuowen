@@ -1,0 +1,31 @@
+{
+    "id": 1096,
+    "wordhead": "巡",
+    "explanation": "延行皃。从辵川聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "詳遵切",
+    "variants": [],
+    "seal_character": "势",
+    "pinyin": "xun",
+    "pinyin_full": "xún",
+    "components": [
+        "辵",
+        "川"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "視行也。",
+            "note": "也各本作皃。今依篇、韵訂。視行者、有所省視之行也。天子適諸矦曰巡狩。巡所守也。視行一作延行。延巡雙聲。"
+        },
+        {
+            "explanation": "从辵。川聲。",
+            "note": "詳遵切。十三部。"
+        }
+    ],
+    "indexes": [
+        "巡"
+    ]
+}

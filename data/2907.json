@@ -1,0 +1,35 @@
+{
+    "id": 2907,
+    "wordhead": "箅",
+    "explanation": "蔽也，所以蔽甑底。从竹𢌿聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "必至切",
+    "variants": [],
+    "seal_character": "嬃",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "竹",
+        "畀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蔽也。",
+            "note": "此戸護也、門聞也之例。"
+        },
+        {
+            "explanation": "所㠯蔽甑底。",
+            "note": "甑者、蒸飯之器。底有七穿。必以竹席蔽之米乃不漏。雷公炮炙論云。常用之甑中箅能淡鹽味。煑昆布用弊箅。哀江南賦曰。敝箅不能救鹽池之鹹。"
+        },
+        {
+            "explanation": "从竹。畀聲。",
+            "note": "必至切。十五部。按廣韵博計切。"
+        }
+    ],
+    "indexes": [
+        "箅"
+    ]
+}

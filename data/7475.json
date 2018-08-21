@@ -1,0 +1,47 @@
+{
+    "id": 7475,
+    "wordhead": "𠗲",
+    "explanation": "仌出也。从仌朕聲。《詩》曰：“納于𠗲陰。”",
+    "volume": "11",
+    "radical": "仌",
+    "pronunciation": "力膺切",
+    "variants": [
+        {
+            "wordhead": "凌",
+            "explanation": "𠗲或从夌。",
+            "seal_character": "滼"
+        }
+    ],
+    "seal_character": "滻",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "仌",
+        "朕",
+        "夌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "仌出也。",
+            "note": "仌出者、謂仌之出水文棱棱然。輕讀爲力膺切。重讀則里孕切。今俗語猶尒。豳詩。三之日納于凌陰。傳曰。凌陰、冰室也。此以冰釋凌、以室釋陰。非謂？爲仌室也。鄭注周禮凌人徑云凌、冰室也。似失之。"
+        },
+        {
+            "explanation": "从仌。𦨶聲。",
+            "note": "六部。"
+        },
+        {
+            "explanation": "詩曰。納于𣎎陰。",
+            "note": "七月文。"
+        },
+        {
+            "explanation": "𣎎或从夌。",
+            "note": "夌聲也。"
+        }
+    ],
+    "indexes": [
+        "𠗲",
+        "凌"
+    ]
+}

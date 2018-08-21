@@ -1,0 +1,35 @@
+{
+    "id": 5777,
+    "wordhead": "勼",
+    "explanation": "聚也。从勹九聲。讀若鳩。",
+    "volume": "09",
+    "radical": "勹",
+    "pronunciation": "居求切",
+    "variants": [],
+    "seal_character": "枰",
+    "pinyin": "jiu",
+    "pinyin_full": "jiū",
+    "components": [
+        "勹",
+        "九"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聚也。",
+            "note": "釋詁曰。鳩、聚也。左傳作鳩。古文尙書作逑。辵部曰。逑、斂聚也。莊子作九。今字則鳩行而勼廢矣。"
+        },
+        {
+            "explanation": "从勹。九聲。",
+            "note": "此當作从勹九、九亦聲。轉寫奪之。"
+        },
+        {
+            "explanation": "讀若鳩。",
+            "note": "居求切。三部。"
+        }
+    ],
+    "indexes": [
+        "勼"
+    ]
+}

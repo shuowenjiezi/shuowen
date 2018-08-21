@@ -1,0 +1,34 @@
+{
+    "id": 2086,
+    "wordhead": "䦩",
+    "explanation": "低目視也。从𡕥門聲。弘農湖縣有䦩鄉，汝南西平有䦩亭。",
+    "volume": "04",
+    "radical": "𡕥",
+    "pronunciation": "無分切",
+    "variants": [],
+    "seal_character": "坕",
+    "pinyin": "wen",
+    "pinyin_full": "wén",
+    "components": [
+        "門"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "氐目視也。",
+            "note": "氐各本低。按人部無低。日部曰。氐者、下也。"
+        },
+        {
+            "explanation": "从𥄎。門聲。",
+            "note": "無分切。十三部。俗作閿。"
+        },
+        {
+            "explanation": "弘農湖縣有䦩鄉。",
+            "note": "後漢書。鄭興客授䦩鄉。注曰。䦩、建安中改作聞。"
+        }
+    ],
+    "indexes": [
+        "䦩"
+    ]
+}

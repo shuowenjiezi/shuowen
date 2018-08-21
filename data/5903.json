@@ -1,0 +1,31 @@
+{
+    "id": 5903,
+    "wordhead": "庖",
+    "explanation": "廚也。从广包聲。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "薄交切",
+    "variants": [],
+    "seal_character": "栿",
+    "pinyin": "pao",
+    "pinyin_full": "páo",
+    "components": [
+        "包",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "廚也。",
+            "note": "王制。三爲充君之庖。注曰。庖今之廚也。周禮庖人注曰。庖之言苞也。苞裹肉曰苞苴。"
+        },
+        {
+            "explanation": "从广。包聲。",
+            "note": "薄交切。古音在三部。"
+        }
+    ],
+    "indexes": [
+        "庖"
+    ]
+}

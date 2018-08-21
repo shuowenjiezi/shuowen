@@ -1,0 +1,55 @@
+{
+    "id": 9044,
+    "wordhead": "垐",
+    "explanation": "以土增大道上。从土次聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "疾資切",
+    "variants": [
+        {
+            "wordhead": "堲",
+            "explanation": "古文垐从土、卽。《虞書》曰：“龍，朕堲讒說殄行”。堲，疾惡也。",
+            "seal_character": "痠"
+        }
+    ],
+    "seal_character": "痟",
+    "pinyin": "ci",
+    "pinyin_full": "cí",
+    "components": [
+        "土",
+        "次",
+        "卽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯土增大道上。",
+            "note": "增、益也。此與茨同意。以艸次於屋上曰茨。以土次於道上曰垐。"
+        },
+        {
+            "explanation": "从土。次聲。",
+            "note": "疾資切。古音在十二部。"
+        },
+        {
+            "explanation": "古文垐。",
+            "note": "見於經者、曰夏后氏堲周。注云。火熟曰堲。引弟子職右手折堲。是鄭與許異也。"
+        },
+        {
+            "explanation": "从土卽。",
+            "note": "古次卽同在十五部。而次古讀如漆。故卽聲後改爲次聲。而唐書叚堲爲疾也。今音疾資切。"
+        },
+        {
+            "explanation": "虞書曰。龍、朕堲讒說殄行。",
+            "note": "堯典文。虞當作唐。說在禾部。"
+        },
+        {
+            "explanation": "堲、疾惡也。",
+            "note": "此釋經以說叚借。謂堲卽疾之叚借。如？席爲竹蔑之叚借、作𡚽爲好之叚借也。古音讀如疾。廣韵子栗將七二切。是也。徐仙民讀在力反。乃失古義矣。"
+        }
+    ],
+    "indexes": [
+        "垐",
+        "堲"
+    ]
+}

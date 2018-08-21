@@ -1,0 +1,31 @@
+{
+    "id": 401,
+    "wordhead": "莿",
+    "explanation": "茦也。从艸刺聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "七賜切",
+    "variants": [],
+    "seal_character": "俈",
+    "pinyin": "ci",
+    "pinyin_full": "cì",
+    "components": [
+        "艸",
+        "刺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "茦也。",
+            "note": "按方言衹作刺。卽從艸亦當與茦篆相屬。恐後人增之。"
+        },
+        {
+            "explanation": "从艸。刺聲。",
+            "note": "七賜切。十六部。"
+        }
+    ],
+    "indexes": [
+        "莿"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2385,
+    "wordhead": "䳀",
+    "explanation": "鋪豉也。从鳥失聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "墧",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "鳥",
+        "失"
+    ],
+    "xuan_note": "臣鉉等曰：鋪豉，鳥名。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鋪豉也。",
+            "note": "二徐上字皆作鋪。宋刻鉉本、李燾本不作餔也。爾雅作餔。釋鳥。䳀、餔豉。此必鳥聲。如云鋪豉。自郭氏巳未詳矣。"
+        },
+        {
+            "explanation": "从鳥。失聲。",
+            "note": "徒結切。十二部。"
+        }
+    ],
+    "indexes": [
+        "䳀"
+    ]
+}

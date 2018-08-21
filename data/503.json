@@ -1,0 +1,35 @@
+{
+    "id": 503,
+    "wordhead": "英",
+    "explanation": "艸榮而不實者。一曰黃英。从艸央聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "於京切",
+    "variants": [],
+    "seal_character": "倶",
+    "pinyin": "ying",
+    "pinyin_full": "yīnɡ",
+    "components": [
+        "艸",
+        "央"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸榮而不實者。",
+            "note": "見釋艸。"
+        },
+        {
+            "explanation": "一曰黃英。",
+            "note": "此別一義也。疑卽權黃華。"
+        },
+        {
+            "explanation": "从艸。央聲。",
+            "note": "於京切。古音在十部。"
+        }
+    ],
+    "indexes": [
+        "英"
+    ]
+}

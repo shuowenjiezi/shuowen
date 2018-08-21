@@ -1,0 +1,42 @@
+{
+    "id": 7497,
+    "wordhead": "雹",
+    "explanation": "雨冰也。从雨包聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "蒲角切",
+    "variants": [
+        {
+            "wordhead": "𩅟",
+            "explanation": "古文雹。",
+            "seal_character": "漜"
+        }
+    ],
+    "seal_character": "漛",
+    "pinyin": "bao",
+    "pinyin_full": "báo",
+    "components": [
+        "雨",
+        "包"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雨仌也。",
+            "note": "仌舊作冰。今正。雨仌、謂自上而下之仌也。曾子曰。陰之專氣爲雹。劉向曰。盛陽雨水。溫暖而湯𤍽。陰氣脅之不相入。則轉而爲雹。故沸湯之在閉器而湛於甘泉則爲冰。此其驗也。左氏傳曰。聖人在上。無雹。雖有、不爲災。"
+        },
+        {
+            "explanation": "从雨。包聲。",
+            "note": "蒲角切。古音在三部。"
+        },
+        {
+            "explanation": "古文雹如此。",
+            "note": "象其磊磊之形。"
+        }
+    ],
+    "indexes": [
+        "雹",
+        "𩅟"
+    ]
+}

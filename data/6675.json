@@ -1,0 +1,35 @@
+{
+    "id": 6675,
+    "wordhead": "意",
+    "explanation": "志也。从心察言而知意也。从心从音。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "於記切",
+    "variants": [],
+    "seal_character": "殞",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "心",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "志也。",
+            "note": "志卽識。心所識也。意之訓爲測度、爲記。訓測者、如論語毋意毋必、不逆詐、不億不信、億則屢中。其字俗作億。訓記者、如今人云記憶是也。其字俗作憶。大學曰。欲正其心者。先誠其意。誠謂實其心之所識也。如惡惡臭。如好好色。此之謂自謙。鄭云謙讀爲慊。慊之言厭也。按厭當爲猒。猒者、足也。"
+        },
+        {
+            "explanation": "从心音。",
+            "note": "會意。於記切。一部。古音入聲。於力切。"
+        },
+        {
+            "explanation": "察言而知意也。",
+            "note": "說从音之意。"
+        }
+    ],
+    "indexes": [
+        "意"
+    ]
+}

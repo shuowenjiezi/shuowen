@@ -1,0 +1,35 @@
+{
+    "id": 1123,
+    "wordhead": "逆",
+    "explanation": "迎也。从辵屰聲。關東曰逆，關西曰迎。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "宜戟切",
+    "variants": [],
+    "seal_character": "勡",
+    "pinyin": "ni",
+    "pinyin_full": "nì",
+    "components": [
+        "屰",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "迎也。",
+            "note": "逆迎雙聲。二字通用。如禹貢逆河、今文尙書作迎河是也。今人假以爲順屰之屰。逆行而屰廢矣。"
+        },
+        {
+            "explanation": "从辵。屰聲。",
+            "note": "宜戟切。古音在五部。"
+        },
+        {
+            "explanation": "關東曰逆。關西日迎。",
+            "note": "方言。逢逆迎也。自關而西或曰迎。或曰逢。自關而東曰逆。"
+        }
+    ],
+    "indexes": [
+        "逆"
+    ]
+}

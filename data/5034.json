@@ -1,0 +1,31 @@
+{
+    "id": 5034,
+    "wordhead": "付",
+    "explanation": "與也。从寸持物對人。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "方遇切",
+    "variants": [],
+    "seal_character": "撂",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "人",
+        "寸"
+    ],
+    "xuan_note": "臣鉉等曰：寸，手也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "予也。",
+            "note": "予者、推予也。尙書。天旣孚命正厥德。今文尙書作天旣付命正厥德。"
+        },
+        {
+            "explanation": "从寸持物㠯對人。",
+            "note": "寸者、手也。方遇切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "付"
+    ]
+}

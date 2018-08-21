@@ -1,0 +1,39 @@
+{
+    "id": 1324,
+    "wordhead": "𤘐",
+    "explanation": "齒蠧也。从牙禹聲。",
+    "volume": "02",
+    "radical": "牙",
+    "pronunciation": "區禹切",
+    "variants": [
+        {
+            "wordhead": "齲",
+            "explanation": "𤘐或从齒。",
+            "seal_character": "及"
+        }
+    ],
+    "seal_character": "叉",
+    "pinyin": "qu",
+    "pinyin_full": "qǔ",
+    "components": [
+        "禹",
+        "牙",
+        "齒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齒蠧也。",
+            "note": "釋名曰。𤘐、朽也。蟲齧之缺朽也。史記。齊中大夫病齲齒。淮南。斲木愈齲。司馬彪五行志。桓帝元嘉中。京都婦女作齲齒𥬇。"
+        },
+        {
+            "explanation": "从牙。禹聲。",
+            "note": "邱禹切。五部。"
+        }
+    ],
+    "indexes": [
+        "𤘐",
+        "齲"
+    ]
+}

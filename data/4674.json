@@ -1,0 +1,53 @@
+{
+    "id": 4674,
+    "wordhead": "疾",
+    "explanation": "病也。从疒矢聲。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "秦悉切",
+    "variants": [
+        {
+            "wordhead": "𤕼",
+            "explanation": "古文疾。",
+            "seal_character": "括"
+        },
+        {
+            "wordhead": "𥏴",
+            "explanation": "籒文疾。",
+            "seal_character": "拭"
+        }
+    ],
+    "seal_character": "拫",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "矢",
+        "廿",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "病也。",
+            "note": "析言之則病爲疾加。渾言之則疾亦病也。按經傳多訓爲急也。速也。此引伸之義。如病之來多無期無迹也。止部曰。疌、疾也。"
+        },
+        {
+            "explanation": "从𤕫。矢聲。",
+            "note": "矢能傷人。矢之去甚速。故从矢會意。聲字疑衍。秦悉切。十二部。"
+        },
+        {
+            "explanation": "籒文疾。",
+            "note": "从廿者、古文疾也。从𥎿者𥏼省也。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "各本篆體作𤶅。是仍與小篆無異。今正。攷？篆下曰。廿、古文疾。童篆下曰。廿、古文以爲疾。此廿爲古文疾之明證。而集韵、類篇皆曰。廿、古文疾。？、籒文疾。此丁度所見不誤之明證也。其曰籒文作？又作？者、乃當其時巳有誤本同今本。而因倂入之、又譌古爲籒也。"
+        }
+    ],
+    "indexes": [
+        "疾",
+        "𤕼",
+        "𥏴"
+    ]
+}

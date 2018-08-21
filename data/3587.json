@@ -1,0 +1,43 @@
+{
+    "id": 3587,
+    "wordhead": "槷",
+    "explanation": "木相摩也。从木埶聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "魚祭切",
+    "variants": [
+        {
+            "wordhead": "𣞕",
+            "explanation": "槸或从艸。",
+            "seal_character": "帯"
+        }
+    ],
+    "seal_character": "帮",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "木",
+        "埶",
+        "蓺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木相摩也。",
+            "note": "釋木曰。木相磨槸。按大雅。作之屛之。其菑其翳。脩之平之。其灌其栵。爾雅。立死、甾蔽者、翳。木相磨、槸除灌木叢木已見於上。則槸卽栵也。以文法論。栵必非木名。毛云。栵、栭也。栭謂之而小木相迫切。與爾雅義無不合也。栭爲小木。如鮞爲魚子。"
+        },
+        {
+            "explanation": "從木。埶聲。",
+            "note": "魚祭切。十五部。按槷、考工記輪人以爲槷榝字。又匠人以爲臬字。又輪人注以爲危隉字。"
+        },
+        {
+            "explanation": "或從蓺作。",
+            "note": "據此則蓺字古有之矣。"
+        }
+    ],
+    "indexes": [
+        "槷",
+        "𣞕"
+    ]
+}

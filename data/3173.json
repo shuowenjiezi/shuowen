@@ -1,0 +1,43 @@
+{
+    "id": 3173,
+    "wordhead": "青",
+    "explanation": "東方色也。木生火，从生、丹。丹青之信言象然。凡青之屬皆从青。",
+    "volume": "05",
+    "radical": "青",
+    "pronunciation": "倉經切",
+    "variants": [
+        {
+            "wordhead": "𡷉",
+            "explanation": "古文靑。",
+            "seal_character": "居"
+        }
+    ],
+    "seal_character": "屄",
+    "pinyin": "qing",
+    "pinyin_full": "qīnɡ",
+    "components": [
+        "屮",
+        "生",
+        "丹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "東方色也。",
+            "note": "考工記曰。東方謂之靑。"
+        },
+        {
+            "explanation": "木生火。从生丹。",
+            "note": "彤赤石也。赤、南方之色也。倉經切。十一部。"
+        },
+        {
+            "explanation": "丹靑之信言必然。",
+            "note": "俗言信若丹靑。謂其相生之理有必然也。援此以說从生丹之意。"
+        }
+    ],
+    "indexes": [
+        "青",
+        "𡷉"
+    ]
+}

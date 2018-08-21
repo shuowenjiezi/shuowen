@@ -1,0 +1,48 @@
+{
+    "id": 9134,
+    "wordhead": "畮",
+    "explanation": "六尺爲步，步百爲畮。从田𣫭聲。",
+    "volume": "13",
+    "radical": "田",
+    "pronunciation": "莫厚切",
+    "variants": [
+        {
+            "wordhead": "𤱑",
+            "explanation": "畮或从田、十、久。<span>   臣鉉等曰：十，四方也。久聲。 </span>",
+            "seal_character": "癊"
+        }
+    ],
+    "seal_character": "癉",
+    "pinyin": "mu",
+    "pinyin_full": "mǔ",
+    "components": [
+        "久",
+        "十",
+        "田",
+        "每"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "六尺爲步。步百爲畮。",
+            "note": "司馬法如是。王制曰。方一里者爲田九百畮。謂方里而井。"
+        },
+        {
+            "explanation": "秦田二百四十步爲畮。",
+            "note": "秦孝公之制也。商鞅開阡陌封疆。則鄧展曰。古百步爲畮。漢時二百四十步爲畮。按漢因秦制也。"
+        },
+        {
+            "explanation": "从田。每聲。",
+            "note": "莫后切。古音在一部。"
+        },
+        {
+            "explanation": "畮或从十久。",
+            "note": "十者、阡陌之制。久聲也。每久古音皆在一部。今惟周禮作畮。五經文字曰。經典相承作𠭇。干祿字書曰。𠭇通、畞正。"
+        }
+    ],
+    "indexes": [
+        "畮",
+        "𤱑"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 5986,
+    "wordhead": "碣",
+    "explanation": "特立之石。東海有碣石山。从石曷聲。",
+    "volume": "09",
+    "radical": "石",
+    "pronunciation": "渠列切",
+    "variants": [
+        {
+            "wordhead": "𡂶",
+            "explanation": "古文。",
+            "seal_character": "梚"
+        }
+    ],
+    "seal_character": "梙",
+    "pinyin": "jie",
+    "pinyin_full": "jié",
+    "components": [
+        "石",
+        "曷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "特立之石也。",
+            "note": "碣之言傑也。"
+        },
+        {
+            "explanation": "東海有碣石山。",
+            "note": "碣石山見禹貢。地理志。右北平郡驪成縣。大碣石山在縣西南。非東海郡也。東海字疑誤。"
+        },
+        {
+            "explanation": "从石。曷聲。",
+            "note": "渠列切。十五部。"
+        }
+    ],
+    "indexes": [
+        "碣",
+        "𡂶"
+    ]
+}

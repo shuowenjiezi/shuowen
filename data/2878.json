@@ -1,0 +1,31 @@
+{
+    "id": 2878,
+    "wordhead": "䈎",
+    "explanation": "籥也。从竹枼聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "與接切",
+    "variants": [],
+    "seal_character": "嫥",
+    "pinyin": "ye",
+    "pinyin_full": "yè",
+    "components": [
+        "枼",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "籥也。",
+            "note": "小兒所書寫。每一笘謂之一䈎。今書一紙謂之一頁。或作葉。其實當作此䈎。"
+        },
+        {
+            "explanation": "从竹。枼聲。",
+            "note": "與接切八部"
+        }
+    ],
+    "indexes": [
+        "䈎"
+    ]
+}

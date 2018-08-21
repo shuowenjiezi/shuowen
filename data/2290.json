@@ -1,0 +1,35 @@
+{
+    "id": 2290,
+    "wordhead": "鳽",
+    "explanation": "石鳥。一名雝𪆫。一曰精𠛱。从隹幵聲。《春秋傳》：“秦有士鳽 。”",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "苦堅切",
+    "variants": [],
+    "seal_character": "堷",
+    "pinyin": "qian",
+    "pinyin_full": "qiān",
+    "components": [
+        "隹",
+        "幵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "石鳥。一名雝渠。一曰精列。",
+            "note": "毛傳曰。脊令、雝渠也。飛則鳴。行則搖。不能自舍爾。釋鳥作？鴒。俗字也。精列者、脊令之轉語。"
+        },
+        {
+            "explanation": "从隹。幵聲。",
+            "note": "苦堅切。十二部。"
+        },
+        {
+            "explanation": "春秋傳秦有士鳽。",
+            "note": "見左傳襄九年。按鳽當是士會之後。傳云。秦人歸其帑。其處者爲劉氏。葢處者不皆爲劉氏。或鳽之後乃改氏劉。"
+        }
+    ],
+    "indexes": [
+        "鳽"
+    ]
+}

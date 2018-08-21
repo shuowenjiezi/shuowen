@@ -1,0 +1,35 @@
+{
+    "id": 2817,
+    "wordhead": "觻",
+    "explanation": "角也。从角樂聲。張掖有觻得縣。",
+    "volume": "04",
+    "radical": "角",
+    "pronunciation": "盧谷切",
+    "variants": [],
+    "seal_character": "媟",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "樂",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "角也。",
+            "note": "按尋立文之例。角下當奪一字。廣韵、集韵錫韵皆曰。觻、角鋒也。"
+        },
+        {
+            "explanation": "从角。樂聲。",
+            "note": "盧谷切。古音在二部。"
+        },
+        {
+            "explanation": "張掖有觻得縣。",
+            "note": "二志同。廣韵德韵曰。觻？、縣名。漢書作得。"
+        }
+    ],
+    "indexes": [
+        "觻"
+    ]
+}

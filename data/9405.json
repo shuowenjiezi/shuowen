@@ -1,0 +1,31 @@
+{
+    "id": 9405,
+    "wordhead": "鍒",
+    "explanation": "𨮯之耎也。从金从柔，柔亦聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "耳由切",
+    "variants": [],
+    "seal_character": "睱",
+    "pinyin": "rou",
+    "pinyin_full": "róu",
+    "components": [
+        "金",
+        "柔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鐵之耎也。",
+            "note": "耎猶偄也。偄者、弱也。鍒正爲鉅之反。"
+        },
+        {
+            "explanation": "从金柔。柔亦聲。",
+            "note": "耳由切。三部。"
+        }
+    ],
+    "indexes": [
+        "鍒"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6051,
+    "wordhead": "豵",
+    "explanation": "生六月豚。从豕從聲。一曰一歲豵，尚叢聚也。",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "子紅切",
+    "variants": [],
+    "seal_character": "棤",
+    "pinyin": "zong",
+    "pinyin_full": "zōnɡ",
+    "components": [
+        "豕",
+        "從"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "生六月豚。从豕。從聲。",
+            "note": "子紅切。九部。"
+        },
+        {
+            "explanation": "一曰一歲曰豵。",
+            "note": "曰字今補。召南傳、邠傳、大司馬職先鄭注皆云。一歲曰豵。釋獸曰。豕生三豵。"
+        },
+        {
+            "explanation": "尚叢聚也。",
+            "note": "以㬪韵爲訓。"
+        }
+    ],
+    "indexes": [
+        "豵"
+    ]
+}

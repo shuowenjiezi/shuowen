@@ -1,0 +1,56 @@
+{
+    "id": 4287,
+    "wordhead": "曐",
+    "explanation": "萬物之精，上爲列星。从晶生聲。一曰象形。从口，古口復注中，故與日同。",
+    "volume": "07",
+    "radical": "晶",
+    "pronunciation": "桑經切",
+    "variants": [
+        {
+            "wordhead": "𠻖",
+            "explanation": "古文星。",
+            "seal_character": "愤"
+        },
+        {
+            "wordhead": "星",
+            "explanation": "曐或省。",
+            "seal_character": "愥"
+        }
+    ],
+    "seal_character": "愣",
+    "pinyin": "xing",
+    "pinyin_full": "xīnɡ",
+    "components": [
+        "生",
+        "晶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "萬物之精。上爲列星。",
+            "note": "管子云。凡物之精。此則爲生。下生五穀。上爲列星。流於天地之閒謂之鬼神。藏於胷中謂之聖人。星之言散也。引伸爲碎散之偁。"
+        },
+        {
+            "explanation": "从晶。从生聲。",
+            "note": "桑經切。十一部。"
+        },
+        {
+            "explanation": "一曰象形从○",
+            "note": "从三○故曰象形也。大徐○作囗。誤。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "所謂象形从○。"
+        },
+        {
+            "explanation": "或省。",
+            "note": "春秋說題辭云。星之爲言精也。陽之榮也。陽精爲日。日分爲星。故其字日生爲星。依此則又當入日部。"
+        }
+    ],
+    "indexes": [
+        "曐",
+        "𠻖",
+        "星"
+    ]
+}

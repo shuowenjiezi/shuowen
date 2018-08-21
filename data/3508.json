@@ -1,0 +1,39 @@
+{
+    "id": 3508,
+    "wordhead": "楮",
+    "explanation": "榖也。从木者聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "丑呂切",
+    "variants": [
+        {
+            "wordhead": "柠",
+            "explanation": "楮或从宁。",
+            "seal_character": "巛"
+        }
+    ],
+    "seal_character": "巚",
+    "pinyin": "chu",
+    "pinyin_full": "chǔ",
+    "components": [
+        "木",
+        "者",
+        "宁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "榖也。從木。者聲。",
+            "note": "丑呂切。五部。"
+        },
+        {
+            "explanation": "楮或從宁。",
+            "note": "宁聲。"
+        }
+    ],
+    "indexes": [
+        "楮",
+        "柠"
+    ]
+}

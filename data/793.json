@@ -1,0 +1,31 @@
+{
+    "id": 793,
+    "wordhead": "啾",
+    "explanation": "小兒聲也。从口秋聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "卽由切",
+    "variants": [],
+    "seal_character": "共",
+    "pinyin": "jiu",
+    "pinyin_full": "jiū",
+    "components": [
+        "口",
+        "秋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小兒聲也。",
+            "note": "倉頡篇。啾、衆聲也。三年問。啁噍之頃。此假噍爲啾也。"
+        },
+        {
+            "explanation": "从口。秋聲。",
+            "note": "卽由切。三部。"
+        }
+    ],
+    "indexes": [
+        "啾"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 3950,
+    "wordhead": "賓",
+    "explanation": "所敬也。从貝𡧍聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "必鄰切",
+    "variants": [
+        {
+            "wordhead": "𧶉",
+            "explanation": "古文。",
+            "seal_character": "徿"
+        }
+    ],
+    "seal_character": "徾",
+    "pinyin": "bin",
+    "pinyin_full": "bīn",
+    "components": [
+        "貝",
+        "完",
+        "贝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所敬也。",
+            "note": "大宰。八統。八曰禮賔。大宗伯。以賔禮親邦國賔客。渾言之也。析言者之則賔客異義。又賔謂所敬之人。因之敬其人亦曰賔。又君爲主。臣爲賔。故老子曰。樸雖小、天下莫能臣也。矦王若能守之。萬物將自賔。司馬相如引詩。率土之賔。莫非王臣。"
+        },
+        {
+            "explanation": "从貝。",
+            "note": "貝者、敬之之物也。"
+        },
+        {
+            "explanation": "𡧍聲。",
+            "note": "必鄰切。十二部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "鉉本無首畫。玉篇、集韵、類篇皆有。"
+        }
+    ],
+    "indexes": [
+        "宾",
+        "賓",
+        "𧶉"
+    ]
+}

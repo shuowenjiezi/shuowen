@@ -1,0 +1,31 @@
+{
+    "id": 3140,
+    "wordhead": "盈",
+    "explanation": "滿器也。从皿、夃。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "以成切",
+    "variants": [],
+    "seal_character": "尜",
+    "pinyin": "ying",
+    "pinyin_full": "yínɡ",
+    "components": [
+        "皿",
+        "夃"
+    ],
+    "xuan_note": "臣鉉等曰：夃，古乎切。益多之義也。古者以買物多得爲夃。故从夃。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "滿器也。",
+            "note": "滿器者、謂人滿宁之。如彉下云滿弩之滿。水部溢下云器滿也。則謂器中巳滿。滿下云盈溢也。則兼滿之、巳滿而言。許書之精嚴如此。"
+        },
+        {
+            "explanation": "从皿夃。",
+            "note": "秦以市買多得爲夃。故从夃、以成切。十一部。"
+        }
+    ],
+    "indexes": [
+        "盈"
+    ]
+}

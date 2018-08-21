@@ -1,0 +1,31 @@
+{
+    "id": 1318,
+    "wordhead": "䶤",
+    "explanation": "齧骨聲。从齒从骨，骨亦聲。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "戶八切",
+    "variants": [],
+    "seal_character": "参",
+    "pinyin": "hua",
+    "pinyin_full": "huá",
+    "components": [
+        "齒",
+        "骨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧骨聲。",
+            "note": "曲禮曰。母齧骨。鄭云。爲有聲響不敬。"
+        },
+        {
+            "explanation": "从齒骨。骨亦聲。",
+            "note": "戶八切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䶤"
+    ]
+}

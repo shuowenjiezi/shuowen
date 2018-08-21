@@ -1,0 +1,42 @@
+{
+    "id": 4499,
+    "wordhead": "臼",
+    "explanation": "舂也。古者掘地爲臼，其後穿木石。象形。中，米也。凡臼之屬皆从臼。",
+    "volume": "07",
+    "radical": "臼",
+    "pronunciation": "其九切",
+    "variants": [],
+    "seal_character": "戢",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舂臼也。",
+            "note": "各本無臼字。今補。杵下云。舂杵也。則此當云舂臼也明矣。引伸凡凹者曰臼。"
+        },
+        {
+            "explanation": "古者掘地爲臼。",
+            "note": "見易𣪠辭傳。葢黃帝時雍父初作如此。"
+        },
+        {
+            "explanation": "其後穿木石。",
+            "note": "或穿木。或穿石。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "？象木石臼也。"
+        },
+        {
+            "explanation": "中象米也。",
+            "note": "所舂也。其九切。三部。"
+        }
+    ],
+    "indexes": [
+        "臼"
+    ]
+}

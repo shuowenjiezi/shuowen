@@ -1,0 +1,45 @@
+{
+    "id": 8474,
+    "wordhead": "繭",
+    "explanation": "蠶衣也。从糸从虫，黹省。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "古典切",
+    "variants": [
+        {
+            "wordhead": "絸",
+            "explanation": "古文繭从糸、見。",
+            "seal_character": "獌"
+        }
+    ],
+    "seal_character": "獋",
+    "pinyin": "jian",
+    "pinyin_full": "jiǎn",
+    "components": [
+        "虫",
+        "見",
+        "糸",
+        "黹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蠶衣也。",
+            "note": "衣者、依也。蠶所依曰蠶衣。蠶不自其衣。而以其衣衣天下。此聖人之所取法也。"
+        },
+        {
+            "explanation": "从糸。从虫。从芇。",
+            "note": "芇聲。各本作黹省。黹不得爲繭。會意。韵會㒼省聲。㒼上从二十幷。亦非也。五經文字曰。从虫、从芇。芇音綿。許書部有芇。字相當也。讀若宀。張參所據本是矣。今據正。虫者蠶也。芇者、僅足蔽其身也。工殄反。十四部。"
+        },
+        {
+            "explanation": "古文繭。从糸見。",
+            "note": "見聲也。"
+        }
+    ],
+    "indexes": [
+        "茧",
+        "繭",
+        "絸"
+    ]
+}

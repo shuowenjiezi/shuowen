@@ -1,0 +1,35 @@
+{
+    "id": 2785,
+    "wordhead": "㓠",
+    "explanation": "缺也。从刀占聲。《詩》曰：“白圭之㓠。”",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "丁念切",
+    "variants": [],
+    "seal_character": "婻",
+    "pinyin": "dian",
+    "pinyin_full": "diàn",
+    "components": [
+        "刀",
+        "占"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "缺也。",
+            "note": "大雅抑詩。白圭之玷。毛曰。玷、缺也。箋云。玉之缺尚可磨鑢而平。按㓠玷古今字。"
+        },
+        {
+            "explanation": "从刀。",
+            "note": "從刀者、待磨鑢也。"
+        },
+        {
+            "explanation": "占聲。",
+            "note": "丁念切。七部。"
+        }
+    ],
+    "indexes": [
+        "㓠"
+    ]
+}

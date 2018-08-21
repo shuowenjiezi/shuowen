@@ -1,0 +1,39 @@
+{
+    "id": 367,
+    "wordhead": "藑",
+    "explanation": "茅，葍也。一名蕣。从艸夐聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "渠營切",
+    "variants": [],
+    "seal_character": "侤",
+    "pinyin": "qiong",
+    "pinyin_full": "qiónɡ",
+    "components": [
+        "艸",
+        "夐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "藑茅、",
+            "note": "逗。各本無藑字。此淺人不知其不可刪而刪之。如巂周、燕也。今本刪巂字。其誤正同。今補。"
+        },
+        {
+            "explanation": "葍也。",
+            "note": "釋艸曰。葍、藑茅。"
+        },
+        {
+            "explanation": "一名舜。",
+            "note": "䑞字下曰。楚謂之葍、秦謂之藑是也。今本作一名蕣。是以未堇爲葍矣。"
+        },
+        {
+            "explanation": "从艸。夐聲。",
+            "note": "渠營切。古音在十四部。"
+        }
+    ],
+    "indexes": [
+        "藑"
+    ]
+}

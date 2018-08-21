@@ -1,0 +1,38 @@
+{
+    "id": 1655,
+    "wordhead": "謣",
+    "explanation": "妄言也。从言雩聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "羽俱切",
+    "variants": [
+        {
+            "wordhead": "𧪮",
+            "explanation": "謣或从荂。",
+            "seal_character": "唺"
+        }
+    ],
+    "seal_character": "唹",
+    "pinyin": "yu",
+    "pinyin_full": "yú",
+    "components": [
+        "言",
+        "雩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "妄言也。从言。雩聲。",
+            "note": "羽俱切。五部。"
+        },
+        {
+            "explanation": "謣或从荂。",
+            "note": "玉篇云同譁。"
+        }
+    ],
+    "indexes": [
+        "謣",
+        "𧪮"
+    ]
+}

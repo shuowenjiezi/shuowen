@@ -1,0 +1,31 @@
+{
+    "id": 9286,
+    "wordhead": "鍼",
+    "explanation": "所以縫也。从金咸聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "職深切",
+    "variants": [],
+    "seal_character": "盳",
+    "pinyin": "zhen",
+    "pinyin_full": "zhēn",
+    "components": [
+        "咸",
+        "金"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作針，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所㠯縫也。",
+            "note": "縫者、以鍼紩衣也。竹部箴下曰。綴衣箴也。以竹爲之、僅可聯綴衣。以金爲之、乃可縫衣。"
+        },
+        {
+            "explanation": "从金。咸聲。",
+            "note": "職深切。七部。今俗作針。"
+        }
+    ],
+    "indexes": [
+        "鍼"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 1143,
+    "wordhead": "送",
+    "explanation": "遣也。从辵，㑞省。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "蘇弄切",
+    "variants": [
+        {
+            "wordhead": "𨕼",
+            "explanation": "籒文不省。",
+            "seal_character": "勺"
+        }
+    ],
+    "seal_character": "勹",
+    "pinyin": "song",
+    "pinyin_full": "sònɡ",
+    "components": [
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遣也。从辵。㑞省。",
+            "note": "𠈪、送也。是會意。蘇弄切。九部。"
+        }
+    ],
+    "indexes": [
+        "送",
+        "𨕼"
+    ]
+}

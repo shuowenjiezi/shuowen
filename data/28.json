@@ -1,0 +1,44 @@
+{
+    "id": 28,
+    "wordhead": "齋",
+    "explanation": "戒，潔也。从示，齊省聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "側皆切",
+    "variants": [
+        {
+            "wordhead": "𥜷",
+            "explanation": "籒文齋从𥜹省。<span>   𥜹音禱。 </span>",
+            "seal_character": "並"
+        }
+    ],
+    "seal_character": "严",
+    "pinyin": "zhai",
+    "pinyin_full": "zhāi",
+    "components": [
+        "示",
+        "齊",
+        "齋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "戒絜也。",
+            "note": "祭統曰。齋之爲言齊也。齊不齊以致齊者也。齋戒或析言。如七日戒、三日齋是。此以戒訓齋者、統言則不別也。"
+        },
+        {
+            "explanation": "从示。𠫼省聲。",
+            "note": "謂減𠫼之二畫。使其字不䋣重也。凡字有不知省聲、則昧其形聲者。如融蠅之類是。側皆切。十五部。𪗓"
+        },
+        {
+            "explanation": "籒文齋。从𥜹省。",
+            "note": "凡籒文多䋣重。"
+        }
+    ],
+    "indexes": [
+        "斋",
+        "齋",
+        "𥜷"
+    ]
+}

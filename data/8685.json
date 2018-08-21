@@ -1,0 +1,44 @@
+{
+    "id": 8685,
+    "wordhead": "纊",
+    "explanation": "絮也。从糸廣聲。《春秋傳》曰：“皆如挾纊。”",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "苦謗切",
+    "variants": [
+        {
+            "wordhead": "絖",
+            "explanation": "纊或从光<span>[<span>灮</span>]</span>。",
+            "seal_character": "琵"
+        }
+    ],
+    "seal_character": "琴",
+    "pinyin": "kuang",
+    "pinyin_full": "kuànɡ",
+    "components": [
+        "糸",
+        "光",
+        "廣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絮也。",
+            "note": "玉藻。纊爲繭。注曰。纊、今之新緜也。按鄭釋纊爲新緜者、以别於縕之爲新緜及舊絮也。許則謂纊爲絲絮。不分新故。謂縕爲麻紼。與鄭絕異。"
+        },
+        {
+            "explanation": "从糸。廣聲。",
+            "note": "苦謗切。十部。"
+        },
+        {
+            "explanation": "春秋傳曰。皆如挾纊。",
+            "note": "春秋宣十二年左傳文。"
+        }
+    ],
+    "indexes": [
+        "纩",
+        "纊",
+        "絖"
+    ]
+}

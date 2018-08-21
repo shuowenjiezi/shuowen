@@ -1,0 +1,42 @@
+{
+    "id": 6864,
+    "wordhead": "怛",
+    "explanation": "憯也。从心旦聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "得案切",
+    "variants": [
+        {
+            "wordhead": "𢘇",
+            "explanation": "或从心在旦下。《詩》曰：“信誓𢘇𢘇”。",
+            "seal_character": "汬"
+        }
+    ],
+    "seal_character": "汫",
+    "pinyin": "dan",
+    "pinyin_full": "dá",
+    "components": [
+        "心",
+        "旦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㦧也。",
+            "note": "匪風。中心怛兮。傳曰。怛、傷也。甫田。勞心怛怛。傳曰。怛怛猶忉忉也。按上章傳曰。㣼㣼、憂勞也。此因其義相同、故曰猶。"
+        },
+        {
+            "explanation": "从心。旦聲。",
+            "note": "得案切。又當割切。在十四十五部。"
+        },
+        {
+            "explanation": "怛或从心在旦下。詩曰。信誓𢘇𢘇。",
+            "note": "衛風？傳文。按詩曰。信誓旦旦。傳曰。信誓𢘇𢘇然。謂旦卽𢘇之叚借字。箋云。言其𢡆惻款誠是也。許偁詩傳而云詩曰者、此詩曰不醉而怒謂之？、虞書曰仁覆閔下則偁旻天之例也。𢘇𢘇下當有然字。"
+        }
+    ],
+    "indexes": [
+        "怛",
+        "𢘇"
+    ]
+}

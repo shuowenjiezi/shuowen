@@ -1,0 +1,35 @@
+{
+    "id": 4111,
+    "wordhead": "郠",
+    "explanation": "琅邪莒邑。从邑更聲。《春秋傳》曰：“取郠。”",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "古杏切",
+    "variants": [],
+    "seal_character": "恧",
+    "pinyin": "geng",
+    "pinyin_full": "ɡěnɡ",
+    "components": [
+        "更",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "琅邪莒邑。",
+            "note": "按當云莒邑也、在琅邪。如郗周邑也、在河內之例。"
+        },
+        {
+            "explanation": "从邑。㪅聲。",
+            "note": "古杏切。古音在十部。"
+        },
+        {
+            "explanation": "春秋傳曰。取郠。",
+            "note": "左傳昭十七年。季平子伐莒取郠。杜云。郠、莒邑。"
+        }
+    ],
+    "indexes": [
+        "郠"
+    ]
+}

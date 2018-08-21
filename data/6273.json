@@ -1,0 +1,35 @@
+{
+    "id": 6273,
+    "wordhead": "狡",
+    "explanation": "少狗也。从犬交聲。匃奴地有狡犬，巨口而黑身。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "古巧切",
+    "variants": [],
+    "seal_character": "槞",
+    "pinyin": "jiao",
+    "pinyin_full": "jiǎo",
+    "components": [
+        "交",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "少犬也。",
+            "note": "犬各本作狗。今依急就篇注、事類賦注作犬。淮南俶眞訓。狡狗之死也。割之有濡。高注。狡、少也。引伸爲狂也、滑也、疾也、健也。"
+        },
+        {
+            "explanation": "从犬。交聲。",
+            "note": "古巧切。二部。"
+        },
+        {
+            "explanation": "匈奴地有狡犬。巨口而黑身。",
+            "note": "周書王會解。匈奴以狡犬。狡犬者、巨身四尺果。顏注急就篇曰。狡犬、匈奴中大犬也。鉅口而赤身。"
+        }
+    ],
+    "indexes": [
+        "狡"
+    ]
+}

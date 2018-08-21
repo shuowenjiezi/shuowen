@@ -1,0 +1,40 @@
+{
+    "id": 6799,
+    "wordhead": "態",
+    "explanation": "意也。从心从能。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "他代切",
+    "variants": [
+        {
+            "wordhead": "㑷",
+            "explanation": "或从人。",
+            "seal_character": "氣"
+        }
+    ],
+    "seal_character": "氢",
+    "pinyin": "tai",
+    "pinyin_full": "tài",
+    "components": [
+        "人",
+        "心",
+        "能"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“心能其事，然後有態度也。”",
+    "duan_notes": [
+        {
+            "explanation": "意態也。",
+            "note": "各本作意也。少一字。今補。意態者、有是意因有是狀。故曰意態。猶䛐者意内而言外。有是意因有是言也。意者、識也。"
+        },
+        {
+            "explanation": "从心能。",
+            "note": "會意。心所能必見於外也。能亦聲。一部。"
+        }
+    ],
+    "indexes": [
+        "态",
+        "態",
+        "㑷"
+    ]
+}

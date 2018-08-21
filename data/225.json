@@ -1,0 +1,43 @@
+{
+    "id": 225,
+    "wordhead": "氛",
+    "explanation": "祥气也。从气分聲。",
+    "volume": "01",
+    "radical": "气",
+    "pronunciation": "符分切",
+    "variants": [
+        {
+            "wordhead": "雰",
+            "explanation": "氛或从雨。",
+            "seal_character": "伈"
+        }
+    ],
+    "seal_character": "伇",
+    "pinyin": "fen",
+    "pinyin_full": "fēn",
+    "components": [
+        "雨",
+        "气",
+        "分"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祥气也。",
+            "note": "謂吉凶先見之氣。左傳曰。非祭祥也。喪氛也。杜注。氛、惡氣也。晉語曰。見翟柤之氛。注。氛、祲氛。凶象也。凶曰氛。吉曰祥。玉裁按。統言則祥氛二字皆兼吉凶。析言則祥吉氛凶耳。許意是統言。左傳又曰。楚氛甚惡。杜注。氛、氣也。可見不容分別。"
+        },
+        {
+            "explanation": "从气。分聲。",
+            "note": "符分切。十三部。"
+        },
+        {
+            "explanation": "氛或从雨。",
+            "note": "按此爲小雅雨雪雰雰之字。月令。雰霧冥冥。釋名。氛、粉也。潤氣箸艸木。因凍則凝。色白若粉也。皆當作此。雰與祥氣之氛各物。似不當混而一之。"
+        }
+    ],
+    "indexes": [
+        "氛",
+        "雰"
+    ]
+}

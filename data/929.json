@@ -1,0 +1,35 @@
+{
+    "id": 929,
+    "wordhead": "吪",
+    "explanation": "動也。从口化聲。《詩》曰：“尚寐無吪。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "五禾切",
+    "variants": [],
+    "seal_character": "切",
+    "pinyin": "e",
+    "pinyin_full": "é",
+    "components": [
+        "口",
+        "化"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "動也。",
+            "note": "見釋詁、毛詩傳。"
+        },
+        {
+            "explanation": "从口。化聲。",
+            "note": "五禾切。十七部。"
+        },
+        {
+            "explanation": "詩曰。尙寐無吪。",
+            "note": "王風。又小雅或寢或吪。今各本作訛。非也。訛卽譌字。"
+        }
+    ],
+    "indexes": [
+        "吪"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 6178,
+    "wordhead": "驅",
+    "explanation": "馬馳也。从馬區聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "豈俱切",
+    "variants": [
+        {
+            "wordhead": "敺",
+            "explanation": "古文驅从攴。",
+            "seal_character": "楳"
+        }
+    ],
+    "seal_character": "楲",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "馬",
+        "區",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驅馬也。",
+            "note": "各本作馬馳也。今正。此三字爲一句。<驅>爲篆文。此三字言其義。許之例如此。驅馬常言耳。盡人所知。故不必易字以注之也。驅馬、自人策馬言之。革部曰。鞭、驅也。是其義也。"
+        },
+        {
+            "explanation": "从馬。區聲。",
+            "note": "豈俱切。古音在四部。俗作駈。"
+        },
+        {
+            "explanation": "古文驅从攴。",
+            "note": "攴者、小擊也。今之扑字。鞭、箠、策所以施於馬而驅之也。故古文从攴。引伸爲凡駕馭追逐之偁。周禮。以靈𡔷敺之。以炮土之𡔷敺之。孟子。爲淵敺魚。爲叢敺爵。爲湯武敺民。皆用古文。其實皆可作驅。與殳部之毆義別。"
+        }
+    ],
+    "indexes": [
+        "驱",
+        "驅",
+        "敺"
+    ]
+}

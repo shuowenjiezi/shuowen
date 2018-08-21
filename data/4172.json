@@ -1,0 +1,44 @@
+{
+    "id": 4172,
+    "wordhead": "時",
+    "explanation": "四時也。从日寺聲。",
+    "volume": "07",
+    "radical": "日",
+    "pronunciation": "市之切",
+    "variants": [
+        {
+            "wordhead": "旹",
+            "explanation": "古文時从之<span>[<span>𡳿</span><span>㞢</span>]</span>、日。",
+            "seal_character": "悧"
+        }
+    ],
+    "seal_character": "悦",
+    "pinyin": "shi",
+    "pinyin_full": "shí",
+    "components": [
+        "之",
+        "日",
+        "寺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "四時也。",
+            "note": "本春秋冬夏之稱。引伸之爲凡嵗月日刻之用。釋詁曰。時、是也。此時之本義。言時則無有不是者也。廣雅曰。時伺也。此引伸之義。如不能辰夜、遠猶辰告傳皆云辰時也是也。"
+        },
+        {
+            "explanation": "从日。寺聲。",
+            "note": "市之切。一部。"
+        },
+        {
+            "explanation": "古文時。从日𡳿作。",
+            "note": "之聲也。小篆从寺。寺亦之聲也。漢隷亦有用旹者。"
+        }
+    ],
+    "indexes": [
+        "时",
+        "時",
+        "旹"
+    ]
+}

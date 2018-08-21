@@ -1,0 +1,35 @@
+{
+    "id": 504,
+    "wordhead": "薾",
+    "explanation": "華盛。从艸爾聲。《詩》曰：“彼薾惟何？”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "兒氏切",
+    "variants": [],
+    "seal_character": "倷",
+    "pinyin": "er",
+    "pinyin_full": "ěr",
+    "components": [
+        "爾",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "華盛。",
+            "note": "㸚部曰。麗爾猶靡麗也。薾與爾音義同。"
+        },
+        {
+            "explanation": "从艸。爾聲。",
+            "note": "此於形聲見㑹意。薾爲華盛。濔爲水盛。兒氏切。十六部。"
+        },
+        {
+            "explanation": "詩曰。彼薾惟何。",
+            "note": "小雅文。今作爾。惟、今作維。"
+        }
+    ],
+    "indexes": [
+        "薾"
+    ]
+}

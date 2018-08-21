@@ -1,0 +1,35 @@
+{
+    "id": 1255,
+    "wordhead": "𢓈",
+    "explanation": "行示也。从彳勻聲。《司馬法》：“斬以𢓈。”",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "詞閏切",
+    "variants": [],
+    "seal_character": "卿",
+    "pinyin": "xun",
+    "pinyin_full": "xùn",
+    "components": [
+        "勻",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行示也。",
+            "note": "大司馬。斬牲以左右徇陳曰。不用命者斬之。小子。凡師田、斬牲以左右徇陳。陸德明引古今字詁曰。徇、巡也。按如項羽傳。徇廣陵、徇下縣。李奇曰。徇、略也。如淳曰。徇音撫循之循。此古用循巡字、漢用徇字之證。此古今字詁之義也。"
+        },
+        {
+            "explanation": "从彳。勻聲。",
+            "note": "古勻旬同用。故亦作徇。詞閏切。十二部。"
+        },
+        {
+            "explanation": "司馬法。斬以𢓈。",
+            "note": "許引司馬法者凡八。"
+        }
+    ],
+    "indexes": [
+        "𢓈"
+    ]
+}

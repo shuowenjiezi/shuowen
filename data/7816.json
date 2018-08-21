@@ -1,0 +1,39 @@
+{
+    "id": 7816,
+    "wordhead": "扶",
+    "explanation": "左也。从手夫聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "防無切",
+    "variants": [
+        {
+            "wordhead": "𢻳",
+            "explanation": "古文扶。",
+            "seal_character": "炁"
+        }
+    ],
+    "seal_character": "炀",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "手",
+        "夫",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "左也。",
+            "note": "左俗本改作佐。非。左下曰。手相助也。"
+        },
+        {
+            "explanation": "从手。夫聲。",
+            "note": "防無切。五部。"
+        }
+    ],
+    "indexes": [
+        "扶",
+        "𢻳"
+    ]
+}

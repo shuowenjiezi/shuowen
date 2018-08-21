@@ -1,0 +1,43 @@
+{
+    "id": 1711,
+    "wordhead": "謑",
+    "explanation": "恥也。从言奚聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "胡禮切",
+    "variants": [
+        {
+            "wordhead": "䜁",
+            "explanation": "謑或从奊。",
+            "seal_character": "啺"
+        }
+    ],
+    "seal_character": "啹",
+    "pinyin": "xi",
+    "pinyin_full": "xǐ",
+    "components": [
+        "言",
+        "奚",
+        "奊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謑詬、",
+            "note": "二字今補。逗。"
+        },
+        {
+            "explanation": "恥也。",
+            "note": "漢書賈誼傳。頑鈍亡恥。奊詬亡節。師古曰。奊詬謂無志分也。"
+        },
+        {
+            "explanation": "从言。奚聲。",
+            "note": "胡禮切。十六部。奚聲圭聲同部。是以或作奊、或作䜁也。"
+        }
+    ],
+    "indexes": [
+        "謑",
+        "䜁"
+    ]
+}

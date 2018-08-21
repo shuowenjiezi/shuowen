@@ -1,0 +1,44 @@
+{
+    "id": 5901,
+    "wordhead": "廡",
+    "explanation": "堂下周屋。从广無聲。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "文甫切",
+    "variants": [
+        {
+            "wordhead": "𢋑",
+            "explanation": "籒文从舞<span>[<span>𦨅</span>]</span>。",
+            "seal_character": "栽"
+        }
+    ],
+    "seal_character": "格",
+    "pinyin": "wu",
+    "pinyin_full": "wǔ",
+    "components": [
+        "無",
+        "广",
+        "舞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "堂周屋也。",
+            "note": "各本作堂下。玄應引作堂周屋曰廡。今从之。釋名曰。大屋曰廡。幽冀人謂之庌。說與許異。許謂堂之四𠣘爲屋也。洪範、晉語蕃廡皆假廡爲𣞤也。"
+        },
+        {
+            "explanation": "从广。𣞤聲。",
+            "note": "文甫切。五部。"
+        },
+        {
+            "explanation": "籒文从舞。",
+            "note": "舞聲。"
+        }
+    ],
+    "indexes": [
+        "庑",
+        "廡",
+        "𢋑"
+    ]
+}

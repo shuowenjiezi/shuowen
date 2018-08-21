@@ -1,0 +1,43 @@
+{
+    "id": 3913,
+    "wordhead": "困",
+    "explanation": "故廬也。从木在囗中。",
+    "volume": "06",
+    "radical": "囗",
+    "pronunciation": "苦悶切",
+    "variants": [
+        {
+            "wordhead": "𣏔",
+            "explanation": "古文困。",
+            "seal_character": "徖"
+        }
+    ],
+    "seal_character": "徕",
+    "pinyin": "kun",
+    "pinyin_full": "kùn",
+    "components": [
+        "止",
+        "木",
+        "囗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "故廬也。",
+            "note": "廬者、二畞半一家之居。居必有木。樹牆下以桑是也。故字從囗木。謂之困者、疏廣所謂自有舊田廬令子孫勤力其中也。困之本義爲止而不過。引伸之爲極盡。論語。四海困竆。謂君德充塞宇宙。與橫被四表之義略同。苞注曰。言爲政信執其中、則能竆極四海。天祿所以長終也。凡言困勉、困苦皆極盡之義。"
+        },
+        {
+            "explanation": "从木在囗中。",
+            "note": "苦悶切。十三部。"
+        },
+        {
+            "explanation": "古文困。",
+            "note": "廣雅。橜機闑𣏔也。按稚讓用𣏔爲梱字。此可證四海困竆之義。"
+        }
+    ],
+    "indexes": [
+        "困",
+        "𣏔"
+    ]
+}

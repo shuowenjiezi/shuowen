@@ -1,0 +1,31 @@
+{
+    "id": 798,
+    "wordhead": "喑",
+    "explanation": "宋齊謂兒泣不止曰喑。从口音聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "於今切",
+    "variants": [],
+    "seal_character": "其",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "口",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宋齊謂兒泣不止曰喑。",
+            "note": "方言。齊宋之閒謂之喑。或謂之惄。按喑之言瘖也。謂啼極無聲。"
+        },
+        {
+            "explanation": "从口。音聲。",
+            "note": "於今切。七部。"
+        }
+    ],
+    "indexes": [
+        "喑"
+    ]
+}

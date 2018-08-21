@@ -1,0 +1,59 @@
+{
+    "id": 4483,
+    "wordhead": "氣",
+    "explanation": "饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”",
+    "volume": "07",
+    "radical": "米",
+    "pronunciation": "許旣切",
+    "variants": [
+        {
+            "wordhead": "䊠",
+            "explanation": "氣或从旣。",
+            "seal_character": "我"
+        },
+        {
+            "wordhead": "餼",
+            "explanation": "氣或从食<span>[<span>𠊊</span>]</span>。",
+            "seal_character": "戒"
+        }
+    ],
+    "seal_character": "成",
+    "pinyin": "xi",
+    "pinyin_full": "xì",
+    "components": [
+        "气",
+        "既",
+        "米",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "饋客之芻米也。",
+            "note": "聘禮殺曰饔。生曰餼。餼有牛羊豕黍粱稻稷禾薪芻等。不言牛羊豕者、以其字从米也。言芻米不言禾者、舉芻米可以該禾也。經典謂生物曰餼。論語。告朔之餼羊。"
+        },
+        {
+            "explanation": "从米。气聲。",
+            "note": "許旣切。十五部。今字叚氣爲雲氣字。而饔餼乃無作氣者。"
+        },
+        {
+            "explanation": "春秋傳曰。齊人來氣諸侯。",
+            "note": "事見左傳桓六年、十年。十年傳曰。齊人餼諸侯。許所據作氣。左丘明述春秋傳以古文。於此可見。"
+        },
+        {
+            "explanation": "氣或从旣。",
+            "note": "旣聲也。聘禮記曰。日如其饔旣之數。注云。古文旣爲餼。中庸篇曰。旣稟稱事。注云。旣讀爲餼。大戴朝事篇。私覿致饔旣。戴先生曰。旣卽餼字。按三旣皆䊠之省。"
+        },
+        {
+            "explanation": "氣或从食。",
+            "note": "按从食而氣爲聲。葢晚出俗字。在假氣爲气之後。"
+        }
+    ],
+    "indexes": [
+        "气",
+        "氣",
+        "䊠",
+        "餼"
+    ]
+}

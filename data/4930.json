@@ -1,0 +1,43 @@
+{
+    "id": 4930,
+    "wordhead": "企",
+    "explanation": "舉踵也。从人止聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "去智切",
+    "variants": [
+        {
+            "wordhead": "𠈮",
+            "explanation": "古文企从足。",
+            "seal_character": "搓"
+        }
+    ],
+    "seal_character": "搒",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "止",
+        "人",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舉歱也。",
+            "note": "歱各本作踵。非。今正。歱者、跟也。企或作跂。衞風曰。跂予望之。檀弓曰。先王之制禮也。過之者俯而就之。不至焉者跂而及之。方言。跂、登也。梁益之閒語。"
+        },
+        {
+            "explanation": "从人止。",
+            "note": "按此下本無聲字。有聲非也。今正。止部曰。止爲足。說文無趾。止卽趾也。从人止。取人延竦之意。渾言之則足偁止。析言則前止後歱。止鐏於前。則歱舉於後矣。企跂字自古皆在十六部寘韵。用止在一部。非聲也。去智切。"
+        },
+        {
+            "explanation": "古文企。从足。",
+            "note": "足止同物。"
+        }
+    ],
+    "indexes": [
+        "企",
+        "𠈮"
+    ]
+}

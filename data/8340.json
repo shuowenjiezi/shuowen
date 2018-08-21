@@ -1,0 +1,31 @@
+{
+    "id": 8340,
+    "wordhead": "戍",
+    "explanation": "守邊也。从人持戈。",
+    "volume": "12",
+    "radical": "戈",
+    "pronunciation": "傷遇切",
+    "variants": [],
+    "seal_character": "犪",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "人",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "守邊也。",
+            "note": "春秋曰。公子買戍衞。"
+        },
+        {
+            "explanation": "从人。持戈。",
+            "note": "會意。傷遇切。按古音讀如獸。在三部四部。衞公叔戍。世本作朱。古音朱讀如州。"
+        }
+    ],
+    "indexes": [
+        "戍"
+    ]
+}

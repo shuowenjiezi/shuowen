@@ -1,0 +1,35 @@
+{
+    "id": 4011,
+    "wordhead": "酆",
+    "explanation": "周文王所都。在京兆杜陵西南。从邑豐聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "敷戎切",
+    "variants": [],
+    "seal_character": "怂",
+    "pinyin": "feng",
+    "pinyin_full": "fēnɡ",
+    "components": [
+        "豐",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周文王所都。",
+            "note": "詩書皆作豐。左傳。酆、文之昭也。字從邑。前後二志亦作酆。大雅曰。旣伐于崇。作邑于豐。杜預曰。酆在鄠縣。後志曰。酆在京兆杜陵西南。"
+        },
+        {
+            "explanation": "在京兆杜陵西南。",
+            "note": "京兆尹杜陵、二志同。今陜西西安府府東南十五里有故杜陵城。"
+        },
+        {
+            "explanation": "从邑。豐聲。",
+            "note": "敷戎切。九部。"
+        }
+    ],
+    "indexes": [
+        "酆"
+    ]
+}

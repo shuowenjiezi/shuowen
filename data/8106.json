@@ -1,0 +1,39 @@
+{
+    "id": 8106,
+    "wordhead": "妣",
+    "explanation": "殁母也。从女比聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "卑履切",
+    "variants": [
+        {
+            "wordhead": "𡚧",
+            "explanation": "籒文妣省。",
+            "seal_character": "熶"
+        }
+    ],
+    "seal_character": "熵",
+    "pinyin": "bi",
+    "pinyin_full": "bǐ",
+    "components": [
+        "比",
+        "女",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "殁母也。",
+            "note": "殁正作歾、終也。曲禮曰。生曰父、曰母、曰妻。死曰考、曰妣、曰嬪。析言之也。釋親曰。父曰考。母曰妣。渾言之也。"
+        },
+        {
+            "explanation": "从女。比聲。",
+            "note": "卑𡳐切。十五部。"
+        }
+    ],
+    "indexes": [
+        "妣",
+        "𡚧"
+    ]
+}

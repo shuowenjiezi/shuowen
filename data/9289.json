@@ -1,0 +1,40 @@
+{
+    "id": 9289,
+    "wordhead": "鈕",
+    "explanation": "印鼻也。从金丑聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "女久切",
+    "variants": [
+        {
+            "wordhead": "㺲",
+            "explanation": "古文鈕从玉。",
+            "seal_character": "盷"
+        }
+    ],
+    "seal_character": "盶",
+    "pinyin": "niu",
+    "pinyin_full": "niǔ",
+    "components": [
+        "玉",
+        "金",
+        "丑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "印鼻也。从金。丑聲。",
+            "note": "女久切。三部。"
+        },
+        {
+            "explanation": "古文鈕从王。",
+            "note": "壐之籒文从玉。古文印鈕字从玉。葢初作印時、惟以玉爲之也。"
+        }
+    ],
+    "indexes": [
+        "钮",
+        "鈕",
+        "㺲"
+    ]
+}

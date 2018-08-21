@@ -1,0 +1,39 @@
+{
+    "id": 8828,
+    "wordhead": "𧉄",
+    "explanation": "𧉅蚗，蟬屬。讀若周天子赧。从虫丏聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "武延切",
+    "variants": [],
+    "seal_character": "瓖",
+    "pinyin": "mian",
+    "pinyin_full": "mián",
+    "components": [
+        "虫",
+        "丏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧉄蚗、",
+            "note": "逗。各本皆作𧉅蚗。則與篆文不屬。今依廣韵二仙所引正。"
+        },
+        {
+            "explanation": "蟬屬。",
+            "note": "按爾雅蝒者馬蜩。方言蟬大者謂之蝒馬。玉篇廣韵皆曰。？卽蝒字。然則許之？蚗卽爾雅之馬蜩也。前文蝒篆及解顯系淺人羼入。故失其次字之恉。"
+        },
+        {
+            "explanation": "讀若周天子赧。",
+            "note": "謂赧王。"
+        },
+        {
+            "explanation": "从虫。丏聲。",
+            "note": "武延切。十四部。"
+        }
+    ],
+    "indexes": [
+        "𧉄"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 7716,
+    "wordhead": "開",
+    "explanation": "張也。从門从幵。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "苦哀切",
+    "variants": [
+        {
+            "wordhead": "𨴉",
+            "explanation": "古文。",
+            "seal_character": "瀐"
+        }
+    ],
+    "seal_character": "瀏",
+    "pinyin": "kai",
+    "pinyin_full": "kāi",
+    "components": [
+        "一",
+        "門",
+        "収",
+        "幵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "張也。",
+            "note": "張者、施弓弦也。門之開如弓之張。門之閉如弓之弛。"
+        },
+        {
+            "explanation": "从門。幵聲。",
+            "note": "按大徐本改爲从門从幵。以幵聲之字古不入之咍部也。玉裁謂此篆幵聲。古音當在十二部。讀如攐帷之攐。由後人讀同闓、而定爲苦哀切。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "一者、象門閉。从𡴂者、象手開門。"
+        }
+    ],
+    "indexes": [
+        "开",
+        "開",
+        "𨴉"
+    ]
+}

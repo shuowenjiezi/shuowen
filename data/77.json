@@ -1,0 +1,46 @@
+{
+    "id": 77,
+    "wordhead": "三",
+    "explanation": "天地人之道也。从三數。凡三之屬皆从三。",
+    "volume": "01",
+    "radical": "三",
+    "pronunciation": "穌甘切",
+    "variants": [
+        {
+            "wordhead": "弎",
+            "explanation": "古文三从弋。",
+            "seal_character": "乡"
+        }
+    ],
+    "seal_character": "习",
+    "pinyin": "san",
+    "pinyin_full": "sān",
+    "components": [
+        "弋",
+        "三"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "數名。天地人之道也。",
+            "note": "陳煥曰。數者、易數也。三兼陰陽之數言。一下曰道立於一。二下曰地之數。王下曰三者、天地人也。老子曰。一生二。二生三。三生萬物。此釋三之義。下釋三之形。故以於文二字別言之。"
+        },
+        {
+            "explanation": "於文一耦二爲三。成數也。",
+            "note": "此依韵㑹所引。韵㑹多據鍇本。今鍇本又非舊矣。耦、各本作偶。今正。二下曰从一耦一。以一儷一也。此曰一耦二爲三。以一儷二也。今又皆脫一字。三畫而三才之道在焉。故謂之成數。又字下曰。手之列多略不過三。"
+        },
+        {
+            "explanation": "凡三之屬皆从三。",
+            "note": "穌甘切。古音在七部。"
+        },
+        {
+            "explanation": "古文三。",
+            "note": "文一重一。"
+        }
+    ],
+    "indexes": [
+        "三",
+        "弎"
+    ]
+}

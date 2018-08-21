@@ -1,0 +1,31 @@
+{
+    "id": 5893,
+    "wordhead": "府",
+    "explanation": "文書藏也。从广付聲。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "方矩切",
+    "variants": [],
+    "seal_character": "栴",
+    "pinyin": "fu",
+    "pinyin_full": "fǔ",
+    "components": [
+        "付",
+        "广"
+    ],
+    "xuan_note": "臣鉉等曰：今藏腑字俗書从肉，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "文書臧也。",
+            "note": "文書所藏之處曰府。引伸之爲府史胥徒之府。周禮。府六人。史十有二人。注云。府治藏、史掌書者。又大宰。以八法治官府。注云。百官所居曰府。"
+        },
+        {
+            "explanation": "从广。付聲。",
+            "note": "方矩切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "府"
+    ]
+}

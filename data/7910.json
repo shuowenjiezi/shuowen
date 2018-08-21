@@ -1,0 +1,35 @@
+{
+    "id": 7910,
+    "wordhead": "掉",
+    "explanation": "搖也。从手卓聲。《春秋傳》曰：“尾大不掉。”",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "徒弔切",
+    "variants": [],
+    "seal_character": "烤",
+    "pinyin": "diao",
+    "pinyin_full": "diào",
+    "components": [
+        "手",
+        "卓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "搖也。",
+            "note": "掉者、搖之過也。搖者、掉之不及也。許渾言之。"
+        },
+        {
+            "explanation": "从手。卓聲。",
+            "note": "徒弔切。二部。"
+        },
+        {
+            "explanation": "春秋傳曰。尾大不掉。",
+            "note": "左傳昭一年文。"
+        }
+    ],
+    "indexes": [
+        "掉"
+    ]
+}

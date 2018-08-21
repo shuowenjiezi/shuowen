@@ -1,0 +1,39 @@
+{
+    "id": 6743,
+    "wordhead": "悟",
+    "explanation": "覺也。从心吾聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "五故切",
+    "variants": [
+        {
+            "wordhead": "𢛤",
+            "explanation": "古文悟。",
+            "seal_character": "毨"
+        }
+    ],
+    "seal_character": "毧",
+    "pinyin": "wu",
+    "pinyin_full": "wù",
+    "components": [
+        "吾",
+        "心",
+        "五"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "覺也。",
+            "note": "見部覺下曰。悟也。是爲轉注。按古書多用寤爲之。"
+        },
+        {
+            "explanation": "从心。吾聲。",
+            "note": "五故切。五部。"
+        }
+    ],
+    "indexes": [
+        "悟",
+        "𢛤"
+    ]
+}

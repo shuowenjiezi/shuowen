@@ -1,0 +1,36 @@
+{
+    "id": 8705,
+    "wordhead": "縗",
+    "explanation": "服衣。長六寸，博四寸，直心。从糸衰聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "倉回切",
+    "variants": [],
+    "seal_character": "瑍",
+    "pinyin": "cui",
+    "pinyin_full": "cuī",
+    "components": [
+        "糸",
+        "衰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "喪服衣。",
+            "note": "喪字各本無。今補。凡服上曰衣、下曰裳。禮衰裳連言。卽衣裳也。以衰統負板辟領等爲言也。"
+        },
+        {
+            "explanation": "長六寸。博四寸。直心。",
+            "note": "禮喪服記曰。衰長六寸、博四寸。注云。廣袤當心也。前有衰、後有負板。左右有辟領。孝子哀戚無所不在。按縗、經典多叚借衰爲之。"
+        },
+        {
+            "explanation": "从糸。衰聲。",
+            "note": "倉回切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "缞",
+        "縗"
+    ]
+}

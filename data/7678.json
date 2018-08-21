@@ -1,0 +1,36 @@
+{
+    "id": 7678,
+    "wordhead": "鹹",
+    "explanation": "銜也。北方味也。从鹵咸聲。",
+    "volume": "12",
+    "radical": "鹵",
+    "pronunciation": "胡毚切",
+    "variants": [],
+    "seal_character": "濥",
+    "pinyin": "xian",
+    "pinyin_full": "xián",
+    "components": [
+        "咸",
+        "鹵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "銜也。",
+            "note": "以㬪韵爲訓。"
+        },
+        {
+            "explanation": "北方味也。",
+            "note": "酸苦辛甘下不著某方之味。此著之者、錯見也。"
+        },
+        {
+            "explanation": "从鹵。咸聲。",
+            "note": "胡毚切。古音在七部。"
+        }
+    ],
+    "indexes": [
+        "咸",
+        "鹹"
+    ]
+}

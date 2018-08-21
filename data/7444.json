@@ -1,0 +1,47 @@
+{
+    "id": 7444,
+    "wordhead": "坙",
+    "explanation": "水脈也。从川在一下。一，地也。壬省聲。一曰水冥坙也。",
+    "volume": "11",
+    "radical": "川",
+    "pronunciation": "古靈切",
+    "variants": [
+        {
+            "wordhead": "𡿱",
+            "explanation": "古文坙不省。",
+            "seal_character": "滓"
+        }
+    ],
+    "seal_character": "滒",
+    "pinyin": "jing",
+    "pinyin_full": "jīnɡ",
+    "components": [
+        "一",
+        "壬",
+        "川"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水𧖴也。",
+            "note": "巠之言濥也。濥者、水𧖴行地中濥濥也。故从川在地下。"
+        },
+        {
+            "explanation": "从川在一下。一、地也。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "𡈼省聲。",
+            "note": "古靈切。十一部。"
+        },
+        {
+            "explanation": "一曰水冥巠也。",
+            "note": "冥巠、水大皃。今字作溟涬。司馬注莊曰。涬溟、自然氣也。"
+        }
+    ],
+    "indexes": [
+        "坙",
+        "𡿱"
+    ]
+}

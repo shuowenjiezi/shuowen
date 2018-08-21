@@ -1,0 +1,49 @@
+{
+    "id": 6477,
+    "wordhead": "光",
+    "explanation": "明也。从火在人上，光明意也。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "古皇切",
+    "variants": [
+        {
+            "wordhead": "𤎫",
+            "explanation": "古文。",
+            "seal_character": "檿"
+        },
+        {
+            "wordhead": "炗",
+            "explanation": "古文。",
+            "seal_character": "櫀"
+        }
+    ],
+    "seal_character": "檾",
+    "pinyin": "guang",
+    "pinyin_full": "ɡuānɡ",
+    "components": [
+        "人",
+        "火",
+        "廿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "朙也。",
+            "note": "左傳周內史釋易觀國之光曰。光、逗遠而自他有燿者也。"
+        },
+        {
+            "explanation": "从火在儿上。光朙意也。",
+            "note": "說會意。目在儿上則爲見。气在儿上則爲欠。口在儿上則爲兄。皆同意。古皇切。十部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "庶字从此會意。"
+        }
+    ],
+    "indexes": [
+        "光",
+        "𤎫",
+        "炗"
+    ]
+}

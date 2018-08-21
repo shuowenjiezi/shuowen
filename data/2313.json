@@ -1,0 +1,60 @@
+{
+    "id": 2313,
+    "wordhead": "蒦",
+    "explanation": "規蒦，商也。从又持萑。一曰視遽皃。一曰蒦，度也。",
+    "volume": "04",
+    "radical": "萑",
+    "pronunciation": "乙虢切",
+    "variants": [
+        {
+            "wordhead": "彠",
+            "explanation": "蒦或从尋。尋亦度也。《楚詞》曰：“求矩彠之所同”。",
+            "seal_character": "塔"
+        }
+    ],
+    "seal_character": "塓",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "又",
+        "尋",
+        "萑",
+        "蒦"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“商，度也。萑，善度人禍福也。”",
+    "duan_notes": [
+        {
+            "explanation": "規蒦、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "商也。从又持萑。",
+            "note": "規蒦二字葢古語。釋之曰商也。葢毛持萑則恐其奪去。圖所以處之。是曰規蒦。乙虢切。五部。"
+        },
+        {
+            "explanation": "一曰視遽皃。",
+            "note": "矍下云。一曰視遽皃。蒦與矍形聲皆相似。故此義同。"
+        },
+        {
+            "explanation": "一曰蒦、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "度也。",
+            "note": "度、徒故切。漢志曰。寸者、忖也。尺者、蒦也。故蒦爲五度之度。鳥飛起止多有中度者。故雉、蒦皆訓度。度高廣皆曰雉。"
+        },
+        {
+            "explanation": "蒦或从尋。尋亦度也。",
+            "note": "寸部曰。度人之㒳臂爲尋。八尺也。"
+        },
+        {
+            "explanation": "楚辭曰。求矩彠之所同。",
+            "note": "見離騷。王曰。榘、法也。彠、度也。高注淮南曰。榘、方也。彠、度法也。"
+        }
+    ],
+    "indexes": [
+        "蒦",
+        "彠"
+    ]
+}

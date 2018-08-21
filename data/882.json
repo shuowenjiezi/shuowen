@@ -1,0 +1,31 @@
+{
+    "id": 882,
+    "wordhead": "哯",
+    "explanation": "不歐而吐也。从口見聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "胡典切",
+    "variants": [],
+    "seal_character": "凕",
+    "pinyin": "xian",
+    "pinyin_full": "xiàn",
+    "components": [
+        "口",
+        "見"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不歐而吐也。",
+            "note": "欠部曰。歐、吐也。渾言之。此云不歐而吐也者、析言之。歐以匈㗋言。吐以出口言也。有匈㗋不作惡而已吐出者、謂之哯。玉篇、廣韵作不顧而唾。非也。"
+        },
+        {
+            "explanation": "从口。見聲。",
+            "note": "胡典切。古音在十四部。"
+        }
+    ],
+    "indexes": [
+        "哯"
+    ]
+}

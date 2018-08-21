@@ -1,0 +1,43 @@
+{
+    "id": 2028,
+    "wordhead": "敉",
+    "explanation": "撫也。从攴米聲。《周書》曰：“亦未克敉公功。”讀若弭。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "緜婢切",
+    "variants": [
+        {
+            "wordhead": "侎",
+            "explanation": "敉或从人。",
+            "seal_character": "園"
+        }
+    ],
+    "seal_character": "圑",
+    "pinyin": "mi",
+    "pinyin_full": "mǐ",
+    "components": [
+        "人",
+        "米",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "撫也。",
+            "note": "見釋言。"
+        },
+        {
+            "explanation": "从攴。米聲。周書曰。亦未克敉公功。",
+            "note": "雒誥文。"
+        },
+        {
+            "explanation": "讀若弭。",
+            "note": "綿婢切。十六部。按米聲十五。弭十六。此合音也。"
+        }
+    ],
+    "indexes": [
+        "敉",
+        "侎"
+    ]
+}

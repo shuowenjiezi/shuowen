@@ -1,0 +1,51 @@
+{
+    "id": 2223,
+    "wordhead": "百",
+    "explanation": "十十也。从一、钗。數，十百爲一貫。相章也。",
+    "volume": "04",
+    "radical": "钗",
+    "pronunciation": "博陌切",
+    "variants": [
+        {
+            "wordhead": "𦣻",
+            "explanation": "古文百从自<span>[<span>𦣹</span>]</span>。",
+            "seal_character": "埫"
+        }
+    ],
+    "seal_character": "埪",
+    "pinyin": "bai",
+    "pinyin_full": "bǎi",
+    "components": [
+        "一",
+        "自",
+        "白"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "十十也。从一白。",
+            "note": "博陌切。五部。"
+        },
+        {
+            "explanation": "數。",
+            "note": "句。"
+        },
+        {
+            "explanation": "十十爲一百。百白也。",
+            "note": "白、告白也。此說从白之意。數長於百。可以䛐言白人也。各本脫此八字。依韵會補。"
+        },
+        {
+            "explanation": "十百爲一貫。貫章也。",
+            "note": "此類舉之。百白㬪韵。貫章雙聲。章、明也。數大於千。盈貫章明也。各本下貫譌相。依韵會正。"
+        },
+        {
+            "explanation": "古文百。",
+            "note": "自白同。"
+        }
+    ],
+    "indexes": [
+        "百",
+        "𦣻"
+    ]
+}

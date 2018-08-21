@@ -1,0 +1,31 @@
+{
+    "id": 19,
+    "wordhead": "祉",
+    "explanation": "福也。从示止聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "敕里切",
+    "variants": [],
+    "seal_character": "丛",
+    "pinyin": "zhi",
+    "pinyin_full": "zhǐ",
+    "components": [
+        "示",
+        "止"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "福也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从示。止聲。",
+            "note": "敕里切。一部。"
+        }
+    ],
+    "indexes": [
+        "祉"
+    ]
+}

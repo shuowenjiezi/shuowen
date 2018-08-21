@@ -1,0 +1,43 @@
+{
+    "id": 7478,
+    "wordhead": "冬",
+    "explanation": "四時盡也。从仌从夂。夂，古文終字。",
+    "volume": "11",
+    "radical": "仌",
+    "pronunciation": "都宗切",
+    "variants": [
+        {
+            "wordhead": "𠔙",
+            "explanation": "古文冬从日。",
+            "seal_character": "漀"
+        }
+    ],
+    "seal_character": "滿",
+    "pinyin": "dong",
+    "pinyin_full": "dōnɡ",
+    "components": [
+        "仌",
+        "日",
+        "攵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "四時盡也。",
+            "note": "冬之爲言終也。考工記曰。水有時而凝。有時而釋。故冬从仌。"
+        },
+        {
+            "explanation": "从仌。从𠔾。",
+            "note": "會意。𠔾亦聲。都宗切。九部。"
+        },
+        {
+            "explanation": "𠔾、古文終字。",
+            "note": "見糸部。"
+        }
+    ],
+    "indexes": [
+        "冬",
+        "𠔙"
+    ]
+}

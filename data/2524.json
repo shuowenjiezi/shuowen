@@ -1,0 +1,42 @@
+{
+    "id": 2524,
+    "wordhead": "歾",
+    "explanation": "終也。从歺勿聲。",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "莫勃切",
+    "variants": [
+        {
+            "wordhead": "𣨏",
+            "explanation": "歾或从𠬸。",
+            "seal_character": "契"
+        }
+    ],
+    "seal_character": "奐",
+    "pinyin": "mo",
+    "pinyin_full": "mò",
+    "components": [
+        "歺",
+        "勿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "終也。",
+            "note": "白起王翦列傳曰。偷合取容。以至歾身。徐廣云。歾音𣳚。按今歾譌圽。集韵傳會之云。圽、埋也。"
+        },
+        {
+            "explanation": "从𣦵。忽聲。",
+            "note": "莫勃切。十五部。"
+        },
+        {
+            "explanation": "歾或从𠬸",
+            "note": "按𣨨死字當作此。入水有所取曰𠬸。湛於水曰𣳚。內頭水中曰𩓔。此許之分別也。"
+        }
+    ],
+    "indexes": [
+        "歾",
+        "𣨏"
+    ]
+}

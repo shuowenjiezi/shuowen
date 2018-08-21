@@ -1,0 +1,43 @@
+{
+    "id": 3164,
+    "wordhead": "䘓",
+    "explanation": "羊凝血也。从血臽聲。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "苦紺切",
+    "variants": [
+        {
+            "wordhead": "𧗛",
+            "explanation": "䘓或从贛。",
+            "seal_character": "尸"
+        }
+    ],
+    "seal_character": "尷",
+    "pinyin": "kan",
+    "pinyin_full": "kàn",
+    "components": [
+        "贛",
+        "血",
+        "臽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羊凝血也。",
+            "note": "釋名曰。血䐄、以血作之。䐄卽䘓字也。陶氏注本艸。宋帝時太官作血䘓。庖人削藕皮。誤落血中。遂皆散不凝。陶所云血䘓、卽劉之血䐄也。按必系諸羊者、惟羊血供飮食。前云衁血也、衃凝血也皆謂人。至？𧗇䘓三字乃言牲血。此許書嚴人物之辨也。"
+        },
+        {
+            "explanation": "从血。臽聲。",
+            "note": "苦紺切。八部。"
+        },
+        {
+            "explanation": "䘓或从贛。",
+            "note": "依小徐及玉篇。"
+        }
+    ],
+    "indexes": [
+        "䘓",
+        "𧗛"
+    ]
+}

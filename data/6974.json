@@ -1,0 +1,35 @@
+{
+    "id": 6974,
+    "wordhead": "浪",
+    "explanation": "滄浪水也。南入江。从水良聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "來宕切",
+    "variants": [],
+    "seal_character": "波",
+    "pinyin": "lang",
+    "pinyin_full": "lànɡ",
+    "components": [
+        "良",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "滄浪水也。",
+            "note": "按據此解可證前後某篆下皆當云某水也。淺人𠜂之。存一水字。非是。"
+        },
+        {
+            "explanation": "南入江。",
+            "note": "禹貢曰。又東爲滄浪之水。過三澨。至于大別。南入于江。許以漾浪沔三篆全偁道漾。經文記禹時漢水故道也。其下流爲滄浪水入江。與今水道同。其源出隴西氐道嶓冢山至武都者、今不可攷。"
+        },
+        {
+            "explanation": "从水。良聲。",
+            "note": "來宕切。十部。按當平聲。今但爲波浪字。"
+        }
+    ],
+    "indexes": [
+        "浪"
+    ]
+}

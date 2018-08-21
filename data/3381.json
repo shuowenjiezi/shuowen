@@ -1,0 +1,54 @@
+{
+    "id": 3381,
+    "wordhead": "𩏷",
+    "explanation": "收束也。从韋𥼚聲。讀若酋。",
+    "volume": "05",
+    "radical": "韋",
+    "pronunciation": "即由切",
+    "variants": [
+        {
+            "wordhead": "𥾀",
+            "explanation": "𩏶或从要<span>[<span>𦥺</span>]</span>。",
+            "seal_character": "嵐"
+        },
+        {
+            "wordhead": "揫",
+            "explanation": "𩏶或从秋、手。",
+            "seal_character": "嵑"
+        }
+    ],
+    "seal_character": "嵏",
+    "pinyin": "jiu",
+    "pinyin_full": "jiū",
+    "components": [
+        "秋",
+        "要",
+        "手",
+        "韋"
+    ],
+    "xuan_note": "臣鉉等曰：𥼚，側角切。聲不相近。未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "收束也。",
+            "note": "漢律曆志曰。秋、？也。物？斂乃成孰。鄉飮酒義曰。西方者秋。秋之爲言揫也。"
+        },
+        {
+            "explanation": "从韋。",
+            "note": "取圍束之義。"
+        },
+        {
+            "explanation": "𥼚聲。讀若酋。",
+            "note": "𥼚从焦聲。焦从雥省聲。卽由切。三部。"
+        },
+        {
+            "explanation": "𩏶或从要。",
+            "note": "亦取圍束之意。"
+        }
+    ],
+    "indexes": [
+        "𩏷",
+        "𥾀",
+        "揫"
+    ]
+}

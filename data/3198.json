@@ -1,0 +1,54 @@
+{
+    "id": 3198,
+    "wordhead": "餈",
+    "explanation": "稻餅也。从食次聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "疾資切",
+    "variants": [
+        {
+            "wordhead": "䭣",
+            "explanation": "餈或从齊<span>[<span>𠄷</span><span>𠫼</span>]</span>。",
+            "seal_character": "屨"
+        },
+        {
+            "wordhead": "粢",
+            "explanation": "餈或从米。",
+            "seal_character": "屩"
+        }
+    ],
+    "seal_character": "屧",
+    "pinyin": "ci",
+    "pinyin_full": "cí",
+    "components": [
+        "齊",
+        "次",
+        "米",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稻餠也。",
+            "note": "方言曰。餌謂之餻。或謂之粢。或謂之？。或謂之餣。或謂之䬧。謂米餠也。周禮糗餌粉餈注曰。餌餈皆粉稻米、黍米所爲也。合蒸曰餌。餠之曰餈。糗者、擣粉熬大豆爲餌。餈之黏著以粉之耳。餌言糗、餈言粉、互相足。按許說與鄭不同。謂以稬米蒸孰餠之如麪餠曰餈。今江蘇之餈飯也。粉稬米而餠之而蒸之則曰餌。𩰲部云？、粉餠也是也。今江蘇之米粉餠、米粉團也。粉餠則傅之以熬米麥之乾者。故曰糗餌。米部云糗熬米麥也可證。餈則傅之以大豆之粉。米部曰粉傅面者也可證也。許不言何粉。大鄭云豆㞕。是也。"
+        },
+        {
+            "explanation": "从𠊊。次聲。",
+            "note": "疾資切。十五部。周禮故書作茨。假借字也。"
+        },
+        {
+            "explanation": "餈或从齊。",
+            "note": "齊聲。"
+        },
+        {
+            "explanation": "餈或从米。",
+            "note": "猶从食也。內則音義曰。餈本或作粢。按粢與禾部秶各義。"
+        }
+    ],
+    "indexes": [
+        "餈",
+        "䭣",
+        "粢"
+    ]
+}

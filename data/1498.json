@@ -1,0 +1,36 @@
+{
+    "id": 1498,
+    "wordhead": "詖",
+    "explanation": "辯論也。古文以爲頗字。从言皮聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "彼義切",
+    "variants": [],
+    "seal_character": "咉",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "言",
+        "皮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "辨論也。",
+            "note": "此詖字正義。皮、剥取獸革也。柀、析也。凡从皮之字皆有分析之意。故詖爲辨論也。"
+        },
+        {
+            "explanation": "古文㠯爲頗字。",
+            "note": "此古文同音假借也。頗、偏也。"
+        },
+        {
+            "explanation": "从言。皮聲。",
+            "note": "彼義切古音在十五部。"
+        }
+    ],
+    "indexes": [
+        "诐",
+        "詖"
+    ]
+}

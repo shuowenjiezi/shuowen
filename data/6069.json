@@ -1,0 +1,53 @@
+{
+    "id": 6069,
+    "wordhead": "㣇",
+    "explanation": "脩豪獸。一曰河内名豕也。从彑，下象毛足。凡㣇之屬皆从㣇。讀若弟。",
+    "volume": "09",
+    "radical": "㣇",
+    "pronunciation": "羊至切",
+    "variants": [
+        {
+            "wordhead": "𢑞",
+            "explanation": "籒文。",
+            "seal_character": "棷"
+        },
+        {
+            "wordhead": "㣇",
+            "explanation": "古文。",
+            "seal_character": "棹"
+        }
+    ],
+    "seal_character": "棶",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "脩豪獸。",
+            "note": "毛詩六月、韓奕傳曰。脩、長也。周秦之文。攸訓爲長。其後乃叚脩爲攸而訓爲長矣。豪、豕鬛如筆管者。因之凡髦鬛皆曰豪。釋獸曰。𧳙脩豪。㣇者正字。𧳙者俗字。或作肆者、叚借字也。按此言獸、與下文𩫚豕非一物。顏氏注漢書曰。豪豬一名㣇。非也。"
+        },
+        {
+            "explanation": "一曰河內名豕也。",
+            "note": "謂河內𧦝豕爲㣇。猶上谷之𧦝豛也。河內、漢郡名。領懷縣等縣十有八。今懷慶、衞輝以及彰德府南境皆是其地。"
+        },
+        {
+            "explanation": "从彑。",
+            "note": "象頭銳。"
+        },
+        {
+            "explanation": "下象毛足。",
+            "note": "？者象其髦也。毛當作髦。巾象足。"
+        },
+        {
+            "explanation": "凡㣇之屬皆从㣇。讀若弟。",
+            "note": "羊至切。十五部。"
+        }
+    ],
+    "indexes": [
+        "㣇",
+        "𢑞",
+        "㣇"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5345,
+    "wordhead": "褭",
+    "explanation": "以組帶馬也。从衣从馬。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "奴鳥切",
+    "variants": [],
+    "seal_character": "族",
+    "pinyin": "niao",
+    "pinyin_full": "niǎo",
+    "components": [
+        "馬",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯組帶馬也。",
+            "note": "百官志注曰。秦爵二十等。三曰簪褭。御駟馬者。按於本義引伸之。因以爲馬名。要褭、古之駿馬也。"
+        },
+        {
+            "explanation": "从衣。从馬。",
+            "note": "衣馬、以組帶馬之意也。奴鳥切。二部。"
+        }
+    ],
+    "indexes": [
+        "褭"
+    ]
+}

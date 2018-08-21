@@ -1,0 +1,39 @@
+{
+    "id": 3209,
+    "wordhead": "𩞧",
+    "explanation": "晝食也。从食象聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "書兩切",
+    "variants": [
+        {
+            "wordhead": "𩞃",
+            "explanation": "𩞧或从傷省聲。",
+            "seal_character": "屹"
+        }
+    ],
+    "seal_character": "屸",
+    "pinyin": "shang",
+    "pinyin_full": "shǎnɡ",
+    "components": [
+        "食",
+        "傷",
+        "象"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "晝食也。",
+            "note": "此猶朝曰饔、夕曰飱也。晝食曰𩞧。俗譌爲日西食曰𩞧。見廣韵。今俗謂日西爲晌午。頃刻爲半晌。猶𩞧之遺語也。"
+        },
+        {
+            "explanation": "从𠊊。象聲。",
+            "note": "書㒳切。十部。"
+        }
+    ],
+    "indexes": [
+        "𩞧",
+        "𩞃"
+    ]
+}

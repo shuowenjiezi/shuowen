@@ -1,0 +1,43 @@
+{
+    "id": 2673,
+    "wordhead": "膫",
+    "explanation": "牛腸脂也。从肉尞聲。《詩》曰：“取其血膫。”",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "洛蕭切",
+    "variants": [
+        {
+            "wordhead": "膋",
+            "explanation": "膫或从勞省聲。",
+            "seal_character": "姺"
+        }
+    ],
+    "seal_character": "姹",
+    "pinyin": "liao",
+    "pinyin_full": "liáo",
+    "components": [
+        "肉",
+        "尞",
+        "勞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛腸脂也。从肉。尞聲。",
+            "note": "洛蕭切。二部。"
+        },
+        {
+            "explanation": "詩曰。取其血膫。",
+            "note": "小雅信南山文。脟字下云。一曰脟、腸閒肥也。一名膫。然則膫一名脟矣。今按脟葢卽？字之異者。脟膫同訓腸閒脂。與郊特牲注合。"
+        },
+        {
+            "explanation": "膫或从勞省聲。",
+            "note": "今毛詩、禮記皆作膋。"
+        }
+    ],
+    "indexes": [
+        "膫",
+        "膋"
+    ]
+}

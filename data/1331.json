@@ -1,0 +1,31 @@
+{
+    "id": 1331,
+    "wordhead": "跪",
+    "explanation": "拜也。从足危聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "去委切",
+    "variants": [],
+    "seal_character": "叒",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuì",
+    "components": [
+        "危",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "拜也。",
+            "note": "手部曰。？、首至手也。按跪與拜二事。不當一之。疑當云所以拜也。後人不達此書所以字。往往刪之。釋名。跪、危也。兩膝隱地。體危隉也。"
+        },
+        {
+            "explanation": "从足危聲。",
+            "note": "去委切。十六部。"
+        }
+    ],
+    "indexes": [
+        "跪"
+    ]
+}

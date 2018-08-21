@@ -1,0 +1,31 @@
+{
+    "id": 2989,
+    "wordhead": "簺",
+    "explanation": "行棊相塞謂之簺。从竹从塞，塞亦聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "先代切",
+    "variants": [],
+    "seal_character": "孠",
+    "pinyin": "sai",
+    "pinyin_full": "sài",
+    "components": [
+        "竹",
+        "塞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行棊相塞謂之簺。",
+            "note": "格五、見吾丘壽王傳。劉德曰。格五棊行塞法曰。簺自乗五。至五格不得行。故云格五。莊子作博塞。"
+        },
+        {
+            "explanation": "从竹塞。塞亦聲。",
+            "note": "先代切。一部。"
+        }
+    ],
+    "indexes": [
+        "簺"
+    ]
+}

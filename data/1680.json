@@ -1,0 +1,51 @@
+{
+    "id": 1680,
+    "wordhead": "訴",
+    "explanation": "告也。从言，厈省聲。《論語》曰：“訴子路於季孫。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "桑故切",
+    "variants": [
+        {
+            "wordhead": "𧪜",
+            "explanation": "訴或从言、朔。",
+            "seal_character": "啕"
+        },
+        {
+            "wordhead": "愬",
+            "explanation": "訴或从朔、心。",
+            "seal_character": "啖"
+        }
+    ],
+    "seal_character": "啔",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "言",
+        "心",
+        "厈",
+        "朔"
+    ],
+    "xuan_note": "臣鉉等曰：厈非聲。蓋古之字音多與今異。如皀亦音香、釁亦音門、乃亦音仍，他皆放此。古今失傳，不可詳究。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "告也。从言。㡿聲。",
+            "note": "桑故切。五部。凡從㡿之字隷變爲厈。俗又譌斥。"
+        },
+        {
+            "explanation": "論語曰。訴子路於季孫。",
+            "note": "憲問篇文。"
+        },
+        {
+            "explanation": "𧩯或从朔心。",
+            "note": "今論語作此。"
+        }
+    ],
+    "indexes": [
+        "诉",
+        "訴",
+        "𧪜",
+        "愬"
+    ]
+}

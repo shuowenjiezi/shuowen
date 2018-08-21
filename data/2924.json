@@ -1,0 +1,35 @@
+{
+    "id": 2924,
+    "wordhead": "籫",
+    "explanation": "竹器也。从竹贊聲。讀若纂。一曰叢。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "作管切",
+    "variants": [],
+    "seal_character": "嬕",
+    "pinyin": "zuan",
+    "pinyin_full": "zuǎn",
+    "components": [
+        "贊",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竹器也。",
+            "note": "廣雅、方言注皆曰。籫、箸筩。"
+        },
+        {
+            "explanation": "从竹。贊聲。讀若纂。",
+            "note": "作管切。十四部。"
+        },
+        {
+            "explanation": "一曰叢也。",
+            "note": "木部欑下曰。一曰叢木。籫音同義近。"
+        }
+    ],
+    "indexes": [
+        "籫"
+    ]
+}

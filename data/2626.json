@@ -1,0 +1,31 @@
+{
+    "id": 2626,
+    "wordhead": "股",
+    "explanation": "髀也。从肉殳聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "公戶切",
+    "variants": [],
+    "seal_character": "姂",
+    "pinyin": "gu",
+    "pinyin_full": "ɡǔ",
+    "components": [
+        "肉",
+        "殳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髀也。",
+            "note": "骨部曰。髀、股外也。言股則統髀。故曰髀也。"
+        },
+        {
+            "explanation": "从肉。殳聲。",
+            "note": "公戸切。五部。按殳字古音在四部。股羖字古音在五部。見於詩者如此。"
+        }
+    ],
+    "indexes": [
+        "股"
+    ]
+}

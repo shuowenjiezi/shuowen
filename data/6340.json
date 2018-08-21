@@ -1,0 +1,39 @@
+{
+    "id": 6340,
+    "wordhead": "玃",
+    "explanation": "母猴也。从犬矍聲。《爾雅》云：“玃父善顧。”攫持人也。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "俱縛切",
+    "variants": [],
+    "seal_character": "樥",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "犬",
+        "矍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大母猴也。",
+            "note": "各本無大。今依爾雅釋文、玄應書、廣韵補。釋獸曰。貜父善顧。郭云。貑貜也。似獮猴而大。色蒼黑。能攫持人。善顧盼。按張揖注上林賦曰。玃似獮猴而大。"
+        },
+        {
+            "explanation": "善攫持人。好顧盼。",
+            "note": "七字依玄應補。攫俗作玃。誤。"
+        },
+        {
+            "explanation": "从犬。矍聲。",
+            "note": "俱縛切。五部。"
+        },
+        {
+            "explanation": "爾雅曰。玃父善顧。",
+            "note": "各本此下有玃持人也四字。正由上奪而衍於此。今删。"
+        }
+    ],
+    "indexes": [
+        "玃"
+    ]
+}

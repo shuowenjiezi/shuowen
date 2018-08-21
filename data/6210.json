@@ -1,0 +1,35 @@
+{
+    "id": 6210,
+    "wordhead": "駮",
+    "explanation": "獸，如馬，倨牙，食虎豹。从馬交聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "北角切",
+    "variants": [],
+    "seal_character": "榔",
+    "pinyin": "bo",
+    "pinyin_full": "bó",
+    "components": [
+        "馬",
+        "交"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "駮獸、",
+            "note": "駮字今補。"
+        },
+        {
+            "explanation": "如馬。倨牙。食虎豹。",
+            "note": "云如馬則非眞馬也。自駮以下皆非眞馬。故次於部末。如馬倨牙食虎豹、釋嘼毛傳同。秦風言六駮者、據所見而言也。"
+        },
+        {
+            "explanation": "从馬。交聲。",
+            "note": "北角切。古音在二部。"
+        }
+    ],
+    "indexes": [
+        "駮"
+    ]
+}

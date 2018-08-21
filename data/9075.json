@@ -1,0 +1,39 @@
+{
+    "id": 9075,
+    "wordhead": "㙤",
+    "explanation": "𡍩也。从土虖聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "呼訝切",
+    "variants": [
+        {
+            "wordhead": "𨻲",
+            "explanation": "㙤或从𨸏。",
+            "seal_character": "瘇"
+        }
+    ],
+    "seal_character": "瘆",
+    "pinyin": "xia",
+    "pinyin_full": "xià",
+    "components": [
+        "土",
+        "虖",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𡍩也。",
+            "note": "與缶部之罅音義皆同。"
+        },
+        {
+            "explanation": "从土。虖聲。",
+            "note": "評訝切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "㙤",
+        "𨻲"
+    ]
+}

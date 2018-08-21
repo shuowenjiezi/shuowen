@@ -1,0 +1,48 @@
+{
+    "id": 8674,
+    "wordhead": "紲",
+    "explanation": "系也。从糸丗聲。《春秋傳》曰：“臣負羈紲。”",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "私列切",
+    "variants": [
+        {
+            "wordhead": "緤",
+            "explanation": "紲或从枼<span>[<span>枽</span>]</span>。",
+            "seal_character": "琧"
+        }
+    ],
+    "seal_character": "琦",
+    "pinyin": "xie",
+    "pinyin_full": "xiè",
+    "components": [
+        "枼",
+        "世",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬系也。",
+            "note": "犬字各本無。今補。少儀。犬則執緤。牛則執紖。馬則執靮。注曰。緤、紖、靮皆所以繫制之者。按許以此篆次於牛系、牛？之後。其爲用少儀顯然也。緤本犬系。引申之、馬亦曰紲。故上文繮下曰馬紲也。若紲本謂馬、則宜次於繮篆後矣。"
+        },
+        {
+            "explanation": "从糸。世聲。",
+            "note": "私列切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。臣負羈紲。",
+            "note": "春秋僖卄四年左傳文。服虔注曰。一曰犬韁曰紲。古者行則有犬。按如服說、則紲之本義也。如杜說紲馬韁、則紲引申之義也。服云犬韁。許云馬紲。文意正同。"
+        },
+        {
+            "explanation": "紲或从枼。",
+            "note": "枼亦世聲也。"
+        }
+    ],
+    "indexes": [
+        "绁",
+        "紲",
+        "緤"
+    ]
+}

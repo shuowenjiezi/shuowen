@@ -1,0 +1,39 @@
+{
+    "id": 821,
+    "wordhead": "唾",
+    "explanation": "口液也。从口𡍮聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "湯臥切",
+    "variants": [
+        {
+            "wordhead": "涶",
+            "explanation": "唾或从水。",
+            "seal_character": "冐"
+        }
+    ],
+    "seal_character": "冏",
+    "pinyin": "tuo",
+    "pinyin_full": "tuò",
+    "components": [
+        "口",
+        "水",
+        "垂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "口液也。",
+            "note": "曲禮。讓食不唾。內則。不敢唾洟。"
+        },
+        {
+            "explanation": "从口。𡍮聲。",
+            "note": "湯臥切。十七部。"
+        }
+    ],
+    "indexes": [
+        "唾",
+        "涶"
+    ]
+}

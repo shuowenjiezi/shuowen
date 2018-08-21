@@ -1,0 +1,35 @@
+{
+    "id": 7351,
+    "wordhead": "湎",
+    "explanation": "沈於酒也。从水面聲。《周書》曰：“罔敢湎于酒。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "彌兖切",
+    "variants": [],
+    "seal_character": "湭",
+    "pinyin": "mian",
+    "pinyin_full": "miǎn",
+    "components": [
+        "水",
+        "面"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "湛於酒也。",
+            "note": "湛各本作沈。此等皆後人以習用改之耳。沈㲻於酒、周易所謂飲酒濡首、亦不知節也。韓詩云。飲酒閉門不出客曰湎。樂記。流湎以忘本。其引伸之義也。"
+        },
+        {
+            "explanation": "从水。面聲。",
+            "note": "彌兖切。十四部。按鄭注酒誥曰。飲酒齊色曰湎。大雅。天不湎爾以酒。箋云。天不同女顏色以酒。有沈湎於酒者。是乃過也。鄭意此字从面會意。故釋云齊色。謂同飲者至於同色也。許則謂形聲。"
+        },
+        {
+            "explanation": "周書曰。罔敢湎于酒。",
+            "note": "酒誥文。"
+        }
+    ],
+    "indexes": [
+        "湎"
+    ]
+}

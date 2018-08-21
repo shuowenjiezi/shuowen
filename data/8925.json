@@ -1,0 +1,45 @@
+{
+    "id": 8925,
+    "wordhead": "蠢",
+    "explanation": "蟲動也。从䖵春聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "尺尹切",
+    "variants": [
+        {
+            "wordhead": "𢧬",
+            "explanation": "古文蠢从𢦒。《周書》曰：“我有𢧨于西”。",
+            "seal_character": "畉"
+        }
+    ],
+    "seal_character": "畈",
+    "pinyin": "chun",
+    "pinyin_full": "chǔn",
+    "components": [
+        "春"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蟲動也。",
+            "note": "此與蝡義同。以轉注之法言之。可云蝡也。引申爲凡動之偁。詩。蠢爾荆蠻。毛傳曰。蠢、動也。鄉飮酒義曰。東方者春。春之爲言蠢也。產萬物者也。注云。蠢、動生之皃。亦叚春爲之。考工記。張皮矦而棲鵠、則春以功。注云。春讀爲蠢。作也。出也。蠢與心部惷訓亂義異。"
+        },
+        {
+            "explanation": "从䖵。萅聲。",
+            "note": "形聲中有會意。尺尹切。十三部。"
+        },
+        {
+            "explanation": "古文蠢。从𢦏",
+            "note": "𢦏之言才也始也。"
+        },
+        {
+            "explanation": "周書曰。我有𢧸于西。",
+            "note": "大誥曰。有大艱于西土。西土人亦不靜。越茲蠢。𢧸爲壁中古文眞本。其辭不同者、葢許櫽桰其辭如此也。"
+        }
+    ],
+    "indexes": [
+        "蠢",
+        "𢧬"
+    ]
+}

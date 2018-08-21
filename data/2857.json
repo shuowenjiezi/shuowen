@@ -1,0 +1,43 @@
+{
+    "id": 2857,
+    "wordhead": "簬",
+    "explanation": "箘簬也。从竹路聲。《夏書》曰：“惟箘簬楛。”",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "洛故切",
+    "variants": [
+        {
+            "wordhead": "簵",
+            "explanation": "古文簬从輅。",
+            "seal_character": "嫏"
+        }
+    ],
+    "seal_character": "嫎",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "路",
+        "竹",
+        "輅"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "箘簬也。从竹。路聲。",
+            "note": "洛故切。五部。"
+        },
+        {
+            "explanation": "夏書曰。惟箘簬枯。",
+            "note": "禹貢文。枯各本作楛。今依木部正。"
+        },
+        {
+            "explanation": "古文簬。从輅。",
+            "note": "當作簬或从輅。轉寫之誤也。篇、韵皆云簵同簬。今尙書、史記皆作簵。若古文四聲韵云簵古文。卽取諸誤本說文也。"
+        }
+    ],
+    "indexes": [
+        "簬",
+        "簵"
+    ]
+}

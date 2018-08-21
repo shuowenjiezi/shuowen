@@ -1,0 +1,39 @@
+{
+    "id": 753,
+    "wordhead": "牷",
+    "explanation": "牛純色。从牛全聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "疾緣切",
+    "variants": [],
+    "seal_character": "兆",
+    "pinyin": "quan",
+    "pinyin_full": "quán",
+    "components": [
+        "全",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛純色。",
+            "note": "牧人注。鄭司農曰。牷、純也。按凡時事之牲用牷物。凡外祭毀事用尨。以尨與牷對舉。則牷爲純色天知也。大鄭注釋牷爲純也。爲許所本。後鄭則訓犧爲純毛。牷爲體完具。與許異。"
+        },
+        {
+            "explanation": "禮。",
+            "note": "上脫周字。"
+        },
+        {
+            "explanation": "祭祀牷牲。",
+            "note": "此是引牧人祭祀之牲牷。依韵會補。"
+        },
+        {
+            "explanation": "从牛。全聲。",
+            "note": "疾緣切。十四部。"
+        }
+    ],
+    "indexes": [
+        "牷"
+    ]
+}

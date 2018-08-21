@@ -1,0 +1,36 @@
+{
+    "id": 8698,
+    "wordhead": "綌",
+    "explanation": "粗葛也。从糸谷聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "綺𢧢切",
+    "variants": [
+        {
+            "wordhead": "𢂲",
+            "explanation": "綌或从巾。",
+            "seal_character": "瑃"
+        }
+    ],
+    "seal_character": "瑂",
+    "pinyin": "xi",
+    "pinyin_full": "xì",
+    "components": [
+        "谷",
+        "糸",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "粗葛也。从糸。𧮫聲。",
+            "note": "綺戟切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "绤",
+        "綌",
+        "𢂲"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 4928,
+    "wordhead": "保",
+    "explanation": "養也。从人，从𤓽省。𤓽，古文孚。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "博袌切",
+    "variants": [
+        {
+            "wordhead": "𣎼",
+            "explanation": "古文𠈃。",
+            "seal_character": "損"
+        },
+        {
+            "wordhead": "𠊻",
+            "explanation": "古文𠈃不省。",
+            "seal_character": "搎"
+        }
+    ],
+    "seal_character": "搌",
+    "pinyin": "bao",
+    "pinyin_full": "bǎo",
+    "components": [
+        "人"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "養也。",
+            "note": "宣帝紀阿𠈃之功。臣瓚曰。阿倚、𠈃養也。賈誼說大師大傳大𠈃曰。𠈃者、𠈃其身體。按𠈃全、𠈃守皆其引伸之義。南山有臺傳曰。𠈃、安也。"
+        },
+        {
+            "explanation": "从人。𤓽省聲。",
+            "note": "博袌切。古音在三部。孚聲亦在三部也。"
+        },
+        {
+            "explanation": "𤓽古文孚。",
+            "note": "各本誤。今正。見爪部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "按此葢古文以孚爲𠈃也。"
+        }
+    ],
+    "indexes": [
+        "保",
+        "𣎼",
+        "𠊻"
+    ]
+}

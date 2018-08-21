@@ -1,0 +1,35 @@
+{
+    "id": 7561,
+    "wordhead": "䱾",
+    "explanation": "魚名。一名鯉，一名鰜。从魚婁聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "洛侯切",
+    "variants": [],
+    "seal_character": "潤",
+    "pinyin": "lou",
+    "pinyin_full": "lóu",
+    "components": [
+        "婁",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䱾魚也。",
+            "note": "三字今正。"
+        },
+        {
+            "explanation": "一名鯉。一名鰜。",
+            "note": "一名舊當作一曰。此一名鯉耳。非卽三十六鱗之鯉也。"
+        },
+        {
+            "explanation": "从魚。婁聲。",
+            "note": "洛矦切。四部。"
+        }
+    ],
+    "indexes": [
+        "䱾"
+    ]
+}

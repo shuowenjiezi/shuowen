@@ -1,0 +1,46 @@
+{
+    "id": 8365,
+    "wordhead": "瑟",
+    "explanation": "庖犧所作弦樂也。从珡必聲。",
+    "volume": "12",
+    "radical": "琴",
+    "pronunciation": "所櫛切",
+    "variants": [
+        {
+            "wordhead": "𡘼",
+            "explanation": "古文瑟<span>[<span>𤨝</span>]</span>。",
+            "seal_character": "狈"
+        }
+    ],
+    "seal_character": "狇",
+    "pinyin": "se",
+    "pinyin_full": "sè",
+    "components": [
+        "必",
+        "瑟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "庖犧所作弦樂也。",
+            "note": "弦樂、猶磬曰石樂。淸廟之瑟亦練朱弦。凡弦樂以絲爲之。象弓弦、故曰弦。淇奥傳曰。瑟、矜莊貌。旱麓箋曰。瑟、絜鮮貌。皆因聲叚借也。瑟之言肅也。楚辭言秋氣蕭瑟。"
+        },
+        {
+            "explanation": "从珡。",
+            "note": "琴之屬、故从琴。"
+        },
+        {
+            "explanation": "必聲。",
+            "note": "所櫛切。十二部。"
+        },
+        {
+            "explanation": "古文瑟。",
+            "note": "玩古文琴瑟二字。似先造瑟字、而琴从之。"
+        }
+    ],
+    "indexes": [
+        "瑟",
+        "𡘼"
+    ]
+}

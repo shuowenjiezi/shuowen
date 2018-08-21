@@ -1,0 +1,35 @@
+{
+    "id": 8682,
+    "wordhead": "緍",
+    "explanation": "釣魚𦅾也。从糸昏聲。吳人解衣相被，謂之緍。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "武巾切",
+    "variants": [],
+    "seal_character": "琱",
+    "pinyin": "min",
+    "pinyin_full": "mín",
+    "components": [
+        "糸",
+        "昏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "釣魚𦅾也。",
+            "note": "𦅾本施於鳥者。而鉤魚之繩似之。故曰釣魚𦅾。召南曰。其釣維何。維絲伊緍。傳曰。緍、綸也。謂糾絲爲繩也。"
+        },
+        {
+            "explanation": "从糸。昏聲。",
+            "note": "武巾切。十三部。"
+        },
+        {
+            "explanation": "吴人解衣相被謂之緍。",
+            "note": "方言。緍、緜、施也。秦曰緍。趙曰緜。吴越之閒脱衣相被謂之緍緜。按大雅。荏染柔木。言緍之絲。傳曰。緍被也。是其爲古義古訓、不始方言也。"
+        }
+    ],
+    "indexes": [
+        "緍"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 101,
+    "wordhead": "璑",
+    "explanation": "三采玉也。从玉無聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "武扶切",
+    "variants": [],
+    "seal_character": "乾",
+    "pinyin": "wu",
+    "pinyin_full": "wú",
+    "components": [
+        "玉",
+        "無"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "三采玉也。",
+            "note": "周禮故書。璑玉三采。注曰。璑、惡玉名。江沅曰。惡王者、亞次之玉也。古惡亞字通。廣雅玉類有璑。玉裁按。天子純玉。公四玉一石。侯三玉二石。故書作璑。新書作珉。皆謂石之次玉者。諸公之冕、璑玉三采。謂以璑雜玉備三采。下於天子純玉備五采也。許云。三采玉謂之璑。誤矣。"
+        },
+        {
+            "explanation": "从王。無聲。",
+            "note": "武無切。徐堅引說文音舞。五部。"
+        }
+    ],
+    "indexes": [
+        "璑"
+    ]
+}

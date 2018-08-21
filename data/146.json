@@ -1,0 +1,35 @@
+{
+    "id": 146,
+    "wordhead": "琱",
+    "explanation": "治玉也。一曰石似玉。从玉周聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "都寮切",
+    "variants": [],
+    "seal_character": "亲",
+    "pinyin": "diao",
+    "pinyin_full": "diāo",
+    "components": [
+        "周",
+        "玉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治玉也。",
+            "note": "釋器。玉謂之雕。按琱琢同部雙聲、相轉注。詩周禮之追、大雅之敦弓皆與琱雙聲也。"
+        },
+        {
+            "explanation": "一曰石似玉。",
+            "note": "此字義之別說。"
+        },
+        {
+            "explanation": "从王。周聲。",
+            "note": "都僚切。古音在三部。經傳以雕彫爲琱。"
+        }
+    ],
+    "indexes": [
+        "琱"
+    ]
+}

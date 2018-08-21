@@ -1,0 +1,35 @@
+{
+    "id": 1053,
+    "wordhead": "䟏",
+    "explanation": "動也。从走樂聲。讀若《春秋傳》曰“輔䟏”。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "郎擊切",
+    "variants": [],
+    "seal_character": "劋",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "樂",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "動也。",
+            "note": "篇、韵皆云躒同。大戴禮曰。騏驥一躒。不能千步。"
+        },
+        {
+            "explanation": "从走。樂聲。",
+            "note": "郎擊切。古音在二部。"
+        },
+        {
+            "explanation": "讀若春秋傳曰輔䟏。",
+            "note": "當作春秋傳有輔䟏六字。見襄卄四年。今傳作躒。又有荀躒。"
+        }
+    ],
+    "indexes": [
+        "䟏"
+    ]
+}

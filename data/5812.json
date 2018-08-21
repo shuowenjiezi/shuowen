@@ -1,0 +1,43 @@
+{
+    "id": 5812,
+    "wordhead": "畏",
+    "explanation": "惡也。从甶，虎省。鬼頭而虎爪，可畏也。",
+    "volume": "09",
+    "radical": "甶",
+    "pronunciation": "於胃切",
+    "variants": [
+        {
+            "wordhead": "𤰣",
+            "explanation": "古文省。",
+            "seal_character": "柜"
+        }
+    ],
+    "seal_character": "柛",
+    "pinyin": "wei",
+    "pinyin_full": "wèi",
+    "components": [
+        "虎",
+        "爪",
+        "甶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "惡也。从甶、虎省。",
+            "note": "虎上體省而儿不省。儿者、似人足而有爪也。於貴切。十五部。"
+        },
+        {
+            "explanation": "鬼頭而虎爪。可畏也。",
+            "note": "說會意。"
+        },
+        {
+            "explanation": "古文省。",
+            "note": "下象爪形。"
+        }
+    ],
+    "indexes": [
+        "畏",
+        "𤰣"
+    ]
+}

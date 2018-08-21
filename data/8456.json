@@ -1,0 +1,31 @@
+{
+    "id": 8456,
+    "wordhead": "弩",
+    "explanation": "弓有臂者。《周禮》四弩：夾弩、庾弩、唐弩、大弩。从弓奴聲。",
+    "volume": "12",
+    "radical": "弓",
+    "pronunciation": "奴古切",
+    "variants": [],
+    "seal_character": "猲",
+    "pinyin": "nu",
+    "pinyin_full": "nǔ",
+    "components": [
+        "弓",
+        "奴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弓有臂者。从弓。奴聲。",
+            "note": "奴古切。五部。"
+        },
+        {
+            "explanation": "周禮四弩。夾弩、庾弩、唐弩、大弩。",
+            "note": "司弓矢文也。弩統於弓。故宮但言弓。"
+        }
+    ],
+    "indexes": [
+        "弩"
+    ]
+}

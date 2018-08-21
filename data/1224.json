@@ -1,0 +1,32 @@
+{
+    "id": 1224,
+    "wordhead": "徑",
+    "explanation": "步道也。从彳巠聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "居正切",
+    "variants": [],
+    "seal_character": "博",
+    "pinyin": "jing",
+    "pinyin_full": "jìnɡ",
+    "components": [
+        "巠",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“道不容車，故曰步道。”",
+    "duan_notes": [
+        {
+            "explanation": "步道也。",
+            "note": "周禮。夫閒有遂。遂上有徑。鄭曰。徑容牛馬。畛容大車。涂容乘車一軌。道容二軌。路容三軌。此云步道、謂人及牛馬可步行而不容車也。"
+        },
+        {
+            "explanation": "从彳。巠聲。",
+            "note": "居正切。十一部。按辵部道、足部路皆廁部末。此廁部首。不同者、錯見之意。"
+        }
+    ],
+    "indexes": [
+        "径",
+        "徑"
+    ]
+}

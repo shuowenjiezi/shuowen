@@ -1,0 +1,31 @@
+{
+    "id": 5226,
+    "wordhead": "身",
+    "explanation": "躳也。象人之身。从人𠂆聲。凡身之屬皆从身。",
+    "volume": "08",
+    "radical": "身",
+    "pronunciation": "失人切",
+    "variants": [],
+    "seal_character": "敍",
+    "pinyin": "shen",
+    "pinyin_full": "shēn",
+    "components": [
+        "人",
+        "厂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "躳也。",
+            "note": "呂部曰。躳、身也。二字爲互訓。躳必入呂部者。躳謂身之傴。主於脊骨也。"
+        },
+        {
+            "explanation": "从人。申省聲。",
+            "note": "大徐作象人之身。从人、𠂆聲。按此語先後失倫。𠂆古音在十六部。非聲也。今依韵會所據小徐本正。韵會从人之上有象人身三字。亦非也。𦥔、籒作𢑚。故从其省爲聲。失人切。十二部。"
+        }
+    ],
+    "indexes": [
+        "身"
+    ]
+}

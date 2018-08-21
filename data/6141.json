@@ -1,0 +1,34 @@
+{
+    "id": 6141,
+    "wordhead": "䮔",
+    "explanation": "馬小皃。从馬垂聲。讀若箠。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "之壘切",
+    "variants": [
+        {
+            "wordhead": "𩥗",
+            "explanation": "籒文从𠂹。",
+            "seal_character": "楌"
+        }
+    ],
+    "seal_character": "楋",
+    "pinyin": "zui",
+    "pinyin_full": "zuī",
+    "components": [
+        "馬",
+        "垂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬小皃。从馬。𡍮聲。讀若箠。",
+            "note": "之壘切。按當依廣韵之累切。十六十七部。辵部{辶+{馬+垂[左右]}}（𨙦）以爲聲。"
+        }
+    ],
+    "indexes": [
+        "䮔",
+        "𩥗"
+    ]
+}

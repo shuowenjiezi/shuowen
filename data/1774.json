@@ -1,0 +1,40 @@
+{
+    "id": 1774,
+    "wordhead": "與",
+    "explanation": "黨與也。从舁从与。",
+    "volume": "03",
+    "radical": "舁",
+    "pronunciation": "余呂切",
+    "variants": [
+        {
+            "wordhead": "𢌱",
+            "explanation": "古文與。",
+            "seal_character": "嗉"
+        }
+    ],
+    "seal_character": "嗈",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "収",
+        "舁",
+        "与"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黨與也。",
+            "note": "黨當作攩。攩、朋群也。與當作与。与、賜予也。"
+        },
+        {
+            "explanation": "从舁与。",
+            "note": "會意。共舉而与之也。舁与皆亦聲。余吕切。五部。"
+        }
+    ],
+    "indexes": [
+        "与",
+        "與",
+        "𢌱"
+    ]
+}

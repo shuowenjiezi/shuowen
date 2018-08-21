@@ -1,0 +1,53 @@
+{
+    "id": 4315,
+    "wordhead": "𡖊",
+    "explanation": "早敬也。从丮，持事；雖夕不休：早敬者也。",
+    "volume": "07",
+    "radical": "夕",
+    "pronunciation": "息逐切",
+    "variants": [
+        {
+            "wordhead": "𠉦",
+            "explanation": "古文夙从人、𠀬。",
+            "seal_character": "態"
+        },
+        {
+            "wordhead": "𠈇",
+            "explanation": "亦古文夙，从人、㐁。宿<span>[<span>㝛</span>]</span>从此。",
+            "seal_character": "慌"
+        }
+    ],
+    "seal_character": "慊",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "人",
+        "夕",
+        "丮"
+    ],
+    "xuan_note": "臣鉉等曰：今俗書作夙，譌。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "早敬也。",
+            "note": "召南毛傳曰。夙、早也。此言早敬者、以字从丮。故䢅下曰。臼辰爲䢅。丮夕爲夙。皆同意。是也。大雅。載震載夙。毛云。夙早也。箋云。夙之言肅也。惟夙有敬意。故鄭云爾。"
+        },
+        {
+            "explanation": "持事雖夕不休。早敬者也。",
+            "note": "此說會意之恉。謂日𦱤人倦。齋莊正齊而不敢懈惰。是乃完今日之早敬。基明日之早敬也。抑夕者夜之通偁。未旦而執事有恪。故字从丮夕歟。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "𧮫部曰。𠀬古文㐁。讀若三年導服之導。此从人、从𠀬聲也。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "𧮫部㐁本亦古文。𠈇亦夙之古文。㝛从𠈇聲。"
+        }
+    ],
+    "indexes": [
+        "𡖊",
+        "𠉦",
+        "𠈇"
+    ]
+}

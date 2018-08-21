@@ -1,0 +1,39 @@
+{
+    "id": 425,
+    "wordhead": "䒢",
+    "explanation": "昌蒲也。从艸卬聲。益州云。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "五剛切",
+    "variants": [],
+    "seal_character": "俥",
+    "pinyin": "ang",
+    "pinyin_full": "ánɡ",
+    "components": [
+        "艸",
+        "卬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䒢䓉、",
+            "note": "逗。二字各本脫。今依全書通例補之。"
+        },
+        {
+            "explanation": "昌蒲也。",
+            "note": "周禮朝事之豆實有昌本注。昌本、昌蒲根。切之四寸爲菹。左氏謂之昌歜。本艸經。菖蒲一名昌陽。按或單呼曰昌。或曰堯韭。或曰荃。或曰蓀。䒢䓉之名今未見所出。"
+        },
+        {
+            "explanation": "从艸。卬聲。",
+            "note": "五剛切。十部。"
+        },
+        {
+            "explanation": "益州云。",
+            "note": "本艸經曰。生上洛池澤及蜀郡嚴道。云、毛扆改生。"
+        }
+    ],
+    "indexes": [
+        "䒢"
+    ]
+}

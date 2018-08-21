@@ -1,0 +1,30 @@
+{
+    "id": 7922,
+    "wordhead": "抍",
+    "explanation": "上舉也。从手升聲。《易》曰：“抍馬，壯，吉。”",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "蒸上切",
+    "variants": [
+        {
+            "wordhead": "撜",
+            "explanation": "抍或从登。",
+            "seal_character": "烲"
+        }
+    ],
+    "seal_character": "烱",
+    "pinyin": "zheng",
+    "pinyin_full": "zhěnɡ",
+    "components": [
+        "登",
+        "手",
+        "升"
+    ],
+    "xuan_note": "臣鉉等曰：今俗別作拯，非是。",
+    "kai_note": "",
+    "duan_notes": [],
+    "indexes": [
+        "抍",
+        "撜"
+    ]
+}

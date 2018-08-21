@@ -1,0 +1,51 @@
+{
+    "id": 5449,
+    "wordhead": "視",
+    "explanation": "瞻也。从見、示。",
+    "volume": "08",
+    "radical": "見",
+    "pronunciation": "神至切",
+    "variants": [
+        {
+            "wordhead": "𥄙",
+            "explanation": "古文視。",
+            "seal_character": "晇"
+        },
+        {
+            "wordhead": "眡",
+            "explanation": "亦古文視。",
+            "seal_character": "晈"
+        }
+    ],
+    "seal_character": "晆",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "示",
+        "氐",
+        "目",
+        "見"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瞻也。",
+            "note": "目部曰。瞻、臨視也。視不必皆臨。則瞻與視小別矣。渾言不別也。引伸之義、凡我所爲使人見之亦曰視。士昏禮。視諸衿鞶。注曰。視乃正字。今文作示。俗誤行之。曲禮。童子常視母誑。注曰。視今之示字。小雅。視民不恌。箋云。視古示字也。按此三注一也。古作視。漢人作示。是爲古今字。示下曰。天𡍮象見吉凶、所以示人也。許書當本作視人。以㬪韵爲訓。經淺人改之耳。"
+        },
+        {
+            "explanation": "从見。示聲。",
+            "note": "大徐無聲字。神至切。十五部。"
+        },
+        {
+            "explanation": "亦古文視。",
+            "note": "此氐聲。與目部眂、氏聲迴別。氐聲古音在十五部。氏聲在十六部。自唐宋至今多亂之。眡見周禮。"
+        }
+    ],
+    "indexes": [
+        "视",
+        "視",
+        "𥄙",
+        "眡"
+    ]
+}

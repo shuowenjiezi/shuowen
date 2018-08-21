@@ -1,0 +1,51 @@
+{
+    "id": 5422,
+    "wordhead": "般",
+    "explanation": "辟也。象舟之旋，从舟。从殳，殳，所以旋也。",
+    "volume": "08",
+    "radical": "舟",
+    "pronunciation": "北潘切",
+    "variants": [
+        {
+            "wordhead": "𦨗",
+            "explanation": "古文般从支<span>{<span>攴</span>}</span>。",
+            "seal_character": "昤"
+        }
+    ],
+    "seal_character": "昣",
+    "pinyin": "pan",
+    "pinyin_full": "pán",
+    "components": [
+        "殳",
+        "支",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "辟也。",
+            "note": "人部僻下曰。辟也。此辟字義同。投壺曰。賓再拜受。主人般旋曰。辟。主人阼階上拜送。賓般旋曰。辟。般干反。還音旋。辟、徐扶亦反。論語包氏注。足躩如、盤辟皃也。盤當作般。般辟、漢人語。謂退縮旋轉之皃也。大射儀賓辟注曰。辟、逡遁不敢當盛。釋言曰。般、還也。還者今之環字。旋也。荀爽注易曰。盤桓者、動而通也。般之本義如是。引伸爲般遊、般樂。"
+        },
+        {
+            "explanation": "象舟之旋。",
+            "note": "說从舟之意。"
+        },
+        {
+            "explanation": "从舟。从殳。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "殳、令舟旋者也。",
+            "note": "令韵會作命。說從殳之意。殳謂所以刺船者也。北潘切。按當云薄官切。十四部。"
+        },
+        {
+            "explanation": "古文般从攴。",
+            "note": "各本作从支。誤。今正。从攴猶从殳也。"
+        }
+    ],
+    "indexes": [
+        "般",
+        "𦨗"
+    ]
+}

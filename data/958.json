@@ -1,0 +1,60 @@
+{
+    "id": 958,
+    "wordhead": "㕣",
+    "explanation": "山閒陷泥地。从口，从水敗皃。讀若沇州之沇。九州之渥地也，故以沇名焉。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "以轉切",
+    "variants": [
+        {
+            "wordhead": "𧮲",
+            "explanation": "古文㕣。",
+            "seal_character": "利"
+        }
+    ],
+    "seal_character": "刨",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "口",
+        "歺",
+        "谷",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山閒陷泥地。",
+            "note": "閒玉篇作㵎。陷當作淊。字之誤。水部曰。淊、泥水淊淊也。"
+        },
+        {
+            "explanation": "从口。",
+            "note": "謂山閒。"
+        },
+        {
+            "explanation": "从水敗皃。",
+            "note": "謂淊泥。谷字、酋字皆从水半見。㕣亦从水半見、出於口也。水敗土而淊泥多。是曰㕣。"
+        },
+        {
+            "explanation": "讀若沇州之沇。",
+            "note": "按漢隸沇州字已多作？。以轉切。十四部。"
+        },
+        {
+            "explanation": "九州之渥地也。",
+            "note": "毛傳曰。渥、厚也。"
+        },
+        {
+            "explanation": "故㠯沇名焉。",
+            "note": "此釋州名之意。沇爲九州之渥地。如㕣爲山閒之渥地。其義同。其音亦同也。"
+        },
+        {
+            "explanation": "古文㕣。",
+            "note": "按下葢从谷。上从列骨之殘？字。？象水敗也。漢人作？字者。葢合和𧮲沇二字爲之。"
+        }
+    ],
+    "indexes": [
+        "㕣",
+        "𧮲"
+    ]
+}

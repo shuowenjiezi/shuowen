@@ -1,0 +1,31 @@
+{
+    "id": 8834,
+    "wordhead": "蜹",
+    "explanation": "秦晉謂之蜹，楚謂之蚊。从虫芮聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "而銳切",
+    "variants": [],
+    "seal_character": "瓜",
+    "pinyin": "rui",
+    "pinyin_full": "ruì",
+    "components": [
+        "虫",
+        "芮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "秦晉謂之蜹。楚謂之蟁。",
+            "note": "蟁作蚊。俗。今正。蟁在䖵部。故不類列於此也。此爲方俗殊語以舉列也。"
+        },
+        {
+            "explanation": "从虫。芮聲。",
+            "note": "而銳切。十五部。"
+        }
+    ],
+    "indexes": [
+        "蜹"
+    ]
+}

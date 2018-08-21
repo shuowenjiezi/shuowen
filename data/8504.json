@@ -1,0 +1,48 @@
+{
+    "id": 8504,
+    "wordhead": "絕",
+    "explanation": "斷絲也。从糸从刀从卩。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "情雪切",
+    "variants": [
+        {
+            "wordhead": "𢇍",
+            "explanation": "古文絕。象不連體，絕二絲。",
+            "seal_character": "獬"
+        }
+    ],
+    "seal_character": "獫",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "刀",
+        "糸",
+        "卩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𣃔絲也。",
+            "note": "𣃔之則爲二、是曰絕。引申之、凡横越之曰絕。如絕河而渡是也。又絕則窮。故引申爲極。如言絕美、絕妙是也。許書𨸏部云。陘、山絕坎也。是中𣃔之義也。水部曰。榮、絕小水也。是極至之義也。閻氏百詩乃以絕河釋滎、以釋禹貢。不知禹貢熒澤自古作从三火之熒。後人乃譌爲滎。"
+        },
+        {
+            "explanation": "从刀糸。",
+            "note": "𣃔絲以刀也。會意。"
+        },
+        {
+            "explanation": "卪聲。",
+            "note": "以上五字今定。情雪切。十五部。"
+        },
+        {
+            "explanation": "古文絕。象不連體絕二絲。",
+            "note": "象形也。"
+        }
+    ],
+    "indexes": [
+        "绝",
+        "絕",
+        "𢇍"
+    ]
+}

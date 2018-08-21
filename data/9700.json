@@ -1,0 +1,35 @@
+{
+    "id": 9700,
+    "wordhead": "成",
+    "explanation": "就也。从戊丁聲。",
+    "volume": "14",
+    "radical": "戊",
+    "pronunciation": "氏征切",
+    "variants": [
+        {
+            "wordhead": "𢦩",
+            "explanation": "古文成<span>[<span>成</span>]</span>从午。",
+            "seal_character": "碹"
+        }
+    ],
+    "seal_character": "碸",
+    "pinyin": "cheng",
+    "pinyin_full": "chénɡ",
+    "components": [
+        "丁",
+        "戊",
+        "午"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“戊中宫成於中也。”",
+    "duan_notes": [
+        {
+            "explanation": "就也。从戊。丁聲。",
+            "note": "氏征切。十一部。"
+        }
+    ],
+    "indexes": [
+        "成",
+        "𢦩"
+    ]
+}

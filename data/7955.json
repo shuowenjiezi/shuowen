@@ -1,0 +1,54 @@
+{
+    "id": 7955,
+    "wordhead": "㩅",
+    "explanation": "引也。从手畱聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "敕鳩切",
+    "variants": [
+        {
+            "wordhead": "抽",
+            "explanation": "㩅或从由。",
+            "seal_character": "焕"
+        },
+        {
+            "wordhead": "𢭆",
+            "explanation": "㩅或从秀。",
+            "seal_character": "焖"
+        }
+    ],
+    "seal_character": "焔",
+    "pinyin": "chou",
+    "pinyin_full": "chōu",
+    "components": [
+        "畱",
+        "秀",
+        "由",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "引也。",
+            "note": "鄭風。左旋右抽。傳曰。左旋、講兵。右抽、抽矢以䠶。竹部曰。籒、讀書也。牆有茨傳曰。讀、抽也。方言曰。抽、讀也。尙書。克由繹之。大史公自序。紬史記石室金匱之書。紬卽籒也。籒之言抽也。"
+        },
+        {
+            "explanation": "从手。畱聲。",
+            "note": "敕鳩切。三部。"
+        },
+        {
+            "explanation": "㩅或从由。",
+            "note": "由聲也。㩅或、一本作籒文。非也。"
+        },
+        {
+            "explanation": "㩅或从秀。",
+            "note": "秀字古本當不出。篆體偏旁作秀、則可證古於偏旁不諱也。"
+        }
+    ],
+    "indexes": [
+        "㩅",
+        "抽",
+        "𢭆"
+    ]
+}

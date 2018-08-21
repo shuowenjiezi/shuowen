@@ -1,0 +1,49 @@
+{
+    "id": 2315,
+    "wordhead": "舊",
+    "explanation": "𨾦舊，舊畱也。从萑臼聲。",
+    "volume": "04",
+    "radical": "萑",
+    "pronunciation": "巨救切",
+    "variants": [
+        {
+            "wordhead": "鵂",
+            "explanation": "舊或从鳥休聲。",
+            "seal_character": "塗"
+        }
+    ],
+    "seal_character": "塖",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "鳥",
+        "萑",
+        "休",
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𨾦舊、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "舊畱也。",
+            "note": "釋鳥。怪鴟。舍人曰。謂鵂？也。南陽名鉤鵅。一名忌欺。按今字爲新舊字。"
+        },
+        {
+            "explanation": "从萑。臼聲。",
+            "note": "巨救切。古音在一部。"
+        },
+        {
+            "explanation": "舊或从鳥。休聲。",
+            "note": "按毛詩舊在一部。音轉入三部。乃別製鵂字。音許流切矣。角部但云鴟舊。"
+        }
+    ],
+    "indexes": [
+        "旧",
+        "舊",
+        "鵂"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2609,
+    "wordhead": "膀",
+    "explanation": "脅也。从肉㫄聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "步光切",
+    "variants": [
+        {
+            "wordhead": "髈",
+            "explanation": "膀或从骨。",
+            "seal_character": "妰"
+        }
+    ],
+    "seal_character": "妯",
+    "pinyin": "pang",
+    "pinyin_full": "pánɡ",
+    "components": [
+        "肉",
+        "旁",
+        "骨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "脅也。从肉。旁聲。",
+            "note": "步光切。十部。"
+        }
+    ],
+    "indexes": [
+        "膀",
+        "髈"
+    ]
+}

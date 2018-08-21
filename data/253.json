@@ -1,0 +1,44 @@
+{
+    "id": 253,
+    "wordhead": "萉",
+    "explanation": "枲實也。从艸肥聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "房未切",
+    "variants": [
+        {
+            "wordhead": "𪎰",
+            "explanation": "萉或从麻、賁。",
+            "seal_character": "伭"
+        }
+    ],
+    "seal_character": "伬",
+    "pinyin": "fei",
+    "pinyin_full": "fèi",
+    "components": [
+        "艸",
+        "肥",
+        "麻",
+        "賁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "枲實也。",
+            "note": "枲、麻也。枲實、麻子也。釋艸作黂。周禮籩人、艸人作蕡。喪服傳云。苴絰、苴麻之有萉者也。按麻實名萉。因之麻亦名萉。艸人用蕡。說文林下云。萉之緫名。皆是。"
+        },
+        {
+            "explanation": "从艸。肥聲。",
+            "note": "房未切。十五部。"
+        },
+        {
+            "explanation": "萉或从麻賁。",
+            "note": "按賁聲本在十五部。音轉入十三部。故𪎰亦符刃、符分切。"
+        }
+    ],
+    "indexes": [
+        "萉",
+        "𪎰"
+    ]
+}

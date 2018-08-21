@@ -1,0 +1,29 @@
+{
+    "id": 4617,
+    "wordhead": "竈",
+    "explanation": "炊竈也。从穴，鼀省聲。",
+    "volume": "07",
+    "radical": "穴",
+    "pronunciation": "則到切",
+    "variants": [
+        {
+            "wordhead": "𥩋",
+            "explanation": "竈或不省。",
+            "seal_character": "抱"
+        }
+    ],
+    "seal_character": "抰",
+    "pinyin": "zao",
+    "pinyin_full": "zào",
+    "components": [
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [],
+    "indexes": [
+        "灶",
+        "竈",
+        "𥩋"
+    ]
+}

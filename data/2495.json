@@ -1,0 +1,44 @@
+{
+    "id": 2495,
+    "wordhead": "惠",
+    "explanation": "仁也。从心从叀。",
+    "volume": "04",
+    "radical": "叀",
+    "pronunciation": "胡桂切",
+    "variants": [
+        {
+            "wordhead": "𢥁",
+            "explanation": "古文惠从芔。",
+            "seal_character": "夫"
+        }
+    ],
+    "seal_character": "太",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "心",
+        "叀",
+        "惠",
+        "芔"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“爲惠者，心專也。”",
+    "duan_notes": [
+        {
+            "explanation": "仁也。",
+            "note": "人部曰。仁親也。經傳或假惠爲慧。"
+        },
+        {
+            "explanation": "从心叀。",
+            "note": "爲惠者心謹也。胡桂切。十五部。"
+        },
+        {
+            "explanation": "古文惠。从卉。",
+            "note": "從心叀省。從卉聲。小篆省卉。"
+        }
+    ],
+    "indexes": [
+        "惠",
+        "𢥁"
+    ]
+}

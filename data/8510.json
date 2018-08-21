@@ -1,0 +1,39 @@
+{
+    "id": 8510,
+    "wordhead": "䋼",
+    "explanation": "緩也。从糸盈聲。讀與聽同。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "他丁切",
+    "variants": [
+        {
+            "wordhead": "𦀚",
+            "explanation": "䋼或从呈。",
+            "seal_character": "獵"
+        }
+    ],
+    "seal_character": "獴",
+    "pinyin": "ting",
+    "pinyin_full": "tīnɡ",
+    "components": [
+        "呈",
+        "糸",
+        "盈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "緩也。",
+            "note": "䋼之言挺也。挺有緩意。䋼與綎義别。韵會誤合爲一字。"
+        },
+        {
+            "explanation": "从糸。盈聲。讀與聽同。",
+            "note": "他丁切。十一部。"
+        }
+    ],
+    "indexes": [
+        "䋼",
+        "𦀚"
+    ]
+}

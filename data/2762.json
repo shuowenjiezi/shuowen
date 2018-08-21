@@ -1,0 +1,31 @@
+{
+    "id": 2762,
+    "wordhead": "剟",
+    "explanation": "刊也。从刀叕聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "陟劣切",
+    "variants": [],
+    "seal_character": "婢",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuō",
+    "components": [
+        "刀",
+        "叕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刊也。",
+            "note": "商子曰。有敢剟定法令者死。賈誼傳曰。盜者剟寢戸之簾。"
+        },
+        {
+            "explanation": "从刀。叕聲。",
+            "note": "陟劣切。十五部。"
+        }
+    ],
+    "indexes": [
+        "剟"
+    ]
+}

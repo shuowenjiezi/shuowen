@@ -1,0 +1,40 @@
+{
+    "id": 307,
+    "wordhead": "萇",
+    "explanation": "萇楚，跳弋。一名羊桃。从艸長聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "直良切",
+    "variants": [],
+    "seal_character": "佧",
+    "pinyin": "chang",
+    "pinyin_full": "chánɡ",
+    "components": [
+        "艸",
+        "長"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "萇楚、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "銚弋。",
+            "note": "見檜風、釋艸、毛傳。"
+        },
+        {
+            "explanation": "一曰羊桃。",
+            "note": "陸璣、張揖皆曰羊桃也。"
+        },
+        {
+            "explanation": "从艸。長聲。",
+            "note": "直良切。十部。"
+        }
+    ],
+    "indexes": [
+        "苌",
+        "萇"
+    ]
+}

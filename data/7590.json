@@ -1,0 +1,43 @@
+{
+    "id": 7590,
+    "wordhead": "𩷑",
+    "explanation": "鮀也。从魚妟聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "於幰切",
+    "variants": [
+        {
+            "wordhead": "鰋",
+            "explanation": "𩷑或从匽。",
+            "seal_character": "澄"
+        }
+    ],
+    "seal_character": "澃",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "匽",
+        "魚",
+        "妟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鮀也。",
+            "note": "謂之𩷑者、以其偃頟也。偃者、仰也。玉裁按鮀也乃鮎也之誤。妄人所改也。"
+        },
+        {
+            "explanation": "从魚。妟聲。",
+            "note": "於幰切。十四部。"
+        },
+        {
+            "explanation": "𩷑或从匽。",
+            "note": "今經典皆如此作。"
+        }
+    ],
+    "indexes": [
+        "𩷑",
+        "鰋"
+    ]
+}

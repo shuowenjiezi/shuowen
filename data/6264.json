@@ -1,0 +1,35 @@
+{
+    "id": 6264,
+    "wordhead": "冤",
+    "explanation": "屈也。从兔从冂。兔在冂下，不得走，益屈折也。",
+    "volume": "10",
+    "radical": "兔",
+    "pronunciation": "於袁切",
+    "variants": [],
+    "seal_character": "槕",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "冖",
+        "兔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "屈也。",
+            "note": "屈、不伸也。古亦叚宛爲冤。"
+        },
+        {
+            "explanation": "从冂兔。",
+            "note": "會意。一音莫狄切。覆也。於袁切。十四部。"
+        },
+        {
+            "explanation": "兔在冂下不得走。益屈折也。",
+            "note": "枉曲之意取此。"
+        }
+    ],
+    "indexes": [
+        "冤"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 10,
+    "wordhead": "示",
+    "explanation": "天垂象，見吉凶，所以示人也。从二。(二，古文上字。)三垂，日月星也。觀乎天文，以察時變。示，神事也。凡示之屬皆从示。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "神至切",
+    "variants": [
+        {
+            "wordhead": "𥘅",
+            "explanation": "古文示。",
+            "seal_character": "丑"
+        }
+    ],
+    "seal_character": "丐",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "一",
+        "二",
+        "小"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天𠂹象。見吉凶。",
+            "note": "見周易𣪠辭。"
+        },
+        {
+            "explanation": "所㠯示人也。从𠄞。",
+            "note": "古文上。三𠂹、謂川。"
+        },
+        {
+            "explanation": "日月星也。觀乎天文㠯察時變。",
+            "note": "見周易賁彖傳。"
+        },
+        {
+            "explanation": "示神事也。",
+            "note": "言天縣象箸明以示人。聖人因以神道設敎。"
+        },
+        {
+            "explanation": "凡示之屬皆从示。",
+            "note": "神至切。古音第十五部。中庸、小雅以示爲寘。"
+        },
+        {
+            "explanation": "古文示。",
+            "note": "所謂古文諸丄字皆从一也。"
+        }
+    ],
+    "indexes": [
+        "示",
+        "𥘅"
+    ]
+}

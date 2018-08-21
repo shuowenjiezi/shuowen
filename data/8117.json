@@ -1,0 +1,43 @@
+{
+    "id": 8117,
+    "wordhead": "姼",
+    "explanation": "美女也。从女多聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "尺氏切",
+    "variants": [
+        {
+            "wordhead": "𡚼",
+            "explanation": "姼或从氏。",
+            "seal_character": "燂"
+        }
+    ],
+    "seal_character": "燁",
+    "pinyin": "chi",
+    "pinyin_full": "chǐ",
+    "components": [
+        "氏",
+        "女",
+        "多"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "美女也。",
+            "note": "廣韵曰。姑姼、輕薄皃。此今義也。方言曰。謂父妣曰母姼。稱父考曰父姼。音多。此方俗里語也。"
+        },
+        {
+            "explanation": "从女。多聲。",
+            "note": "尺氏切。古音在十七部。"
+        },
+        {
+            "explanation": "姼或从氏。",
+            "note": "氏聲在十六部。合音冣近。"
+        }
+    ],
+    "indexes": [
+        "姼",
+        "𡚼"
+    ]
+}

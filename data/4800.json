@@ -1,0 +1,35 @@
+{
+    "id": 4800,
+    "wordhead": "罪",
+    "explanation": "捕魚竹网。从网、非。秦以罪爲辠字。",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "徂賄切",
+    "variants": [],
+    "seal_character": "捹",
+    "pinyin": "zui",
+    "pinyin_full": "zuì",
+    "components": [
+        "非",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捕魚竹网。",
+            "note": "竹字葢衍。小徐無竹网二字。"
+        },
+        {
+            "explanation": "从网。非聲。",
+            "note": "聲字舊缺。今補。本形聲之字。始皇改爲會意字也。徂賄切。十五部。"
+        },
+        {
+            "explanation": "秦㠯爲辠字。",
+            "note": "文字音義云。始皇以辠字似皇。乃改爲罪。按經典多出秦後。故皆作罪。罪之本義少見於竹帛。小雅。畏此罪？。大雅。天降罪？。亦辠？也。"
+        }
+    ],
+    "indexes": [
+        "罪"
+    ]
+}

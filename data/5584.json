@@ -1,0 +1,44 @@
+{
+    "id": 5584,
+    "wordhead": "頞",
+    "explanation": "鼻莖也。从頁安聲。",
+    "volume": "09",
+    "radical": "頁",
+    "pronunciation": "烏割切",
+    "variants": [
+        {
+            "wordhead": "齃",
+            "explanation": "或从鼻<span>[<span>鼻</span>]</span>、曷。",
+            "seal_character": "曠"
+        }
+    ],
+    "seal_character": "曟",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "安",
+        "曷",
+        "頁",
+        "鼻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼻莖也。",
+            "note": "鼻謂之準。鼻直莖謂之頞。史記唐舉相蔡澤曰。先生曷鼻、巨肩、魋顔、蹙齃。旣言鼻又言頞者。曷同遏。遏鼻、言其內不通而齆。蹙齃則言其外鼻莖也。鼻有中𣃔者。蔡澤、諸葛恪之相是也。有憂愁而蹴縮者。孟子言蹙頞是也。有病而辛頞者。此言其內酸辛、素問所言是也。"
+        },
+        {
+            "explanation": "从𩑋。安聲。",
+            "note": "烏割切。十五部。釋名曰。頞、鞍也。偃折如鞍也。知固可讀如安。"
+        },
+        {
+            "explanation": "或从鼻曷。",
+            "note": "曷聲也。"
+        }
+    ],
+    "indexes": [
+        "頞",
+        "齃"
+    ]
+}

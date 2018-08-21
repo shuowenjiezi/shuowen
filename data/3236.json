@@ -1,0 +1,31 @@
+{
+    "id": 3236,
+    "wordhead": "飻",
+    "explanation": "貪也。从食，殄省聲。《春秋傳》曰：“謂之饕飻。”",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "他結切",
+    "variants": [],
+    "seal_character": "岚",
+    "pinyin": "tie",
+    "pinyin_full": "tiè",
+    "components": [
+        "食",
+        "殄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "貪也。从食。㐱聲。",
+            "note": "鉉本作殄省聲。不明於平入一理。妄改之也。他結切。十二部。"
+        },
+        {
+            "explanation": "春秋傳曰。謂之饕飻。",
+            "note": "左傳文十八年文。今傳作餮。賈、服及杜皆曰。貪財爲饕。貪食爲飻。此蒙上文貪于飮食、冒于貨賄、分言之。非許意也。"
+        }
+    ],
+    "indexes": [
+        "飻"
+    ]
+}

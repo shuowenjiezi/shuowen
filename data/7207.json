@@ -1,0 +1,35 @@
+{
+    "id": 7207,
+    "wordhead": "漘",
+    "explanation": "水厓也。从水脣聲。《詩》曰：“寘河之漘。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "常倫切",
+    "variants": [],
+    "seal_character": "淑",
+    "pinyin": "chun",
+    "pinyin_full": "chún",
+    "components": [
+        "水",
+        "脣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水厓也。",
+            "note": "魏風傳。漘、厓也。爾雅曰。厓、夷上洒下漘。按互夷上平也。洒下謂側水邊者斗峭。"
+        },
+        {
+            "explanation": "从水。脣聲。",
+            "note": "常倫切。十三部。"
+        },
+        {
+            "explanation": "詩曰。寘河之漘。",
+            "note": "集韵、類篇皆河上有諸。韵會同。"
+        }
+    ],
+    "indexes": [
+        "漘"
+    ]
+}

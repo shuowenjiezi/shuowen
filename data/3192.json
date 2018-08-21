@@ -1,0 +1,56 @@
+{
+    "id": 3192,
+    "wordhead": "飪",
+    "explanation": "大孰也。从食壬聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "如甚切",
+    "variants": [
+        {
+            "wordhead": "䏕",
+            "explanation": "古文飪。",
+            "seal_character": "屟"
+        },
+        {
+            "wordhead": "𦜙",
+            "explanation": "亦古文飪。",
+            "seal_character": "屠"
+        }
+    ],
+    "seal_character": "属",
+    "pinyin": "ren",
+    "pinyin_full": "rèn",
+    "components": [
+        "肉",
+        "人",
+        "心",
+        "壬",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大孰也。",
+            "note": "特牲禮請期曰羹飪注。飪、孰也。飪亦假稔爲之。釋言。饙餾稔也。字又作餁。餁同飪。"
+        },
+        {
+            "explanation": "从𠊊。壬聲。",
+            "note": "如甚切。七部。"
+        },
+        {
+            "explanation": "古文飪。",
+            "note": "从肉。"
+        },
+        {
+            "explanation": "亦古文飪。",
+            "note": "心部恁下云。齎也。此古文系後人增羼。小徐說。李舟切韵不云亦古文飪。"
+        }
+    ],
+    "indexes": [
+        "饪",
+        "飪",
+        "䏕",
+        "𦜙"
+    ]
+}

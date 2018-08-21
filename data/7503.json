@@ -1,0 +1,31 @@
+{
+    "id": 7503,
+    "wordhead": "霂",
+    "explanation": "霢霂也。从雨沐聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "莫卜切",
+    "variants": [],
+    "seal_character": "漢",
+    "pinyin": "mu",
+    "pinyin_full": "mù",
+    "components": [
+        "雨",
+        "沐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "霢霂也。",
+            "note": "此雙聲字。"
+        },
+        {
+            "explanation": "从雨。沐聲。",
+            "note": "莫卜切。三部。"
+        }
+    ],
+    "indexes": [
+        "霂"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1101,
+    "wordhead": "隨",
+    "explanation": "从也。从辵，𡐦省聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "旬爲切",
+    "variants": [],
+    "seal_character": "勅",
+    "pinyin": "sui",
+    "pinyin_full": "suí",
+    "components": [
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "从也。",
+            "note": "行可委曲從迹謂之委隨。"
+        },
+        {
+            "explanation": "从辵。隋聲。",
+            "note": "旬爲切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "随",
+        "隨"
+    ]
+}

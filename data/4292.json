@@ -1,0 +1,31 @@
+{
+    "id": 4292,
+    "wordhead": "朔",
+    "explanation": "月一日始蘇也。从月屰聲。",
+    "volume": "07",
+    "radical": "月",
+    "pronunciation": "所角切",
+    "variants": [],
+    "seal_character": "愬",
+    "pinyin": "shuo",
+    "pinyin_full": "shuò",
+    "components": [
+        "屰",
+        "月"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "月一日始蘇也。",
+            "note": "朔蘇㬪韵。日部曰。晦者、月盡也。盡而蘇矣。樂記注曰。更息曰蘇。息、止也。生也。止而生矣。引伸爲凡始之偁。北方曰朔方。亦始之義也。朔方始萬物者也。"
+        },
+        {
+            "explanation": "从月。屰聲。",
+            "note": "所角切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "朔"
+    ]
+}

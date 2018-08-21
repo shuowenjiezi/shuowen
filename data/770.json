@@ -1,0 +1,35 @@
+{
+    "id": 770,
+    "wordhead": "物",
+    "explanation": "萬物也。牛爲大物；天地之𢿙，起於牽牛，故从牛。勿聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "文弗切",
+    "variants": [],
+    "seal_character": "兗",
+    "pinyin": "wu",
+    "pinyin_full": "wù",
+    "components": [
+        "勿",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "萬物也。牛爲大物。",
+            "note": "牛爲物之大者。故物从牛。與半同意。"
+        },
+        {
+            "explanation": "天地之數起於牽牛。",
+            "note": "戴先生原象曰。周人以𣁬、牽牛爲紀首。命曰星紀。自周而上。日月之行不起於𣁬、牽牛也。按許說物从牛之故。又廣其義如此。"
+        },
+        {
+            "explanation": "故从牛。勿聲。",
+            "note": "文弗切。十五部。"
+        }
+    ],
+    "indexes": [
+        "物"
+    ]
+}

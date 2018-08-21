@@ -1,0 +1,44 @@
+{
+    "id": 1170,
+    "wordhead": "逭",
+    "explanation": "逃也。从辵官聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "胡玩切",
+    "variants": [
+        {
+            "wordhead": "𩁧",
+            "explanation": "逭或从雚从兆<span>[<span>𡉵</span>]</span>。",
+            "seal_character": "匛"
+        }
+    ],
+    "seal_character": "匚",
+    "pinyin": "huan",
+    "pinyin_full": "huàn",
+    "components": [
+        "兆",
+        "雚",
+        "官",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "逃也。",
+            "note": "緇衣此大甲曰。天作孽可違也。自作孽不可以䠉。䠉本又作逭。鄭注。逭逃也。亦見釋言。"
+        },
+        {
+            "explanation": "从辵。官聲。",
+            "note": "胡玩切。十四部。"
+        },
+        {
+            "explanation": "逭或从雚。从兆。",
+            "note": "从兆者、从逃省也。从雚者、雚聲也。"
+        }
+    ],
+    "indexes": [
+        "逭",
+        "𩁧"
+    ]
+}

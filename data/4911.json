@@ -1,0 +1,43 @@
+{
+    "id": 4911,
+    "wordhead": "皤",
+    "explanation": "老人白也。从白番聲。《易》曰：“賁如皤如。”",
+    "volume": "07",
+    "radical": "白",
+    "pronunciation": "薄波切",
+    "variants": [
+        {
+            "wordhead": "𩕏",
+            "explanation": "皤或从頁<span>[<span>𩑋</span>]</span>。",
+            "seal_character": "揻"
+        }
+    ],
+    "seal_character": "揺",
+    "pinyin": "po",
+    "pinyin_full": "pó",
+    "components": [
+        "番",
+        "白",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "老人白也。",
+            "note": "易釋文、文𨕖兩都賦注皆作老人皃。非是。老人之色白與少壯之白晳不同。故以次於晳。兩都賦曰。皤皤國老。周易。賁六四。賁如皤如。引伸爲凡白素之偁也。"
+        },
+        {
+            "explanation": "从白。番聲。",
+            "note": "薄波切。古音在十四部。白蒿曰？。是其理也。"
+        },
+        {
+            "explanation": "皤或从頁。",
+            "note": "然則白髮亦偁皤。"
+        }
+    ],
+    "indexes": [
+        "皤",
+        "𩕏"
+    ]
+}

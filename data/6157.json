@@ -1,0 +1,45 @@
+{
+    "id": 6157,
+    "wordhead": "駕",
+    "explanation": "馬在軛中。从馬加聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "古訝切",
+    "variants": [
+        {
+            "wordhead": "𤙑",
+            "explanation": "籒文駕。",
+            "seal_character": "楝"
+        }
+    ],
+    "seal_character": "楜",
+    "pinyin": "jia",
+    "pinyin_full": "jià",
+    "components": [
+        "馬",
+        "加",
+        "各",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬在軛中也。",
+            "note": "毛傳曰。軛、烏噣也。烏噣卽釋名之烏啄。轅有衡。衡、橫也。橫馬頸上。其扼馬頸者曰烏啄。下向叉馬頸。似烏開口向下啄物時也。駕之言以車加於馬也。"
+        },
+        {
+            "explanation": "从馬。加聲。",
+            "note": "古訝切。十七部。"
+        },
+        {
+            "explanation": "籒文駕。",
+            "note": "从牛。釋名曰。軛所以扼牛頸也。各聲者、古音五部與十七部相合。如春秋傳以輅爲訝。是其理也。"
+        }
+    ],
+    "indexes": [
+        "驾",
+        "駕",
+        "𤙑"
+    ]
+}

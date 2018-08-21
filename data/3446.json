@@ -1,0 +1,34 @@
+{
+    "id": 3446,
+    "wordhead": "梓",
+    "explanation": "楸也。从木，宰省聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "卽里切",
+    "variants": [
+        {
+            "wordhead": "榟",
+            "explanation": "或不省。",
+            "seal_character": "嶙"
+        }
+    ],
+    "seal_character": "嶘",
+    "pinyin": "zi",
+    "pinyin_full": "zǐ",
+    "components": [
+        "木",
+        "宰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "楸也。從木。宰省聲。",
+            "note": "卽裏切。一部。按許知宰省聲而非辛聲者、於或字知之也。或字、葢古文遺與。"
+        }
+    ],
+    "indexes": [
+        "梓",
+        "榟"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 7737,
+    "wordhead": "閹",
+    "explanation": "豎也。宮中奄閽閉門者。从門奄聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "英廉切",
+    "variants": [],
+    "seal_character": "瀦",
+    "pinyin": "yan",
+    "pinyin_full": "yān",
+    "components": [
+        "門",
+        "奄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "門豎也。",
+            "note": "門字今依御覽補。豎猶孺也。周禮注曰。豎、未冠者之官名。凡文王世子之內豎、左傳之使牛爲豎皆是。司門則曰門豎。故从門。"
+        },
+        {
+            "explanation": "宮中奄昏閉門者。",
+            "note": "昏各本作閽。今正。周禮注曰。奄、精氣閉藏者。今謂之宦人。他豎不必奄人。此豎則奄人也。故从奄。一說當依小徐作閹閽閉門者。一說當作宮中掩門者。"
+        },
+        {
+            "explanation": "从門。奄聲。",
+            "note": "此當言从門奄。奄亦聲。英廉切。八部。"
+        }
+    ],
+    "indexes": [
+        "阉",
+        "閹"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 406,
+    "wordhead": "薟",
+    "explanation": "白薟也。从艸僉聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "良冉切",
+    "variants": [
+        {
+            "wordhead": "蘞",
+            "explanation": "薟或从斂。",
+            "seal_character": "俎"
+        }
+    ],
+    "seal_character": "俍",
+    "pinyin": "lian",
+    "pinyin_full": "liǎn",
+    "components": [
+        "艸",
+        "僉",
+        "斂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "白薟也。",
+            "note": "本艸經作白斂。"
+        },
+        {
+            "explanation": "从艸。僉聲。",
+            "note": "良冄切。七部。"
+        },
+        {
+            "explanation": "薟或从斂。",
+            "note": "唐風。蘞蔓于野。陸璣云。似栝樓。葉盛而細。其子正黑。如燕薁。不可食。陸疏廣要曰。本艸蘞有赤白黑三種。疑此是黑蘞也。"
+        }
+    ],
+    "indexes": [
+        "莶",
+        "薟",
+        "蘞"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1615,
+    "wordhead": "䜌",
+    "explanation": "亂也。一曰治也。一曰不絕也。从言、絲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "呂員切",
+    "variants": [
+        {
+            "wordhead": "𤔪",
+            "explanation": "古文䜌。",
+            "seal_character": "唍"
+        }
+    ],
+    "seal_character": "唌",
+    "pinyin": "luan",
+    "pinyin_full": "luán",
+    "components": [
+        "又",
+        "言",
+        "絲",
+        "爪"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亂也。一曰治也。",
+            "note": "與爪部𤔔、乙部亂音義皆同。"
+        },
+        {
+            "explanation": "一曰不絶也。",
+            "note": "别一義"
+        },
+        {
+            "explanation": "从言絲。",
+            "note": "治絲易棼。絲亦不絶。故从絲會意。呂員切。十四部。宋景公之名、左傳作欒。古今人表作兜欒。宋世家作頭曼。趙宋袐閣有宋公䜌餗鼎。與竹書宋景公䜌合。"
+        }
+    ],
+    "indexes": [
+        "䜌",
+        "𤔪"
+    ]
+}

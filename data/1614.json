@@ -1,0 +1,46 @@
+{
+    "id": 1614,
+    "wordhead": "誖",
+    "explanation": "亂也。从言孛聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "蒲沒切",
+    "variants": [
+        {
+            "wordhead": "悖",
+            "explanation": "誖或从心。",
+            "seal_character": "唊"
+        },
+        {
+            "wordhead": "𢨋",
+            "explanation": "籒文誖从二或。",
+            "seal_character": "唋"
+        }
+    ],
+    "seal_character": "唉",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "言",
+        "心",
+        "孛",
+        "或"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亂也。从言。孛聲。",
+            "note": "蒲没切。十五部。"
+        },
+        {
+            "explanation": "籒文誖。从二或。",
+            "note": "㒳國相違。舉戈相向。亂之意也。角部觱以爲聲。"
+        }
+    ],
+    "indexes": [
+        "誖",
+        "悖",
+        "𢨋"
+    ]
+}

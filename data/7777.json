@@ -1,0 +1,31 @@
+{
+    "id": 7777,
+    "wordhead": "聉",
+    "explanation": "無知意也。从耳出聲。讀若孽。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "五滑切",
+    "variants": [],
+    "seal_character": "灒",
+    "pinyin": "wa",
+    "pinyin_full": "wà",
+    "components": [
+        "出",
+        "耳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "無知意也。",
+            "note": "此意內言外之意。無知者其意、聉者其䛐也。方言曰。聾之甚、秦晉之閒謂之𦘍。注曰。言聉無所聞知也。疑方言之正文本作謂之聉。今本譌。"
+        },
+        {
+            "explanation": "从耳。出聲。讀若孼。",
+            "note": "五滑切。十五部。"
+        }
+    ],
+    "indexes": [
+        "聉"
+    ]
+}

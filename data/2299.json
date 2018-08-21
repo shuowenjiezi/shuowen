@@ -1,0 +1,35 @@
+{
+    "id": 2299,
+    "wordhead": "䨄",
+    "explanation": "𩁛屬。从隹酓聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "恩含切",
+    "variants": [
+        {
+            "wordhead": "䳺",
+            "explanation": "籒文䨄从鳥。",
+            "seal_character": "塄"
+        }
+    ],
+    "seal_character": "塃",
+    "pinyin": "an",
+    "pinyin_full": "ān",
+    "components": [
+        "隹",
+        "鳥",
+        "酓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𨿡屬也。从隹。酓聲。",
+            "note": "恩含切。七部。太平御覽引有一曰牟母四字。"
+        }
+    ],
+    "indexes": [
+        "䨄",
+        "䳺"
+    ]
+}

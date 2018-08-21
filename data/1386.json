@@ -1,0 +1,31 @@
+{
+    "id": 1386,
+    "wordhead": "蹲",
+    "explanation": "踞也。从足尊聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "徂尊切",
+    "variants": [],
+    "seal_character": "吊",
+    "pinyin": "dun",
+    "pinyin_full": "dūn",
+    "components": [
+        "尊",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "居也。",
+            "note": "尸部曰。居、蹲也。是爲轉注。各本作踞也。以俗改正。又增一踞篆於蹲後。今正而刪之。左傳。蹲甲而射之。蹲、居也。引伸爲居積之義。"
+        },
+        {
+            "explanation": "从足。尊聲。",
+            "note": "徂尊切。十三部。山海經作踆。"
+        }
+    ],
+    "indexes": [
+        "蹲"
+    ]
+}

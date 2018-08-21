@@ -1,0 +1,51 @@
+{
+    "id": 7248,
+    "wordhead": "泝",
+    "explanation": "逆流而上曰㴑洄。㴑，向也。水欲下違之而上也。从水㡿聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "桑故切",
+    "variants": [
+        {
+            "wordhead": "遡",
+            "explanation": "㴑或从朔。",
+            "seal_character": "淾"
+        }
+    ],
+    "seal_character": "淽",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "水",
+        "厈",
+        "朔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "逆流而上曰㴑洄。",
+            "note": "秦風傳曰。逆流而上曰遡洄。順流而涉曰遡游。釋水同。涉作下。"
+        },
+        {
+            "explanation": "㴑向也。",
+            "note": "向當作鄉。淺人所改也。漢人書向背字皆作鄉。不作向。中庸素隱注曰。素讀爲攻城攻其所傃之傃。傃猶鄉也。按遡者、從其朔。傃者、從其素。故字从朔、从素。"
+        },
+        {
+            "explanation": "水欲下、違之而上也。",
+            "note": "此釋洄字之義。洄違曡韵。"
+        },
+        {
+            "explanation": "从水。㡿聲。",
+            "note": "桑故切。五部。"
+        },
+        {
+            "explanation": "㴑或从辵朔。",
+            "note": "朔亦聲也。"
+        }
+    ],
+    "indexes": [
+        "泝",
+        "遡"
+    ]
+}

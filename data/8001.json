@@ -1,0 +1,31 @@
+{
+    "id": 8001,
+    "wordhead": "抈",
+    "explanation": "折也。从手月聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "魚厥切",
+    "variants": [],
+    "seal_character": "煅",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "手",
+        "月"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㪿也。",
+            "note": "晉語。其爲本也固矣。故不可抈也。韋云。抈、動也。按依韋注、是謂此抈爲扤之叚借字也。其本義則訓折。舊音云抈音月。又五？反。"
+        },
+        {
+            "explanation": "从手。月聲。",
+            "note": "魚厥切。十五部。"
+        }
+    ],
+    "indexes": [
+        "抈"
+    ]
+}

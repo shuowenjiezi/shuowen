@@ -1,0 +1,35 @@
+{
+    "id": 4802,
+    "wordhead": "罛",
+    "explanation": "魚罟也。从网瓜聲。《詩》曰：“施罛濊濊。”",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "古胡切",
+    "variants": [],
+    "seal_character": "捻",
+    "pinyin": "gu",
+    "pinyin_full": "ɡū",
+    "components": [
+        "瓜",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魚罟也。",
+            "note": "衛風碩人曰。施罟濊濊。釋器、毛傳皆曰。罛、魚罟。"
+        },
+        {
+            "explanation": "从网。瓜聲。",
+            "note": "古胡切。五部。"
+        },
+        {
+            "explanation": "詩曰。施罛濊濊。",
+            "note": "按此可以正今本水部𤃴𤃴、大部𤂾𤂾之譌。"
+        }
+    ],
+    "indexes": [
+        "罛"
+    ]
+}

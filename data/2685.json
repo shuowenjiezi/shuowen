@@ -1,0 +1,35 @@
+{
+    "id": 2685,
+    "wordhead": "䐹",
+    "explanation": "乾魚尾䐹䐹也。从肉肅聲。《周禮》有“腒䐹”。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "所鳩切",
+    "variants": [],
+    "seal_character": "娆",
+    "pinyin": "sou",
+    "pinyin_full": "sōu",
+    "components": [
+        "肉",
+        "肅"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "乾魚尾肅肅也。",
+            "note": "肅肅各本作䐹䐹。今正。肅肅、乾皃。今俗尚有乾肅肅之語。風俗通說夏馬掉尾肅肅。古言也。庖人、内則注曰。鱐、乾魚。籩人注曰。鱐者、析乾之。出東海。"
+        },
+        {
+            "explanation": "从肉。肅聲。",
+            "note": "所鳩切。三部。"
+        },
+        {
+            "explanation": "周禮有腒䐹。",
+            "note": "今周禮庖人作腒鱐。"
+        }
+    ],
+    "indexes": [
+        "䐹"
+    ]
+}

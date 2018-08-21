@@ -1,0 +1,40 @@
+{
+    "id": 3338,
+    "wordhead": "麩",
+    "explanation": "小麥㞕皮也。从麥夫聲。",
+    "volume": "05",
+    "radical": "麥",
+    "pronunciation": "甫無切",
+    "variants": [
+        {
+            "wordhead": "麱",
+            "explanation": "麩或从甫。",
+            "seal_character": "崜"
+        }
+    ],
+    "seal_character": "崛",
+    "pinyin": "fu",
+    "pinyin_full": "fū",
+    "components": [
+        "甫",
+        "夫",
+        "麥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小麥㞕皮也。",
+            "note": "麩之言膚也。㞕小麥則其皮可飤嘼。大麥之皮不可食用。故無名。"
+        },
+        {
+            "explanation": "从麥。夫聲。",
+            "note": "甫無切。五部。"
+        }
+    ],
+    "indexes": [
+        "麸",
+        "麩",
+        "麱"
+    ]
+}

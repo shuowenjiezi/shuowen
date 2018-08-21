@@ -1,0 +1,43 @@
+{
+    "id": 7352,
+    "wordhead": "𤖅",
+    "explanation": "酢𤖅也。从水，將省聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "卽良切",
+    "variants": [
+        {
+            "wordhead": "𤕯",
+            "explanation": "古文𤖅省。",
+            "seal_character": "湯"
+        }
+    ],
+    "seal_character": "湮",
+    "pinyin": "jiang",
+    "pinyin_full": "jiānɡ",
+    "components": [
+        "爿",
+        "水",
+        "將"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酢𤖅也。",
+            "note": "周禮酒正四飲。漿人掌共王之六飲。皆有漿。注云。漿、今之酨漿也。內則注云。漿、酢酨也。按酉部云。酨、酢漿也。則漿酨二字互訓。"
+        },
+        {
+            "explanation": "从水。將省聲。",
+            "note": "卽良切。十部。"
+        },
+        {
+            "explanation": "古文漿。",
+            "note": "从爿聲也。"
+        }
+    ],
+    "indexes": [
+        "𤖅",
+        "𤕯"
+    ]
+}

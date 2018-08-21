@@ -1,0 +1,44 @@
+{
+    "id": 3987,
+    "wordhead": "邦",
+    "explanation": "國也。从邑丰聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "博江切",
+    "variants": [
+        {
+            "wordhead": "𤰫",
+            "explanation": "古文。",
+            "seal_character": "忦"
+        }
+    ],
+    "seal_character": "忥",
+    "pinyin": "bang",
+    "pinyin_full": "bānɡ",
+    "components": [
+        "丰",
+        "田",
+        "丯",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "國也。",
+            "note": "周禮注曰。大曰邦、小曰國。析言之也。許云。邦、國也。國、邦也。統言之也。周禮注又云。邦之所居亦曰國。此謂統言則封竟之內曰國曰邑。析言則國野對偁。周禮體國經野是也。古者城？所在曰國、曰邑。而不曰邦。邦之言封也。古邦封通用。書序云。邦康叔。邦諸矦。論語云。在邦域之中。皆封字也。周禮故書。乃分地邦而辨其守地。邦謂土畍。杜子春改邦爲域。非也。"
+        },
+        {
+            "explanation": "从邑。丰聲。",
+            "note": "博江切。九部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "從㞢田。之適也。所謂往卽乃封。古文封字亦從之土。"
+        }
+    ],
+    "indexes": [
+        "邦",
+        "𤰫"
+    ]
+}

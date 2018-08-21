@@ -1,0 +1,43 @@
+{
+    "id": 877,
+    "wordhead": "唐",
+    "explanation": "大言也。从口庚聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "徒郎切",
+    "variants": [
+        {
+            "wordhead": "啺",
+            "explanation": "古文唐从口<span>[<span>𠙵</span>]</span>、昜。",
+            "seal_character": "凐"
+        }
+    ],
+    "seal_character": "减",
+    "pinyin": "tang",
+    "pinyin_full": "tánɡ",
+    "components": [
+        "口",
+        "昜",
+        "庚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大言也。",
+            "note": "引伸爲大也。如說尙書者云。唐之爲言蕩蕩也。見論衡。又爲空也。如梵書云。福不唐捐。凡陂塘字古皆作唐。取虚而多受之意。𨸏部曰。隄、唐也。"
+        },
+        {
+            "explanation": "从口。庚聲。",
+            "note": "徒郎切。十部。"
+        },
+        {
+            "explanation": "古文唐。从口昜。",
+            "note": "亦形聲。"
+        }
+    ],
+    "indexes": [
+        "唐",
+        "啺"
+    ]
+}

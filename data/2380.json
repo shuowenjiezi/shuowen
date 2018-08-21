@@ -1,0 +1,31 @@
+{
+    "id": 2380,
+    "wordhead": "鴂",
+    "explanation": "寕鴂也。从鳥夬聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "古穴切",
+    "variants": [],
+    "seal_character": "墢",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "夬",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寧鴂也。",
+            "note": "小正、孟子借鴂爲鶪。離騷。恐鵜鴂之先鳴。楊雄作鷤䳏。或釋爲子規。或釋爲伯勞。未得其審。而廣韵乃合鸋鴂、鶗鴂爲一物。凡物名因一字相同而溷誤之類如此。"
+        },
+        {
+            "explanation": "从鳥。夬聲。",
+            "note": "古穴切。十五部。"
+        }
+    ],
+    "indexes": [
+        "鴂"
+    ]
+}

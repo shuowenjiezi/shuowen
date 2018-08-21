@@ -1,0 +1,31 @@
+{
+    "id": 911,
+    "wordhead": "唇",
+    "explanation": "驚也。从口辰聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "側鄰切",
+    "variants": [],
+    "seal_character": "凲",
+    "pinyin": "zhen",
+    "pinyin_full": "zhēn",
+    "components": [
+        "口",
+        "辰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驚也。",
+            "note": "後人以震字爲之。"
+        },
+        {
+            "explanation": "从口。辰聲。",
+            "note": "側鄰切。十三部。"
+        }
+    ],
+    "indexes": [
+        "唇"
+    ]
+}

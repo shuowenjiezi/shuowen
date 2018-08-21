@@ -1,0 +1,40 @@
+{
+    "id": 1281,
+    "wordhead": "齜",
+    "explanation": "齒相齗也。一曰開口見齒之皃。从齒，柴省聲。讀若柴。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "仕街切",
+    "variants": [],
+    "seal_character": "厜",
+    "pinyin": "chai",
+    "pinyin_full": "chái",
+    "components": [
+        "齒",
+        "柴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齒相齘也。",
+            "note": "齘各本誤齗。李本不誤。廣韵。？？、齒不正。上士佳、下五佳切。玉篇曰。？亦作？。"
+        },
+        {
+            "explanation": "一曰開口見齒之皃。",
+            "note": "管子曰。東郭有狗啀啀。旦莫欲齧我椵。啀啀、露齒之皃。"
+        },
+        {
+            "explanation": "从齒。此聲。",
+            "note": "各本作柴省聲。淺人改也。"
+        },
+        {
+            "explanation": "讀若柴。",
+            "note": "仕街切。十六部。"
+        }
+    ],
+    "indexes": [
+        "龇",
+        "齜"
+    ]
+}

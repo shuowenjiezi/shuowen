@@ -1,0 +1,35 @@
+{
+    "id": 5835,
+    "wordhead": "屺",
+    "explanation": "山無草木也。从山己聲。《詩》曰：“陟彼屺兮。”",
+    "volume": "09",
+    "radical": "山",
+    "pronunciation": "墟里切",
+    "variants": [],
+    "seal_character": "柷",
+    "pinyin": "qi",
+    "pinyin_full": "qǐ",
+    "components": [
+        "已",
+        "山"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山無艸木也。",
+            "note": "無當作有。"
+        },
+        {
+            "explanation": "从山。己聲。",
+            "note": "墟里切。一部。釋山作峐。三蒼、字林、聲類並云。峐卽屺字。音起。"
+        },
+        {
+            "explanation": "詩曰。陟彼屺兮。",
+            "note": "魏風陟岵。"
+        }
+    ],
+    "indexes": [
+        "屺"
+    ]
+}

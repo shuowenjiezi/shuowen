@@ -1,0 +1,32 @@
+{
+    "id": 67,
+    "wordhead": "禍",
+    "explanation": "害也，神不福也。从示咼聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "胡果切",
+    "variants": [],
+    "seal_character": "乕",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "示",
+        "咼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "害也。",
+            "note": "禍害雙聲。"
+        },
+        {
+            "explanation": "神不福也。从示。咼聲。",
+            "note": "胡果切。十七部。"
+        }
+    ],
+    "indexes": [
+        "祸",
+        "禍"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 7568,
+    "wordhead": "鰱",
+    "explanation": "魚名。从魚連聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "力延切",
+    "variants": [],
+    "seal_character": "潭",
+    "pinyin": "lian",
+    "pinyin_full": "lián",
+    "components": [
+        "連",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鰱魚也。",
+            "note": "按許列字亦二篆相比近。而不言爲一。"
+        },
+        {
+            "explanation": "从魚。連聲。",
+            "note": "力延切。十四部。"
+        }
+    ],
+    "indexes": [
+        "鲢",
+        "鰱"
+    ]
+}

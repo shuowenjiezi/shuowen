@@ -1,0 +1,35 @@
+{
+    "id": 4727,
+    "wordhead": "痁",
+    "explanation": "有熱瘧。从疒占聲。《春秋傳》曰：“齊侯疥，遂痁。”",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "失廉切",
+    "variants": [],
+    "seal_character": "挣",
+    "pinyin": "shan",
+    "pinyin_full": "shān",
+    "components": [
+        "占",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "有𤍽瘧。",
+            "note": "有𤍠無寒之瘧也。"
+        },
+        {
+            "explanation": "从𤕫。占聲。",
+            "note": "失廉切。七部。"
+        },
+        {
+            "explanation": "春秋傳曰。齊矦疥。遂痁。",
+            "note": "左傳昭二十年文。按梁元帝及袁狎、顔之推欲改疥爲痎。所謂無事而自擾也。陸氏德明旣辨之矣。"
+        }
+    ],
+    "indexes": [
+        "痁"
+    ]
+}

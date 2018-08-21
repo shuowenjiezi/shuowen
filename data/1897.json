@@ -1,0 +1,54 @@
+{
+    "id": 1897,
+    "wordhead": "厷",
+    "explanation": "臂上也。从又，从古文。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "古薨切",
+    "variants": [
+        {
+            "wordhead": "𠃋",
+            "explanation": "古文厷，象形。",
+            "seal_character": "器"
+        },
+        {
+            "wordhead": "肱",
+            "explanation": "厷或从肉。",
+            "seal_character": "噩"
+        }
+    ],
+    "seal_character": "噧",
+    "pinyin": "gong",
+    "pinyin_full": "ɡōnɡ",
+    "components": [
+        "又",
+        "肉",
+        "厶",
+        "厷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臂上也。",
+            "note": "臂、手上也。古假弓爲厷。二字古音同也。傳易者江東馯臂子弓。馯姓、臂名、子弓字。名臂故字厷。左、穀梁邾黑肱。公羊作黑弓。鄭公孫黑肱字伯張。則肱卽弓也。"
+        },
+        {
+            "explanation": "从又。从古文厷。",
+            "note": "小篆以厶太古。故加又。古薨切。六部。"
+        },
+        {
+            "explanation": "古文厷。象形。",
+            "note": "象曲肱。"
+        },
+        {
+            "explanation": "左或从肉。",
+            "note": "今皆作此。"
+        }
+    ],
+    "indexes": [
+        "厷",
+        "𠃋",
+        "肱"
+    ]
+}

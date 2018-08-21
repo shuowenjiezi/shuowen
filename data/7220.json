@@ -1,0 +1,31 @@
+{
+    "id": 7220,
+    "wordhead": "沼",
+    "explanation": "池水。从水召聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "之少切",
+    "variants": [],
+    "seal_character": "淞",
+    "pinyin": "zhao",
+    "pinyin_full": "zhǎo",
+    "components": [
+        "水",
+        "召"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "池也。",
+            "note": "召南傳曰。沼、池也。張揖廣雅同。按衆經音義兩引作小池也。"
+        },
+        {
+            "explanation": "从水。召聲。",
+            "note": "之少切。二部。按召之言招也。招外水豬之。"
+        }
+    ],
+    "indexes": [
+        "沼"
+    ]
+}

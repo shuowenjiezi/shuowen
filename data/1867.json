@@ -1,0 +1,42 @@
+{
+    "id": 1867,
+    "wordhead": "𩱓",
+    "explanation": "粉餅也。从𩰲耳聲。",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "仍吏切",
+    "variants": [
+        {
+            "wordhead": "餌",
+            "explanation": "𩱓或从食<span>[<span>𠊊</span>]</span>耳聲。",
+            "seal_character": "噅"
+        }
+    ],
+    "seal_character": "噄",
+    "pinyin": "er",
+    "pinyin_full": "ěr",
+    "components": [
+        "耳",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "粉餠也。",
+            "note": "周禮。糗餌粉餈。食部曰。餈、稻餠也。此曰𩱓粉餠也。葢謂餈者、不粉之稻米爲餠。餌者稻米粉之爲餠。文互相足。經云糗餌者、謂以熬米麥傅於餌。粉餈者、謂以他穀粉傅於餈。此許意與先、後鄭說異。小徐云。許說冣精。又內則注。餌筋腱也。又莊子。以五十犗爲餌。餌、釣㗖魚者。"
+        },
+        {
+            "explanation": "从䰜。耳聲。",
+            "note": "仍吏切。一部。"
+        },
+        {
+            "explanation": "𩱓或从食耳。",
+            "note": "耳聲。"
+        }
+    ],
+    "indexes": [
+        "𩱓",
+        "餌"
+    ]
+}

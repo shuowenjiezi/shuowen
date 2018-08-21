@@ -1,0 +1,58 @@
+{
+    "id": 3202,
+    "wordhead": "饎",
+    "explanation": "酒食也。从食喜聲。《詩》曰：“可以饙饎。”",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "昌志切",
+    "variants": [
+        {
+            "wordhead": "𩜮",
+            "explanation": "饎或从巸。",
+            "seal_character": "屮"
+        },
+        {
+            "wordhead": "糦",
+            "explanation": "饎或从米。",
+            "seal_character": "屯"
+        }
+    ],
+    "seal_character": "屭",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "喜",
+        "米",
+        "食",
+        "巸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酒食也。",
+            "note": "大雅泂酌傳曰。饎、酒食也。七月、大田箋同。按酒食者、可喜之物也。故其字从食喜。商頌。大糦是承。傳曰。糦、黍稷也。周禮饎人。大鄭注云。饎人、主炊官也。特牲饋食禮注曰。炊黍稷曰饎。皆依文爲訓。由黍稷而炊之。爲酒爲食。其事相貫。饎本酒食之偁。因之名炊曰饎。因之名黍稷曰饎。引伸之義也。方言。糦、孰食也。氣孰曰糦。據毛詩箋則古文以喜爲饎。"
+        },
+        {
+            "explanation": "从𠊊。喜聲。",
+            "note": "昌志切。一部。"
+        },
+        {
+            "explanation": "詩曰。可㠯饙饎。",
+            "note": "大雅文。謂行潦之水可用於酒食之饙。"
+        },
+        {
+            "explanation": "饎或从巸。",
+            "note": "巸聲也。周禮注曰。故書饎作𩟄。葢轉寫多灬。"
+        },
+        {
+            "explanation": "饎或从米。",
+            "note": "商頌字如此作。特牲注曰。古文饎作糦。"
+        }
+    ],
+    "indexes": [
+        "饎",
+        "𩜮",
+        "糦"
+    ]
+}

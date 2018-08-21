@@ -1,0 +1,39 @@
+{
+    "id": 200,
+    "wordhead": "珊",
+    "explanation": "珊瑚，色赤，生於海，或生於山。从玉，刪省聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "穌干切",
+    "variants": [],
+    "seal_character": "们",
+    "pinyin": "shan",
+    "pinyin_full": "shān",
+    "components": [
+        "玉",
+        "刪"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "珊瑚、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "色赤。生於海。",
+            "note": "廣韻引。生海中而色赤也。"
+        },
+        {
+            "explanation": "或生於山。",
+            "note": "廣雅珊瑚爲珠類。故次於此。上林賦注曰。珊瑚生水底石邊。大者樹高三尺餘。枝格交錯。無有葉。石部曰。上摘山巖空靑珊瑚陊之。珊瑚有靑色者。或云。赤爲珊瑚。靑爲琅玕。"
+        },
+        {
+            "explanation": "从王。𠜂省聲。",
+            "note": "穌干切。十四部。"
+        }
+    ],
+    "indexes": [
+        "珊"
+    ]
+}

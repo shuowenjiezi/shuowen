@@ -1,0 +1,43 @@
+{
+    "id": 6276,
+    "wordhead": "猲",
+    "explanation": "短喙犬也。从犬曷聲。《詩》曰：“載獫猲獢。”《爾雅》曰：“短喙犬謂之猲獢。”",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "許謁切",
+    "variants": [],
+    "seal_character": "槡",
+    "pinyin": "xie",
+    "pinyin_full": "xiē",
+    "components": [
+        "曷",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "猲獢、",
+            "note": "各本奪此二字。今依全書通例補。雙聲字也。"
+        },
+        {
+            "explanation": "短喙犬也。",
+            "note": "見釋嘼、毛詩傳。"
+        },
+        {
+            "explanation": "从犬。曷聲。",
+            "note": "許謁切。十五部。毛詩作歇。爾雅又作？。今爾雅釋文作獥。乃轉寫譌字也。詩釋文曰。說文音火遏反。"
+        },
+        {
+            "explanation": "詩曰。載獫猲獢。",
+            "note": "秦風四驖文。"
+        },
+        {
+            "explanation": "爾雅曰。短喙犬謂之猲獢。",
+            "note": "釋嘼文。此引詩、又引爾雅。可以證不？不來也、騋牝驪牝也二條皆有譌奪。"
+        }
+    ],
+    "indexes": [
+        "猲"
+    ]
+}

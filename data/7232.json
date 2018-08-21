@@ -1,0 +1,39 @@
+{
+    "id": 7232,
+    "wordhead": "澩",
+    "explanation": "夏有水，冬無水，曰澩。从水，學省聲。讀若學。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "胡角切",
+    "variants": [
+        {
+            "wordhead": "㶅",
+            "explanation": "澩或不省。",
+            "seal_character": "淫"
+        }
+    ],
+    "seal_character": "淪",
+    "pinyin": "xue",
+    "pinyin_full": "xué",
+    "components": [
+        "水",
+        "學"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "夏有水、冬無水曰澩。",
+            "note": "釋山曰。山上有水埒。夏有水、冬無水澩。謂山上夏有停潦、冬則乾也。"
+        },
+        {
+            "explanation": "从水。學省聲。讀若學。",
+            "note": "胡角切。三部。"
+        }
+    ],
+    "indexes": [
+        "泶",
+        "澩",
+        "㶅"
+    ]
+}

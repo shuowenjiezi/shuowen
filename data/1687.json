@@ -1,0 +1,44 @@
+{
+    "id": 1687,
+    "wordhead": "譙",
+    "explanation": "嬈譊也。从言焦聲。讀若嚼。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "才肖切",
+    "variants": [
+        {
+            "wordhead": "誚",
+            "explanation": "古文譙从肖。《周書》曰：“亦未敢誚公”。",
+            "seal_character": "啞"
+        }
+    ],
+    "seal_character": "啝",
+    "pinyin": "qiao",
+    "pinyin_full": "qiào",
+    "components": [
+        "言",
+        "肖",
+        "焦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "嬈譊也。",
+            "note": "嬈、擾戲弄也。譊、恚嘑也。方言。譙、讓也。齊楚宋衞荆陳之閒曰譙。自關而西秦晉之閒凡言相責讓曰譙讓。"
+        },
+        {
+            "explanation": "从言。焦聲。讀若嚼。",
+            "note": "才肖切。二部。"
+        },
+        {
+            "explanation": "古文譙。从肖。周書曰。亦未敢誚公。",
+            "note": "漢人作譙。壁中作誚。實一字也。金縢文。"
+        }
+    ],
+    "indexes": [
+        "谯",
+        "譙",
+        "誚"
+    ]
+}

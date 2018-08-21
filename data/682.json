@@ -1,0 +1,37 @@
+{
+    "id": 682,
+    "wordhead": "萅",
+    "explanation": "推也。从艸从日，艸春時生也；屯聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "昌純切",
+    "variants": [],
+    "seal_character": "僵",
+    "pinyin": "chun",
+    "pinyin_full": "chūn",
+    "components": [
+        "艸",
+        "日",
+        "屯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "推也。",
+            "note": "此於雙聲求之。鄉飮酒義曰。東方者春。春之爲言蠢也。尚書大傳曰。春、出也。萬物之出也。"
+        },
+        {
+            "explanation": "从日艸屯。",
+            "note": "日艸屯者、得時艸生也。屯字象艸木之初生。"
+        },
+        {
+            "explanation": "屯亦聲。",
+            "note": "㑹意兼形聲。此七字依韵㑹。今二徐本皆亂以鍇語。昌純切。十三部。籒文作？。"
+        }
+    ],
+    "indexes": [
+        "萅",
+        "春"
+    ]
+}

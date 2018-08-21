@@ -1,0 +1,31 @@
+{
+    "id": 3023,
+    "wordhead": "甛",
+    "explanation": "美也。从甘从舌。舌，知甘者。",
+    "volume": "05",
+    "radical": "甘",
+    "pronunciation": "徒兼切",
+    "variants": [],
+    "seal_character": "宐",
+    "pinyin": "tian",
+    "pinyin_full": "tián",
+    "components": [
+        "甘",
+        "舌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "美也。",
+            "note": "周禮注恬酒。恬卽甛字。"
+        },
+        {
+            "explanation": "从甘舌。舌知甘者。",
+            "note": "說从舌之意。"
+        }
+    ],
+    "indexes": [
+        "甛"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2670,
+    "wordhead": "胵",
+    "explanation": "鳥胃也。从肉至聲。一曰胵，五藏緫名也。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "處脂切",
+    "variants": [],
+    "seal_character": "姵",
+    "pinyin": "chi",
+    "pinyin_full": "chī",
+    "components": [
+        "肉",
+        "至"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥膍胵也。",
+            "note": "依全書通例正。"
+        },
+        {
+            "explanation": "从肉。至聲。",
+            "note": "處脂切。十五部。古音至聲在十二部。"
+        },
+        {
+            "explanation": "一曰胵、五藏緫名也。",
+            "note": "此單呼胵。不連膍。五藏亦謂禽獸。"
+        }
+    ],
+    "indexes": [
+        "胵"
+    ]
+}

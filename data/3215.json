@@ -1,0 +1,31 @@
+{
+    "id": 3215,
+    "wordhead": "饟",
+    "explanation": "周人謂餉曰饟。从食襄聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "人漾切",
+    "variants": [],
+    "seal_character": "岁",
+    "pinyin": "xiang",
+    "pinyin_full": "xiǎnɡ",
+    "components": [
+        "襄",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周人謂餉曰饟。",
+            "note": "周頌曰。其饟伊黍。正周人語也。釋詁曰。饁饟饋也。"
+        },
+        {
+            "explanation": "从𠊊。襄聲。",
+            "note": "人漾切。十部。"
+        }
+    ],
+    "indexes": [
+        "饟"
+    ]
+}

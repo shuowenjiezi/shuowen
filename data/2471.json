@@ -1,0 +1,32 @@
+{
+    "id": 2471,
+    "wordhead": "鳴",
+    "explanation": "鳥聲也。从鳥从口。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "武兵切",
+    "variants": [],
+    "seal_character": "夋",
+    "pinyin": "ming",
+    "pinyin_full": "mínɡ",
+    "components": [
+        "口",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥聲也。",
+            "note": "引伸之凡出聲皆曰鳴。"
+        },
+        {
+            "explanation": "从鳥口。",
+            "note": "武兵切。十一部。"
+        }
+    ],
+    "indexes": [
+        "鸣",
+        "鳴"
+    ]
+}

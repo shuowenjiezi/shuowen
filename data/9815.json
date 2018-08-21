@@ -1,0 +1,43 @@
+{
+    "id": 9815,
+    "wordhead": "醢",
+    "explanation": "肉𨡓也。从酉、𥁓。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "呼改切",
+    "variants": [
+        {
+            "wordhead": "𧅽",
+            "explanation": "籒文。",
+            "seal_character": "祅"
+        }
+    ],
+    "seal_character": "祄",
+    "pinyin": "hai",
+    "pinyin_full": "hǎi",
+    "components": [
+        "艸",
+        "鹵",
+        "酉"
+    ],
+    "xuan_note": "臣鉉等曰：𥁓，甌器也。所以盛醢。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "肉𤖕也。",
+            "note": "周禮醢人。掌？醢。麋臡、鹿臡、麇臡、蠃醢、蠯醢、蚳醢、魚醢、兔醢、鴈醢。凡醢皆肉也。鄭曰。作醢及臡者、必先膊乾其肉。乃復莝之。襍以粱麴及鹽。漬以美酒。塗置甀中。百日則成矣。此？从肉从酉之恉也。許訓？云血醢。訓凡醢曰肉？。就字形別之耳。"
+        },
+        {
+            "explanation": "从酉。𥁓聲。",
+            "note": "大徐作从酉？。？者、䀁之或字。呼改切。一部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "从艸、謂芥？榆？之屬也。从鹵、謂鹽也。从䀁、猶从？聲也。"
+        }
+    ],
+    "indexes": [
+        "醢",
+        "𧅽"
+    ]
+}

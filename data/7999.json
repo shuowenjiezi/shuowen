@@ -1,0 +1,35 @@
+{
+    "id": 7999,
+    "wordhead": "㨖",
+    "explanation": "剌也。从手致聲。一曰剌之財至也。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "陟利切",
+    "variants": [],
+    "seal_character": "煃",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "致",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刺也。",
+            "note": "刺者、直傷也。方言曰。㨖、到也。廣雅曰。㨖、至也。"
+        },
+        {
+            "explanation": "从手。致聲。",
+            "note": "陟利切。十五部。"
+        },
+        {
+            "explanation": "一曰刺之財至也。",
+            "note": "財今纔字。甘泉賦曰。洪臺崛其獨出兮。㨖北極之嶟嶟。"
+        }
+    ],
+    "indexes": [
+        "㨖"
+    ]
+}

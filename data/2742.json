@@ -1,0 +1,35 @@
+{
+    "id": 2742,
+    "wordhead": "初",
+    "explanation": "始也。从刀从衣。裁衣之始也。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "楚居切",
+    "variants": [],
+    "seal_character": "婉",
+    "pinyin": "chu",
+    "pinyin_full": "chū",
+    "components": [
+        "刀",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "始也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从刀衣。",
+            "note": "㑹意。楚居切。五部。"
+        },
+        {
+            "explanation": "裁衣之始也。",
+            "note": "衣部曰。裁、製衣也。製衣以鍼。用刀則爲製之始。引伸爲凡始之偁。此說從刀衣之意。"
+        }
+    ],
+    "indexes": [
+        "初"
+    ]
+}

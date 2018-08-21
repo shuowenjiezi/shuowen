@@ -1,0 +1,43 @@
+{
+    "id": 1198,
+    "wordhead": "逖",
+    "explanation": "遠也。从辵狄聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "他歴切",
+    "variants": [
+        {
+            "wordhead": "逷",
+            "explanation": "古文逖。",
+            "seal_character": "匾"
+        }
+    ],
+    "seal_character": "匽",
+    "pinyin": "ti",
+    "pinyin_full": "tì",
+    "components": [
+        "辵",
+        "狄",
+        "易"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遠也。",
+            "note": "釋詁。逷、遠也。按集韵云。說文引詩舍爾介逖。王伯厚詩攷因之。攷大雅作介狄。毛訓遠也。葢謂狄同逖。言叚借也。用逷蠻方。云逷、遠也。則言轉注也。集韵所據不足信。"
+        },
+        {
+            "explanation": "从辵。狄聲。",
+            "note": "他歷切。十六部。"
+        },
+        {
+            "explanation": "古文逖。",
+            "note": "大雅。用逷蠻方。牧誓。逷矣西土之人。郭樸注爾雅、顏之推觀我生賦、李善文選注引書皆作逷。衞包始改爲逖也。左傳古字後人多妄改。如襄十四年豈敢離逷用古文。僖卄八年糾逖王慝則用小篆。豈非改之不畫一乎。易狄同部。"
+        }
+    ],
+    "indexes": [
+        "逖",
+        "逷"
+    ]
+}

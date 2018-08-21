@@ -1,0 +1,44 @@
+{
+    "id": 8935,
+    "wordhead": "飆",
+    "explanation": "扶搖風也。从風猋聲。",
+    "volume": "13",
+    "radical": "風",
+    "pronunciation": "甫遙切",
+    "variants": [
+        {
+            "wordhead": "颮",
+            "explanation": "飆或从包。",
+            "seal_character": "留"
+        }
+    ],
+    "seal_character": "畘",
+    "pinyin": "biao",
+    "pinyin_full": "biāo",
+    "components": [
+        "包",
+        "風",
+        "猋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "扶搖風也。",
+            "note": "司馬注莊子云。上行風謂之扶搖。釋天曰。扶搖謂之猋。郭云。暴風從下上。按爾雅、月令用古字。陸云。字林作飇。不言說文。此等舉一以包二耳。"
+        },
+        {
+            "explanation": "从風。猋聲。",
+            "note": "甫遙切。古音在三部。"
+        },
+        {
+            "explanation": "古文飆。",
+            "note": "各本作飇或从包。今正。班固西都賦。颮颮紛紛。李善、李賢注皆引颮古飇字。"
+        }
+    ],
+    "indexes": [
+        "飙",
+        "飆",
+        "颮"
+    ]
+}

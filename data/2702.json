@@ -1,0 +1,40 @@
+{
+    "id": 2702,
+    "wordhead": "臇",
+    "explanation": "𦞦也。从肉雋聲。讀若纂。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "子沇切",
+    "variants": [
+        {
+            "wordhead": "㷷",
+            "explanation": "臇或从火巽<span>[<span>巺</span><span>𢌴</span>]</span>。",
+            "seal_character": "娙"
+        }
+    ],
+    "seal_character": "娘",
+    "pinyin": "juan",
+    "pinyin_full": "juǎn",
+    "components": [
+        "肉",
+        "火",
+        "巽",
+        "雋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦞦也。",
+            "note": "李善引蒼頡解詁曰。臇、少汁臛也。曹植七啟曰。臇漢南之鳴鶉。名都篇曰。膾鯉臇胎鰕。"
+        },
+        {
+            "explanation": "从肉。雋聲。讀若纂。",
+            "note": "子沇切。十四部。"
+        }
+    ],
+    "indexes": [
+        "臇",
+        "㷷"
+    ]
+}

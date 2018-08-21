@@ -1,0 +1,31 @@
+{
+    "id": 6741,
+    "wordhead": "恃",
+    "explanation": "賴也。从心寺聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "時止切",
+    "variants": [],
+    "seal_character": "毥",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "心",
+        "寺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "賴也。",
+            "note": "韓詩云。恃、負也。"
+        },
+        {
+            "explanation": "从心。寺聲。",
+            "note": "時止切。一部。"
+        }
+    ],
+    "indexes": [
+        "恃"
+    ]
+}

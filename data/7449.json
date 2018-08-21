@@ -1,0 +1,43 @@
+{
+    "id": 7449,
+    "wordhead": "邕",
+    "explanation": "四方有水，自邕城池者。从川从邑。",
+    "volume": "11",
+    "radical": "川",
+    "pronunciation": "於容切",
+    "variants": [
+        {
+            "wordhead": "𡿷",
+            "explanation": "籒文邕。",
+            "seal_character": "滙"
+        }
+    ],
+    "seal_character": "滘",
+    "pinyin": "yong",
+    "pinyin_full": "yōnɡ",
+    "components": [
+        "川",
+        "邑",
+        "吕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "邑四方有水自邕成池者是也。",
+            "note": "邑各本無。依韵會補。成各本作城。誤。依廣韵、韵會正。自邕當作自𢹬。轉寫之誤。𢹬者、抱也。池沼多由人工所爲。惟邑之四旁有水來自擁抱旋繞成池者、是爲邕。以擁釋邕、以㬪韵爲訓也。故其字从川邑。引申之、凡四面有水皆曰邕。周頌曰。于彼西雝。傳曰。雝、澤也。大雅曰。於樂辟雝。鎬京辟雝。傳曰。水旋丘如璧曰辟雝。水經注釋漁陽郡雍奴曰。四方有水爲雍。不流爲奴。皆邕字之叚借也。"
+        },
+        {
+            "explanation": "从巛邑。",
+            "note": "川圍邑。會意。"
+        },
+        {
+            "explanation": "讀若雝。",
+            "note": "於容切。九部。"
+        }
+    ],
+    "indexes": [
+        "邕",
+        "𡿷"
+    ]
+}

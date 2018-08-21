@@ -1,0 +1,31 @@
+{
+    "id": 8084,
+    "wordhead": "妁",
+    "explanation": "酌也，斟酌二姓也。从女勺聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "市勺切",
+    "variants": [],
+    "seal_character": "熜",
+    "pinyin": "shuo",
+    "pinyin_full": "shuò",
+    "components": [
+        "勺",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酌也。斟酌二姓者也。",
+            "note": "斟者、酌也。酌者、盛酒行觴也。斟酌二姓者、如挹彼注茲欲其調適也。孟子曰。不待父母之命。媒妁之言。"
+        },
+        {
+            "explanation": "从女。勺聲。",
+            "note": "市勺切。二部。"
+        }
+    ],
+    "indexes": [
+        "妁"
+    ]
+}

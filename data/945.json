@@ -1,0 +1,43 @@
+{
+    "id": 945,
+    "wordhead": "嗥",
+    "explanation": "咆也。从口皐聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "乎刀切",
+    "variants": [
+        {
+            "wordhead": "獆",
+            "explanation": "譚長說：噑从犬。",
+            "seal_character": "刚"
+        }
+    ],
+    "seal_character": "则",
+    "pinyin": "hao",
+    "pinyin_full": "háo",
+    "components": [
+        "口",
+        "犬",
+        "皐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "咆也。",
+            "note": "廣韵。噑、熊虎聲。左傳曰。狐貍所居。豺狼所噑。"
+        },
+        {
+            "explanation": "从口。皋聲。",
+            "note": "乎刀切。古音在三部。"
+        },
+        {
+            "explanation": "譚長說嗥从犬。",
+            "note": "公羊春秋經。趙盾試其君夷獔。"
+        }
+    ],
+    "indexes": [
+        "嗥",
+        "獆"
+    ]
+}

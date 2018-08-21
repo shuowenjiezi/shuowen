@@ -1,0 +1,46 @@
+{
+    "id": 2552,
+    "wordhead": "死",
+    "explanation": "澌也，人所離也。从歺从人。凡死之屬皆从死。",
+    "volume": "04",
+    "radical": "死",
+    "pronunciation": "息姊切",
+    "variants": [
+        {
+            "wordhead": "𠒁",
+            "explanation": "古文死<span>[<span>𣦸</span>]</span>如此。",
+            "seal_character": "奲"
+        }
+    ],
+    "seal_character": "奱",
+    "pinyin": "si",
+    "pinyin_full": "sǐ",
+    "components": [
+        "人",
+        "歺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "澌也。",
+            "note": "水部曰。澌、水索也。方言。澌、索也。盡也。是澌爲凡盡之偁。人盡曰死。死澌異部曡韵。"
+        },
+        {
+            "explanation": "人所離也。",
+            "note": "形體與䰟魄相離。故其字從歺人。"
+        },
+        {
+            "explanation": "从𣦵人。",
+            "note": "息姊切。十五部。"
+        },
+        {
+            "explanation": "古文死如此。",
+            "note": "從古文𣦵、古文人。"
+        }
+    ],
+    "indexes": [
+        "死",
+        "𠒁"
+    ]
+}

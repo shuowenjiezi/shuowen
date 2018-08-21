@@ -1,0 +1,31 @@
+{
+    "id": 952,
+    "wordhead": "啄",
+    "explanation": "鳥食也。从口豖聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "竹角切",
+    "variants": [],
+    "seal_character": "刡",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "口",
+        "豖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥食也。",
+            "note": "鳥咮銳。食物似琢。吳都賦說水鳥曰。彫琢蔓藻。"
+        },
+        {
+            "explanation": "从口。豖聲。",
+            "note": "丁角切。三部。"
+        }
+    ],
+    "indexes": [
+        "啄"
+    ]
+}

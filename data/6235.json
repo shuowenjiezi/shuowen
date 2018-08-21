@@ -1,0 +1,31 @@
+{
+    "id": 6235,
+    "wordhead": "麛",
+    "explanation": "鹿子也。从鹿弭聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "莫兮切",
+    "variants": [],
+    "seal_character": "榰",
+    "pinyin": "mi",
+    "pinyin_full": "mí",
+    "components": [
+        "鹿",
+        "弭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鹿子也。",
+            "note": "釋嘼曰。鹿子麛。字亦作麑。論語麑裘、卽麛裘。國語注曰。鹿子曰麑。麋子曰䴠。按䴠、王制只作夭。注云。少長曰夭。"
+        },
+        {
+            "explanation": "从鹿。弭聲。",
+            "note": "莫兮切。十六部。兒聲同部也。"
+        }
+    ],
+    "indexes": [
+        "麛"
+    ]
+}

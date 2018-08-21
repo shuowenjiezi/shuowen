@@ -1,0 +1,43 @@
+{
+    "id": 9609,
+    "wordhead": "防",
+    "explanation": "隄也。从𨸏方聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "符方切",
+    "variants": [
+        {
+            "wordhead": "𨹛",
+            "explanation": "防或从土。",
+            "seal_character": "硏"
+        }
+    ],
+    "seal_character": "硎",
+    "pinyin": "fang",
+    "pinyin_full": "fánɡ",
+    "components": [
+        "方",
+        "土",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "隄也。",
+            "note": "周禮稻人曰。以防止水。注云。偃豬者、畜流水之陂也。防者、豬旁隄也。引申爲凡備禦之偁。禮記鄭目錄云。名曰坊記者、以其記六藝之義。所以坊人之失者也。防之俗作坊。"
+        },
+        {
+            "explanation": "从𨸏。方聲。",
+            "note": "符方切。十部。"
+        },
+        {
+            "explanation": "防或从土。",
+            "note": "俗字所由作坊也。俗又以坊爲邑里之名。"
+        }
+    ],
+    "indexes": [
+        "防",
+        "𨹛"
+    ]
+}

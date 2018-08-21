@@ -1,0 +1,39 @@
+{
+    "id": 4050,
+    "wordhead": "郇",
+    "explanation": "周武王子所封國，在晉地。从邑旬聲。讀若泓。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "相倫切",
+    "variants": [],
+    "seal_character": "怩",
+    "pinyin": "xun",
+    "pinyin_full": "xún",
+    "components": [
+        "旬",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周文王子所封國。",
+            "note": "文各本作武。誤。今依篇韵正。左傳。富辰曰。郇、文之昭也。毛傳曰。郇伯、郇矦也。左傳曰軍於郇、曰盟於郇、曰必居郇瑕氏之地、皆是也。郇國爲晉所幷。"
+        },
+        {
+            "explanation": "在晉地。",
+            "note": "在二志之河東解縣。今山西蒲州府臨晉縣東北十五里有故郇城。"
+        },
+        {
+            "explanation": "从邑。旬聲。",
+            "note": "相倫切。十二部。"
+        },
+        {
+            "explanation": "讀若泓。",
+            "note": "此合韵也。疑當作淵。"
+        }
+    ],
+    "indexes": [
+        "郇"
+    ]
+}

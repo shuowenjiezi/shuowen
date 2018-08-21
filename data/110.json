@@ -1,0 +1,31 @@
+{
+    "id": 110,
+    "wordhead": "琮",
+    "explanation": "瑞玉。大八寸，似車釭。从玉宗聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "藏宗切",
+    "variants": [],
+    "seal_character": "亊",
+    "pinyin": "cong",
+    "pinyin_full": "cónɡ",
+    "components": [
+        "玉",
+        "宗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瑞玉。大八寸。似車釭。",
+            "note": "鄭注周禮曰。琮、八方象地。玉人日。大琮尺二寸。射四寸。注。射、其外鉏牙。疏云。角各出二寸。兩相幷。四寸也。玉裁按。除去射四寸。則大琮八方之徑八寸。許云瑞玉大八寸者、謂大琮也。其他琮不言射。惟瑑琮大八寸。如車釭者、葢車轂空中不正圜。爲八觚形。琮似之。琮釭曡韻。"
+        },
+        {
+            "explanation": "从王。宗聲。",
+            "note": "藏宗切。九部。"
+        }
+    ],
+    "indexes": [
+        "琮"
+    ]
+}

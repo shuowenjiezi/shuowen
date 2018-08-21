@@ -1,0 +1,43 @@
+{
+    "id": 4851,
+    "wordhead": "𢃭",
+    "explanation": "㡓也。从巾怱聲。一曰帙。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "職茸切",
+    "variants": [
+        {
+            "wordhead": "𢃓",
+            "explanation": "𢃭或从松。",
+            "seal_character": "掸"
+        }
+    ],
+    "seal_character": "掷",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "巾",
+        "怱",
+        "松"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㡓也。从巾。悤聲。",
+            "note": "職茸切。九部。方言錯勇反。"
+        },
+        {
+            "explanation": "一曰帙。",
+            "note": "書衣也。"
+        },
+        {
+            "explanation": "幒或从松。",
+            "note": "方言作䘴。"
+        }
+    ],
+    "indexes": [
+        "𢃭",
+        "𢃓"
+    ]
+}

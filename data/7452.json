@@ -1,0 +1,58 @@
+{
+    "id": 7452,
+    "wordhead": "州",
+    "explanation": "水中可居曰州，周遶其㫄，从重川。昔堯遭洪水，民居水中高土，或曰九州。《詩》曰：“在河之州。”一曰州，疇也。各疇其土而生之。",
+    "volume": "11",
+    "radical": "川",
+    "pronunciation": "職流切",
+    "variants": [
+        {
+            "wordhead": "𠃕",
+            "explanation": "古文州。",
+            "seal_character": "滝"
+        }
+    ],
+    "seal_character": "滜",
+    "pinyin": "zhou",
+    "pinyin_full": "zhōu",
+    "components": [
+        "州",
+        "川"
+    ],
+    "xuan_note": "臣鉉等曰：今別作洲，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水中可凥者曰州。",
+            "note": "凥各本作居。今正。者字今補。周南。在河之州。釋水、毛傳皆曰。水中可居者曰州。"
+        },
+        {
+            "explanation": "水𠣘繞其旁。从重川。",
+            "note": "水字今補。𠣘繞各本作周遶。誤。今正。𠣘者、帀也。會意。職流切。三部。俗作洲。"
+        },
+        {
+            "explanation": "昔堯遭洪水。民凥水中高土。故曰九州。",
+            "note": "州本州渚字。引申之乃爲九州。俗乃別製洲字。而小大分係矣。"
+        },
+        {
+            "explanation": "詩曰。在河之州。",
+            "note": "關雎文。證州之本義也。"
+        },
+        {
+            "explanation": "一曰州、𤲮也。",
+            "note": "以㬪韵爲訓。𤲮、耕治之田也。"
+        },
+        {
+            "explanation": "各𤲮其土而生也。",
+            "note": "人各耕治以爲生。此說州之別一義。其實前義內可包。"
+        },
+        {
+            "explanation": "古文州。",
+            "note": "此像前後左右皆水。"
+        }
+    ],
+    "indexes": [
+        "州",
+        "𠃕"
+    ]
+}

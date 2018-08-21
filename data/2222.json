@@ -1,0 +1,44 @@
+{
+    "id": 2222,
+    "wordhead": "𥏼",
+    "explanation": "識詞也。从钗从亏从知。",
+    "volume": "04",
+    "radical": "钗",
+    "pronunciation": "知義切",
+    "variants": [
+        {
+            "wordhead": "𥏾",
+            "explanation": "古文𥏼。",
+            "seal_character": "埩"
+        }
+    ],
+    "seal_character": "埨",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "白",
+        "亏",
+        "知",
+        "丘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "識䛐也。",
+            "note": "此與矢部知音義皆同。故二字多通用。"
+        },
+        {
+            "explanation": "从白亏知。",
+            "note": "鍇曰。亏亦气也。按从知會意。知亦聲。知義切。十六部。"
+        },
+        {
+            "explanation": "古文⿱知白。",
+            "note": "此依鍇本。𦣞卽口。？卽知也。省白。"
+        }
+    ],
+    "indexes": [
+        "𥏼",
+        "𥏾"
+    ]
+}

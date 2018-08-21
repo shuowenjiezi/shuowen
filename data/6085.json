@@ -1,0 +1,58 @@
+{
+    "id": 6085,
+    "wordhead": "貔",
+    "explanation": "豹屬，出貉國。从豸𣬉聲。《詩》曰：“獻其貔皮。”《周書》曰：“如虎如貔。”貔，猛獸。",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "房脂切",
+    "variants": [
+        {
+            "wordhead": "豼",
+            "explanation": "或从比。",
+            "seal_character": "植"
+        }
+    ],
+    "seal_character": "椌",
+    "pinyin": "pi",
+    "pinyin_full": "pí",
+    "components": [
+        "比",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "豹屬。",
+            "note": "大雅韓奕傳曰。貔、猛獸也。尚書某氏傳曰。貔、執夷、虎屬也。釋獸曰。貔、白狐。舍人曰。名白狐也。按方言曰。貔、陳楚江淮之間謂之猍。北燕朝鮮之閒謂之𧳏。關西謂之狸。郭云。貔未聞語所出。玉裁謂。方言所說貍也。非貔也。爾雅所說白狐、葢亦貍類。非貔也。而皆得貔名者、俗𧦝之相混也。說文、毛傳、尚書傳則皆貔之本義也。"
+        },
+        {
+            "explanation": "出貉國。",
+            "note": "北方國也。"
+        },
+        {
+            "explanation": "从豸。𣬉聲。",
+            "note": "房脂切。十五部。"
+        },
+        {
+            "explanation": "詩曰。獻其貔皮。",
+            "note": "大雅韓奕。"
+        },
+        {
+            "explanation": "周書曰。如虎如貔。",
+            "note": "牧誓。"
+        },
+        {
+            "explanation": "貔、猛獸。",
+            "note": "按上文豹屬當作貍屬。許以貍屬爲貔本義。以猛獸爲詩書之貔也。於全書之例知之。"
+        },
+        {
+            "explanation": "或从比。",
+            "note": "比聲。"
+        }
+    ],
+    "indexes": [
+        "貔",
+        "豼"
+    ]
+}

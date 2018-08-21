@@ -1,0 +1,35 @@
+{
+    "id": 8250,
+    "wordhead": "婼",
+    "explanation": "不順也。从女若聲。《春秋傳》曰：“叔孫婼。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "丑略切",
+    "variants": [],
+    "seal_character": "牋",
+    "pinyin": "chou",
+    "pinyin_full": "chuò",
+    "components": [
+        "女",
+        "若"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不順也。",
+            "note": "毛詩傳曰。若、順也。此字从若則當訓順。而云不順也。此猶祀从巳、而訓祭無巳也。"
+        },
+        {
+            "explanation": "从女。若聲。",
+            "note": "丑略切。五部。"
+        },
+        {
+            "explanation": "春秋傳有叔孫婼。",
+            "note": "魯大夫也。"
+        }
+    ],
+    "indexes": [
+        "婼"
+    ]
+}

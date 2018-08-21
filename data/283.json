@@ -1,0 +1,58 @@
+{
+    "id": 283,
+    "wordhead": "藼",
+    "explanation": "令人忘憂艸也。从艸憲聲。《詩》曰：“安得藼艸？”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "況袁切",
+    "variants": [
+        {
+            "wordhead": "蕿",
+            "explanation": "或从煖。",
+            "seal_character": "位"
+        },
+        {
+            "wordhead": "萱",
+            "explanation": "或从宣<span>[<span>𡨈</span>]</span>。",
+            "seal_character": "低"
+        }
+    ],
+    "seal_character": "佌",
+    "pinyin": "xuan",
+    "pinyin_full": "xuān",
+    "components": [
+        "宣",
+        "艸",
+        "憲",
+        "煖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "令人忘憂之艸也。",
+            "note": "見毛傳。藼之言諼也。諼、忘也。"
+        },
+        {
+            "explanation": "从艸。憲聲。",
+            "note": "況袁切。十四部。"
+        },
+        {
+            "explanation": "詩曰。安得藼艸。",
+            "note": "衞風文。今詩作焉得諼草。"
+        },
+        {
+            "explanation": "或从煖。",
+            "note": "煖聲。此字小徐無。張次立補。可𠜂。"
+        },
+        {
+            "explanation": "或从宣。",
+            "note": "宣聲。"
+        }
+    ],
+    "indexes": [
+        "藼",
+        "蕿",
+        "萱"
+    ]
+}

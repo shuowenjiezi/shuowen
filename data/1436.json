@@ -1,0 +1,34 @@
+{
+    "id": 1436,
+    "wordhead": "器",
+    "explanation": "皿也。象器之口，犬所以守之。",
+    "volume": "03",
+    "radical": "㗊",
+    "pronunciation": "去冀切",
+    "variants": [],
+    "seal_character": "呃",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "皿也。",
+            "note": "皿部曰。皿、飯食之用器也。然則皿專謂食器。器乃凡器統偁。器下云皿也者、散文則不别也。木部曰。有所盛曰器。無所盛曰械。陸德明本如是。"
+        },
+        {
+            "explanation": "象器之口。",
+            "note": "謂㗊也。與上文从㗊字不同。"
+        },
+        {
+            "explanation": "犬所㠯守之。",
+            "note": "會意。去冀切。冀當作旣。十五部。"
+        }
+    ],
+    "indexes": [
+        "器"
+    ]
+}

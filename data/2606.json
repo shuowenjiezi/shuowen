@@ -1,0 +1,43 @@
+{
+    "id": 2606,
+    "wordhead": "肊",
+    "explanation": "胷骨也。从肉乙聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "於力切",
+    "variants": [
+        {
+            "wordhead": "臆",
+            "explanation": "肊或从意。",
+            "seal_character": "妬"
+        }
+    ],
+    "seal_character": "妫",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "乙",
+        "肉",
+        "意"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "匈骨也。",
+            "note": "宋本、李燾本皆作骨。俗本作肉。非也。此如脅爲兩膀、榦爲脅骨。正名百物。不可紊也。"
+        },
+        {
+            "explanation": "从肉乙。",
+            "note": "各本作乙聲。今按聲字淺人所增也。胷臆字古今音皆在職德韵。乙字古今音皆在質櫛韵。是則作臆者形聲。作乙者㑹意也。從乙者、皃其骨也。魚骨亦有名乙者。於力切。一部。"
+        },
+        {
+            "explanation": "肊或从意。",
+            "note": "意聲也。亦作？。"
+        }
+    ],
+    "indexes": [
+        "肊",
+        "臆"
+    ]
+}

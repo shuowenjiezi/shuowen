@@ -1,0 +1,31 @@
+{
+    "id": 2393,
+    "wordhead": "鵦",
+    "explanation": "欺老也。从鳥彖聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "丑絹切",
+    "variants": [],
+    "seal_character": "墳",
+    "pinyin": "chuan",
+    "pinyin_full": "chuàn",
+    "components": [
+        "鳥",
+        "彖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "欺老也。",
+            "note": "釋鳥。鶨、䳢老。下云鳸鴳。按許上文說九雇。旣云老雇、鴳也。則以老下屬。與賈逵、樊光同。此以老上屬。下云鴳雇也。復與舍人、李巡、孫炎同。葢兩從未定也。欺老未詳何鳥。"
+        },
+        {
+            "explanation": "从鳥。彖聲。",
+            "note": "丑絹切。十四部。"
+        }
+    ],
+    "indexes": [
+        "鵦"
+    ]
+}

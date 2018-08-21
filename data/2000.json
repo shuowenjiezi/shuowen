@@ -1,0 +1,35 @@
+{
+    "id": 2000,
+    "wordhead": "𢾭",
+    "explanation": "𢻱也。从攴尃聲。《周書》曰：“用𢾭遺後人。”",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "芳无切",
+    "variants": [],
+    "seal_character": "図",
+    "pinyin": "fu",
+    "pinyin_full": "fū",
+    "components": [
+        "尃",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢻱也。",
+            "note": "此與寸部尃音義同。"
+        },
+        {
+            "explanation": "从攴。尃聲。",
+            "note": "芳無切五部俗作敷。古寸與方多通用。"
+        },
+        {
+            "explanation": "周書曰。用𢾭遺後人。",
+            "note": "顧命文。"
+        }
+    ],
+    "indexes": [
+        "𢾭"
+    ]
+}

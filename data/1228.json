@@ -1,0 +1,38 @@
+{
+    "id": 1228,
+    "wordhead": "往",
+    "explanation": "之也。从彳㞷聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "于兩切",
+    "variants": [
+        {
+            "wordhead": "𨓹",
+            "explanation": "古文从辵。",
+            "seal_character": "卟"
+        }
+    ],
+    "seal_character": "卞",
+    "pinyin": "wang",
+    "pinyin_full": "wǎnɡ",
+    "components": [
+        "辵",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "之也。从彳。𡉚聲。",
+            "note": "于兩切。十部。"
+        },
+        {
+            "explanation": "古文。从辵。",
+            "note": "按左辵右？。？古文？也。汗𥳑云。？、尙書往字。甘泉賦曰。𨓹𨓹離宮。般以相燭。"
+        }
+    ],
+    "indexes": [
+        "往",
+        "𨓹"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 256,
+    "wordhead": "蘇",
+    "explanation": "桂荏也。从艸穌聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "素孤切",
+    "variants": [],
+    "seal_character": "估",
+    "pinyin": "su",
+    "pinyin_full": "sū",
+    "components": [
+        "艸",
+        "穌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "桂荏也。",
+            "note": "桂上鍇本有蘇字。此複寫隷字𠜂之未盡者。蘇、桂荏。釋艸文。內則注曰。薌蘇、桂之屬也。方言曰。蘇亦荏也。關之東西或謂之蘇。或謂之荏。郭樸曰。蘇、荏類。是則析言之則蘇荏二物。統言則不別也。桂荏今之紫蘇。蘇之叚借爲樵蘇。"
+        },
+        {
+            "explanation": "从艸。穌聲。",
+            "note": "素孤切。五部。"
+        }
+    ],
+    "indexes": [
+        "苏",
+        "蘇"
+    ]
+}

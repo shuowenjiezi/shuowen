@@ -1,0 +1,39 @@
+{
+    "id": 3557,
+    "wordhead": "枚",
+    "explanation": "榦也。可爲杖。从木从攴。《詩》曰：“施于條枚。”",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "莫桮切",
+    "variants": [],
+    "seal_character": "帏",
+    "pinyin": "mei",
+    "pinyin_full": "méi",
+    "components": [
+        "木",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "榦也。",
+            "note": "毛傳曰。榦曰枚。引伸爲銜枚之枚。爲枚數之枚。豳風傳曰。枚、微也。魯頌傳曰。枚枚、礱密也。皆謂枚爲微之假借也。"
+        },
+        {
+            "explanation": "從木攴。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "可爲杖也。",
+            "note": "說從攴之意也。攴、小毄也。因爲鞭扑字。杖可以毄人者也。故取木攴會意。莫桮切。十五部。"
+        },
+        {
+            "explanation": "詩曰。施于條枚。",
+            "note": "大雅文。"
+        }
+    ],
+    "indexes": [
+        "枚"
+    ]
+}

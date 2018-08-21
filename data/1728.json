@@ -1,0 +1,43 @@
+{
+    "id": 1728,
+    "wordhead": "譱",
+    "explanation": "吉也。从誩从羊。此與義美同意。",
+    "volume": "03",
+    "radical": "誩",
+    "pronunciation": "常衍切",
+    "variants": [
+        {
+            "wordhead": "𦎍",
+            "explanation": "篆文譱从言。",
+            "seal_character": "喍"
+        }
+    ],
+    "seal_character": "喌",
+    "pinyin": "shan",
+    "pinyin_full": "shàn",
+    "components": [
+        "羊",
+        "言",
+        "誩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吉也。",
+            "note": "口部曰。吉、譱也。"
+        },
+        {
+            "explanation": "从誩⺸。此與義美同意。",
+            "note": "我部曰。義與善同意。羊部曰。美與善同意。按羊、祥也。故此三字從羊。常衍切。十四部。"
+        },
+        {
+            "explanation": "篆文从言",
+            "note": "據此則譱爲古文可知矣。此亦上部之例。先古後篆也。譱字今惟見於周禮。他皆作善。"
+        }
+    ],
+    "indexes": [
+        "譱",
+        "𦎍"
+    ]
+}

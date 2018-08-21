@@ -1,0 +1,31 @@
+{
+    "id": 456,
+    "wordhead": "菋",
+    "explanation": "荎藸也。从艸味聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "无沸切",
+    "variants": [],
+    "seal_character": "倅",
+    "pinyin": "wei",
+    "pinyin_full": "wèi",
+    "components": [
+        "艸",
+        "味"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "荎藸也。",
+            "note": "見釋艸。郭云。五味也。"
+        },
+        {
+            "explanation": "从艸。味聲。",
+            "note": "無沸切。十五部。"
+        }
+    ],
+    "indexes": [
+        "菋"
+    ]
+}

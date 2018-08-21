@@ -1,0 +1,43 @@
+{
+    "id": 8454,
+    "wordhead": "弛",
+    "explanation": "弓解也。从弓从也。",
+    "volume": "12",
+    "radical": "弓",
+    "pronunciation": "施氏切",
+    "variants": [
+        {
+            "wordhead": "𢐋",
+            "explanation": "弛或从虒。",
+            "seal_character": "猰"
+        }
+    ],
+    "seal_character": "猯",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "虒",
+        "弓",
+        "也"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弓解弦也。",
+            "note": "弦字各本無。今補。引申爲凡懈廢之稱。"
+        },
+        {
+            "explanation": "从弓。也聲。",
+            "note": "施氏切。十六部。"
+        },
+        {
+            "explanation": "弛或从虒。",
+            "note": "虒聲亦在十六部。"
+        }
+    ],
+    "indexes": [
+        "弛",
+        "𢐋"
+    ]
+}

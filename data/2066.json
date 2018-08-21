@@ -1,0 +1,41 @@
+{
+    "id": 2066,
+    "wordhead": "卜",
+    "explanation": "灼剥龜也，象灸龜之形。一曰象龜兆之從橫也。凡卜之屬皆从卜。",
+    "volume": "03",
+    "radical": "卜",
+    "pronunciation": "博木切",
+    "variants": [
+        {
+            "wordhead": "𠁡",
+            "explanation": "古文卜。",
+            "seal_character": "圾"
+        }
+    ],
+    "seal_character": "圽",
+    "pinyin": "bu",
+    "pinyin_full": "bǔ",
+    "components": [
+        "卜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "灼剝龜也。",
+            "note": "火部灼、？也。刀部剝裂也。灼剝者。謂？而裂之。灼雙聲。剝㬪韵。"
+        },
+        {
+            "explanation": "象灸龜之形。",
+            "note": "直者象龜橫者象楚焞之灼龜。"
+        },
+        {
+            "explanation": "一曰象龜兆之縱衡也。",
+            "note": "字形之別說也博木切。三部。"
+        }
+    ],
+    "indexes": [
+        "卜",
+        "𠁡"
+    ]
+}

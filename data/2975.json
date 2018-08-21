@@ -1,0 +1,35 @@
+{
+    "id": 2975,
+    "wordhead": "簧",
+    "explanation": "笙中簧也。从竹黃聲。古者女媧作簧。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "戶光切",
+    "variants": [],
+    "seal_character": "孑",
+    "pinyin": "huang",
+    "pinyin_full": "huánɡ",
+    "components": [
+        "竹",
+        "黃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "笙中簧也。",
+            "note": "小雅。吹笙𡔷簧。傳曰。簧、笙簧也。吹笙則簧𡔷矣。按經有單言簧者、謂笙也。王風左執簧傳曰。黃、笙也是也。"
+        },
+        {
+            "explanation": "从竹。黃聲。",
+            "note": "戸光切。十部。"
+        },
+        {
+            "explanation": "古者女媧作簧。",
+            "note": "葢出世本作篇。明堂位曰。女媧之笙簧。按笙與簧同器。不嫌二人作者。簧之用廣。或先作簧而後施於笙竽。未可知也。"
+        }
+    ],
+    "indexes": [
+        "簧"
+    ]
+}

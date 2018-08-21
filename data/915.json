@@ -1,0 +1,35 @@
+{
+    "id": 915,
+    "wordhead": "嗷",
+    "explanation": "眾口愁也。从口敖聲。《詩》曰：“哀鳴嗷嗷。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "五牢切",
+    "variants": [],
+    "seal_character": "凷",
+    "pinyin": "ao",
+    "pinyin_full": "áo",
+    "components": [
+        "口",
+        "敖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "眾口愁也。",
+            "note": "董仲舒傳。嚻嚻苦不足。食貨志。天下謷謷。陳湯傳。熬熬苦之。皆同音假借字也。"
+        },
+        {
+            "explanation": "从口。敖聲。",
+            "note": "五牢切。二部。按此字五經文字、玉篇、廣韵、經典釋文皆下口上敖。本說文也。今說文作嗷。後人所𡚶改。"
+        },
+        {
+            "explanation": "詩曰。哀鳴嗸嗸。",
+            "note": "小雅。"
+        }
+    ],
+    "indexes": [
+        "嗷"
+    ]
+}

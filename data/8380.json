@@ -1,0 +1,39 @@
+{
+    "id": 8380,
+    "wordhead": "医",
+    "explanation": "盛弓弩矢器也。从匸从矢。《國語》曰：“兵不解医。”",
+    "volume": "12",
+    "radical": "匸",
+    "pronunciation": "於計切",
+    "variants": [],
+    "seal_character": "狙",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "矢",
+        "匸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臧弓弩矢器也。",
+            "note": "臧各本作盛。今依廣韵。此器可隱藏兵器也。"
+        },
+        {
+            "explanation": "从匸矢。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "矢亦聲。",
+            "note": "小徐有此三字。於計切。十五部。"
+        },
+        {
+            "explanation": "春秋國語曰。兵不解医。",
+            "note": "齊語文。今國語作翳。叚借字。韋曰。翳所以蔽兵也。按古翳隱、翳薈字皆當於医義引申。不當借華葢字也。翳行而医廢矣。"
+        }
+    ],
+    "indexes": [
+        "医"
+    ]
+}

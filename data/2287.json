@@ -1,0 +1,47 @@
+{
+    "id": 2287,
+    "wordhead": "𨿳",
+    "explanation": "鳥也。从隹，瘖省聲。或从人，人亦聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "於淩切",
+    "variants": [
+        {
+            "wordhead": "𪇿",
+            "explanation": "籒文𤸰从鳥。",
+            "seal_character": "堳"
+        }
+    ],
+    "seal_character": "堲",
+    "pinyin": "ying",
+    "pinyin_full": "yīnɡ",
+    "components": [
+        "隹",
+        "鳥",
+        "瘖"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“鷹隨人所指𨌰，故从人。”",
+    "duan_notes": [
+        {
+            "explanation": "𤸰鳥也。",
+            "note": "左傳。如鷹鸇之逐鳥雀。釋鳥。鷹來鳩。郭云。來當爲爽。按左傳。爽鳩氏司宼也。杜曰。爽鳩、鷹也。"
+        },
+        {
+            "explanation": "从隹。从人。",
+            "note": "鍇曰。鷹隨人所指䡮。故從人。按雁鴈亦从人。"
+        },
+        {
+            "explanation": "瘖省聲。",
+            "note": "此七字依韵會訂。瘖在七部而？在六部者、合韵冣近也。於陵切。"
+        },
+        {
+            "explanation": "籒文𨿳。从鳥。",
+            "note": "按？葢古文也。小篆從之。从隹、从瘖省聲。籒文則从鳥而應省聲。非兼用隹鳥也。"
+        }
+    ],
+    "indexes": [
+        "𨿳",
+        "𪇿"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 3846,
+    "wordhead": "師",
+    "explanation": "二千五百人爲師。从帀从𠂤。𠂤，四帀，眾意也。",
+    "volume": "06",
+    "radical": "帀",
+    "pronunciation": "疎夷切",
+    "variants": [
+        {
+            "wordhead": "𠦵",
+            "explanation": "古文師。",
+            "seal_character": "彍"
+        }
+    ],
+    "seal_character": "彌",
+    "pinyin": "shi",
+    "pinyin_full": "shī",
+    "components": [
+        "帀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "二千五百人爲師。",
+            "note": "小司徒曰。五人爲伍。五伍爲㒳。五㒳爲卒。五卒爲旅。五旅爲師。師、衆也。京師者、大衆之稱。衆則必有主之者。周禮師氏注曰。師、敎人以道者之稱也。黨正旅師閭胥注曰。正師胥皆長也。師之言帥也。"
+        },
+        {
+            "explanation": "从帀。从𠂤。",
+            "note": "會意。疏夷切。十五部。"
+        },
+        {
+            "explanation": "𠂤四帀衆意也。",
+            "note": "𠂤下曰。小𨸏也。小𨸏而四圍有之。是衆意也。說會意之恉。"
+        },
+        {
+            "explanation": "古文師。",
+            "note": "文二重一"
+        }
+    ],
+    "indexes": [
+        "师",
+        "師",
+        "𠦵"
+    ]
+}

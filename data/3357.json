@@ -1,0 +1,40 @@
+{
+    "id": 3357,
+    "wordhead": "畟",
+    "explanation": "治稼畟畟進也。从田、人，从夊。《詩》曰：“畟畟良耜。”",
+    "volume": "05",
+    "radical": "夊",
+    "pronunciation": "初力切",
+    "variants": [],
+    "seal_character": "崰",
+    "pinyin": "ce",
+    "pinyin_full": "cè",
+    "components": [
+        "人",
+        "夊",
+        "田"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治稼畟畟進也。",
+            "note": "釋訓曰。畟畟、耜也。周頌毛傳曰。畟畟、猶測測也。箋云。農人測測、以利善之耜熾菑是南𠭇也。按畟畟古語。測測今語。毛以今語釋古語。故曰猶。周禮雉氏注曰。耜之者、以耜測凍土剗之。然則畟、測皆進意。"
+        },
+        {
+            "explanation": "从田儿。",
+            "note": "儿亦人字。田人者、農也。"
+        },
+        {
+            "explanation": "从夊。",
+            "note": "夊言其足之進。足進而耜亦進矣。初力切。一部。"
+        },
+        {
+            "explanation": "詩曰。畟畟良耜。",
+            "note": "許書耜作枱鈶二形。見木部。云耒耑也。"
+        }
+    ],
+    "indexes": [
+        "畟"
+    ]
+}

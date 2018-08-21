@@ -1,0 +1,32 @@
+{
+    "id": 7578,
+    "wordhead": "鱧",
+    "explanation": "鳠也。从魚豊聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "盧啓切",
+    "variants": [],
+    "seal_character": "潷",
+    "pinyin": "li",
+    "pinyin_full": "lǐ",
+    "components": [
+        "豊",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鱯也。",
+            "note": "釋魚、毛傳鱧鯇爲一。許鱧鱯爲一。各有所受之也。"
+        },
+        {
+            "explanation": "从魚。豐聲。",
+            "note": "盧啓切。十五部。"
+        }
+    ],
+    "indexes": [
+        "鳢",
+        "鱧"
+    ]
+}

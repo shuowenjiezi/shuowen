@@ -1,0 +1,59 @@
+{
+    "id": 6229,
+    "wordhead": "灋",
+    "explanation": "刑也。平之如水，从水；𢊁，所以觸不直者；去之，从去。",
+    "volume": "10",
+    "radical": "𢊁",
+    "pronunciation": "方乏切",
+    "variants": [
+        {
+            "wordhead": "法",
+            "explanation": "今文省。",
+            "seal_character": "榩"
+        },
+        {
+            "wordhead": "佱",
+            "explanation": "古文。",
+            "seal_character": "榪"
+        }
+    ],
+    "seal_character": "榨",
+    "pinyin": "fa",
+    "pinyin_full": "fǎ",
+    "components": [
+        "水",
+        "正",
+        "亼",
+        "去",
+        "廌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㓝也。",
+            "note": "㓝者、罰辠也。易曰。利用㓝人。以正法也。引伸爲凡模範之偁。木部曰。模者、法也。竹部曰。範者、法也。土部曰。𡌒者、鑄器之法也。"
+        },
+        {
+            "explanation": "平之如水。从水。",
+            "note": "說从水之意。張釋之曰。廷尉、天下之平也。"
+        },
+        {
+            "explanation": "𢊁所㠯觸不直者去之。人𢊁去。",
+            "note": "下𢊁字今依韵會補。此說从𢊁去之意。法之正人如𢊁之去惡也。方乏切。八部。"
+        },
+        {
+            "explanation": "今文省。",
+            "note": "許書無言今文者。此葢隸省之字。許書本無。或增之也。如艸部。本有㪿無折。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "文四重二"
+        }
+    ],
+    "indexes": [
+        "灋",
+        "法",
+        "佱"
+    ]
+}

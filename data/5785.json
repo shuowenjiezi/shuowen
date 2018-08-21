@@ -1,0 +1,35 @@
+{
+    "id": 5785,
+    "wordhead": "冢",
+    "explanation": "高墳也。从勹豖聲。",
+    "volume": "09",
+    "radical": "勹",
+    "pronunciation": "知隴切",
+    "variants": [],
+    "seal_character": "枻",
+    "pinyin": "zhong",
+    "pinyin_full": "zhǒnɡ",
+    "components": [
+        "豖",
+        "勹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高墳也。",
+            "note": "土部曰。墳者、墓也。墓之高者曰冢。周禮冢人掌公墓之地是也。按釋山云。山頂曰冢。鄭注冢人云。冢、封土爲丘壟。象冢而爲之。此從爾雅說也。許以冢爲高墳之正偁。則不用爾雅說。引伸之凡高大曰冢。釋山及十月之交傳。山頂曰冢。乃借冢偁耳。釋詁曰。冢、大也。太子曰冢子。太宰曰冢宰。"
+        },
+        {
+            "explanation": "从勹。",
+            "note": "墓取勹義。"
+        },
+        {
+            "explanation": "豖聲。",
+            "note": "知隴切。九部。按豖聲本在三部。此合音也。古音冢必可讀如獨矣。"
+        }
+    ],
+    "indexes": [
+        "冢"
+    ]
+}

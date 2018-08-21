@@ -1,0 +1,47 @@
+{
+    "id": 7655,
+    "wordhead": "𩙺",
+    "explanation": "翄也。从飛異聲。",
+    "volume": "11",
+    "radical": "飛",
+    "pronunciation": "與職切",
+    "variants": [
+        {
+            "wordhead": "翼",
+            "explanation": "篆文𩙺从羽<span>[<span>𦏲</span>]</span>。",
+            "seal_character": "濉"
+        }
+    ],
+    "seal_character": "濈",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "異",
+        "羽",
+        "飛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "翄也。",
+            "note": "羽部曰。翄者、翼也。二篆爲轉注。翼必兩相輔。故引申爲輔翼。卷阿傳曰。道可馮依以爲輔翼也。行葦鄭箋云。在前曰引。在旁曰翼。又凡敬者、必如兩翼之整齊。故毛傳曰。翼、敬也。鄭箋云。小心翼翼、恭愼皃。"
+        },
+        {
+            "explanation": "从飛。異聲。",
+            "note": "與職切。一部。"
+        },
+        {
+            "explanation": "籒文翼。",
+            "note": "小徐有此三字。"
+        },
+        {
+            "explanation": "篆文𩙺。从羽。",
+            "note": "先籒後篆者、亦先二後上之例也。？爲飛之屬。"
+        }
+    ],
+    "indexes": [
+        "𩙺",
+        "翼"
+    ]
+}

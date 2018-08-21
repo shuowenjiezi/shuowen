@@ -1,0 +1,31 @@
+{
+    "id": 7494,
+    "wordhead": "䨮",
+    "explanation": "凝雨，說物者。从雨彗聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "相絕切",
+    "variants": [],
+    "seal_character": "漗",
+    "pinyin": "xue",
+    "pinyin_full": "xuě",
+    "components": [
+        "雨",
+        "彗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "冰雨說物者也。",
+            "note": "冰各本作凝。今正。凝者、冰之俗也。釋名曰。雪、綏也。水下遇寒氣而凝。綏綏然下也。故許謂之冰雨。說今之悅字。物無不喜雪者。說與雪曡韵。"
+        },
+        {
+            "explanation": "从雨。彗聲。",
+            "note": "相絕切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䨮"
+    ]
+}

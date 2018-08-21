@@ -1,0 +1,40 @@
+{
+    "id": 1154,
+    "wordhead": "逶",
+    "explanation": "逶迆，衺去之皃。从辵委聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "於爲切",
+    "variants": [
+        {
+            "wordhead": "蟡",
+            "explanation": "或从虫、爲。",
+            "seal_character": "匈"
+        }
+    ],
+    "seal_character": "匇",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "虫",
+        "委",
+        "辵",
+        "爲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "逶迆、",
+            "note": "逗。疊韵。"
+        },
+        {
+            "explanation": "衺去皃。从辵。委聲。",
+            "note": "於爲切。十六十七部。"
+        }
+    ],
+    "indexes": [
+        "逶",
+        "蟡"
+    ]
+}

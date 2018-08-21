@@ -1,0 +1,42 @@
+{
+    "id": 2731,
+    "wordhead": "𥭖",
+    "explanation": "手足指節鳴也。从筋省，勺聲。",
+    "volume": "04",
+    "radical": "筋",
+    "pronunciation": "北角切",
+    "variants": [
+        {
+            "wordhead": "肑",
+            "explanation": "𥭖或省竹。",
+            "seal_character": "娼"
+        }
+    ],
+    "seal_character": "娻",
+    "pinyin": "bo",
+    "pinyin_full": "bó",
+    "components": [
+        "勺",
+        "筋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "手足指節鳴也。",
+            "note": "其聲膊膊然。"
+        },
+        {
+            "explanation": "从筋省。勺聲。",
+            "note": "北角切。二部。"
+        },
+        {
+            "explanation": "𥭖或省竹。",
+            "note": "按廣雅曰。肑謂之腴。篇、韵皆云肑、腹下肉。此別一義。"
+        }
+    ],
+    "indexes": [
+        "𥭖",
+        "肑"
+    ]
+}

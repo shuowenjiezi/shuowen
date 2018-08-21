@@ -1,0 +1,53 @@
+{
+    "id": 5440,
+    "wordhead": "皃",
+    "explanation": "頌儀也。从人，白象人面形。凡皃之屬皆从皃。",
+    "volume": "08",
+    "radical": "皃",
+    "pronunciation": "莫教切",
+    "variants": [
+        {
+            "wordhead": "䫉",
+            "explanation": "皃或从頁<span>[<span>𩑋</span>]</span>，豹省聲。",
+            "seal_character": "昺"
+        },
+        {
+            "wordhead": "貌",
+            "explanation": "籒文皃从豹省。",
+            "seal_character": "昻"
+        }
+    ],
+    "seal_character": "昹",
+    "pinyin": "mao",
+    "pinyin_full": "mào",
+    "components": [
+        "頁",
+        "皃",
+        "豹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "頌儀也。",
+            "note": "頁部曰。頌、皃也。此曰皃、頌儀也。是爲轉注。頌者今之容字。必言儀者、謂頌之儀度可皃象也。凡容言其內。皃言其外。引伸之、凡得其狀曰皃。析言則容皃各有當。如叔向曰貌不道容是也。絫言則曰容貌。如動容貌斯遠暴慢是也。"
+        },
+        {
+            "explanation": "从儿。白象面形。",
+            "note": "上非黑白字。乃象人面也。莫敎切。二部。"
+        },
+        {
+            "explanation": "皃或从頁。豹省聲。",
+            "note": "按此葢易籒文之皃爲頁。"
+        },
+        {
+            "explanation": "籒文皃。从豸。",
+            "note": "大徐本作从豹省。今字皆用籒文。"
+        }
+    ],
+    "indexes": [
+        "皃",
+        "䫉",
+        "貌"
+    ]
+}

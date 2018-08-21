@@ -1,0 +1,39 @@
+{
+    "id": 6258,
+    "wordhead": "㲋",
+    "explanation": "獸也。似兔，青色而大。象形。頭與兔同，足與鹿同。凡㲋之屬皆从㲋。",
+    "volume": "10",
+    "radical": "㲋",
+    "pronunciation": "丑略切",
+    "variants": [
+        {
+            "wordhead": "𠜌",
+            "explanation": "篆文。",
+            "seal_character": "槏"
+        }
+    ],
+    "seal_character": "槎",
+    "pinyin": "chuo",
+    "pinyin_full": "chuò",
+    "components": [],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㲋獸也。",
+            "note": "㲋字今補。三字句。"
+        },
+        {
+            "explanation": "佀兔靑色而大。",
+            "note": "中山經。綸山其獸多閭麈麢㚟。郭注。㚟似兔而鹿腳。靑色。音綽。按㚟乃㲋之俗體耳。集韵別爲兩字。非也。"
+        },
+        {
+            "explanation": "象形。頭與兔同。足與鹿同。",
+            "note": "合二形爲一形也。丑略切。按言部曰。訬讀若㲋。則古音在二部。"
+        }
+    ],
+    "indexes": [
+        "㲋",
+        "𠜌"
+    ]
+}

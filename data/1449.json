@@ -1,0 +1,45 @@
+{
+    "id": 1449,
+    "wordhead": "商",
+    "explanation": "从外知内也。从㕯，章省聲。",
+    "volume": "03",
+    "radical": "㕯",
+    "pronunciation": "式陽切",
+    "variants": [
+        {
+            "wordhead": "𡃬",
+            "explanation": "古文商。",
+            "seal_character": "呕"
+        },
+        {
+            "wordhead": "𠾃",
+            "explanation": "亦古文商。",
+            "seal_character": "呖"
+        },
+        {
+            "wordhead": "𡅟",
+            "explanation": "籒文商。",
+            "seal_character": "呗"
+        }
+    ],
+    "seal_character": "呔",
+    "pinyin": "shang",
+    "pinyin_full": "shānɡ",
+    "components": [
+        "章"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "從外知內也。从㕯。章省聲。",
+            "note": "漢律曆志云。商之爲言章也。物成孰可章度也。白虎通說商賈云。商之爲言章也。章其遠近。度其有亡。通四方之物。故謂之商也。按粊誓我、商賚女。徐仙民音章。此古音也。從外知內、了了章箸曰商。今式陽切。十部。"
+        }
+    ],
+    "indexes": [
+        "商",
+        "𡃬",
+        "𠾃",
+        "𡅟"
+    ]
+}

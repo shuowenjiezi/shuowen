@@ -1,0 +1,35 @@
+{
+    "id": 498,
+    "wordhead": "芣",
+    "explanation": "華盛。从艸不聲。一曰芣苢。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "縛牟切",
+    "variants": [],
+    "seal_character": "倱",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "不",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "華盛。",
+            "note": "詩言江漢浮浮、雨雪浮浮皆盛皃。芣與浮聲相近。"
+        },
+        {
+            "explanation": "从艸。不聲。",
+            "note": "縛牟切。古音在一部。"
+        },
+        {
+            "explanation": "一曰芣苢。",
+            "note": "疑前苢字下衹作不苢。此於芣字下又明之曰不苢之不亦作芣也。"
+        }
+    ],
+    "indexes": [
+        "芣"
+    ]
+}

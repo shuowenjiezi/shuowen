@@ -1,0 +1,48 @@
+{
+    "id": 1674,
+    "wordhead": "訟",
+    "explanation": "爭也。从言公聲。曰：謌訟。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "似用切",
+    "variants": [
+        {
+            "wordhead": "䛦",
+            "explanation": "古文訟。",
+            "seal_character": "祜"
+        }
+    ],
+    "seal_character": "啎",
+    "pinyin": "song",
+    "pinyin_full": "sònɡ",
+    "components": [
+        "言",
+        "容",
+        "公"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "爭也。",
+            "note": "公言之也。漢書吕后紀。未敢訟言誅之。鄧展曰。訟言、公言也。"
+        },
+        {
+            "explanation": "从言。公聲。",
+            "note": "此形聲包會意。似用切。九部。"
+        },
+        {
+            "explanation": "一曰歌訟。",
+            "note": "訟頌古今字。古作訟。後人假頌皃字爲之。"
+        },
+        {
+            "explanation": "古文訟。",
+            "note": "从谷聲。"
+        }
+    ],
+    "indexes": [
+        "讼",
+        "訟",
+        "䛦"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 9156,
+    "wordhead": "黃",
+    "explanation": "地之色也。从田从炗，炗亦聲。炗，古文光。凡黃之屬皆从黃。",
+    "volume": "13",
+    "radical": "黃",
+    "pronunciation": "乎光切",
+    "variants": [
+        {
+            "wordhead": "𡕛",
+            "explanation": "古文黃。",
+            "seal_character": "癣"
+        }
+    ],
+    "seal_character": "癢",
+    "pinyin": "huang",
+    "pinyin_full": "huánɡ",
+    "components": [
+        "田",
+        "炗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "地之色也。",
+            "note": "玄者、幽遠也。則爲天之色可知。易曰。夫玄黃者、天地之襍也。天玄而地黃。"
+        },
+        {
+            "explanation": "从田。",
+            "note": "土色黃。故从田。"
+        },
+        {
+            "explanation": "炗聲。",
+            "note": "乎光切。十部。"
+        },
+        {
+            "explanation": "炗、古文光。",
+            "note": "見火部。"
+        }
+    ],
+    "indexes": [
+        "黄",
+        "黃",
+        "𡕛"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 8735,
+    "wordhead": "繛",
+    "explanation": "𦅻也。从素卓聲。",
+    "volume": "13",
+    "radical": "素",
+    "pronunciation": "昌約切",
+    "variants": [
+        {
+            "wordhead": "綽",
+            "explanation": "繛或省。",
+            "seal_character": "瑮"
+        }
+    ],
+    "seal_character": "瑭",
+    "pinyin": "chuo",
+    "pinyin_full": "chuò",
+    "components": [
+        "卓",
+        "糸",
+        "素"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦅻也。",
+            "note": "淇澳毛傳曰。綽、緩也。"
+        },
+        {
+            "explanation": "从𦃃。卓聲。",
+            "note": "昌約切。二部。"
+        },
+        {
+            "explanation": "⿰𦃃卓或省。",
+            "note": "今多如此作。"
+        }
+    ],
+    "indexes": [
+        "繛",
+        "綽"
+    ]
+}

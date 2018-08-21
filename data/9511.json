@@ -1,0 +1,39 @@
+{
+    "id": 9511,
+    "wordhead": "輈",
+    "explanation": "轅也。从車舟聲。",
+    "volume": "14",
+    "radical": "車",
+    "pronunciation": "張流切",
+    "variants": [
+        {
+            "wordhead": "𨏺",
+            "explanation": "籒文輈。",
+            "seal_character": "知"
+        }
+    ],
+    "seal_character": "矤",
+    "pinyin": "zhou",
+    "pinyin_full": "zhōu",
+    "components": [
+        "車",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "轅也。从車。舟聲。",
+            "note": "張流切。三部。"
+        },
+        {
+            "explanation": "籒文輈。",
+            "note": "从籒文車也。"
+        }
+    ],
+    "indexes": [
+        "辀",
+        "輈",
+        "𨏺"
+    ]
+}

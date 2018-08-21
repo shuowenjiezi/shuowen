@@ -1,0 +1,47 @@
+{
+    "id": 9716,
+    "wordhead": "癸",
+    "explanation": "冬時，水土平，可揆度也。象水從四方流入地中之形。癸承壬，象人足。凡癸之屬皆从癸。",
+    "volume": "14",
+    "radical": "癸",
+    "pronunciation": "居誄切",
+    "variants": [
+        {
+            "wordhead": "𤼩",
+            "explanation": "籒文从癶<span>[<span>𣥠</span>]</span>从矢<span>[<span>𠓡</span>]</span>。",
+            "seal_character": "磎"
+        }
+    ],
+    "seal_character": "磍",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "矢",
+        "癸",
+        "癶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "冬時水土平。可揆度也。",
+            "note": "揆癸曡䪨。律書曰。癸之爲言揆也。言萬物可揆度。律曆志曰。陳揆於癸。"
+        },
+        {
+            "explanation": "象水從四方流入地中之形。",
+            "note": "居誄切。十五部。"
+        },
+        {
+            "explanation": "癸承壬。象人足。",
+            "note": "冡大一經。"
+        },
+        {
+            "explanation": "籒文。从𣥠。从矢。",
+            "note": "癸像人足。故从𣥠。矢聲。癸本古文。小篆因之不改。故先篆後籒。而艸部葵作𦮙。手部作揆。知古形聲兼取二形也。"
+        }
+    ],
+    "indexes": [
+        "癸",
+        "𤼩"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 2712,
+    "wordhead": "𦚙",
+    "explanation": "食所遺也。从肉仕聲。《易》曰：“噬乾𦚙。”",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "阻史切",
+    "variants": [
+        {
+            "wordhead": "𦛎",
+            "explanation": "楊雄說：𡌵从𠂔<span>[<span>𠥽</span>]</span>。",
+            "seal_character": "娤"
+        }
+    ],
+    "seal_character": "娣",
+    "pinyin": "zi",
+    "pinyin_full": "zǐ",
+    "components": [
+        "肉",
+        "仕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "食所遺也。",
+            "note": "馬融、陸績皆曰。肉有骨謂之？。說文、字林作？。訓爲食所遺。葢孟本孟說與。"
+        },
+        {
+            "explanation": "从肉。仕聲。",
+            "note": "阻史切。古音在一部。"
+        },
+        {
+            "explanation": "易曰。噬乾𦚙。",
+            "note": "今鍇本此下衍止字。噬嗑九四爻辭。"
+        },
+        {
+            "explanation": "楊雄說𦚙从𪩲。",
+            "note": "葢訓纂篇中字如此作。馬、鄭易同楊。鄭云。？、簀也。葢謂？爲？之假借。其說未聞。？當在十五部。而與？同字者合韵之理也。"
+        }
+    ],
+    "indexes": [
+        "𦚙",
+        "𦛎"
+    ]
+}

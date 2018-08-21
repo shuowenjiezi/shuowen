@@ -1,0 +1,43 @@
+{
+    "id": 2734,
+    "wordhead": "㓵",
+    "explanation": "刀劒刃也。从刀㖾聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "五各切",
+    "variants": [
+        {
+            "wordhead": "㗉",
+            "explanation": "籒文𠟎从㓞从各。",
+            "seal_character": "婀"
+        }
+    ],
+    "seal_character": "娿",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "刀",
+        "各",
+        "咢"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作鍔，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刀劒刃也。",
+            "note": "淮南脩務訓。摩其鋒？。王子淵聖主得賢臣頌、漢書作越砥斂其咢。文𨕖作鍔。"
+        },
+        {
+            "explanation": "从刀。㖾聲。",
+            "note": "五各切。五部。"
+        },
+        {
+            "explanation": "籒文𠟎。从㓞各。",
+            "note": "各聲與？聲同部。釋詁。剡㗉利也。陸德明本作㗉。顏籒、孔沖遠引作略。周頌。有略其耜。毛云。略、利也。張揖古今字詁云。略古作㗉。以說文折衷之。㗉者古字。？者今字。？者正字。略者假借字。"
+        }
+    ],
+    "indexes": [
+        "㓵",
+        "㗉"
+    ]
+}

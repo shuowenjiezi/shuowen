@@ -1,0 +1,43 @@
+{
+    "id": 941,
+    "wordhead": "舌",
+    "explanation": "塞口也。从口，氒省聲。(氒，音厥。)",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "古活切",
+    "variants": [
+        {
+            "wordhead": "𤯁",
+            "explanation": "古文从甘<span>[<span>𤮺</span>]</span>。",
+            "seal_character": "刕"
+        }
+    ],
+    "seal_character": "刔",
+    "pinyin": "gua",
+    "pinyin_full": "ɡuā",
+    "components": [
+        "口",
+        "甘",
+        "氒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "塞口也。",
+            "note": "廣雅釋詁曰。𠯑、塞也。易巛六二。𢬸囊无咎。𢬸卽𠯑字也。"
+        },
+        {
+            "explanation": "从口。氐省聲。",
+            "note": "氐卽氏部氒字。𣜩變或作氒。或作牙。凡𠯑聲字𣜩變皆爲舌。如括刮之類。古活切。十五部。"
+        },
+        {
+            "explanation": "古文从甘。",
+            "note": "戴先生曰。古文？不省。誤爲从甘。按汗𥳑、古文四聲韵云。𠯑？皆同厥。出古尙書。？卽？字不省者也。"
+        }
+    ],
+    "indexes": [
+        "舌",
+        "𤯁"
+    ]
+}

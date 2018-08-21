@@ -1,0 +1,53 @@
+{
+    "id": 9065,
+    "wordhead": "圮",
+    "explanation": "毀也。《虞書》曰：“方命圮族。”从土己聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "符鄙切",
+    "variants": [
+        {
+            "wordhead": "䤏",
+            "explanation": "圮或从手从非，配省聲。",
+            "seal_character": "痸"
+        }
+    ],
+    "seal_character": "痷",
+    "pinyin": "pi",
+    "pinyin_full": "pǐ",
+    "components": [
+        "土",
+        "非",
+        "己",
+        "手",
+        "配"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "毀也。",
+            "note": "廣韵。岸毀。又覆也。"
+        },
+        {
+            "explanation": "从土。己聲。",
+            "note": "符鄙切。古音在一部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞當作唐。說在禾部。"
+        },
+        {
+            "explanation": "方命圮族。",
+            "note": "堯典文。"
+        },
+        {
+            "explanation": "圮或从手、配省。非聲。",
+            "note": "大徐作从手、从非、配省聲。未知孰是。此葢卽屵部之？嶏字。其音義皆略同也。"
+        }
+    ],
+    "indexes": [
+        "圮",
+        "䤏"
+    ]
+}

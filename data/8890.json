@@ -1,0 +1,55 @@
+{
+    "id": 8890,
+    "wordhead": "虹",
+    "explanation": "螮蝀也。狀似蟲。从虫工聲。《明堂月令》曰：“虹始見。”",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "戶工切",
+    "variants": [
+        {
+            "wordhead": "𧍺",
+            "explanation": "籒文虹从申<span>[<span>𦥔</span>]</span>。申<span>[<span>𢑚</span><span>𦥔</span>]</span>，電也。",
+            "seal_character": "甙"
+        }
+    ],
+    "seal_character": "甘",
+    "pinyin": "hong",
+    "pinyin_full": "hónɡ",
+    "components": [
+        "申",
+        "工",
+        "虫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "螮蝀也。",
+            "note": "釋天曰。螮蝀謂之雩。螮蝀、虹也。毛傳同。"
+        },
+        {
+            "explanation": "狀佀虫。",
+            "note": "虫各本作蟲。今正。虫者、它也。虹似它。故字从虫。"
+        },
+        {
+            "explanation": "从虫。工聲。",
+            "note": "户工切。九部。"
+        },
+        {
+            "explanation": "朙堂月令曰虹始見。",
+            "note": "季春文。"
+        },
+        {
+            "explanation": "籒文虹。从申。",
+            "note": "會意。申部曰。昌、籒文申。"
+        },
+        {
+            "explanation": "申、電也。",
+            "note": "電者、陰陽激燿也。虹似之。取以會意。"
+        }
+    ],
+    "indexes": [
+        "虹",
+        "𧍺"
+    ]
+}

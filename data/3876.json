@@ -1,0 +1,30 @@
+{
+    "id": 3876,
+    "wordhead": "巢",
+    "explanation": "鳥在木上曰巢，在穴曰窠。从木，象形。凡巢之屬皆从巢。",
+    "volume": "06",
+    "radical": "巢",
+    "pronunciation": "鉏交切",
+    "variants": [],
+    "seal_character": "彮",
+    "pinyin": "chao",
+    "pinyin_full": "cháo",
+    "components": [
+        "巢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥在木上曰巢。在穴曰窠。",
+            "note": "穴部曰。穴中曰窠。樹上曰巢。巢之言高也。窠之言空也。在穴之鳥、如鴝鵒之屬。今江蘇語言通名禽獸所止曰窠。"
+        },
+        {
+            "explanation": "从木。象形。",
+            "note": "象其架高之形。鉏交切。二部。"
+        }
+    ],
+    "indexes": [
+        "巢"
+    ]
+}

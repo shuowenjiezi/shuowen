@@ -1,0 +1,35 @@
+{
+    "id": 7409,
+    "wordhead": "萍",
+    "explanation": "苹也。水艸也。从水、苹，苹亦聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "薄經切",
+    "variants": [],
+    "seal_character": "溫",
+    "pinyin": "ping",
+    "pinyin_full": "pínɡ",
+    "components": [
+        "水",
+        "苹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "苹也。",
+            "note": "苹蓱二篆見艸部。篇、韵皆云。萍蓱同字。疑許書本有萍無蓱。小正、毛詩、爾雅皆作苹。爾雅、毛傳皆曰蓱也。蓱卽萍之別字。周禮萍氏、疑本作苹氏。然則說文艸部苹下曰萍也、與水部萍下曰苹也爲轉注。不當有蓱篆。"
+        },
+        {
+            "explanation": "水艸也。从水苹。",
+            "note": "水艸也三字、釋从水之意。"
+        },
+        {
+            "explanation": "苹亦聲。",
+            "note": "薄經切。十一部。"
+        }
+    ],
+    "indexes": [
+        "萍"
+    ]
+}

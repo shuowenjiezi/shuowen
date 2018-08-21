@@ -1,0 +1,35 @@
+{
+    "id": 6765,
+    "wordhead": "恤",
+    "explanation": "憂也。收也。从心血聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "辛聿切",
+    "variants": [],
+    "seal_character": "氀",
+    "pinyin": "xu",
+    "pinyin_full": "xù",
+    "components": [
+        "血",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢝊也。",
+            "note": "𢝊各本作憂。今正。釋詁及小雅杕杜、祈父傳皆曰。恤。憂也。按卪部曰。卹、𢝊也。比部引周書無毖于卹。今尙書作恤。恤與卹音義皆同。又疑古衹有卹。恤其或體。"
+        },
+        {
+            "explanation": "收也。",
+            "note": "當依玉篇作救也。"
+        },
+        {
+            "explanation": "从心。血聲。",
+            "note": "辛聿切。十二部。"
+        }
+    ],
+    "indexes": [
+        "恤"
+    ]
+}

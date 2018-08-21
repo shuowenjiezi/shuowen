@@ -1,0 +1,28 @@
+{
+    "id": 56,
+    "wordhead": "禦",
+    "explanation": "祀也。从示御聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "魚舉切",
+    "variants": [],
+    "seal_character": "么",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "示",
+        "御"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祀也。从示。御聲。",
+            "note": "後人用此爲禁禦字。疑舉切。五部。古只用御字。"
+        }
+    ],
+    "indexes": [
+        "御",
+        "禦"
+    ]
+}

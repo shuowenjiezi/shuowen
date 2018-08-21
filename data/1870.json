@@ -1,0 +1,49 @@
+{
+    "id": 1870,
+    "wordhead": "䰞",
+    "explanation": "孚也。从𩰲者聲。",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "章與切",
+    "variants": [
+        {
+            "wordhead": "煑",
+            "explanation": "䰞或从火。",
+            "seal_character": "噉"
+        },
+        {
+            "wordhead": "𩱰",
+            "explanation": "䰞或从水在其中。",
+            "seal_character": "噊"
+        }
+    ],
+    "seal_character": "噈",
+    "pinyin": "zhu",
+    "pinyin_full": "zhǔ",
+    "components": [
+        "水",
+        "火",
+        "者"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亯也。",
+            "note": "亯普庚切。𩰱、䰞也。䰞下當云𩰱也。經傳用亯、用烹乃𩰱之假借字耳。亯部曰。獻也。不訓䰞。"
+        },
+        {
+            "explanation": "从䰜。者聲。",
+            "note": "章與切。五部。按惟周禮作䰞。"
+        },
+        {
+            "explanation": "䰞或从水。",
+            "note": "水在鬲中會意。"
+        }
+    ],
+    "indexes": [
+        "䰞",
+        "煑",
+        "𩱰"
+    ]
+}

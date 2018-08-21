@@ -1,0 +1,35 @@
+{
+    "id": 5508,
+    "wordhead": "歇",
+    "explanation": "息也。一曰气越泄。从欠曷聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "許謁切",
+    "variants": [],
+    "seal_character": "暄",
+    "pinyin": "xie",
+    "pinyin_full": "xiē",
+    "components": [
+        "欠",
+        "曷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "息也。",
+            "note": "息者、鼻息也。息之義引伸爲休息。故歇之義引伸爲止歇。"
+        },
+        {
+            "explanation": "一曰气越泄。",
+            "note": "泄當作渫。此別一義。越渫猶漏溢也。七發曰。精神越渫。百病或生。李引高注吕氏春秋曰。越、散也。引鄭玄毛詩箋曰。渫、發也。"
+        },
+        {
+            "explanation": "从欠。曷聲。讀若香臭盡歇。",
+            "note": "許謁切。十五部。"
+        }
+    ],
+    "indexes": [
+        "歇"
+    ]
+}

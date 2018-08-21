@@ -1,0 +1,46 @@
+{
+    "id": 8088,
+    "wordhead": "姻",
+    "explanation": "壻家也。女之所因，故曰姻。从女从因，因亦聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "於眞切",
+    "variants": [
+        {
+            "wordhead": "婣",
+            "explanation": "籒文姻从𣶒。",
+            "seal_character": "熢"
+        }
+    ],
+    "seal_character": "熡",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "女",
+        "因"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "壻家也。",
+            "note": "釋親曰。壻之父爲姻。婦之父母、壻之父母相謂爲婚姻。壻之黨爲姻兄弟。周禮。六行、孝友睦婣任恤。注云。婣者、親於外親。引申之義也。"
+        },
+        {
+            "explanation": "女之所因故曰姻。",
+            "note": "因者、就也。"
+        },
+        {
+            "explanation": "从女因。因亦聲。",
+            "note": "於眞切。十二部。"
+        },
+        {
+            "explanation": "籒文姻。从𣶒。",
+            "note": "𣶒聲也。周禮如此作。"
+        }
+    ],
+    "indexes": [
+        "姻",
+        "婣"
+    ]
+}

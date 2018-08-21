@@ -1,0 +1,35 @@
+{
+    "id": 254,
+    "wordhead": "芓",
+    "explanation": "麻母也。从艸子聲。一曰芓卽枲也。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "疾吏切",
+    "variants": [],
+    "seal_character": "伮",
+    "pinyin": "zi",
+    "pinyin_full": "zì",
+    "components": [
+        "艸",
+        "子"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "麻母也。",
+            "note": "見釋艸。今爾雅作茡。按釋艸云。黂、枲實。枲實猶言麻實耳。儀禮傳云。牡麻者枲麻也。然則枲無實。芓乃有實。統言則皆偁枲。析言則有實者偁芓、無實者偁枲。麻母言麻子之母。喪服所謂苴。斬衰皃若苴。齊衰皃若枲。苴麤於枲矣。詩九月叔苴。則又𧦝麻子爲苴。"
+        },
+        {
+            "explanation": "从艸。子聲。",
+            "note": "疾吏切。一部。"
+        },
+        {
+            "explanation": "一曰。芓卽枲也。",
+            "note": "此字義之別說也。芓枲不分。故云枲實。"
+        }
+    ],
+    "indexes": [
+        "芓"
+    ]
+}

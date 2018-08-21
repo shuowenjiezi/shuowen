@@ -1,0 +1,32 @@
+{
+    "id": 5019,
+    "wordhead": "併",
+    "explanation": "並也。从人并聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "卑正切",
+    "variants": [],
+    "seal_character": "摳",
+    "pinyin": "bing",
+    "pinyin_full": "bìnɡ",
+    "components": [
+        "人",
+        "并"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竝也。",
+            "note": "十篇曰。竝者、倂也。與此爲互訓。並古音在十部。讀如旁。倂古音在十一部。讀如幷。竝倂義有別。許互訓者、禮經注曰古文並今文作倂。是古二字同也。"
+        },
+        {
+            "explanation": "从人。幷聲。",
+            "note": "此舉形聲包會意。卑正切。十一部。"
+        }
+    ],
+    "indexes": [
+        "并",
+        "併"
+    ]
+}

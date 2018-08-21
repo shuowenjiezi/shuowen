@@ -1,0 +1,51 @@
+{
+    "id": 5563,
+    "wordhead": "㱃",
+    "explanation": "歠也。从欠酓聲。凡㱃之屬皆从㱃。",
+    "volume": "08",
+    "radical": "㱃",
+    "pronunciation": "於錦切",
+    "variants": [
+        {
+            "wordhead": "𣲎",
+            "explanation": "古文㱃从今、水。",
+            "seal_character": "曁"
+        },
+        {
+            "wordhead": "𩚜",
+            "explanation": "古文㱃从今、食。",
+            "seal_character": "曂"
+        }
+    ],
+    "seal_character": "曀",
+    "pinyin": "yin",
+    "pinyin_full": "yǐn",
+    "components": [
+        "今",
+        "水",
+        "欠",
+        "酓",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "歠也。",
+            "note": "易蒙封虞注曰。水流入口爲飲。引伸之、可飲之物謂之飲。如周禮四飲是也。與人飲之謂之飲。俗讀去聲。如左傳飲之酒是也。又消納無迹謂之飲。漢書朱家傳飲其德猶隱其德也。"
+        },
+        {
+            "explanation": "从欠。酓聲。",
+            "note": "酓从酉、今聲。見酉部於錦切。七部。𥻳作飲。"
+        },
+        {
+            "explanation": "古文㱃。从今食。",
+            "note": "从食、今聲也。𥻳用此。"
+        }
+    ],
+    "indexes": [
+        "㱃",
+        "𣲎",
+        "𩚜"
+    ]
+}

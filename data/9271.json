@@ -1,0 +1,32 @@
+{
+    "id": 9271,
+    "wordhead": "錠",
+    "explanation": "鐙也。从金定聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "丁定切",
+    "variants": [],
+    "seal_character": "盢",
+    "pinyin": "ding",
+    "pinyin_full": "dìnɡ",
+    "components": [
+        "金",
+        "定"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鐙也。",
+            "note": "廣韵曰。豆有足曰錠。無足曰鐙。玄應引聲類無豆字。誤矣。"
+        },
+        {
+            "explanation": "从金。定聲。",
+            "note": "丁定切。十一部。"
+        }
+    ],
+    "indexes": [
+        "锭",
+        "錠"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8078,
+    "wordhead": "姺",
+    "explanation": "殷諸侯爲亂，疑姓也。从女先聲。《春秋傳》曰：“商有姺邳。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "所臻切",
+    "variants": [],
+    "seal_character": "熖",
+    "pinyin": "shen",
+    "pinyin_full": "shēn",
+    "components": [
+        "女",
+        "先"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "殷諸侯爲亂。",
+            "note": "昭元年左傳曰。王伯之令也。猶不可壹。於是乎虞有三苗。夏有觀、扈。商有姺、邳。周有徐、奄。皆謂當時作亂之諸侯也。"
+        },
+        {
+            "explanation": "疑姓也。",
+            "note": "嫌姺是國名、故曰疑。疑者不定之䛐也。姺从女、葢以姓爲國名。"
+        },
+        {
+            "explanation": "从女。先聲。",
+            "note": "所臻切。古音在十三部。廣韵入二十七銑。"
+        }
+    ],
+    "indexes": [
+        "姺"
+    ]
+}

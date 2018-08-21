@@ -1,0 +1,39 @@
+{
+    "id": 2076,
+    "wordhead": "庸",
+    "explanation": "用也。从用从庚。庚，更事也。《易》曰：“先庚三日。”",
+    "volume": "03",
+    "radical": "用",
+    "pronunciation": "余封切",
+    "variants": [],
+    "seal_character": "坊",
+    "pinyin": "yong",
+    "pinyin_full": "yōnɡ",
+    "components": [
+        "用",
+        "庚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "用也。",
+            "note": "㬪韵。"
+        },
+        {
+            "explanation": "从用庚。",
+            "note": "會意。余封切。九部。"
+        },
+        {
+            "explanation": "庚、更事也。",
+            "note": "庚更同音。說從庚之意。"
+        },
+        {
+            "explanation": "易曰。先庚三日。",
+            "note": "巽九五爻辭。先庚三日者、先事而圖更也。引以證用庚爲庸。與？寷引易同意。說見艸部䕻下。"
+        }
+    ],
+    "indexes": [
+        "庸"
+    ]
+}

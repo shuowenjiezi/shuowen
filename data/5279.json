@@ -1,0 +1,31 @@
+{
+    "id": 5279,
+    "wordhead": "褍",
+    "explanation": "衣正幅。从衣耑聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "多官切",
+    "variants": [],
+    "seal_character": "斈",
+    "pinyin": "duan",
+    "pinyin_full": "duān",
+    "components": [
+        "耑",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣正幅。",
+            "note": "凡衣及裳不衺殺之幅曰褍。左傳端委。杜注。禮衣端正無殺故曰端。周禮。士有玄端、素端。鄭云。端者、取其正也。按褍者、正幅之名。非衣名。巾部㡏下曰。正褍裂。"
+        },
+        {
+            "explanation": "从衣。耑聲。",
+            "note": "多官切。十四部。"
+        }
+    ],
+    "indexes": [
+        "褍"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 2994,
+    "wordhead": "篽",
+    "explanation": "禁苑也。从竹御聲。《春秋傳》曰：“澤之目篽。”",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "魚舉切",
+    "variants": [
+        {
+            "wordhead": "𩵎",
+            "explanation": "篽或从又魚<span>[<span>𤋳</span>]</span>聲。",
+            "seal_character": "学"
+        }
+    ],
+    "seal_character": "孥",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "又",
+        "御",
+        "竹",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禁苑也。",
+            "note": "宣帝紀。詔池籞未御幸者。假與貧民。蘇林曰。折竹以繩綿連禁禦。使人不得往來。律名爲籞。應劭曰。籞者、禁苑也。按蘇、應說與許合。元帝紀。詔罷嚴籞池田。假與貧民。西京賦云。洪池淸籞。淸籞猶漢書云嚴篽也。晉灼釋嚴籞爲射苑。故引許䉷字之解。謂嚴與䉷同。可以訓射。亦迂曲矣。"
+        },
+        {
+            "explanation": "从竹。御聲。",
+            "note": "魚舉切。五部。"
+        },
+        {
+            "explanation": "春秋傳曰。澤之自篽。",
+            "note": "自當作舟。昭二十年左傳曰。澤之萑蒲。舟鮫守之。鮫當是𩵎誤。許所據竟作舟篽耳。魯語有舟虞、同也。"
+        },
+        {
+            "explanation": "篽或作𩵎。从又。从魚。",
+            "note": "从又者、取扞衞之意。"
+        }
+    ],
+    "indexes": [
+        "篽",
+        "𩵎"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 816,
+    "wordhead": "味",
+    "explanation": "滋味也。从口未聲。　",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "無沸切",
+    "variants": [],
+    "seal_character": "冊",
+    "pinyin": "wei",
+    "pinyin_full": "wèi",
+    "components": [
+        "口",
+        "未"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "滋味也。",
+            "note": "滋言多也。"
+        },
+        {
+            "explanation": "从口。未聲。",
+            "note": "無沸切。十五部。"
+        }
+    ],
+    "indexes": [
+        "味"
+    ]
+}

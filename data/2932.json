@@ -1,0 +1,39 @@
+{
+    "id": 2932,
+    "wordhead": "簏",
+    "explanation": "竹高篋也。从竹鹿聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "盧谷切",
+    "variants": [
+        {
+            "wordhead": "箓",
+            "explanation": "簏或从录<span>[<span>𢑗</span>]</span>。",
+            "seal_character": "嬢"
+        }
+    ],
+    "seal_character": "嬣",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "录",
+        "竹",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竹高匧也。",
+            "note": "匧之高者。竹爲之。"
+        },
+        {
+            "explanation": "从竹。鹿聲。",
+            "note": "盧谷切。三部。"
+        }
+    ],
+    "indexes": [
+        "簏",
+        "箓"
+    ]
+}

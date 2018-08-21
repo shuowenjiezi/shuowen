@@ -1,0 +1,43 @@
+{
+    "id": 438,
+    "wordhead": "菣",
+    "explanation": "香蒿也。从艸臤聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "去刃切",
+    "variants": [
+        {
+            "wordhead": "𦸃",
+            "explanation": "菣或从堅。",
+            "seal_character": "俳"
+        }
+    ],
+    "seal_character": "俲",
+    "pinyin": "qin",
+    "pinyin_full": "qìn",
+    "components": [
+        "艸",
+        "臤",
+        "堅"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "香蒿也。",
+            "note": "詩。食野之蒿。爾雅、毛傳皆云。蒿、菣也。郭樸云。今人呼爲靑蒿。香中炙啖者爲菣。"
+        },
+        {
+            "explanation": "从艸。臤聲。",
+            "note": "去刃切。十二部。"
+        },
+        {
+            "explanation": "菣或从堅。",
+            "note": "按陸德明曰。菣、字林作？。"
+        }
+    ],
+    "indexes": [
+        "菣",
+        "𦸃"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": 3177,
+    "wordhead": "阱",
+    "explanation": "陷也。从𨸏从井，井亦聲。",
+    "volume": "05",
+    "radical": "井",
+    "pronunciation": "疾正切",
+    "variants": [
+        {
+            "wordhead": "穽",
+            "explanation": "阱或从穴。",
+            "seal_character": "届"
+        },
+        {
+            "wordhead": "汬",
+            "explanation": "古文阱从水。",
+            "seal_character": "屋"
+        }
+    ],
+    "seal_character": "屉",
+    "pinyin": "jing",
+    "pinyin_full": "jǐnɡ",
+    "components": [
+        "水",
+        "穴",
+        "井",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "陷也。",
+            "note": "穿地陷獸。"
+        },
+        {
+            "explanation": "从𨸏丼。",
+            "note": "於大陸作之如井。"
+        },
+        {
+            "explanation": "丼亦聲。",
+            "note": "疾正切。十一部。"
+        },
+        {
+            "explanation": "阱或从穴。",
+            "note": "中庸音義曰。阱本作穽同。引說文穽或阱字也。今本釋文於或下妄沾爲字。按古本說文多云某或某字。見於經典釋文者往往如是。周禮注所謂古字多或也。今本說文盡改之云某或作某。非古也。若讀釋文竄改者、則益可𣢑矣。"
+        },
+        {
+            "explanation": "古文阱。从水。",
+            "note": "鍇本作阱或从水。玉篇云。古文作汬。"
+        }
+    ],
+    "indexes": [
+        "阱",
+        "穽",
+        "汬"
+    ]
+}

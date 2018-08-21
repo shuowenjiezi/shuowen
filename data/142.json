@@ -1,0 +1,40 @@
+{
+    "id": 142,
+    "wordhead": "瑩",
+    "explanation": "玉色。从玉，熒省聲。一曰石之次玉者。《逸論語》曰：“如玉之瑩。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "烏定切",
+    "variants": [],
+    "seal_character": "亭",
+    "pinyin": "ying",
+    "pinyin_full": "yínɡ",
+    "components": [
+        "玉",
+        "熒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉色也。",
+            "note": "謂玉光明之皃。引伸爲磨。瑩亦作鎣。"
+        },
+        {
+            "explanation": "从王。熒省聲。",
+            "note": "李善引說文烏明切。唐韻烏定切。十一部。"
+        },
+        {
+            "explanation": "一曰石之次玉者。",
+            "note": "此字義之別說也。齊風傳曰。瑩、石似玉也。衞風傳曰。瑩、美玉也。"
+        },
+        {
+            "explanation": "逸論語曰。如玉之瑩。",
+            "note": "此葢引證玉色之義。"
+        }
+    ],
+    "indexes": [
+        "莹",
+        "瑩"
+    ]
+}

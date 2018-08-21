@@ -1,0 +1,31 @@
+{
+    "id": 3350,
+    "wordhead": "致",
+    "explanation": "送詣也。从夊从至。",
+    "volume": "05",
+    "radical": "夊",
+    "pronunciation": "陟利切",
+    "variants": [],
+    "seal_character": "崨",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "夊",
+        "至"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "送詣也。",
+            "note": "言部曰。詣、候至也。送詣者、送而必至其処也。引伸爲召致之致。又爲精致之致。月令必工致爲上是也。精致、漢人衹作致。糸部緻字、徐鉉所增。凡鄭注俗本乃有緻。"
+        },
+        {
+            "explanation": "从夊。从至。",
+            "note": "夊猶送也。陟利切。十五部。"
+        }
+    ],
+    "indexes": [
+        "致"
+    ]
+}

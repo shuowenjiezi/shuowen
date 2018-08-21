@@ -1,0 +1,31 @@
+{
+    "id": 4343,
+    "wordhead": "牒",
+    "explanation": "札也。从片枼聲。",
+    "volume": "07",
+    "radical": "片",
+    "pronunciation": "徒叶切",
+    "variants": [],
+    "seal_character": "慭",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "枼",
+        "片"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "札也。",
+            "note": "木部云。札、牒也。左傳曰。右師不敢對。受牒而退。司馬貞曰。牒、小木札也。按厚者爲牘。薄者爲牒。牒之言枼也。葉也。竹部䈎義略同。史記叚諜爲牒。"
+        },
+        {
+            "explanation": "从片。枼聲。",
+            "note": "徒叶切。八部。"
+        }
+    ],
+    "indexes": [
+        "牒"
+    ]
+}

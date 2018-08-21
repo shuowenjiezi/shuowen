@@ -1,0 +1,43 @@
+{
+    "id": 6710,
+    "wordhead": "恕",
+    "explanation": "仁也。从心如聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "商署切",
+    "variants": [
+        {
+            "wordhead": "㣽",
+            "explanation": "古文省。",
+            "seal_character": "毄"
+        }
+    ],
+    "seal_character": "毃",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "女",
+        "如",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "仁也。",
+            "note": "孔子曰。能近取譬。可謂仁之方也矣。孟子曰。彊恕而行。求仁莫近焉。是則爲仁不外於恕。析言之則有別。渾言之則不別也。仁者、親也。"
+        },
+        {
+            "explanation": "从心。如聲。",
+            "note": "商署切。五部。"
+        },
+        {
+            "explanation": "古文省。",
+            "note": "从女聲。"
+        }
+    ],
+    "indexes": [
+        "恕",
+        "㣽"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1429,
+    "wordhead": "嗣",
+    "explanation": "諸侯嗣國也。从冊从口，司聲。",
+    "volume": "02",
+    "radical": "冊",
+    "pronunciation": "祥吏切",
+    "variants": [
+        {
+            "wordhead": "孠",
+            "explanation": "古文嗣从子。",
+            "seal_character": "吺"
+        }
+    ],
+    "seal_character": "吹",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "司",
+        "口",
+        "子",
+        "冊"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“冊必於廟。史讀其冊，故从口。”",
+    "duan_notes": [
+        {
+            "explanation": "諸侯嗣國也。",
+            "note": "引伸爲凡繼嗣之偁。"
+        },
+        {
+            "explanation": "从𠕋口。",
+            "note": "小徐曰。𠕋必於廟。史讀其𠕋。故从口。按當是从囗、音圍。囗者、國象也。故曰諸侯嗣國。"
+        },
+        {
+            "explanation": "司聲。",
+            "note": "祥吏切。一部。"
+        }
+    ],
+    "indexes": [
+        "嗣",
+        "孠"
+    ]
+}

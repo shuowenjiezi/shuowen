@@ -1,0 +1,50 @@
+{
+    "id": 8677,
+    "wordhead": "繘",
+    "explanation": "綆也。从糸矞聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "余聿切",
+    "variants": [
+        {
+            "wordhead": "𦇹",
+            "explanation": "古文从絲。",
+            "seal_character": "琫"
+        },
+        {
+            "wordhead": "𦈇",
+            "explanation": "籒文繘。",
+            "seal_character": "琬"
+        }
+    ],
+    "seal_character": "琪",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "矞",
+        "臼",
+        "糸",
+        "絲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䌄也。",
+            "note": "易井卦。汽至亦未繘井。羸其瓶。鄭云。繘、綆也。方言曰。繘、自關而東周洛韓魏之閒謂之綆。或謂之絡。關西謂之繘。"
+        },
+        {
+            "explanation": "从糸。矞聲。",
+            "note": "余聿切。十五部。"
+        },
+        {
+            "explanation": "籒文繘。",
+            "note": "从絲又从𦥑也。𦥑者、叉手也。"
+        }
+    ],
+    "indexes": [
+        "繘",
+        "𦇹",
+        "𦈇"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 3054,
+    "wordhead": "粵",
+    "explanation": "亏也。審愼之詞者。从亏从宷。《周書》曰：“粤三日丁亥。”",
+    "volume": "05",
+    "radical": "亏",
+    "pronunciation": "王伐切",
+    "variants": [],
+    "seal_character": "宷",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "亏",
+        "宷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亏也。",
+            "note": "釋詁曰。粤于爰曰也。爰粤于也。爰粤于那都繇於也。粤與于雙聲。而又从亏。則亦象气舒于也。詩書多假越爲粤。箋云。越、於也。又假曰爲粤。"
+        },
+        {
+            "explanation": "宷愼之䛐也。",
+            "note": "也各本作者。今正。此說从宷之意。粤亏皆訓於。而粤尤爲宷度愼重之䛐。故从宷。"
+        },
+        {
+            "explanation": "从宷亏。",
+            "note": "宷愼而言之也。王伐切。十五部。"
+        },
+        {
+            "explanation": "周書曰。粤三日丁亥。",
+            "note": "今召誥越三日丁巳。亥當作巳。"
+        }
+    ],
+    "indexes": [
+        "粤",
+        "粵"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 3430,
+    "wordhead": "梣",
+    "explanation": "青皮木。从木岑聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "子林切",
+    "variants": [
+        {
+            "wordhead": "𣘕",
+            "explanation": "或从𡩠省。𡩠，籒文𡪢。",
+            "seal_character": "嶇"
+        }
+    ],
+    "seal_character": "嶆",
+    "pinyin": "cen",
+    "pinyin_full": "cén",
+    "components": [
+        "木",
+        "岑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "靑皮木。",
+            "note": "淮南書曰。夫梣木色靑瘉翳。而蠃蝸瘉睆。此皆治目之藥也。高曰。梣木、苦歷木名也生於山。剝其皮以水浸之。正靑。用洗眼。瘉人目中膚翳。正文各本譌誤。今考定如是。按本艸經謂之秦皮。以一名岑皮而聲誤作秦耳。其木一名石檀。陶隱居云是樊槻木。槻音規。集韵云。江南樊雞木。其皮人水綠色。可解膠益墨。樊雞卽樊槻也。"
+        },
+        {
+            "explanation": "从木。岑聲。",
+            "note": "子林切。七部。玉篇作今切。"
+        },
+        {
+            "explanation": "或从𡩠省。𡩠籒文𡪢。",
+            "note": "見宀部。"
+        }
+    ],
+    "indexes": [
+        "梣",
+        "𣘕"
+    ]
+}

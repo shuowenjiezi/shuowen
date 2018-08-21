@@ -1,0 +1,43 @@
+{
+    "id": 2531,
+    "wordhead": "殪",
+    "explanation": "死也。从歺壹聲。",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "於計切",
+    "variants": [
+        {
+            "wordhead": "𣩉",
+            "explanation": "古文殪从死<span>[<span>𠒁</span>]</span>。",
+            "seal_character": "奚"
+        }
+    ],
+    "seal_character": "奙",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "歺",
+        "死",
+        "壹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "死也。",
+            "note": "左傳。聲子射其馬。斬鞅。殪。將擊子車。子車射之。殪。小雅毛傳、文穎注上林賦皆曰。壹發而死爲殪。是也。故其字從壹。按尚書言殪戎殷。殪、仆也。此引伸之義。中庸言壹戎衣。注。衣讀爲殷。聲之誤也。壹戎殷者、壹用兵伐殷也。郭忠恕佩觿乃引鄭注云。壹當爲殪。此記憶之誤耳。凡恃記憶而不檢閲者多此病。"
+        },
+        {
+            "explanation": "从𣦵。壹聲。",
+            "note": "形聲包㑹意。於計切。古音在十二部。"
+        },
+        {
+            "explanation": "古文殪。从死。",
+            "note": "從古文死。壹省聲。"
+        }
+    ],
+    "indexes": [
+        "殪",
+        "𣩉"
+    ]
+}

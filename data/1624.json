@@ -1,0 +1,39 @@
+{
+    "id": 1624,
+    "wordhead": "䛬",
+    "explanation": "往來言也。一曰小兒未能正言也。一曰祝也。从言匋聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "大牢切",
+    "variants": [
+        {
+            "wordhead": "䛌",
+            "explanation": "䛬或从包。",
+            "seal_character": "唗"
+        }
+    ],
+    "seal_character": "唖",
+    "pinyin": "tao",
+    "pinyin_full": "táo",
+    "components": [
+        "言",
+        "包",
+        "匋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往來言也。一曰小兒未能正言也。一曰祝也。从言。匋聲。",
+            "note": "大牢切。古音在三部。"
+        },
+        {
+            "explanation": "䛬或从包。",
+            "note": "匋聲包聲同在三部。"
+        }
+    ],
+    "indexes": [
+        "䛬",
+        "䛌"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5515,
+    "wordhead": "歌",
+    "explanation": "詠也。从欠哥聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "古俄切",
+    "variants": [
+        {
+            "wordhead": "謌",
+            "explanation": "謌<span>{<span>歌</span>}</span>或从言。",
+            "seal_character": "暍"
+        }
+    ],
+    "seal_character": "暌",
+    "pinyin": "ge",
+    "pinyin_full": "ɡē",
+    "components": [
+        "言",
+        "欠",
+        "哥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "詠也。",
+            "note": "言部曰。詠、歌也。二字爲轉注。"
+        },
+        {
+            "explanation": "从欠。哥聲。",
+            "note": "古俄切。十七部。"
+        },
+        {
+            "explanation": "歌或从言。",
+            "note": "歌永言、故从言。可部曰。哥、聲也。古文以爲謌字。"
+        }
+    ],
+    "indexes": [
+        "歌",
+        "謌"
+    ]
+}

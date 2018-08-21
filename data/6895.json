@@ -1,0 +1,35 @@
+{
+    "id": 6895,
+    "wordhead": "慁",
+    "explanation": "憂也。从心圂聲。一曰擾也。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "胡困切",
+    "variants": [],
+    "seal_character": "沋",
+    "pinyin": "hun",
+    "pinyin_full": "hùn",
+    "components": [
+        "心",
+        "圂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢝊也。",
+            "note": "昭六年左傳曰。主不慁賓。杜云。慁、患也。"
+        },
+        {
+            "explanation": "从心。圂聲。",
+            "note": "胡困切。十三部。"
+        },
+        {
+            "explanation": "一曰𢺕也。",
+            "note": "禮記儒行。不慁君王。陸賈傳。無久慁公爲也。"
+        }
+    ],
+    "indexes": [
+        "慁"
+    ]
+}

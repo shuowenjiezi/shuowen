@@ -1,0 +1,47 @@
+{
+    "id": 1368,
+    "wordhead": "蹶",
+    "explanation": "僵也。从足厥聲。一曰跳也。亦讀若橜。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "居月切",
+    "variants": [
+        {
+            "wordhead": "𨇮",
+            "explanation": "蹶或从闕。",
+            "seal_character": "司"
+        }
+    ],
+    "seal_character": "号",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "厥",
+        "足",
+        "闕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "僵也。",
+            "note": "僵、僨也。方言。跌、蹷也。左傳。是謂蹷其本。"
+        },
+        {
+            "explanation": "从足。厥聲。",
+            "note": "居月切。十五部。"
+        },
+        {
+            "explanation": "一曰跳也。",
+            "note": "孟子。今夫蹶者趨者。是氣也。而反動其心。"
+        },
+        {
+            "explanation": "讀亦若橜。",
+            "note": "亦者、謂讀若厥矣又讀若橜也。橜瞿月切。"
+        }
+    ],
+    "indexes": [
+        "蹶",
+        "𨇮"
+    ]
+}

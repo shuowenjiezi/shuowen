@@ -1,0 +1,31 @@
+{
+    "id": 2326,
+    "wordhead": "羜",
+    "explanation": "五月生羔也。从羊宁聲。讀若煑。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "直呂切",
+    "variants": [],
+    "seal_character": "塢",
+    "pinyin": "zhu",
+    "pinyin_full": "zhù",
+    "components": [
+        "羊",
+        "宁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "五月生羔也。",
+            "note": "謂羔生五月者也。釋畜、毛傳皆云。羜、未成羊也。郭云。俗呼五月羔爲羜。"
+        },
+        {
+            "explanation": "从羊。宁聲。讀若煑。",
+            "note": "直吕切。五部。"
+        }
+    ],
+    "indexes": [
+        "羜"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 944,
+    "wordhead": "咆",
+    "explanation": "噑也。从口包聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "薄交切",
+    "variants": [],
+    "seal_character": "刘",
+    "pinyin": "pao",
+    "pinyin_full": "páo",
+    "components": [
+        "口",
+        "包"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "嗥也。",
+            "note": "廣韵曰。咆虓、熊虎聲。"
+        },
+        {
+            "explanation": "从口。包聲。",
+            "note": "薄交切。二部。"
+        }
+    ],
+    "indexes": [
+        "咆"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 9731,
+    "wordhead": "疑",
+    "explanation": "惑也。从子、止、匕，矢聲。",
+    "volume": "14",
+    "radical": "子",
+    "pronunciation": "語其切",
+    "variants": [],
+    "seal_character": "磡",
+    "pinyin": "yi",
+    "pinyin_full": "yí",
+    "components": [
+        "止",
+        "子",
+        "矢",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“止，不通也。𠤕，古矢字。反匕之幼子多惑也。”",
+    "duan_notes": [
+        {
+            "explanation": "惑也。",
+            "note": "惑、亂也。"
+        },
+        {
+            "explanation": "从子止匕。矢聲。",
+            "note": "此六字有誤。匕矢皆在十五部。非聲。疑止皆在一部。止可爲疑聲。匕部有？。未定也。當作从子？省、止聲。以子？會意也。語其切。一部。"
+        }
+    ],
+    "indexes": [
+        "疑"
+    ]
+}

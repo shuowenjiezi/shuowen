@@ -1,0 +1,31 @@
+{
+    "id": 7732,
+    "wordhead": "闇",
+    "explanation": "閉門也。从門音聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "烏紺切",
+    "variants": [],
+    "seal_character": "瀡",
+    "pinyin": "an",
+    "pinyin_full": "àn",
+    "components": [
+        "門",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "閉門也。",
+            "note": "借以爲幽暗字。"
+        },
+        {
+            "explanation": "从門。音聲。",
+            "note": "烏紺切。七部。"
+        }
+    ],
+    "indexes": [
+        "闇"
+    ]
+}

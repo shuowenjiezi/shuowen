@@ -1,0 +1,43 @@
+{
+    "id": 1912,
+    "wordhead": "反",
+    "explanation": "覆也。从又，厂反形。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "府遠切",
+    "variants": [
+        {
+            "wordhead": "𠬡",
+            "explanation": "古文。",
+            "seal_character": "噿"
+        }
+    ],
+    "seal_character": "噾",
+    "pinyin": "fan",
+    "pinyin_full": "fǎn",
+    "components": [
+        "一",
+        "又",
+        "厂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "覆也。",
+            "note": "覆、覂也。"
+        },
+        {
+            "explanation": "从又",
+            "note": "必有覆之者。"
+        },
+        {
+            "explanation": "厂。",
+            "note": "各本作厂反形。未允。韵會無反形字。然則當云厂聲。而奪也。厂呼旱切。反府遠切。十四部。"
+        }
+    ],
+    "indexes": [
+        "反",
+        "𠬡"
+    ]
+}

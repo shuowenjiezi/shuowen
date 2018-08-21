@@ -1,0 +1,35 @@
+{
+    "id": 5078,
+    "wordhead": "伶",
+    "explanation": "弄也。从人令聲。益州有建伶縣。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "撮",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "人",
+        "令"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弄也。",
+            "note": "徐鍇曰。伶人者、弄臣也。毛詩寺人之令。釋文曰。令韓詩作伶。云使伶。古伶人字本作泠。泠人、樂官也。"
+        },
+        {
+            "explanation": "从人。令聲。",
+            "note": "郎丁切。十一部。"
+        },
+        {
+            "explanation": "益州有建伶縣。",
+            "note": "地理志、郡國志益州郡皆有建伶縣。今雲南雲南府西北有建伶廢縣。"
+        }
+    ],
+    "indexes": [
+        "伶"
+    ]
+}

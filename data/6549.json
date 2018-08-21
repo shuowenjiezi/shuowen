@@ -1,0 +1,43 @@
+{
+    "id": 6549,
+    "wordhead": "燊",
+    "explanation": "盛皃。从焱在木上。讀若《詩》“莘莘征夫”。一曰伇也。",
+    "volume": "10",
+    "radical": "焱",
+    "pronunciation": "所臻切",
+    "variants": [],
+    "seal_character": "欎",
+    "pinyin": "shen",
+    "pinyin_full": "shēn",
+    "components": [
+        "木",
+        "焱"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盛皃。",
+            "note": "木部䯂字下曰.衆盛也。此與同意。"
+        },
+        {
+            "explanation": "从焱在木上。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "讀若詩曰莘莘征夫。",
+            "note": "讀如此莘字也。今毛詩皇皇者華。駪駪征夫。馬部駪下不引詩。而此引作莘莘。招䰟引作侁侁。亦作莘莘。音相近也。所臻切十。二十三部。"
+        },
+        {
+            "explanation": "古文伷一曰嶷。",
+            "note": "此六字譌誤不可通。"
+        },
+        {
+            "explanation": "一曰役也。",
+            "note": "役上當有讀若二字。"
+        }
+    ],
+    "indexes": [
+        "燊"
+    ]
+}

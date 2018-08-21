@@ -1,0 +1,31 @@
+{
+    "id": 3244,
+    "wordhead": "飢",
+    "explanation": "餓也。从食几聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "居夷切",
+    "variants": [],
+    "seal_character": "岢",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "食",
+        "几"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "餓也。",
+            "note": "與饑分別。葢本古訓。諸書通用者多有。轉寫錯亂者亦有之。"
+        },
+        {
+            "explanation": "从𠊊。几聲。",
+            "note": "居夷切。十五部。"
+        }
+    ],
+    "indexes": [
+        "飢"
+    ]
+}

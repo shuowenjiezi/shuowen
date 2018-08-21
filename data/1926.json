@@ -1,0 +1,42 @@
+{
+    "id": 1926,
+    "wordhead": "事",
+    "explanation": "職也。从史，之省聲。",
+    "volume": "03",
+    "radical": "史",
+    "pronunciation": "鉏史切",
+    "variants": [
+        {
+            "wordhead": "𠭆",
+            "explanation": "古文事。",
+            "seal_character": "嚕"
+        }
+    ],
+    "seal_character": "嚔",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "史",
+        "之"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "職也。",
+            "note": "曡韵。職記微也。古假借爲士字。鄭風曰。子不我思。豈無他事。毛曰。事、士也。今本依傳改經。又依經改傳。而此傳不可通矣。"
+        },
+        {
+            "explanation": "从史。𡳿省聲。",
+            "note": "鉏史切。一部。"
+        },
+        {
+            "explanation": "古文事。",
+            "note": "鍇曰。此則之不省。"
+        }
+    ],
+    "indexes": [
+        "事",
+        "𠭆"
+    ]
+}

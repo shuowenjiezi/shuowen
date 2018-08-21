@@ -1,0 +1,40 @@
+{
+    "id": 2891,
+    "wordhead": "籆",
+    "explanation": "收絲者也。从竹蒦聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "王縛切",
+    "variants": [
+        {
+            "wordhead": "𧤽",
+            "explanation": "篗<span>{<span>籆</span>}</span>或从角<span>[<span>𧢲</span>]</span>从閒。",
+            "seal_character": "嫳"
+        }
+    ],
+    "seal_character": "嫲",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "竹",
+        "蒦",
+        "閒",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所㠯收絲者也。",
+            "note": "所以二字今補。方言曰。籆、榬也。兖豫河濟之閒謂之榬。郭云。所以絡絲也。音爰。按今俗謂之籆車。于縛切。字亦作籰。"
+        },
+        {
+            "explanation": "从竹。蒦聲。",
+            "note": "王縛切。五部。"
+        }
+    ],
+    "indexes": [
+        "籆",
+        "𧤽"
+    ]
+}

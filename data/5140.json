@@ -1,0 +1,31 @@
+{
+    "id": 5140,
+    "wordhead": "例",
+    "explanation": "比也。从人𠛱聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "力制切",
+    "variants": [],
+    "seal_character": "擮",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "人",
+        "列"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "比也。",
+            "note": "此篆葢晚出。漢人少言例者。杜氏說左傳乃云發凡言例。例之言迾也。迾者、遮迾以爲禁。經皆作列、作厲。不作迾。周禮司𣜩注。厲、遮例也。釋文。例本作列。葢古比例字衹作列。"
+        },
+        {
+            "explanation": "从人。𠛱聲。",
+            "note": "力制切。十五部。疑許本無此。"
+        }
+    ],
+    "indexes": [
+        "例"
+    ]
+}

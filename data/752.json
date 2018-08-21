@@ -1,0 +1,31 @@
+{
+    "id": 752,
+    "wordhead": "牲",
+    "explanation": "牛完全。从牛生聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "所庚切",
+    "variants": [],
+    "seal_character": "充",
+    "pinyin": "sheng",
+    "pinyin_full": "shēnɡ",
+    "components": [
+        "牛",
+        "生"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛完全也。",
+            "note": "引伸爲凡畜之偁。周禮庖人注。始養之曰畜。將用之曰牲。按如鼷鼠食郊牛角、則非完全。"
+        },
+        {
+            "explanation": "从牛。生聲。",
+            "note": "所庚切。十一部。"
+        }
+    ],
+    "indexes": [
+        "牲"
+    ]
+}

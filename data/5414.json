@@ -1,0 +1,31 @@
+{
+    "id": 5414,
+    "wordhead": "船",
+    "explanation": "舟也。从舟，鉛省聲。",
+    "volume": "08",
+    "radical": "舟",
+    "pronunciation": "食川切",
+    "variants": [],
+    "seal_character": "昛",
+    "pinyin": "chuan",
+    "pinyin_full": "chuán",
+    "components": [
+        "舟",
+        "鉛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舟也。",
+            "note": "二篆爲轉注。古言舟、今言船。如古言屨。今言鞋。舟之言周旋也。船之言𣴔沿也。"
+        },
+        {
+            "explanation": "从舟。㕣聲。",
+            "note": "各本作鉛省聲。非是。口部有㕣字。水部有沿字、㕣聲。今正。食川切。十四部。"
+        }
+    ],
+    "indexes": [
+        "船"
+    ]
+}

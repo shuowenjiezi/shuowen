@@ -1,0 +1,47 @@
+{
+    "id": 2740,
+    "wordhead": "利",
+    "explanation": "銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "力至切",
+    "variants": [
+        {
+            "wordhead": "𥝤",
+            "explanation": "古文利。",
+            "seal_character": "婇"
+        }
+    ],
+    "seal_character": "婆",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "刀",
+        "禾",
+        "和"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "銛也。",
+            "note": "銛者、臿屬。引伸爲銛利字。銛利引伸爲凡利害之利。"
+        },
+        {
+            "explanation": "刀和然後利。从刀。和省。",
+            "note": "依韵㑹本。毛傳曰。鸞刀、刀有鸞者。言割中節也。郊特牲曰。割刀之用而鸞刀之貴。貴其義也。聲和而後𣃔也。許據此說㑹意。力至切。十五部。"
+        },
+        {
+            "explanation": "易曰。利者義之和也。",
+            "note": "又引易說從和省之意。上云刀和然後利者、本義也。引易者、引伸之義也。"
+        },
+        {
+            "explanation": "古文利",
+            "note": "葢從刃禾。"
+        }
+    ],
+    "indexes": [
+        "利",
+        "𥝤"
+    ]
+}

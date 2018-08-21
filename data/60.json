@@ -1,0 +1,39 @@
+{
+    "id": 60,
+    "wordhead": "祳",
+    "explanation": "社肉，盛以蜃，故謂之祳。天子所以親遺同姓。从示辰聲。《春秋傳》曰：“石尚來歸祳。”",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "時忍切",
+    "variants": [],
+    "seal_character": "乌",
+    "pinyin": "shen",
+    "pinyin_full": "shèn",
+    "components": [
+        "示",
+        "辰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "社肉。盛之㠯蜃。故謂之祳。",
+            "note": "五經異義曰。古左氏說。脤、祭社之肉。盛之以蜃。鄭注掌蜃、杜注左傳皆同。蜃祳曡韵。經典祳多从肉作脤。詩緜箋、掌蜃注徑用蜃爲祳字。"
+        },
+        {
+            "explanation": "天子所㠯親遺同姓。",
+            "note": "大宗伯以脤膰之禮。親兄弟之國。大行人歸脤以交諸矦之福。"
+        },
+        {
+            "explanation": "从示。辰聲。",
+            "note": "時忍切。古音在十三部。"
+        },
+        {
+            "explanation": "春秋傳曰。石尚來歸祳。",
+            "note": "春秋經定公十四年文。凡說文引春秋經皆𣪠諸傳。謂左氏春秋有此文也。"
+        }
+    ],
+    "indexes": [
+        "祳"
+    ]
+}

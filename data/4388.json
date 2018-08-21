@@ -1,0 +1,43 @@
+{
+    "id": 4388,
+    "wordhead": "穟",
+    "explanation": "禾𥝩之皃。从禾遂聲。《詩》曰：“禾穎穟穟。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "徐醉切",
+    "variants": [
+        {
+            "wordhead": "𦼯",
+            "explanation": "穟或从艸。",
+            "seal_character": "憤"
+        }
+    ],
+    "seal_character": "憣",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "艸",
+        "禾",
+        "遂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾𥝩之皃。",
+            "note": "大雅生民曰。禾役穟穟。釋訓曰。穟穟、苗也。毛傳曰。穟穟、苗好美也。按公羊傳注。生曰苗。秀曰禾。苗禾一也。釋訓、毛傳與許說一也。許以經言禾穎。則穟穟指𥝩。言成就之皃。"
+        },
+        {
+            "explanation": "从禾。遂聲。",
+            "note": "徐醉切。十五部。"
+        },
+        {
+            "explanation": "詩曰。禾穎穟穟。",
+            "note": "按古音支淸二部互轉。役在支部。卽穎之入聲。葢卽穎之叚借字。許此句葢用三家詩。如如鳥斯？爲正字。毛詩作革爲叚借字也。"
+        }
+    ],
+    "indexes": [
+        "穟",
+        "𦼯"
+    ]
+}

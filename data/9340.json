@@ -1,0 +1,52 @@
+{
+    "id": 9340,
+    "wordhead": "鐘",
+    "explanation": "樂鐘也。秋分之音，物穜成。从金童聲。古者垂作鐘。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "職茸切",
+    "variants": [
+        {
+            "wordhead": "銿",
+            "explanation": "鐘或从甬。",
+            "seal_character": "眮"
+        }
+    ],
+    "seal_character": "眭",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "童",
+        "金",
+        "甬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂鐘也。",
+            "note": "當作金樂也。"
+        },
+        {
+            "explanation": "秋分之音。萬物穜成。故謂之鐘。",
+            "note": "萬故謂之鐘五字今補。猶𡔷者春分之音、萬物郭皮甲而出故謂之𡔷。笙者正月之音、物生故謂之笙。管者十二月之音、物開地牙故謂之管也。鐘與穜曡韵。"
+        },
+        {
+            "explanation": "从金。童聲。",
+            "note": "職茸切。九部。經傳多作鍾。叚借酒器字。"
+        },
+        {
+            "explanation": "古者𡍮作鐘。",
+            "note": "葢出世本作篇。"
+        },
+        {
+            "explanation": "鐘或从甬。",
+            "note": "鐘柄曰甬。故取以成字。甬亦聲。"
+        }
+    ],
+    "indexes": [
+        "钟",
+        "鐘",
+        "銿"
+    ]
+}

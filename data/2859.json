@@ -1,0 +1,43 @@
+{
+    "id": 2859,
+    "wordhead": "簜",
+    "explanation": "大竹也。从竹湯聲。《夏書》曰：“瑤琨筱簜。”簜可爲幹，筱可爲矢。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "徒朗切",
+    "variants": [],
+    "seal_character": "嫑",
+    "pinyin": "dang",
+    "pinyin_full": "dànɡ",
+    "components": [
+        "湯",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大竹也。",
+            "note": "大射儀。簜在建𡔷之閒。注。蕩、竹也。笙簫之屬。按蕩者竹名。以竹成器亦曰簜。笙簫皆用小竹而云簜者、大之也。"
+        },
+        {
+            "explanation": "从竹。湯聲。",
+            "note": "徒郎切。十部。"
+        },
+        {
+            "explanation": "夏書曰。瑤琨筱簜。",
+            "note": "禹貢文。"
+        },
+        {
+            "explanation": "簜可爲榦。",
+            "note": "榦、弓榦也。弓人曰。凡取榦之道七。竹爲下。"
+        },
+        {
+            "explanation": "筱可爲矢。",
+            "note": "筱簜之用不止於此。而此爲冣宜。"
+        }
+    ],
+    "indexes": [
+        "簜"
+    ]
+}

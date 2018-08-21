@@ -1,0 +1,31 @@
+{
+    "id": 2061,
+    "wordhead": "敇",
+    "explanation": "擊馬也。从攴朿聲。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "楚革切",
+    "variants": [],
+    "seal_character": "圵",
+    "pinyin": "ce",
+    "pinyin_full": "cè",
+    "components": [
+        "朿",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "擊馬也。",
+            "note": "所以擊馬者曰箠。亦曰策。以策擊馬曰敇。策專行而敇廢矣。"
+        },
+        {
+            "explanation": "从攴。朿聲。",
+            "note": "楚革切。十六部。"
+        }
+    ],
+    "indexes": [
+        "敇"
+    ]
+}

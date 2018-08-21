@@ -1,0 +1,35 @@
+{
+    "id": 4375,
+    "wordhead": "稌",
+    "explanation": "稻也。从禾余聲。《周禮》曰：“牛宜稌。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "徒古切",
+    "variants": [],
+    "seal_character": "憔",
+    "pinyin": "tu",
+    "pinyin_full": "tú",
+    "components": [
+        "禾",
+        "余"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稻也。",
+            "note": "釋艸曰。稌、稻。周頌毛傳同。許曰。沛國𧦝稬。而郭樸曰。今沛國呼稌。然則稌稬本一語。而稍分輕重耳。"
+        },
+        {
+            "explanation": "从禾。余聲。",
+            "note": "徒古切。五部。"
+        },
+        {
+            "explanation": "周禮曰。牛宜稌。",
+            "note": "食醫文。"
+        }
+    ],
+    "indexes": [
+        "稌"
+    ]
+}

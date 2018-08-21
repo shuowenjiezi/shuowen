@@ -1,0 +1,59 @@
+{
+    "id": 1986,
+    "wordhead": "𤮪",
+    "explanation": "羽獵韋絝。从㼱灷聲。",
+    "volume": "03",
+    "radical": "㼱",
+    "pronunciation": "而隴切",
+    "variants": [
+        {
+            "wordhead": "𧝻",
+            "explanation": "或从衣从朕<span>[<span>𦩎</span>]</span>。《虞書》曰：“鳥獸𧜈毛”。",
+            "seal_character": "囤"
+        }
+    ],
+    "seal_character": "団",
+    "pinyin": "jun",
+    "pinyin_full": "jùn",
+    "components": [
+        "衣",
+        "朕",
+        "灷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羽獵韋絝。",
+            "note": "羽獵見高唐賦、楊雄傳。服虔曰。士卒負羽也。"
+        },
+        {
+            "explanation": "从㼱。",
+            "note": "柔韋爲絝。"
+        },
+        {
+            "explanation": "灷聲。",
+            "note": "按火𠬞(篆)二部無灷字。而此部有𤮪。人部有㑞。舟部有𣍹{𦩎}。皆从灷聲。然則今本說文奪灷字無疑。其義未聞。其音則㑞𣍹勝騰黱滕螣榺滕皆在六部。𤮪本音葢在六部。入九部也。而隴切。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞書當作唐書。"
+        },
+        {
+            "explanation": "鳥獸𧜈毛。",
+            "note": "堯典文。今尚書作氄。毛部作𣯍。云盛毛也。此作𧜈。豈彼古文此今文之異與。"
+        },
+        {
+            "explanation": "从𣍹。从衣。",
+            "note": "小徐本如是。而注之曰。此亦𤮪字。大徐因倒之云。或從衣從朕。虞書曰。鳥獸𧜈毛。今依小徐者、仍舊也。闕疑也。朕聲古在六部。轉入九部。"
+        },
+        {
+            "explanation": "重三",
+            "note": "鉉作重二。"
+        }
+    ],
+    "indexes": [
+        "𤮪",
+        "𧝻"
+    ]
+}

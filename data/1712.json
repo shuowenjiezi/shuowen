@@ -1,0 +1,44 @@
+{
+    "id": 1712,
+    "wordhead": "詬",
+    "explanation": "謑詬，恥也。从言后聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "呼寇切",
+    "variants": [
+        {
+            "wordhead": "訽",
+            "explanation": "詬或从句<span>[<span>𠯶</span>]</span>。",
+            "seal_character": "啼"
+        }
+    ],
+    "seal_character": "啻",
+    "pinyin": "gou",
+    "pinyin_full": "ɡòu",
+    "components": [
+        "句",
+        "言",
+        "后"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謑詬也。",
+            "note": "依全書例訂。"
+        },
+        {
+            "explanation": "从言。后聲。",
+            "note": "呼宼切。四部。"
+        },
+        {
+            "explanation": "詬或从句。",
+            "note": "后句同部。"
+        }
+    ],
+    "indexes": [
+        "诟",
+        "詬",
+        "訽"
+    ]
+}

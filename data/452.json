@@ -1,0 +1,35 @@
+{
+    "id": 452,
+    "wordhead": "菀",
+    "explanation": "茈菀，出漢中房陵。从艸宛聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "於阮切",
+    "variants": [],
+    "seal_character": "倁",
+    "pinyin": "wan",
+    "pinyin_full": "wǎn",
+    "components": [
+        "宛",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "茈菀。",
+            "note": "句。本艸經作紫菀。古紫通用茈。見上。唐本艸注云。白菀謂之女菀。急就篇。牡蒙甘艸菀藜蘆。師古曰。菀謂紫菀、女菀之屬也。"
+        },
+        {
+            "explanation": "出漢中房陵。",
+            "note": "本艸亦曰。生房陵山谷。"
+        },
+        {
+            "explanation": "从艸。宛聲。",
+            "note": "於阮切。十四部。詩菀彼北林、有菀者桺。假借爲鬱字也。"
+        }
+    ],
+    "indexes": [
+        "菀"
+    ]
+}

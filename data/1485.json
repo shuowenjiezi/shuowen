@@ -1,0 +1,44 @@
+{
+    "id": 1485,
+    "wordhead": "詩",
+    "explanation": "志也。从言寺聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "書之切",
+    "variants": [
+        {
+            "wordhead": "𧥳",
+            "explanation": "古文詩省。",
+            "seal_character": "祛"
+        }
+    ],
+    "seal_character": "呼",
+    "pinyin": "shi",
+    "pinyin_full": "shī",
+    "components": [
+        "止",
+        "言",
+        "寺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "志也。",
+            "note": "毛詩序曰。詩者、志之所之也。在心爲志。發言爲詩。按許不云志之所之。徑云志也者。序析言之。許渾言之也。所以多渾言之者、欲使人因屬以求别也。又特牲禮詩懷之注。詩猶承也。謂奉納之懷中。內則詩負之注。詩之言承也。按正義引含神霧云。詩、持也。假詩爲持。假持爲承。一部與六部合音冣近也。上林賦葴持。持音懲。"
+        },
+        {
+            "explanation": "从言。寺聲。",
+            "note": "書之切。一部。"
+        },
+        {
+            "explanation": "古文詩省。",
+            "note": "左从古文言。右从之、省寸。"
+        }
+    ],
+    "indexes": [
+        "诗",
+        "詩",
+        "𧥳"
+    ]
+}

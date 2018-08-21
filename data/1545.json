@@ -1,0 +1,31 @@
+{
+    "id": 1545,
+    "wordhead": "詥",
+    "explanation": "諧也。从言合聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "候閤切",
+    "variants": [],
+    "seal_character": "咿",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "合",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "諧也。",
+            "note": "詥之言合也。"
+        },
+        {
+            "explanation": "从言。合聲。",
+            "note": "𠋫閤切。七部。"
+        }
+    ],
+    "indexes": [
+        "詥"
+    ]
+}

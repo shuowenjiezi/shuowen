@@ -1,0 +1,39 @@
+{
+    "id": 5649,
+    "wordhead": "𩑣",
+    "explanation": "顫也。从頁尤聲。",
+    "volume": "09",
+    "radical": "頁",
+    "pronunciation": "于救切",
+    "variants": [
+        {
+            "wordhead": "疣",
+            "explanation": "𩑣或从疒<span>[<span>𤕫</span><span>𤕬</span>]</span>。",
+            "seal_character": "朤"
+        }
+    ],
+    "seal_character": "朣",
+    "pinyin": "you",
+    "pinyin_full": "yòu",
+    "components": [
+        "頁",
+        "尤",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "顫也。从𩑋。尢聲。",
+            "note": "按玄應書㒳引說文皆作？。是其字从𩑋、又聲。今本說文作？、尤聲。非古也。篇、韵皆沿俗本之誤耳。玄應引說文云。謂掉動不定也。葢演說文語。通俗文曰。四支寒動謂之顫？。于救切。古音在一部。"
+        },
+        {
+            "explanation": "𩑣或从𤕬。",
+            "note": "按此篆亦當作？。从？、又聲。據玄應書及廣韵可證。玄應曰。今作？。知淺人以今體改古體耳。"
+        }
+    ],
+    "indexes": [
+        "𩑣",
+        "疣"
+    ]
+}

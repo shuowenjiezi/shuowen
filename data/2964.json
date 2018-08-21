@@ -1,0 +1,35 @@
+{
+    "id": 2964,
+    "wordhead": "箙",
+    "explanation": "弩矢箙也。从竹服聲。《周禮》：“仲秋獻矢箙。”",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "房六切",
+    "variants": [],
+    "seal_character": "孆",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "服",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弩矢箙也。",
+            "note": "司弓矢曰。中秋獻矢箙。注曰。箙、盛矢器也。以獸皮爲之。按本以竹木爲之。故字从竹。國語。檿弧萁服。韋昭曰。萁、木名。服、房也。小雅。象弭魚服。皆假服爲箙。"
+        },
+        {
+            "explanation": "从竹。服聲。",
+            "note": "房六切。古音在一部。"
+        },
+        {
+            "explanation": "周禮。仲秋獻矢箙。",
+            "note": "經文仲作中。"
+        }
+    ],
+    "indexes": [
+        "箙"
+    ]
+}

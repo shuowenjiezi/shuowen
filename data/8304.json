@@ -1,0 +1,43 @@
+{
+    "id": 8304,
+    "wordhead": "媿",
+    "explanation": "慙也。从女鬼聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "俱位切",
+    "variants": [
+        {
+            "wordhead": "愧",
+            "explanation": "媿或从恥省。",
+            "seal_character": "犃"
+        }
+    ],
+    "seal_character": "犂",
+    "pinyin": "kui",
+    "pinyin_full": "kuì",
+    "components": [
+        "鬼",
+        "女",
+        "恥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "慙也。",
+            "note": "慙下曰。媿也。二篆爲轉注。亦考老之例。"
+        },
+        {
+            "explanation": "从女。鬼聲。",
+            "note": "俱位切。十五部。按此亦形聲中有會意。"
+        },
+        {
+            "explanation": "媿或从恥省。",
+            "note": "按卽謂从心可也。"
+        }
+    ],
+    "indexes": [
+        "媿",
+        "愧"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 7557,
+    "wordhead": "鱣",
+    "explanation": "鯉也。从魚亶聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "張連切",
+    "variants": [
+        {
+            "wordhead": "𩽱",
+            "explanation": "籒文鱣。",
+            "seal_character": "潠"
+        }
+    ],
+    "seal_character": "潟",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "虫",
+        "亶",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鯉也。",
+            "note": "衞風毛傳曰。鱣、鯉也。許本之。以鮪鮥例之。此當同鄭曰大鯉也。葢鯉與鱣同類而別異。猶鮥與鮪同類而別異。"
+        },
+        {
+            "explanation": "从魚。亶聲。",
+            "note": "張連切。十四部。"
+        },
+        {
+            "explanation": "籒文鱣。",
+            "note": "从夗、蟺爲聲。"
+        }
+    ],
+    "indexes": [
+        "鳣",
+        "鱣",
+        "𩽱"
+    ]
+}

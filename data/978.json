@@ -1,0 +1,31 @@
+{
+    "id": 978,
+    "wordhead": "走",
+    "explanation": "趨也。从夭、止。夭止者，屈也。凡走之屬皆从走。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "子苟切",
+    "variants": [],
+    "seal_character": "刿",
+    "pinyin": "zou",
+    "pinyin_full": "zǒu",
+    "components": [
+        "止",
+        "夭"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“走则足屈，故从夭。”",
+    "duan_notes": [
+        {
+            "explanation": "趨也。",
+            "note": "釋名曰。徐行曰步。疾行曰趨。疾趨曰走。此析言之。許渾言不別也。今俗謂走徐、趨疾者、非。"
+        },
+        {
+            "explanation": "从夭止。夭者、屈也。",
+            "note": "依韵會訂。夭部曰。夭、屈也。止部曰。止爲足。从夭止者、安步則足胻較直。趨則屈多。子苟切。四部。大雅假本奏爲奔走。"
+        }
+    ],
+    "indexes": [
+        "走"
+    ]
+}

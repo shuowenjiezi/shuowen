@@ -1,0 +1,58 @@
+{
+    "id": 7488,
+    "wordhead": "靁",
+    "explanation": "陰陽薄動靁雨，生物者也。从雨，畾象回轉形。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "魯回切",
+    "variants": [
+        {
+            "wordhead": "𩂩",
+            "explanation": "古文靁。",
+            "seal_character": "漌"
+        },
+        {
+            "wordhead": "𤴐",
+            "explanation": "古文靁。",
+            "seal_character": "漍"
+        },
+        {
+            "wordhead": "𩇓",
+            "explanation": "籒文。靁閒有回；回，靁聲也。",
+            "seal_character": "漎"
+        }
+    ],
+    "seal_character": "漋",
+    "pinyin": "lei",
+    "pinyin_full": "léi",
+    "components": [
+        "雨",
+        "畾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩃬昜薄動生物者也。",
+            "note": "各本作陰陽。今正。動下各本有靁雨二字。不辭。今依韵會本正。薄音博。迫也。陰陽迫動、卽謂靁也。迫動下文所謂回轉也。所以回生萬物者也。"
+        },
+        {
+            "explanation": "从雨。畾象回轉形。",
+            "note": "許書有畕無畾。凡積三則爲衆。衆則盛。盛則必回轉。二月陽盛。靁發聲。故以畾象其回轉之形。非三田也。韵書有畾字、訓田閒。誤矣。凡許書字有畾聲者、皆當云靁省聲也。魯回切。十五部。○凡古器多以回爲靁。"
+        },
+        {
+            "explanation": "籒文靁。閒有回。",
+            "note": "當作畾閒有回。奪畾。"
+        },
+        {
+            "explanation": "回、靁聲也。",
+            "note": "說畾閒有回之意。"
+        }
+    ],
+    "indexes": [
+        "靁",
+        "𩂩",
+        "𤴐",
+        "𩇓"
+    ]
+}

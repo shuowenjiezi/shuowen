@@ -1,0 +1,47 @@
+{
+    "id": 838,
+    "wordhead": "君",
+    "explanation": "尊也。从尹。發號，故从口。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "舉云切",
+    "variants": [
+        {
+            "wordhead": "𠱭",
+            "explanation": "古文象君坐形。",
+            "seal_character": "冥"
+        }
+    ],
+    "seal_character": "冤",
+    "pinyin": "jun",
+    "pinyin_full": "jūn",
+    "components": [
+        "口",
+        "君",
+        "尹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "尊也。",
+            "note": "此羊祥也、門聞也、戶護也、髮拔也之例。"
+        },
+        {
+            "explanation": "从尹口。",
+            "note": "尹、治也。"
+        },
+        {
+            "explanation": "口㠯發號。",
+            "note": "此依韵會。又補一口字。尹亦聲。舉云切。十三部。"
+        },
+        {
+            "explanation": "古文象君坐形。",
+            "note": "小徐本作？。"
+        }
+    ],
+    "indexes": [
+        "君",
+        "𠱭"
+    ]
+}

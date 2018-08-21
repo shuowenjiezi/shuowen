@@ -1,0 +1,43 @@
+{
+    "id": 6745,
+    "wordhead": "㤅",
+    "explanation": "惠也。从心先聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "烏代切",
+    "variants": [
+        {
+            "wordhead": "𢟪",
+            "explanation": "古文。",
+            "seal_character": "毫"
+        }
+    ],
+    "seal_character": "毪",
+    "pinyin": "ai",
+    "pinyin_full": "ài",
+    "components": [
+        "心",
+        "既",
+        "旡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "惠也。",
+            "note": "叀部曰。惠、仁也。仁者、親也。"
+        },
+        {
+            "explanation": "从心。<㒫>聲",
+            "note": "八篇。飲食屰气不得息曰<㒫>。古文作<旡>。此用古文爲聲也。許君惠㤅字用此。𢜤爲行皃。乃自𢜤行而㤅廢。轉寫許書者遂盡改㤅爲𢜤。全非許憮㤅二篆相聮之意。烏代切。十五部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "旣者、<㒫>聲。卽旡聲也。𢟪者、古文𢜤。唐人乃用爲伊余來墍、民之攸墍之墍。其貤繆有如此者。詩之墍乃呬之叚借。息也。"
+        }
+    ],
+    "indexes": [
+        "㤅",
+        "𢟪"
+    ]
+}

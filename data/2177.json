@@ -1,0 +1,35 @@
+{
+    "id": 2177,
+    "wordhead": "瞯",
+    "explanation": "戴目也。从目閒聲。江淮之間謂眄曰瞯。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "戶閒切",
+    "variants": [],
+    "seal_character": "垸",
+    "pinyin": "xian",
+    "pinyin_full": "xián",
+    "components": [
+        "目",
+        "閒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "戴目也。",
+            "note": "戴目者、上視如戴然。素問所謂戴眼也。諸書所謂望羊也。目上視則多白。故廣韵云。瞯、人目多白也。爾雅釋嘼。一目白？。？同瞯。亦作？。引伸爲闚伺之義。如孟子王使人瞯夫子是。"
+        },
+        {
+            "explanation": "从目。閒聲。",
+            "note": "戸閒切。十四部。按此字諸書多从閑作？。"
+        },
+        {
+            "explanation": "江淮之閒謂眄曰瞯。",
+            "note": "眄各本作眡。依宋本及集韵正。方言。瞯、眄也。吳楚江淮之閒或曰瞯。或曰䀩。"
+        }
+    ],
+    "indexes": [
+        "瞯"
+    ]
+}

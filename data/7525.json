@@ -1,0 +1,47 @@
+{
+    "id": 7525,
+    "wordhead": "霚",
+    "explanation": "地气發，天不應。从雨敄聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "亡遇切",
+    "variants": [
+        {
+            "wordhead": "雺",
+            "explanation": "籒文省。",
+            "seal_character": "漹"
+        }
+    ],
+    "seal_character": "漸",
+    "pinyin": "wu",
+    "pinyin_full": "wù",
+    "components": [
+        "雨",
+        "矛",
+        "敄"
+    ],
+    "xuan_note": "臣鉉等曰：今俗从務。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "地气發、天不應曰霚。",
+            "note": "曰霚二字今補。霚今之霧字。釋天曰。地氣發、天不應曰霧。霧者俗字。霧一本作霿。非也。釋名曰。霧、冒也。氣蒙冒覆地之物也。開元占經引元命包陰陽亂爲霧。"
+        },
+        {
+            "explanation": "从雨。",
+            "note": "亦雨之類也。故从雨。地气發而天應之則雨矣。"
+        },
+        {
+            "explanation": "敄聲。",
+            "note": "亡遇切。古音在三部。敄从矛聲。故霚讀如矛。"
+        },
+        {
+            "explanation": "籒文霚省。",
+            "note": "洪範曰蒙、古文尙書作曰雺。徐邈音亡鉤反。宋世家作曰霧。霧卽霚。霚者、雺之小篆。"
+        }
+    ],
+    "indexes": [
+        "霚",
+        "雺"
+    ]
+}

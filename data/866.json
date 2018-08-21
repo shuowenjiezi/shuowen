@@ -1,0 +1,44 @@
+{
+    "id": 866,
+    "wordhead": "嘯",
+    "explanation": "吹聲也。从口肅聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "穌弔切",
+    "variants": [
+        {
+            "wordhead": "歗",
+            "explanation": "籒文嘯从欠。",
+            "seal_character": "凃"
+        }
+    ],
+    "seal_character": "凂",
+    "pinyin": "xiao",
+    "pinyin_full": "xiào",
+    "components": [
+        "口",
+        "欠",
+        "肅"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吹聲也。",
+            "note": "召南箋曰。嘯、蹙口而出聲也。"
+        },
+        {
+            "explanation": "从口。肅聲。",
+            "note": "穌弔切。古音在三部。"
+        },
+        {
+            "explanation": "籒文嘯。从欠。",
+            "note": "欠部重出歗字。引詩其歗也謌。今詩惟條其歗矣作歗。"
+        }
+    ],
+    "indexes": [
+        "啸",
+        "嘯",
+        "歗"
+    ]
+}

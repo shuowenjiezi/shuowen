@@ -1,0 +1,32 @@
+{
+    "id": 9761,
+    "wordhead": "釀",
+    "explanation": "醞也。作酒曰釀。从酉襄聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "女亮切",
+    "variants": [],
+    "seal_character": "礈",
+    "pinyin": "niang",
+    "pinyin_full": "niànɡ",
+    "components": [
+        "襄",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "醞也。作酒曰釀。",
+            "note": "周禮。酒人掌爲五齊三酒。爲猶作也。"
+        },
+        {
+            "explanation": "从酉。襄聲。",
+            "note": "女亮切。十部。"
+        }
+    ],
+    "indexes": [
+        "酿",
+        "釀"
+    ]
+}

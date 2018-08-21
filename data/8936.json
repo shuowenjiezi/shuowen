@@ -1,0 +1,32 @@
+{
+    "id": 8936,
+    "wordhead": "飄",
+    "explanation": "回風也。从風㶾聲。",
+    "volume": "13",
+    "radical": "風",
+    "pronunciation": "撫招切",
+    "variants": [],
+    "seal_character": "畚",
+    "pinyin": "piao",
+    "pinyin_full": "piāo",
+    "components": [
+        "票",
+        "風"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "回風也。",
+            "note": "回者、般旋而起之風。莊子所謂羊角。司馬云。風曲上行若羊角也。釋天云。迴風爲飄。匪風毛傳同。按何人斯傳曰。飄風、暴起之風。依文爲義。故不云回風。"
+        },
+        {
+            "explanation": "从風。𤐫聲。",
+            "note": "撫招切。二部。"
+        }
+    ],
+    "indexes": [
+        "飘",
+        "飄"
+    ]
+}

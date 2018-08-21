@@ -1,0 +1,35 @@
+{
+    "id": 4561,
+    "wordhead": "𡧯",
+    "explanation": "無人聲。从宀尗聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "前厯切",
+    "variants": [
+        {
+            "wordhead": "𧧌",
+            "explanation": "寂<span>{<span>𡧯</span>}</span>或从言。",
+            "seal_character": "扭"
+        }
+    ],
+    "seal_character": "扬",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "言",
+        "尗",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "無人聲也。从宀。尗聲。",
+            "note": "前歷切。古音在三部。口部作？。𡧯今字作寂。方言作？。云靜也。江湘九嶷之郊謂之？。"
+        }
+    ],
+    "indexes": [
+        "𡧯",
+        "𧧌"
+    ]
+}

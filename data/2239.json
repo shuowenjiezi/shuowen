@@ -1,0 +1,35 @@
+{
+    "id": 2239,
+    "wordhead": "翦",
+    "explanation": "羽生也。一曰𠂕羽。从羽前聲。",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "卽淺切",
+    "variants": [],
+    "seal_character": "埼",
+    "pinyin": "jian",
+    "pinyin_full": "jiǎn",
+    "components": [
+        "羽",
+        "前"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羽生也。",
+            "note": "羽初生如前齊也。前、古之翦字。今之歬字。"
+        },
+        {
+            "explanation": "一曰𠂕羽。",
+            "note": "𠂕舊作矢。釋器。金鏃翦羽謂之鍭。骨鏇不翦羽謂之志。翦者、前也。前者、𣃔齊也。鍭矢、前其羽短之使前重。志矢、不前羽較長。喪禮則鍭矢骨鏃。異於金鏃。志矢無鏃短衛。異於骨鏃不前羽。按鍭矢前羽、謂羽爲翦。因之志矢之羽、亦謂之翦。故云一曰矢羽。"
+        },
+        {
+            "explanation": "从羽。歬聲。",
+            "note": "卽淺切。十二部。"
+        }
+    ],
+    "indexes": [
+        "翦"
+    ]
+}

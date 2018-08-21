@@ -1,0 +1,39 @@
+{
+    "id": 3160,
+    "wordhead": "𧗎",
+    "explanation": "醢也。从血菹聲。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "側余切",
+    "variants": [
+        {
+            "wordhead": "𧗘",
+            "explanation": "𧗎或从缶。",
+            "seal_character": "尳"
+        }
+    ],
+    "seal_character": "尲",
+    "pinyin": "zu",
+    "pinyin_full": "zú",
+    "components": [
+        "血",
+        "缶",
+        "菹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "醢也。从血。菹聲。",
+            "note": "醢人注曰。凡醯醬所和。細切爲韲。全物若䐑爲菹。少儀曰。麋鹿爲菹。野豕爲軒。皆䐑而不切。麇爲辟雞。兔爲宛脾。皆䐑而切之。切葱若薤。實之醯以柔之。由此言之。則韲菹之稱菜肉通。按菹亦爲肉稱。故其字又作？。从血菹會意也。从血猶从肉也。側余切。五部。"
+        },
+        {
+            "explanation": "𧗎或从缶。",
+            "note": "从缶者、菹醢必？諸器中而成也。？？二篆又見艸部。後人增之耳。玉篇艸部無之。當刪彼存此。"
+        }
+    ],
+    "indexes": [
+        "𧗎",
+        "𧗘"
+    ]
+}

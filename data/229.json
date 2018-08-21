@@ -1,0 +1,35 @@
+{
+    "id": 229,
+    "wordhead": "墫",
+    "explanation": "舞也。从士尊聲。《詩》曰：“墫墫舞我。”",
+    "volume": "01",
+    "radical": "士",
+    "pronunciation": "慈損切",
+    "variants": [],
+    "seal_character": "伍",
+    "pinyin": "cun",
+    "pinyin_full": "cūn",
+    "components": [
+        "士",
+        "尊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "士舞也。",
+            "note": "各本無士。依詩、爾雅音義補。周禮。大胥、以學士合舞。小胥、巡學士舞列。故其字从士。也當爲皃。毛傳。墫墫、舞皃。古書也皃二字多互譌。"
+        },
+        {
+            "explanation": "从士。𢍜聲。",
+            "note": "慈損切。十三部。"
+        },
+        {
+            "explanation": "詩曰。墫墫舞我。",
+            "note": "詩小雅文。爾雅。坎坎、墫墫、喜也。今詩作蹲。"
+        }
+    ],
+    "indexes": [
+        "墫"
+    ]
+}

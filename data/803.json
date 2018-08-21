@@ -1,0 +1,35 @@
+{
+    "id": 803,
+    "wordhead": "啜",
+    "explanation": "嘗也。从口叕聲。一曰喙也。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "昌說切",
+    "variants": [],
+    "seal_character": "兼",
+    "pinyin": "chuo",
+    "pinyin_full": "chuò",
+    "components": [
+        "口",
+        "叕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "嘗也。",
+            "note": "孟子。徒餔啜也。"
+        },
+        {
+            "explanation": "从口。叕聲。",
+            "note": "昌說切。十五部。"
+        },
+        {
+            "explanation": "一曰喙也。",
+            "note": "此別一義。"
+        }
+    ],
+    "indexes": [
+        "啜"
+    ]
+}

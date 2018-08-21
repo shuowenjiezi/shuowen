@@ -1,0 +1,40 @@
+{
+    "id": 342,
+    "wordhead": "蕁",
+    "explanation": "䒞藩也。从艸尋聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "徒含切",
+    "variants": [
+        {
+            "wordhead": "𧂇",
+            "explanation": "蕁或从爻。",
+            "seal_character": "例"
+        }
+    ],
+    "seal_character": "侊",
+    "pinyin": "tan",
+    "pinyin_full": "tán",
+    "components": [
+        "艸",
+        "尋",
+        "爻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䒞蕃也。",
+            "note": "今本篆文無彡。誤。䒞當是本作冘。俗加艸。本艸作沈直林切燔。說爾雅者謂卽今之知母。"
+        },
+        {
+            "explanation": "从艸。𢒫聲。",
+            "note": "𢒫各本作尋。誤。徒南切。古音在七部。"
+        }
+    ],
+    "indexes": [
+        "荨",
+        "蕁",
+        "𧂇"
+    ]
+}

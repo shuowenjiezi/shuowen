@@ -1,0 +1,31 @@
+{
+    "id": 1366,
+    "wordhead": "躅",
+    "explanation": "蹢躅也。从足蜀聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "直録切",
+    "variants": [],
+    "seal_character": "叵",
+    "pinyin": "zhu",
+    "pinyin_full": "zhú",
+    "components": [
+        "足",
+        "蜀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蹢躅也。",
+            "note": "蹢躅雙聲。"
+        },
+        {
+            "explanation": "从足。蜀聲。",
+            "note": "直錄切。三部。"
+        }
+    ],
+    "indexes": [
+        "躅"
+    ]
+}

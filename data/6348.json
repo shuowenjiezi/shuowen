@@ -1,0 +1,43 @@
+{
+    "id": 6348,
+    "wordhead": "狐",
+    "explanation": "䄏獸也。鬼所乘之。有三徳：其色中和，小前大後，死則丘首。从犬瓜聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "戶吳切",
+    "variants": [],
+    "seal_character": "樭",
+    "pinyin": "hu",
+    "pinyin_full": "hú",
+    "components": [
+        "瓜",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䄏獸也。鬼所乘之。",
+            "note": "爾雅音義無之字。"
+        },
+        {
+            "explanation": "有三德。其色中和。小歬大後。",
+            "note": "廣韵作豐後。"
+        },
+        {
+            "explanation": "死則丘首。",
+            "note": "音義、廣韵皆作首丘。"
+        },
+        {
+            "explanation": "謂之三德。",
+            "note": "御覽有此四字。"
+        },
+        {
+            "explanation": "从犬。瓜聲。",
+            "note": "戸吳切。五部。"
+        }
+    ],
+    "indexes": [
+        "狐"
+    ]
+}

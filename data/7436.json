@@ -1,0 +1,42 @@
+{
+    "id": 7436,
+    "wordhead": "𣹭",
+    "explanation": "水行也。从沝、㐬。㐬，突忽也。",
+    "volume": "11",
+    "radical": "沝",
+    "pronunciation": "力求切",
+    "variants": [
+        {
+            "wordhead": "流",
+            "explanation": "篆文从水。",
+            "seal_character": "滇"
+        }
+    ],
+    "seal_character": "滆",
+    "pinyin": "liu",
+    "pinyin_full": "liú",
+    "components": [
+        "水",
+        "沝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水行也。从沝㐬。",
+            "note": "會意。力求切。三部。"
+        },
+        {
+            "explanation": "㐬、突忽也。",
+            "note": "㐬之本義謂不順忽出也。引申爲突忽。故流从之。"
+        },
+        {
+            "explanation": "篆文从水。",
+            "note": "流爲小篆。則𣹳爲古文、籒文可知。此亦二上之例也。或問曰。何不以流涉入水部、而附𣹳𣻣爲重文乎。曰。如是、則沝無所附。沝不附水部之末而爲部首者、以配屾部也。"
+        }
+    ],
+    "indexes": [
+        "𣹭",
+        "流"
+    ]
+}

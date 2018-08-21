@@ -1,0 +1,40 @@
+{
+    "id": 7622,
+    "wordhead": "鮺",
+    "explanation": "藏魚也。南方謂之䰼，北方謂之鮺。从魚，差省聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "側下切",
+    "variants": [],
+    "seal_character": "澦",
+    "pinyin": "zha",
+    "pinyin_full": "zhǎ",
+    "components": [
+        "差",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臧魚也。",
+            "note": "釋名曰。鮓、菹也。以鹽米釀魚爲菹。孰而食之也。按古作鮺之法。令魚不㱙壞。故陶士行遠遺其母。卽內則之魚膾、聶而切之者也。"
+        },
+        {
+            "explanation": "南方謂之䰼。北方謂之鮺。",
+            "note": "此一說也。周禮注曰。荆州之鮺魚。然則南方亦言鮺。"
+        },
+        {
+            "explanation": "一曰大魚爲鮺。小魚爲䰼。",
+            "note": "此又一說也。此十字舊在下篆鮺也之下。今依廣韵移倂。"
+        },
+        {
+            "explanation": "从魚。𢀩省聲。",
+            "note": "側下切。十七部。俗作鮓。"
+        }
+    ],
+    "indexes": [
+        "鲝",
+        "鮺"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 4588,
+    "wordhead": "客",
+    "explanation": "寄也。从宀各聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "苦格切",
+    "variants": [],
+    "seal_character": "抍",
+    "pinyin": "ke",
+    "pinyin_full": "kè",
+    "components": [
+        "各",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寄也。",
+            "note": "字从各。各、異詞也。故自此託彼曰客。引伸之曰賓客。賓、所敬也。客、寄也。故周禮大行人大賓大客別其辭。諸侯謂之大賓。其孤卿謂之大客。司儀曰。諸公諸侯諸伯諸子諸男相爲賓、諸公之臣侯伯子男之臣相爲客是也。統言則不別耳。論語。寢不尸。居不客。謂生不可似死。主不可似客也。今本誤作不容。"
+        },
+        {
+            "explanation": "从宀。",
+            "note": "所託也。"
+        },
+        {
+            "explanation": "各聲。",
+            "note": "苦格切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "客"
+    ]
+}

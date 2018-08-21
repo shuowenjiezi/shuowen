@@ -1,0 +1,31 @@
+{
+    "id": 6239,
+    "wordhead": "麋",
+    "explanation": "鹿屬。从鹿米聲。麋冬至解其角。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "武悲切",
+    "variants": [],
+    "seal_character": "榴",
+    "pinyin": "mi",
+    "pinyin_full": "mí",
+    "components": [
+        "米",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鹿屬。从鹿。米聲。",
+            "note": "武悲切。十五部。"
+        },
+        {
+            "explanation": "麋冬至解角。",
+            "note": "月令。仲冬。日短至。麋角解。夏小正。十有一月隕麋角。"
+        }
+    ],
+    "indexes": [
+        "麋"
+    ]
+}

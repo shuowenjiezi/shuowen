@@ -1,0 +1,35 @@
+{
+    "id": 7458,
+    "wordhead": "羕",
+    "explanation": "水長也。从永羊聲。《詩》曰：“江之羕矣。”",
+    "volume": "11",
+    "radical": "永",
+    "pronunciation": "余亮切",
+    "variants": [],
+    "seal_character": "滤",
+    "pinyin": "yang",
+    "pinyin_full": "yànɡ",
+    "components": [
+        "羊",
+        "永"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水長也。",
+            "note": "引申之爲凡長之偁。釋詁曰。羕、長也。"
+        },
+        {
+            "explanation": "从永。羊聲。",
+            "note": "余亮切。十部。"
+        },
+        {
+            "explanation": "詩曰。江之羕矣。",
+            "note": "漢廣文。毛詩作永。韓詩作羕。古音同也。文選登樓賦。川旣漾而濟深。李注引韓詩江之漾矣。薛君曰。漾、長也。漾乃羕之譌字。"
+        }
+    ],
+    "indexes": [
+        "羕"
+    ]
+}

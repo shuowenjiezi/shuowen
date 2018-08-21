@@ -1,0 +1,50 @@
+{
+    "id": 4536,
+    "wordhead": "宅",
+    "explanation": "所託也。从宀乇聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "場伯切",
+    "variants": [
+        {
+            "wordhead": "𡧪",
+            "explanation": "古文宅。",
+            "seal_character": "扏"
+        },
+        {
+            "wordhead": "㡯",
+            "explanation": "亦古文宅。",
+            "seal_character": "扐"
+        }
+    ],
+    "seal_character": "扎",
+    "pinyin": "zhai",
+    "pinyin_full": "zhái",
+    "components": [
+        "土",
+        "宀",
+        "乇",
+        "广"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人所託凥也。",
+            "note": "依御覽補字。託者、寄也。人部亦曰。侂、寄也。引伸之凡物所安皆曰宅。宅託曡韵。釋名曰。宅、擇也。擇揀吉處而營之。"
+        },
+        {
+            "explanation": "从宀。乇聲。",
+            "note": "場伯切。古音在五部。"
+        },
+        {
+            "explanation": "亦古文宅。",
+            "note": "侘从此。"
+        }
+    ],
+    "indexes": [
+        "宅",
+        "𡧪",
+        "㡯"
+    ]
+}

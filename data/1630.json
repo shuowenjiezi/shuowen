@@ -1,0 +1,46 @@
+{
+    "id": 1630,
+    "wordhead": "訇",
+    "explanation": "騃言聲。从言，勻省聲。漢中西城有訇鄉。又讀若玄。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "虎橫切",
+    "variants": [
+        {
+            "wordhead": "𧥻",
+            "explanation": "籒文不省。",
+            "seal_character": "唞"
+        }
+    ],
+    "seal_character": "唝",
+    "pinyin": "hong",
+    "pinyin_full": "hōnɡ",
+    "components": [
+        "言",
+        "勻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "駭言聲。",
+            "note": "駭各本作騃。依韵會訂。此本義也。引伸爲匉訇大聲。"
+        },
+        {
+            "explanation": "从言。匀省聲。",
+            "note": "虎横切。古音在十二部。變爲圁字。則西河郡圁陰、圁陽皆音銀是也。西京賦。沸卉輧訇與鶤温門諭韵。則人十三部。今入耕韵。非也。"
+        },
+        {
+            "explanation": "漢中西城有訇鄉。",
+            "note": "城俗本作域。誤。"
+        },
+        {
+            "explanation": "又讀若玄。",
+            "note": "謂讀若匀矣。其訇鄉則又讀若玄也。"
+        }
+    ],
+    "indexes": [
+        "訇",
+        "𧥻"
+    ]
+}

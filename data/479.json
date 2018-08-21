@@ -1,0 +1,31 @@
+{
+    "id": 479,
+    "wordhead": "蕈",
+    "explanation": "桑䓴。从艸覃聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "慈衽切",
+    "variants": [],
+    "seal_character": "倝",
+    "pinyin": "xun",
+    "pinyin_full": "xùn",
+    "components": [
+        "覃",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "桑䓴也。",
+            "note": "䓴之生於桑者曰蕈。蕈之生於田中者曰菌圥。鄭司農注周禮云深蒲。或曰桑耳。"
+        },
+        {
+            "explanation": "从艸。覃聲。",
+            "note": "慈衽切。七部。"
+        }
+    ],
+    "indexes": [
+        "蕈"
+    ]
+}

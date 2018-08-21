@@ -1,0 +1,40 @@
+{
+    "id": 2374,
+    "wordhead": "鶪",
+    "explanation": "伯勞也。从鳥狊聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "古闃切",
+    "variants": [
+        {
+            "wordhead": "𩀎",
+            "explanation": "鶪或从隹。",
+            "seal_character": "墛"
+        }
+    ],
+    "seal_character": "墚",
+    "pinyin": "ju",
+    "pinyin_full": "jú",
+    "components": [
+        "隹",
+        "鳥",
+        "狊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "伯勞也。",
+            "note": "夏小正作百鷯。月令注作博勞。詩箋作伯勞。古音同也。鶪夏小正、孟子作鴂。乃雙聲假借字。小正、月令皆云五月鳴。惟豳風曰。七月鳴鶪。左傳曰。伯趙氏司至者也。"
+        },
+        {
+            "explanation": "从鳥。狊聲。",
+            "note": "古闃切。十六部。"
+        }
+    ],
+    "indexes": [
+        "䴗",
+        "鶪",
+        "𩀎"
+    ]
+}

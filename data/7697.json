@@ -1,0 +1,36 @@
+{
+    "id": 7697,
+    "wordhead": "閨",
+    "explanation": "特立之戶，上圜下方，有似圭。从門圭聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "古攜切",
+    "variants": [],
+    "seal_character": "濹",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuī",
+    "components": [
+        "門",
+        "圭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "特立之戶。",
+            "note": "釋宮曰。宮中門謂之闈。其小者謂之閨。"
+        },
+        {
+            "explanation": "上圜下方有佀圭。从門圭。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "圭亦聲。",
+            "note": "古攜切。十六部。"
+        }
+    ],
+    "indexes": [
+        "闺",
+        "閨"
+    ]
+}

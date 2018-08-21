@@ -1,0 +1,44 @@
+{
+    "id": 8384,
+    "wordhead": "匧",
+    "explanation": "藏也。从匚夾聲。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "苦叶切",
+    "variants": [
+        {
+            "wordhead": "篋",
+            "explanation": "匧或从竹。",
+            "seal_character": "狟"
+        }
+    ],
+    "seal_character": "狞",
+    "pinyin": "qie",
+    "pinyin_full": "qiè",
+    "components": [
+        "夾",
+        "竹",
+        "匚",
+        "匧"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "椷臧也。",
+            "note": "小徐本如是。大徐無椷字。木部椷下曰。匧也。是二篆爲轉注。臧字似衍。玉篇作緘也。乃椷之誤。若文選應璩百一詩、任昉哭范僕射詩李注皆引說文篋、笥也。此則所據本不同。自當以小徐本爲善耳。戰國策。乃夜發書。陳篋數十。"
+        },
+        {
+            "explanation": "从匚。夾聲。",
+            "note": "苦叶切。八部。"
+        },
+        {
+            "explanation": "匧或从竹。",
+            "note": "按廣韵曰匧、藏也。篋、箱篋也。分一字爲二。而刪去椷字之所䌛也。"
+        }
+    ],
+    "indexes": [
+        "匧",
+        "篋"
+    ]
+}

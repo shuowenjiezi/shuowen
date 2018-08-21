@@ -1,0 +1,39 @@
+{
+    "id": 5788,
+    "wordhead": "匏",
+    "explanation": "瓠也。从包，从夸聲。包，取其可包藏物也。",
+    "volume": "09",
+    "radical": "包",
+    "pronunciation": "薄交切",
+    "variants": [],
+    "seal_character": "枾",
+    "pinyin": "pao",
+    "pinyin_full": "páo",
+    "components": [
+        "包",
+        "夸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瓠也。",
+            "note": "瓠下曰。匏也。與此爲轉注。匏判之曰蠡、曰瓢、曰？。邶風傳曰。匏謂之瓠。謂異名同實也。豳風傳曰。壺、瓠也。此謂壺卽瓠之假借字也。"
+        },
+        {
+            "explanation": "从包。从瓠省。",
+            "note": "瓠省舊作瓠聲。誤。韵會作从夸、包聲。亦誤。今正。从包瓠者、能包盛物之瓠也。不入瓠部者、重包也。包亦聲。薄交切。古音在三部。"
+        },
+        {
+            "explanation": "包、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "取其可包藏物也。",
+            "note": "說从包之意。藏當作臧。"
+        }
+    ],
+    "indexes": [
+        "匏"
+    ]
+}

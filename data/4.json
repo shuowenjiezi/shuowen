@@ -1,0 +1,31 @@
+{
+    "id": 4,
+    "wordhead": "丕",
+    "explanation": "大也。从一不聲。",
+    "volume": "01",
+    "radical": "一",
+    "pronunciation": "敷悲切",
+    "variants": [],
+    "seal_character": "丄",
+    "pinyin": "pi",
+    "pinyin_full": "pī",
+    "components": [
+        "一",
+        "不"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从一。不聲。",
+            "note": "敷悲切。古音在第一部。鋪怡切。丕與不音同。故古多用不爲丕。如不顯卽丕顯之類。於六書爲假借。凡假借必同部同音。○丕、隷書中直引長。故云丕之字不十。漢石經作𠦓、可證。非與丕殊字也。"
+        }
+    ],
+    "indexes": [
+        "丕"
+    ]
+}

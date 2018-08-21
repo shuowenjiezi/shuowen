@@ -1,0 +1,37 @@
+{
+    "id": 2088,
+    "wordhead": "目",
+    "explanation": "人眼。象形。重童子也。凡目之屬皆从目。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "莫六切",
+    "variants": [
+        {
+            "wordhead": "𡇡",
+            "explanation": "古文目。",
+            "seal_character": "坘"
+        }
+    ],
+    "seal_character": "块",
+    "pinyin": "mu",
+    "pinyin_full": "mù",
+    "components": [
+        "目"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人眼也。象形。重、童子也。",
+            "note": "象形、緫言之。嫌人不解二。故釋之曰。重其童子也。釋名曰。瞳、重也。膚幕相裹重也。子、小偁也。主謂其精明者也。或曰眸子。眸、冒也。相裹冒也。按人目由白而盧、童而子。層層包裹。故重畫以象之。非如項羽本紀所云重瞳子也。目之引伸爲𢫾目、條目之目。莫六切。三部。"
+        },
+        {
+            "explanation": "古文目。",
+            "note": "口象面。中象眉目。江沅曰。外象匡。內象𣮌目。"
+        }
+    ],
+    "indexes": [
+        "目",
+        "𡇡"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 3128,
+    "wordhead": "盧",
+    "explanation": "飯器也。从皿𧇄聲。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "洛乎切",
+    "variants": [
+        {
+            "wordhead": "𥃈",
+            "explanation": "籒文盧。",
+            "seal_character": "小"
+        }
+    ],
+    "seal_character": "導",
+    "pinyin": "lu",
+    "pinyin_full": "lú",
+    "components": [
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盧、飯器也。",
+            "note": "？部曰。？盧、飯器。以桺爲之。士昏禮注曰。笲、竹器而衣者。如今之筥、𥬔籚矣。筥、𥬔籚二物相似。𥬔籚卽？盧也。方言。𥰠、趙魏之郊謂之去𥰠。注。盛飯筥也。錢氏大昕曰。去𥰠卽？盧也。"
+        },
+        {
+            "explanation": "从皿。𧆣聲。",
+            "note": "洛乎切。五部。"
+        }
+    ],
+    "indexes": [
+        "卢",
+        "盧",
+        "𥃈"
+    ]
+}

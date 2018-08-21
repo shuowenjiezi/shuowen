@@ -1,0 +1,35 @@
+{
+    "id": 6899,
+    "wordhead": "悄",
+    "explanation": "憂也。从心肖聲。《詩》曰：“憂心悄悄。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "親小切",
+    "variants": [],
+    "seal_character": "沏",
+    "pinyin": "qiao",
+    "pinyin_full": "qiǎo",
+    "components": [
+        "肖",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢝊也。",
+            "note": "按也當作皃。釋訓曰。悄悄、憂也。毛傳曰。悄悄、憂皃。"
+        },
+        {
+            "explanation": "从心。肖聲。",
+            "note": "親小切。二部。"
+        },
+        {
+            "explanation": "詩曰。憂心悄悄。",
+            "note": "邶柏舟文。"
+        }
+    ],
+    "indexes": [
+        "悄"
+    ]
+}

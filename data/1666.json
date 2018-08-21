@@ -1,0 +1,35 @@
+{
+    "id": 1666,
+    "wordhead": "訏",
+    "explanation": "詭譌也。从言于聲。一曰訏，𧪰。齊、楚謂信曰訏。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "況于切",
+    "variants": [],
+    "seal_character": "啃",
+    "pinyin": "xu",
+    "pinyin_full": "xū",
+    "components": [
+        "言",
+        "于"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "詭譌也。从言。于聲。",
+            "note": "況于切。五部。"
+        },
+        {
+            "explanation": "一曰訏𦎍。",
+            "note": "今字作吁嗟。此别一義。"
+        },
+        {
+            "explanation": "齊楚謂信曰訏。",
+            "note": "按信當作大。釋詁。訏、大也。方言。訏、大也。中齊西楚之閒曰訏。許語本楊。"
+        }
+    ],
+    "indexes": [
+        "訏"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 8042,
+    "wordhead": "拲",
+    "explanation": "兩手同械也。从手从共，共亦聲。《周禮》：“上辠，梏拲而桎。”　",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "居竦切",
+    "variants": [
+        {
+            "wordhead": "㭟",
+            "explanation": "拲或从木。",
+            "seal_character": "煱"
+        }
+    ],
+    "seal_character": "煰",
+    "pinyin": "gong",
+    "pinyin_full": "ɡǒnɡ",
+    "components": [
+        "木",
+        "共",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㒳手共同械也。",
+            "note": "周禮掌囚。上罪梏拲而桎。鄭司農云。拲者、㒳手共一木也。"
+        },
+        {
+            "explanation": "从手。共聲。",
+            "note": "此舉形聲包會意。居竦切。九部。"
+        },
+        {
+            "explanation": "拲或作木。",
+            "note": "猶桎梏字。"
+        }
+    ],
+    "indexes": [
+        "拲",
+        "㭟"
+    ]
+}

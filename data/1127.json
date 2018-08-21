@@ -1,0 +1,35 @@
+{
+    "id": 1127,
+    "wordhead": "遭",
+    "explanation": "遇也。从辵曹聲。一曰邐行。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "作曹切",
+    "variants": [],
+    "seal_character": "勥",
+    "pinyin": "zao",
+    "pinyin_full": "zāo",
+    "components": [
+        "曹",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遇也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从辵。曹聲。",
+            "note": "作曹切。古音三部。"
+        },
+        {
+            "explanation": "一曰邐行。",
+            "note": "俗云週遭是也。"
+        }
+    ],
+    "indexes": [
+        "遭"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 9120,
+    "wordhead": "堇",
+    "explanation": "黏土也。从土，从黃省。凡堇之屬皆从堇。",
+    "volume": "13",
+    "radical": "堇",
+    "pronunciation": "巨斤切",
+    "variants": [
+        {
+            "wordhead": "𦻍",
+            "explanation": "皆古文堇<span>[<span>𡏳</span>]</span>。",
+            "seal_character": "瘷"
+        },
+        {
+            "wordhead": "𦻋",
+            "explanation": "皆古文堇<span>[<span>𡏳</span>]</span>。",
+            "seal_character": "瘸"
+        }
+    ],
+    "seal_character": "瘶",
+    "pinyin": "qin",
+    "pinyin_full": "qín",
+    "components": [
+        "土",
+        "黃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黏土也。",
+            "note": "內則。塗之以謹塗。鄭曰。謹當爲墐。聲之誤也。墐塗、塗有穰草也。按鄭注墐當爲堇。轉寫者誤加土耳。玉篇引禮堇涂。是希馮時不誤也。鄭謂土帶穰曰堇。許說不尒。葢土性黏者。與埴異字同義也。"
+        },
+        {
+            "explanation": "从黃省。从土。",
+            "note": "从黃者、黃土多黏也。會意。巨斤切。十三部。按徐仙民、篇、韵皆居隱切。"
+        },
+        {
+            "explanation": "古文堇。",
+            "note": "古文从黃不省。"
+        },
+        {
+            "explanation": "亦古文。",
+            "note": "此篆各本皆譌。今依難字古所用形聲更正。"
+        }
+    ],
+    "indexes": [
+        "堇",
+        "𦻍",
+        "𦻋"
+    ]
+}

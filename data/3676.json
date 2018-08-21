@@ -1,0 +1,35 @@
+{
+    "id": 3676,
+    "wordhead": "櫡",
+    "explanation": "斫謂之櫡。从木箸聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "張略切",
+    "variants": [],
+    "seal_character": "序",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "木",
+        "箸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "斫謂之櫡。",
+            "note": "見釋器。櫡一作鐯。俗字也。凡斫木之斤、斫地之欘皆謂之櫡。櫡之言箸也。箸直略反。郭云。钁也。金部云。钁、大鉏也。"
+        },
+        {
+            "explanation": "從木。",
+            "note": "欘櫡皆重柄。故字皆從木。"
+        },
+        {
+            "explanation": "箸聲。",
+            "note": "張略切。五部。"
+        }
+    ],
+    "indexes": [
+        "櫡"
+    ]
+}

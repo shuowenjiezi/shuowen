@@ -1,0 +1,35 @@
+{
+    "id": 1383,
+    "wordhead": "蹐",
+    "explanation": "小步也。从足𦟝聲。《詩》曰：“不敢不蹐。”",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "資昔切",
+    "variants": [],
+    "seal_character": "吇",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "足",
+        "脊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小步也。",
+            "note": "毛傳。蹐、絫足也。按絫蹐曡韵。絫足者、小步之至也。"
+        },
+        {
+            "explanation": "从足。𦟝聲。",
+            "note": "資昔切。十六部。"
+        },
+        {
+            "explanation": "詩曰。不敢不蹐。",
+            "note": "小雅。走部引作？。"
+        }
+    ],
+    "indexes": [
+        "蹐"
+    ]
+}

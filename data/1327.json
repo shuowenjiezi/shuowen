@@ -1,0 +1,39 @@
+{
+    "id": 1327,
+    "wordhead": "跟",
+    "explanation": "足踵也。从足𥃩聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "古痕切",
+    "variants": [
+        {
+            "wordhead": "𣥦",
+            "explanation": "跟或从止。",
+            "seal_character": "収"
+        }
+    ],
+    "seal_character": "反",
+    "pinyin": "gen",
+    "pinyin_full": "ɡēn",
+    "components": [
+        "止",
+        "艮",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "足歱也。",
+            "note": "歱各本作踵。誤。止部曰。歱、跟也。釋名曰。足後曰跟。一體任之。象本根也。"
+        },
+        {
+            "explanation": "从足。𥃩聲。",
+            "note": "古痕切。十三部。"
+        }
+    ],
+    "indexes": [
+        "跟",
+        "𣥦"
+    ]
+}

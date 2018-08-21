@@ -1,0 +1,31 @@
+{
+    "id": 584,
+    "wordhead": "茨",
+    "explanation": "以茅葦蓋屋。从艸次聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "疾兹切",
+    "variants": [],
+    "seal_character": "傉",
+    "pinyin": "ci",
+    "pinyin_full": "cí",
+    "components": [
+        "艸",
+        "次"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "茅葢屋。",
+            "note": "俗本作以茅葦葢屋。見甫田鄭箋。釋名曰。屋以艸葢曰茨。茨、次也。次艸爲之也。"
+        },
+        {
+            "explanation": "从艸。次聲。",
+            "note": "此形聲包㑹意。疾資切。十五部。"
+        }
+    ],
+    "indexes": [
+        "茨"
+    ]
+}

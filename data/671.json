@@ -1,0 +1,38 @@
+{
+    "id": 671,
+    "wordhead": "蓬",
+    "explanation": "蒿也。从艸逢聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "薄紅切",
+    "variants": [
+        {
+            "wordhead": "莑",
+            "explanation": "籒文蓬省。",
+            "seal_character": "僪"
+        }
+    ],
+    "seal_character": "僩",
+    "pinyin": "peng",
+    "pinyin_full": "pénɡ",
+    "components": [
+        "艸",
+        "逢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蒿也。从艸。逢聲。",
+            "note": "薄紅切。九部。籒文作？。"
+        },
+        {
+            "explanation": "籒文蓬省。",
+            "note": "按此籒文當作古文。䖵部蠭、古文作𧒒。可比例也。"
+        }
+    ],
+    "indexes": [
+        "蓬",
+        "莑"
+    ]
+}

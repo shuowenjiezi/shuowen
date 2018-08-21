@@ -1,0 +1,36 @@
+{
+    "id": 62,
+    "wordhead": "禡",
+    "explanation": "師行所止，恐有慢其神，下而祀之曰禡。从示馬聲。《周禮》曰：“禡於所征之地。”",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "莫駕切",
+    "variants": [],
+    "seal_character": "乎",
+    "pinyin": "ma",
+    "pinyin_full": "mà",
+    "components": [
+        "示",
+        "馬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "師行所止。恐有慢其神。下而祀之曰禡。",
+            "note": "釋天曰。是禷是禡。師祭也。王制注云。爲兵禱。周禮肆師、甸祝皆作貉。杜、鄭讀貉爲十百之百。云爲師祭造軍法者。禱氣勢之十百增倍。許說不同者。許時古今說具在。五經異義今已亾。又賈氏周禮解詁亦亾。不詳其所本也。"
+        },
+        {
+            "explanation": "从示。馬聲。",
+            "note": "莫駕切。古音在五部。"
+        },
+        {
+            "explanation": "周禮禡於所征之地。",
+            "note": "王制文。"
+        }
+    ],
+    "indexes": [
+        "祃",
+        "禡"
+    ]
+}

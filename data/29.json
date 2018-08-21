@@ -1,0 +1,42 @@
+{
+    "id": 29,
+    "wordhead": "禋",
+    "explanation": "潔祀也。一曰精意以享爲禋。从示垔聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "於眞切",
+    "variants": [
+        {
+            "wordhead": "𡫻",
+            "explanation": "籒文从宀。",
+            "seal_character": "丨"
+        }
+    ],
+    "seal_character": "丧",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "示",
+        "垔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絜祀也。",
+            "note": "韋昭注周語同。釋詁。禋、祭也。孫炎曰。潔敬之祭也。各本作潔。依玉篇作絜。"
+        },
+        {
+            "explanation": "一曰精意㠯享爲禋。",
+            "note": "凡義有兩岐者、出一曰之例。山海經、韓非子、故訓傳皆然。但說文多有淺人疑其不備而竄入者。周語。内史過曰。精意以享、禋也。絜祀二字已苞之。何必更端偁引乎。舉此可以隅反。"
+        },
+        {
+            "explanation": "从示。垔聲。",
+            "note": "於眞切。古音在十三部。尚書大傳以湮爲禋。"
+        }
+    ],
+    "indexes": [
+        "禋",
+        "𡫻"
+    ]
+}

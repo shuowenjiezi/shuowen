@@ -1,0 +1,44 @@
+{
+    "id": 9155,
+    "wordhead": "畺",
+    "explanation": "界也。从畕；三，其界畫也。",
+    "volume": "13",
+    "radical": "畕",
+    "pronunciation": "居良切",
+    "variants": [
+        {
+            "wordhead": "疆",
+            "explanation": "畺或从彊、土。",
+            "seal_character": "癡"
+        }
+    ],
+    "seal_character": "癠",
+    "pinyin": "jiang",
+    "pinyin_full": "jiānɡ",
+    "components": [
+        "土",
+        "三",
+        "彊",
+        "畕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "界也。",
+            "note": "七月。萬壽無疆。傳曰。疆、竟也。田部曰。界、竟也。然則畺界義同。竟境正俗字。信南山。我疆我理。傳曰。疆、畫經界也。理、分地理也。緜曰。乃疆乃理。江漢曰。于疆于理。其義皆同。經界出於人爲。地理必因地阞。二者必相因而至。不知地阞則水不行。"
+        },
+        {
+            "explanation": "从畕。三其介畫也。",
+            "note": "介各本作界。今正。介、畫也。畫、介也。二字義同。居良切。十部。"
+        },
+        {
+            "explanation": "畺或从土。彊聲。",
+            "note": "今則疆行而畺廢矣。惟周禮有畺。"
+        }
+    ],
+    "indexes": [
+        "畺",
+        "疆"
+    ]
+}

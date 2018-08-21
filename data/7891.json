@@ -1,0 +1,35 @@
+{
+    "id": 7891,
+    "wordhead": "摽",
+    "explanation": "擊也。从手票聲。一曰挈門壯也。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "符少切",
+    "variants": [],
+    "seal_character": "烒",
+    "pinyin": "piao",
+    "pinyin_full": "piāo",
+    "components": [
+        "票",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "擊也。",
+            "note": "左傳。長木之斃。無不摽也。杜云。摽、擊也。柏舟傳曰。摽、拊心皃。"
+        },
+        {
+            "explanation": "从手。𤐫聲。",
+            "note": "符少切。二部。左釋文敷蕭普交二切。"
+        },
+        {
+            "explanation": "一曰挈𨷲牡也。",
+            "note": "𨷲牡、一物也。見門部。挈者、提而启之也。葉鈔本𨷲作門。"
+        }
+    ],
+    "indexes": [
+        "摽"
+    ]
+}

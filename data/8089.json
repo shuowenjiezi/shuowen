@@ -1,0 +1,55 @@
+{
+    "id": 8089,
+    "wordhead": "妻",
+    "explanation": "婦與夫齊者也。从女从屮从又。又，持事，妻職也。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "七稽切",
+    "variants": [
+        {
+            "wordhead": "𡜈",
+            "explanation": "古文妻从𡭙、女。𡭙，古文貴字。",
+            "seal_character": "熤"
+        }
+    ],
+    "seal_character": "熣",
+    "pinyin": "qi",
+    "pinyin_full": "qī",
+    "components": [
+        "又",
+        "女",
+        "屮"
+    ],
+    "xuan_note": "臣鉉等曰：屮者，進也，齊之義也，故从屮。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "婦與己齊者也。",
+            "note": "妻齊以㬪韵爲訓。此渾言之也。曲禮曰。庶人曰妻。析言之也。"
+        },
+        {
+            "explanation": "从女。从屮。从又。",
+            "note": "七稽切。十五部。"
+        },
+        {
+            "explanation": "又、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "持事。妻職也。",
+            "note": "釋从又之意。"
+        },
+        {
+            "explanation": "屮聲。",
+            "note": "說从屮之故。鉉等以不應旣云从屮、又云屮聲。刪此二字。"
+        },
+        {
+            "explanation": "古文妻。从肖女。肖、古文䝿字。",
+            "note": "古文貴不見於貝部。恐有遺奪。"
+        }
+    ],
+    "indexes": [
+        "妻",
+        "𡜈"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 2083,
+    "wordhead": "爽",
+    "explanation": "明也。从㸚从大。",
+    "volume": "03",
+    "radical": "㸚",
+    "pronunciation": "疏兩切",
+    "variants": [
+        {
+            "wordhead": "𤕤",
+            "explanation": "篆文爽。",
+            "seal_character": "坒"
+        }
+    ],
+    "seal_character": "坑",
+    "pinyin": "shuang",
+    "pinyin_full": "shuǎnɡ",
+    "components": [
+        "大"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“大，其中隙縫光也。”",
+    "duan_notes": [
+        {
+            "explanation": "明也。",
+            "note": "爽本訓明。明之至而差生焉。故引伸訓差也。朝旦之時。半昧半明。故謂之早昧爽。日部曰。昧爽、旦明也。昧之字、三蒼作曶。云曶爽、早朝也。司馬相如傳云。疏逖不閉。曶爽得耀乎光明。今本多闇昧二字。乃用注家語？之耳。"
+        },
+        {
+            "explanation": "从㸚大。",
+            "note": "其孔㸚㸚。明之露者。盛也。疏兩切。十部。"
+        },
+        {
+            "explanation": "篆文爽。",
+            "note": "此字淺人竄補。當刪。爽之作爽、奭之作奭皆𣜩書改篆。取其可觀耳。淺人補入說文。云此爲小篆。从㸚旣同。何不先篆後古籒乎。凡若此等。不可不辨。"
+        }
+    ],
+    "indexes": [
+        "爽",
+        "𤕤"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 489,
+    "wordhead": "荆",
+    "explanation": "楚木也。从艸刑聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "舉卿切",
+    "variants": [
+        {
+            "wordhead": "𦮓",
+            "explanation": "古文荆。",
+            "seal_character": "倨"
+        }
+    ],
+    "seal_character": "倧",
+    "pinyin": "jing",
+    "pinyin_full": "jīnɡ",
+    "components": [
+        "艸",
+        "刑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "楚木也。",
+            "note": "林部曰。楚、叢木。一名荆。是爲轉注。"
+        },
+        {
+            "explanation": "从艸。刑聲。",
+            "note": "舉卿切。十一部。"
+        }
+    ],
+    "indexes": [
+        "荆",
+        "𦮓"
+    ]
+}

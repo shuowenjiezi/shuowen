@@ -1,0 +1,43 @@
+{
+    "id": 3158,
+    "wordhead": "𧗕",
+    "explanation": "腫血也。从血，䢉省聲。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "奴冬切",
+    "variants": [
+        {
+            "wordhead": "膿",
+            "explanation": "俗𧗕从肉農<span>[<span>䢉</span>]</span>聲。",
+            "seal_character": "尰"
+        }
+    ],
+    "seal_character": "尯",
+    "pinyin": "nong",
+    "pinyin_full": "nónɡ",
+    "components": [
+        "肉",
+        "血",
+        "農"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "腫血也。",
+            "note": "腫、癰也。停滯之血則爲？。周禮注曰。潰瘍癰而含膿血者。"
+        },
+        {
+            "explanation": "从血。䢉省聲。",
+            "note": "奴冬切。九部。"
+        },
+        {
+            "explanation": "俗𧗕。从肉。農聲。",
+            "note": "周禮注如此作。"
+        }
+    ],
+    "indexes": [
+        "𧗕",
+        "膿"
+    ]
+}

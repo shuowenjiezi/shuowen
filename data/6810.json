@@ -1,0 +1,31 @@
+{
+    "id": 6810,
+    "wordhead": "忘",
+    "explanation": "不識也。从心从亡，亡亦聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "武方切",
+    "variants": [],
+    "seal_character": "氰",
+    "pinyin": "wang",
+    "pinyin_full": "wànɡ",
+    "components": [
+        "心",
+        "亡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不識也。",
+            "note": "識者、意也。今所謂知識。所謂記憶也。"
+        },
+        {
+            "explanation": "从心。亡聲。",
+            "note": "依韵會本。武方切。十部。"
+        }
+    ],
+    "indexes": [
+        "忘"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 480,
+    "wordhead": "䓴",
+    "explanation": "木耳也。从艸耎聲。一曰萮茈。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "而兖切",
+    "variants": [],
+    "seal_character": "倞",
+    "pinyin": "ruan",
+    "pinyin_full": "ruǎn",
+    "components": [
+        "艸",
+        "耎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木耳也。",
+            "note": "内則記燕食所加庶羞有芝栭。正義曰。盧植云。芝、木芝也。王肅云。無華而實者名栭。按芝栭猶攷工記之之而。鄭君謂芝栭爲一物。栭卽䓴字也。今人謂光滑者木耳。皴者蕈。許意謂蕈爲木耳。"
+        },
+        {
+            "explanation": "从艸。耎聲。",
+            "note": "而兗切。十四部。按耎從大而聲。内則作栭。又作㮕。賀氏云。栭、輭棗。其所據本作㮕也釋文云。又作檽。檽字誤。"
+        },
+        {
+            "explanation": "一曰萮茈。",
+            "note": "未聞。說文亦無萮字。集韵九麌。萮勇主切。萮茈、木耳。是謂䓴之一名也。"
+        }
+    ],
+    "indexes": [
+        "䓴"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 36,
+    "wordhead": "祖",
+    "explanation": "始廟也。从示且聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "則古切",
+    "variants": [],
+    "seal_character": "丱",
+    "pinyin": "zu",
+    "pinyin_full": "zǔ",
+    "components": [
+        "示",
+        "且"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "始廟也。",
+            "note": "始兼兩義。新廟爲始。遠廟亦爲始。故祔祪皆曰祖也。釋詁曰。祖、始也。詩毛傳曰。祖、爲也。皆引伸之義。如初爲衣始、引伸爲凡始也。"
+        },
+        {
+            "explanation": "从示。且聲。",
+            "note": "則古切。五部。"
+        }
+    ],
+    "indexes": [
+        "祖"
+    ]
+}

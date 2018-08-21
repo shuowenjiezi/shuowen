@@ -1,0 +1,40 @@
+{
+    "id": 6162,
+    "wordhead": "駙",
+    "explanation": "副馬也。从馬付聲。一曰近也。一曰疾也。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "符遇切",
+    "variants": [],
+    "seal_character": "楢",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "付",
+        "馬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "副馬也。",
+            "note": "副者、貳也。漢百官公𨜮表。奉車都尉掌御乘輿車。駙馬都尉掌駙馬。皆武帝初置。晉尙公主者、並加之師古曰。駙、副馬也。非正駕車皆爲副馬。"
+        },
+        {
+            "explanation": "从馬。付聲。",
+            "note": "符遇切。古音在四部。"
+        },
+        {
+            "explanation": "一曰近也。",
+            "note": "附近字今人作附。或作傳。依此當作駙。"
+        },
+        {
+            "explanation": "一曰疾也。",
+            "note": "與赴音義皆相近。"
+        }
+    ],
+    "indexes": [
+        "驸",
+        "駙"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 4131,
+    "wordhead": "邞",
+    "explanation": "琅邪縣。一名純德。从邑夫聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "甫無切",
+    "variants": [],
+    "seal_character": "恻",
+    "pinyin": "fu",
+    "pinyin_full": "fū",
+    "components": [
+        "夫",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "琅邪縣也。",
+            "note": "前志。琅邪郡、邞。後志無。幷省也。漢孝文元年。封吕平爲矦國。"
+        },
+        {
+            "explanation": "一名純德。",
+            "note": "前志曰。莽曰純德。"
+        },
+        {
+            "explanation": "从邑。夫聲。",
+            "note": "甫無切。五部。"
+        }
+    ],
+    "indexes": [
+        "邞"
+    ]
+}

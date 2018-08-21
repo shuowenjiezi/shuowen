@@ -1,0 +1,31 @@
+{
+    "id": 788,
+    "wordhead": "咽",
+    "explanation": "嗌也。从口因聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "烏前切",
+    "variants": [],
+    "seal_character": "八",
+    "pinyin": "yan",
+    "pinyin_full": "yān",
+    "components": [
+        "口",
+        "因"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "嗌也。",
+            "note": "咽者、因也。言食因於是以上下也。"
+        },
+        {
+            "explanation": "从口。因聲。",
+            "note": "烏前切。十二部。"
+        }
+    ],
+    "indexes": [
+        "咽"
+    ]
+}

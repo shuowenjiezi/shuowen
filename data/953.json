@@ -1,0 +1,35 @@
+{
+    "id": 953,
+    "wordhead": "唬",
+    "explanation": "嗁聲也。一曰虎聲。从口从虎。讀若暠。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "呼訏切",
+    "variants": [],
+    "seal_character": "刢",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "口",
+        "虎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "虎聲也。",
+            "note": "鍇本不誤。鉉本改爲嗁聲。誤甚。自吠篆已下。皆言鳥獸矣。通俗文曰。虎聲謂之哮。唬當讀呼去聲。亦讀如罅字。从虎口、虎亦聲也。五部。"
+        },
+        {
+            "explanation": "从口虎。",
+            "note": "與吠意同。主於說口。故不入犬、虎部。○此下鍇有一曰虎聲四字。鉉本此四字在从口之上。皆淺人誤增。"
+        },
+        {
+            "explanation": "讀若暠。",
+            "note": "說文無此字。鉉用唐韵呼訝切。玉篇呼交切。與此讀合。"
+        }
+    ],
+    "indexes": [
+        "唬"
+    ]
+}

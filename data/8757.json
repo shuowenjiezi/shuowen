@@ -1,0 +1,35 @@
+{
+    "id": 8757,
+    "wordhead": "虺",
+    "explanation": "虺以注鳴。《詩》曰：“胡爲纵蜥。”从虫兀聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "許偉切",
+    "variants": [],
+    "seal_character": "璇",
+    "pinyin": "hui",
+    "pinyin_full": "huǐ",
+    "components": [
+        "兀",
+        "虫"
+    ],
+    "xuan_note": "臣鉉等曰：兀非聲，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯注鳴者。",
+            "note": "者字今補。注者、咮字之叚借。許用考工記文也。梓人職云。以注鳴者。鄭云。精列屬。與許不同也。上文雖下云似蜥易。下文蜥下云蜥易。則虺爲蜥易屬可知矣。今爾雅以爲虫蝮字。"
+        },
+        {
+            "explanation": "詩曰。胡爲虺蜥。",
+            "note": "小雅節南山文。今詩蜥作蜴。蜴卽蜥字也。"
+        },
+        {
+            "explanation": "从虫。兀聲。",
+            "note": "許偉切。十五部。"
+        }
+    ],
+    "indexes": [
+        "虺"
+    ]
+}

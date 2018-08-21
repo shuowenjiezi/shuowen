@@ -1,0 +1,40 @@
+{
+    "id": 3204,
+    "wordhead": "養",
+    "explanation": "供養也。从食羊聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "余兩切",
+    "variants": [
+        {
+            "wordhead": "𢽁",
+            "explanation": "古文養。",
+            "seal_character": "屳"
+        }
+    ],
+    "seal_character": "屲",
+    "pinyin": "yang",
+    "pinyin_full": "yǎnɡ",
+    "components": [
+        "羊",
+        "攴",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "供養也。",
+            "note": "今人分別上去。古無是也。"
+        },
+        {
+            "explanation": "从𠊊。羊聲。",
+            "note": "余㒳切。十部。"
+        }
+    ],
+    "indexes": [
+        "养",
+        "養",
+        "𢽁"
+    ]
+}

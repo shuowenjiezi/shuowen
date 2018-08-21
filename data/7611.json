@@ -1,0 +1,44 @@
+{
+    "id": 7611,
+    "wordhead": "鰂",
+    "explanation": "烏鰂，魚名。从魚則聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "昨則切",
+    "variants": [
+        {
+            "wordhead": "鯽",
+            "explanation": "鰂或从卽。",
+            "seal_character": "澚"
+        }
+    ],
+    "seal_character": "澙",
+    "pinyin": "zei",
+    "pinyin_full": "zéi",
+    "components": [
+        "則",
+        "魚",
+        "卽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "烏鰂魚也。",
+            "note": "四字句。烏俗本作鰞。今正。陶貞白云。是𪇰烏所化。其口腹猶相似。腹中有墨。能吸波潠墨。令水溷黑自衞。劉淵林云。腹中有藥。謂其背骨。今名海鰾鮹是也。"
+        },
+        {
+            "explanation": "从魚。則聲。",
+            "note": "昨則切。一部。吳都賦作賊。他書作鱡。"
+        },
+        {
+            "explanation": "鰂或从卽。",
+            "note": "此乃俗鰂字。以卽聲古音在十二部也。今人用爲𩺀魚字。"
+        }
+    ],
+    "indexes": [
+        "鲗",
+        "鰂",
+        "鯽"
+    ]
+}

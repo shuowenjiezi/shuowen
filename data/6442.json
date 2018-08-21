@@ -1,0 +1,32 @@
+{
+    "id": 6442,
+    "wordhead": "煉",
+    "explanation": "鑠治金也。从火柬聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "郎電切",
+    "variants": [],
+    "seal_character": "檔",
+    "pinyin": "lian",
+    "pinyin_full": "liàn",
+    "components": [
+        "火",
+        "柬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鑠治金也。",
+            "note": "治毛本作冶。誤。今依宋本。鑠治者、鑠而治之。愈消則愈精。高注戰國策曰。練、濯治絲也。正與此文法同。金部曰。鍊、治金也。此加鑠者、正爲字从火。"
+        },
+        {
+            "explanation": "从火。柬聲。",
+            "note": "郞電切。十四部。"
+        }
+    ],
+    "indexes": [
+        "炼",
+        "煉"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2160,
+    "wordhead": "睼",
+    "explanation": "迎視也。从目是聲。讀若珥瑱之瑱。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "他計切",
+    "variants": [],
+    "seal_character": "垦",
+    "pinyin": "tian",
+    "pinyin_full": "tiàn",
+    "components": [
+        "是",
+        "目"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "迎視也。",
+            "note": "小雅。題彼脊令。毛云。題、視也。按題者、睼之假借。"
+        },
+        {
+            "explanation": "从目。是聲。",
+            "note": "他計切。十六部。"
+        },
+        {
+            "explanation": "讀若珥瑱之瑱。",
+            "note": "此合韵也。如祗振之比。廣韵他甸切本此。"
+        }
+    ],
+    "indexes": [
+        "睼"
+    ]
+}

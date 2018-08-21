@@ -1,0 +1,43 @@
+{
+    "id": 8027,
+    "wordhead": "抗",
+    "explanation": "扞也。从手亢聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "苦浪切",
+    "variants": [
+        {
+            "wordhead": "杭",
+            "explanation": "抗或从木。",
+            "seal_character": "煡"
+        }
+    ],
+    "seal_character": "煠",
+    "pinyin": "kang",
+    "pinyin_full": "kànɡ",
+    "components": [
+        "木",
+        "手",
+        "亢"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作胡郎切。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "扞也。",
+            "note": "旣夕禮注曰。抗、禦也。左傳曰。以亢其讎。注云。亢猶當也。亢爲抗之叚借字。周禮。綱惡馬。注云。綱讀爲以亢其讎之亢。書亦或爲亢。亢、禦也。禁也。綱亦亢之、叚借字也。引申之義爲高抗。旣夕注曰。抗、舉也。"
+        },
+        {
+            "explanation": "从手。亢聲。",
+            "note": "苦浪切。十部。"
+        },
+        {
+            "explanation": "抗或从木。",
+            "note": "若旣夕禮抗木横三縮二、其字固可从木矣。今人用此字讀胡郎切。乃𣃚之譌變。地名餘杭者、乃秦政舟渡處也。"
+        }
+    ],
+    "indexes": [
+        "抗",
+        "杭"
+    ]
+}

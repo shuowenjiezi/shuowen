@@ -1,0 +1,54 @@
+{
+    "id": 5724,
+    "wordhead": "鬣",
+    "explanation": "髮鬣鬣也。从髟巤聲。",
+    "volume": "09",
+    "radical": "髟",
+    "pronunciation": "良涉切",
+    "variants": [
+        {
+            "wordhead": "㲱",
+            "explanation": "鬣或从毛。",
+            "seal_character": "杷"
+        },
+        {
+            "wordhead": "䝓",
+            "explanation": "或从豕。",
+            "seal_character": "杸"
+        }
+    ],
+    "seal_character": "杶",
+    "pinyin": "lie",
+    "pinyin_full": "liè",
+    "components": [
+        "毛",
+        "豕",
+        "巤",
+        "髟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髮鬣鬣也。",
+            "note": "？部巤下曰。毛巤也。象髮在？上及髦髮鬣鬣之形。鬛鬣、動而直上皃。所謂頭髮上指、髮上衝冠也。辭賦家言旌旗獵獵。是其假借字也。許意巤爲今馬鬣字。鬣爲顫動之字。今則鬣行而巤廢矣。人部曰。儠者、長壯儠儠也。字意略同。今左氏傳長儠作長鬛。杜以多須釋之。殊誤。須下垂、不偁鬣。凡上指者偁鬣。"
+        },
+        {
+            "explanation": "从髟。巤聲。",
+            "note": "此舉形聲包會意。良涉切。八部。"
+        },
+        {
+            "explanation": "或从毛。",
+            "note": "許說毛者、通乎獸毛而言。故馬豖之髦亦曰鬣。周禮巾車翣字、故書爲䭷。亦或爲？。按䭷？皆卽？字也。𣜩體多假葛爲巤。"
+        },
+        {
+            "explanation": "或从豖。",
+            "note": "曲禮曰。豖曰剛鬣。㣇部曰。豕鬣如筆管者曰豪。是或从豕之意也。"
+        }
+    ],
+    "indexes": [
+        "鬣",
+        "㲱",
+        "䝓"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6607,
+    "wordhead": "壺",
+    "explanation": "昆吾圜器也。象形。从大，象其蓋也。凡壷之屬皆从壷。",
+    "volume": "10",
+    "radical": "壺",
+    "pronunciation": "戶吳切",
+    "variants": [],
+    "seal_character": "歏",
+    "pinyin": "hu",
+    "pinyin_full": "hú",
+    "components": [
+        "壺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "昆吾圜器也。",
+            "note": "缶部曰。古者昆吾作匋。壷者、昆吾始爲之。聘禮注曰。壷、酒尊也。公羊傳注曰。壺、禮器。腹方口圓曰壷。反之曰方壷。有爵飾。又喪大記狄人出壷、大小戴記投壺、皆壷之屬也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "謂{𡔲-士}"
+        },
+        {
+            "explanation": "从大象其葢也。",
+            "note": "奄下曰。葢也。大有餘也。戶姑切。五部。"
+        }
+    ],
+    "indexes": [
+        "壶",
+        "壺"
+    ]
+}

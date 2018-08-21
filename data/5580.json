@@ -1,0 +1,54 @@
+{
+    "id": 5580,
+    "wordhead": "頂",
+    "explanation": "顚也。从頁丁聲。",
+    "volume": "09",
+    "radical": "頁",
+    "pronunciation": "都挺切",
+    "variants": [
+        {
+            "wordhead": "𩒆",
+            "explanation": "或从「巛+頁」作。",
+            "seal_character": "曚"
+        },
+        {
+            "wordhead": "𩕢",
+            "explanation": "籒文从鼎。",
+            "seal_character": "曛"
+        }
+    ],
+    "seal_character": "曙",
+    "pinyin": "ding",
+    "pinyin_full": "dǐnɡ",
+    "components": [
+        "丁",
+        "頁",
+        "鼎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "顚也。",
+            "note": "頂顚異部曡韵字。故顚倒樂府或作丁倒。引伸爲凡在冣上之偁。故廣雅云。頂、上也。按頂之假借字作定。詩周南。麟之定釋言、毛傳皆曰。定、題也。毛傳一本作顚也。亦與爾雅無不合。葢禽獸橫生。以頟爲頂。故秦風白顚傳曰旳顙。亦以顙釋顚。"
+        },
+        {
+            "explanation": "从𩑋。丁聲。",
+            "note": "都挺切。十一部。"
+        },
+        {
+            "explanation": "或从𩠐作。",
+            "note": "鈕曰。从古文𦣻也。舊作𩒆。誤。"
+        },
+        {
+            "explanation": "籒文从鼎。",
+            "note": "鼎聲也。"
+        }
+    ],
+    "indexes": [
+        "顶",
+        "頂",
+        "𩒆",
+        "𩕢"
+    ]
+}

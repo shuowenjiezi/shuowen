@@ -1,0 +1,31 @@
+{
+    "id": 559,
+    "wordhead": "菜",
+    "explanation": "艸之可食者。从艸采聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "蒼代切",
+    "variants": [],
+    "seal_character": "偮",
+    "pinyin": "cai",
+    "pinyin_full": "cài",
+    "components": [
+        "艸",
+        "采"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸之可食者。",
+            "note": "菜字當冠於芑葵等字之上。"
+        },
+        {
+            "explanation": "从艸。采聲。",
+            "note": "此舉形聲包會意。古多以采爲菜。蒼代切。一部。"
+        }
+    ],
+    "indexes": [
+        "菜"
+    ]
+}

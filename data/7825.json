@@ -1,0 +1,43 @@
+{
+    "id": 7825,
+    "wordhead": "捦",
+    "explanation": "急持衣䘳也。从手金聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "巨今切",
+    "variants": [
+        {
+            "wordhead": "㩒",
+            "explanation": "捦或从禁。",
+            "seal_character": "炋"
+        }
+    ],
+    "seal_character": "炊",
+    "pinyin": "qin",
+    "pinyin_full": "qín",
+    "components": [
+        "金",
+        "手",
+        "禁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "急持衣䘳也。",
+            "note": "此篆古叚借作禽。俗作擒、作捦。走獸總名曰禽者、以其爲人所捦也。又按此解五字、當作急持也一曰持衣䘳也九字乃合。必轉寫有譌奪矣。"
+        },
+        {
+            "explanation": "从手。金聲。",
+            "note": "巨今切。七部。"
+        },
+        {
+            "explanation": "捦或从禁。",
+            "note": "禁聲。"
+        }
+    ],
+    "indexes": [
+        "捦",
+        "㩒"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4409,
+    "wordhead": "穅",
+    "explanation": "榖皮也。从禾从米，庚聲。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "苦岡切",
+    "variants": [
+        {
+            "wordhead": "𥹺",
+            "explanation": "穅或省。",
+            "seal_character": "憻"
+        }
+    ],
+    "seal_character": "憺",
+    "pinyin": "kang",
+    "pinyin_full": "kānɡ",
+    "components": [
+        "禾",
+        "庚",
+        "米"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穀之皮也。",
+            "note": "云穀者、晐黍稷稻梁麥而言。穀猶粟也。今人謂巳脫於米者爲穅。古人不爾。穅之言空也。空其中以含米也。凡康寧、康樂皆本義空中之引伸。今字分別。乃以本義从禾。引伸義不从禾。"
+        },
+        {
+            "explanation": "从禾米。庚聲。",
+            "note": "庚毛刻作康。誤。今正。苦岡切。十部。"
+        },
+        {
+            "explanation": "穅或省作。",
+            "note": "稃𥢶穅康四篆大徐在秳𥝬二篆之下。今以類移此。"
+        }
+    ],
+    "indexes": [
+        "穅",
+        "𥹺"
+    ]
+}

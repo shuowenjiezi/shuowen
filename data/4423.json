@@ -1,0 +1,35 @@
+{
+    "id": 4423,
+    "wordhead": "稔",
+    "explanation": "穀孰也。从禾念聲。《春秋傳》曰：“鮮不五稔。”",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "而甚切",
+    "variants": [],
+    "seal_character": "懊",
+    "pinyin": "ren",
+    "pinyin_full": "rěn",
+    "components": [
+        "禾",
+        "念"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穀孰也。",
+            "note": "稔之言飪也。"
+        },
+        {
+            "explanation": "从禾。念聲。",
+            "note": "而甚切。七部。"
+        },
+        {
+            "explanation": "春秋傳曰。不五稔是。",
+            "note": "昭元年左傳文。"
+        }
+    ],
+    "indexes": [
+        "稔"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 276,
+    "wordhead": "菁",
+    "explanation": "韭華也。从艸青聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "子盈切",
+    "variants": [],
+    "seal_character": "佅",
+    "pinyin": "jing",
+    "pinyin_full": "jīnɡ",
+    "components": [
+        "艸",
+        "青"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "韭華也。",
+            "note": "周禮。菁菹。先鄭曰。菁菹、韭華菹也。今各本脫華字。則何以別於上文之韭菹乎。廣雅曰。韭其華謂之菁。若南都賦曰秋韭冬菁、則是二物。史游所云老菁冬日藏也。"
+        },
+        {
+            "explanation": "从艸。靑聲。",
+            "note": "子盈切。十一部。"
+        }
+    ],
+    "indexes": [
+        "菁"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 3187,
+    "wordhead": "𩰤",
+    "explanation": "黑黍也。一稃二米，以釀也。从鬯矩聲。",
+    "volume": "05",
+    "radical": "鬯",
+    "pronunciation": "其呂切",
+    "variants": [
+        {
+            "wordhead": "秬",
+            "explanation": "或从禾。",
+            "seal_character": "屗"
+        }
+    ],
+    "seal_character": "屖",
+    "pinyin": "ju",
+    "pinyin_full": "jù",
+    "components": [
+        "禾",
+        "巨",
+        "鬯",
+        "矩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黑黍也。一稃二米㠯釀。",
+            "note": "生民曰。誕降嘉榖。維秬維秠。毛曰。秬、黑黍也。秠、一稃二米也。禾部稃、？也。秠、一稃二米。天賜后稷之嘉榖也。是則黑黍名？。自其一稃二米言之則謂之秠。以釀酒是曰？釀。經典曰？鬯。故其字从鬯也。黑黍容有不一稃二米者。"
+        },
+        {
+            "explanation": "从鬯。矩聲。",
+            "note": "其吕切。五部。"
+        },
+        {
+            "explanation": "𩰤或从禾。",
+            "note": "今經典字皆如此作。"
+        }
+    ],
+    "indexes": [
+        "𩰤",
+        "秬"
+    ]
+}

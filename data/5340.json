@@ -1,0 +1,35 @@
+{
+    "id": 5340,
+    "wordhead": "襚",
+    "explanation": "衣死人也。从衣遂聲。《春秋傳》曰：“楚使公親襚。”",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "徐醉切",
+    "variants": [],
+    "seal_character": "旊",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "衣",
+        "遂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣死人也。",
+            "note": "士喪禮。君使人襚。注。襚之言遺也。公羊傳曰。車馬曰？。貨財曰賻。衣被曰襚。注。襚猶遺也。遺是助死之禮。知生者？賻。知死者贈襚。"
+        },
+        {
+            "explanation": "从衣。遂聲。",
+            "note": "徐醉切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。楚使公親襚。",
+            "note": "襄二十九年左傳文。楚欲使襄公視衣死人。故下文魯行君臨臣喪之禮。以報之也。"
+        }
+    ],
+    "indexes": [
+        "襚"
+    ]
+}

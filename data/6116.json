@@ -1,0 +1,31 @@
+{
+    "id": 6116,
+    "wordhead": "驑",
+    "explanation": "赤馬黑毛尾也。从馬畱聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "力求切",
+    "variants": [],
+    "seal_character": "椱",
+    "pinyin": "liu",
+    "pinyin_full": "liú",
+    "components": [
+        "畱",
+        "馬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "赤馬黑髦尾也。",
+            "note": "髦各本作毛。今依廣韵正。髦者、髦髮也。髮之長者偁髦。因之馬鬣曰髦。魯頌傳曰。赤身黑鬣曰駵。"
+        },
+        {
+            "explanation": "从馬。丣聲。",
+            "note": "丣各本作畱。篆體作驑。大誤。今依五經文字、玉篇、廣韵正。力求切。三部。"
+        }
+    ],
+    "indexes": [
+        "驑"
+    ]
+}

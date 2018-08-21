@@ -1,0 +1,35 @@
+{
+    "id": 2775,
+    "wordhead": "刲",
+    "explanation": "刺也。从刀圭聲。《易》曰：“士刲羊。”",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "苦圭切",
+    "variants": [],
+    "seal_character": "婰",
+    "pinyin": "kui",
+    "pinyin_full": "kuī",
+    "components": [
+        "刀",
+        "圭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刺也。",
+            "note": "馬、虞說易同。"
+        },
+        {
+            "explanation": "从刀。圭聲。",
+            "note": "圭剡上、故從圭。形聲包㑹意也。苦圭切。十六部。"
+        },
+        {
+            "explanation": "易曰。士刲羊。",
+            "note": "歸妹上六爻辭。"
+        }
+    ],
+    "indexes": [
+        "刲"
+    ]
+}

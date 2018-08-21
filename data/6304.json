@@ -1,0 +1,35 @@
+{
+    "id": 6304,
+    "wordhead": "獒",
+    "explanation": "犬如人心可使者。从犬敖聲。《春秋傳》曰：“公嗾夫獒。”",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "五牢切",
+    "variants": [],
+    "seal_character": "槽",
+    "pinyin": "ao",
+    "pinyin_full": "áo",
+    "components": [
+        "犬",
+        "敖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "犬知人心可使者。",
+            "note": "知一作如。公羊傳曰。靈公有周狗謂之獒。何注。周狗、可以比周之狗。所指如意者。按周狗爾雅注及博物志或譌作害狗。不可爲據也。釋嘼曰。犬高四尺曰獒。"
+        },
+        {
+            "explanation": "从犬。敖聲。",
+            "note": "五牢切。二部。"
+        },
+        {
+            "explanation": "春秋傳曰。公嗾夫獒。",
+            "note": "宣六年左傳文。"
+        }
+    ],
+    "indexes": [
+        "獒"
+    ]
+}

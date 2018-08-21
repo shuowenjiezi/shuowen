@@ -1,0 +1,47 @@
+{
+    "id": 126,
+    "wordhead": "瑱",
+    "explanation": "以玉充耳也。从玉眞聲。《詩》曰：“玉之瑱兮。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "他甸切",
+    "variants": [
+        {
+            "wordhead": "𦗁",
+            "explanation": "瑱或从耳。",
+            "seal_character": "亜"
+        }
+    ],
+    "seal_character": "些",
+    "pinyin": "tian",
+    "pinyin_full": "tiàn",
+    "components": [
+        "眞",
+        "玉",
+        "耳"
+    ],
+    "xuan_note": "臣鉉等曰：今充耳字更从玉㫄充，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯玉充耳也。",
+            "note": "詩毛傳曰。瑱、塞耳也。又曰。充耳謂之瑱。天子玉瑱。諸矦以石。按瑱不皆以玉。許專云以玉者、爲其字之从玉也。凡字从某爲某之屬。許君必言其故。"
+        },
+        {
+            "explanation": "从王。眞聲。",
+            "note": "佗甸切。十二部。"
+        },
+        {
+            "explanation": "詩曰。玉之瑱兮。",
+            "note": "鄘君子偕老文。今詩兮作也。女部又引邦之媛兮。可知此篇也字古皆作兮。孫毓詩評亦引玉之瑱兮。"
+        },
+        {
+            "explanation": "瑱或从耳。",
+            "note": "攷工記注引左傳。縳一如瑱。釋文曰。瑱本或作𦗁。耳形眞聲。不入耳部者、爲其同字異處。且難定其正體或體。凡附見之例𦕑此。"
+        }
+    ],
+    "indexes": [
+        "瑱",
+        "𦗁"
+    ]
+}

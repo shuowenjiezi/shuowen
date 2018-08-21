@@ -1,0 +1,43 @@
+{
+    "id": 610,
+    "wordhead": "茵",
+    "explanation": "車重席。从艸因聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "於眞切",
+    "variants": [
+        {
+            "wordhead": "鞇",
+            "explanation": "司馬相如說：茵从革。",
+            "seal_character": "傩"
+        }
+    ],
+    "seal_character": "储",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "艸",
+        "因",
+        "革"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "車重席也。",
+            "note": "秦風文茵。文、虎皮也。以虎皮爲茵也。"
+        },
+        {
+            "explanation": "从艸。因聲。",
+            "note": "於眞切。十二部。"
+        },
+        {
+            "explanation": "司馬相如說茵从革。",
+            "note": "葢亦凡將篇字。廣雅釋器曰。靯？謂之鞇。釋名曰。靯？、車中重薦也。"
+        }
+    ],
+    "indexes": [
+        "茵",
+        "鞇"
+    ]
+}

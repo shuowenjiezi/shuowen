@@ -1,0 +1,35 @@
+{
+    "id": 8103,
+    "wordhead": "姐",
+    "explanation": "蜀謂母曰姐，淮南謂之社。从女且聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "兹也切",
+    "variants": [],
+    "seal_character": "熲",
+    "pinyin": "jie",
+    "pinyin_full": "jiě",
+    "components": [
+        "且",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蜀人謂母曰姐。",
+            "note": "方言也。其字當蜀人所製。"
+        },
+        {
+            "explanation": "淮南謂之社。",
+            "note": "因類記之也。社與姐音近。"
+        },
+        {
+            "explanation": "从女。且聲。讀若左。",
+            "note": "左卽今𠂇字也。今茲也切。古音當在五部。"
+        }
+    ],
+    "indexes": [
+        "姐"
+    ]
+}

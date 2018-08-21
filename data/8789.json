@@ -1,0 +1,31 @@
+{
+    "id": 8789,
+    "wordhead": "蛄",
+    "explanation": "螻蛄也。从虫古聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "古乎切",
+    "variants": [],
+    "seal_character": "璪",
+    "pinyin": "gu",
+    "pinyin_full": "ɡū",
+    "components": [
+        "古",
+        "虫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "螻蛄也。",
+            "note": "孟子。蠅蚋姑嘬之。蚋一作？。或云？姑卽螻蛄也。"
+        },
+        {
+            "explanation": "从虫。古聲。",
+            "note": "古乎切。五部。"
+        }
+    ],
+    "indexes": [
+        "蛄"
+    ]
+}

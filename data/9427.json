@@ -1,0 +1,34 @@
+{
+    "id": 9427,
+    "wordhead": "斤",
+    "explanation": "斫木也。象形。凡斤之屬皆从斤。",
+    "volume": "14",
+    "radical": "斤",
+    "pronunciation": "舉欣切",
+    "variants": [],
+    "seal_character": "瞈",
+    "pinyin": "jin",
+    "pinyin_full": "jīn",
+    "components": [
+        "斤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "斫木斧也。",
+            "note": "此依小徐本。凡用斫物者皆曰斧。斫木之斧、則謂之斤。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "橫者象斧頭。直者象柄。其下象所斫木。舉欣切。十三部。"
+        },
+        {
+            "explanation": "凡斤之屬皆从斤。",
+            "note": "按此篆象形之下當有一曰十六兩也六字。乃與金部銖鈞、㒳部兩、禾部䄷、合成五權。十黍爲絫、附見於絫下。斗二𦫵曰觳、附見於鬲下。說文之例正如此。班固說五權曰。斤、明也。卽爾雅、毛傳之斤斤、察也。"
+        }
+    ],
+    "indexes": [
+        "斤"
+    ]
+}

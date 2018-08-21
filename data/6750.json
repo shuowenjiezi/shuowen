@@ -1,0 +1,35 @@
+{
+    "id": 6750,
+    "wordhead": "怞",
+    "explanation": "朗也。从心由聲。《詩》曰：“憂心且怞。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "直又切",
+    "variants": [],
+    "seal_character": "毰",
+    "pinyin": "chou",
+    "pinyin_full": "chóu",
+    "components": [
+        "由",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "朖也。",
+            "note": "未聞。疑是恨也之誤。檜傳云。悼、動也。鼓鍾傳云。妯、動也。菀柳傳云。蹈、動也。三字音義略同。"
+        },
+        {
+            "explanation": "从心。由聲。",
+            "note": "直又切。三部。"
+        },
+        {
+            "explanation": "詩曰。憂心且怞。",
+            "note": "小雅𡔷鍾文。今毛詩作妯。毛云動也。鄭云悼也。"
+        }
+    ],
+    "indexes": [
+        "怞"
+    ]
+}

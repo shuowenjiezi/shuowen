@@ -1,0 +1,44 @@
+{
+    "id": 1206,
+    "wordhead": "迒",
+    "explanation": "獸迹也。从辵亢聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "胡郎切",
+    "variants": [
+        {
+            "wordhead": "𨁈",
+            "explanation": "迒或从足从更<span>[<span>㪅</span>]</span><span>{<span>+</span><span>聲</span>}</span>。",
+            "seal_character": "午"
+        }
+    ],
+    "seal_character": "升",
+    "pinyin": "hang",
+    "pinyin_full": "hánɡ",
+    "components": [
+        "足",
+        "更",
+        "辵",
+        "亢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獸迹也。",
+            "note": "釋獸。兔迹迒。按序曰。黃帝之史倉頡見鳥獸蹏迒之迹。知分理之可相別異也。是凡獸迹皆偁迒。不專謂兔也。"
+        },
+        {
+            "explanation": "从辵。亢聲。",
+            "note": "胡郞切。十部。"
+        },
+        {
+            "explanation": "迒或从足更。",
+            "note": "亦形聲。更亢同在十部。"
+        }
+    ],
+    "indexes": [
+        "迒",
+        "𨁈"
+    ]
+}

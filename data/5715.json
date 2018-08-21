@@ -1,0 +1,43 @@
+{
+    "id": 5715,
+    "wordhead": "鬄",
+    "explanation": "髲也。从髟易聲。",
+    "volume": "09",
+    "radical": "髟",
+    "pronunciation": "先彳切",
+    "variants": [
+        {
+            "wordhead": "髢",
+            "explanation": "鬄或从也聲。",
+            "seal_character": "杭"
+        }
+    ],
+    "seal_character": "杬",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "也",
+        "易",
+        "髟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髲也。",
+            "note": "庸風。不㞕髢也。箋云。髢、髲也。不絜者不用髲爲善。左傳。衞莊公見己氏之妻髮美。使髡之。以爲呂姜髢。按鬄與𩮜義別。音亦有異。"
+        },
+        {
+            "explanation": "从髟。易聲。",
+            "note": "大計切。古音在十六部。从易爲正。大徐又載先彳切。誤。"
+        },
+        {
+            "explanation": "鬄或从也聲。",
+            "note": "古易聲在十六部。也聲在十七部。合韵冣近。此字今音大計切。於也聲得之。地亦也聲。"
+        }
+    ],
+    "indexes": [
+        "鬄",
+        "髢"
+    ]
+}

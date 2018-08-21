@@ -1,0 +1,31 @@
+{
+    "id": 174,
+    "wordhead": "玽",
+    "explanation": "石之次玉者。从玉句聲。讀若苟。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "古厚切",
+    "variants": [],
+    "seal_character": "仏",
+    "pinyin": "gou",
+    "pinyin_full": "ɡǒu",
+    "components": [
+        "玉",
+        "句"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "石之似玉者。",
+            "note": "似汲古原本作次。非。"
+        },
+        {
+            "explanation": "从王。句聲。讀若苟。",
+            "note": "古厚切。四部。"
+        }
+    ],
+    "indexes": [
+        "玽"
+    ]
+}

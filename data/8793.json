@@ -1,0 +1,54 @@
+{
+    "id": 8793,
+    "wordhead": "蚳",
+    "explanation": "螘子也。从虫氐聲。《周禮》有蚳醢。讀若祁。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "直尼切",
+    "variants": [
+        {
+            "wordhead": "𧐏",
+            "explanation": "籒文蚳从䖵。",
+            "seal_character": "璯"
+        },
+        {
+            "wordhead": "𧏁",
+            "explanation": "古文蚳从辰<span>[<span>𨑃</span>]</span>、土。",
+            "seal_character": "環"
+        }
+    ],
+    "seal_character": "璮",
+    "pinyin": "chi",
+    "pinyin_full": "chí",
+    "components": [
+        "氐",
+        "辰",
+        "土",
+        "虫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "螘子也。",
+            "note": "釋蟲曰。螘子、蚳。郭云。蟻卵也。周禮饋食之豆有蚳醢。鄭曰。蚳、蛾子。國語。蟲舍蚳蝝。韋注同。"
+        },
+        {
+            "explanation": "从虫。氐聲。",
+            "note": "直尼切。十五部。"
+        },
+        {
+            "explanation": "周禮有蚳醢。",
+            "note": "天官醢人文。"
+        },
+        {
+            "explanation": "古文蚳。从辰土。",
+            "note": "从土者、出之土中也。从辰者、辰聲也。古氐聲辰聲相似。祗、振字通用是其例。"
+        }
+    ],
+    "indexes": [
+        "蚳",
+        "𧐏",
+        "𧏁"
+    ]
+}

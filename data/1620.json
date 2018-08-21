@@ -1,0 +1,31 @@
+{
+    "id": 1620,
+    "wordhead": "詯",
+    "explanation": "膽气滿聲在人上。从言自聲。讀若反目相睞。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "荒內切",
+    "variants": [],
+    "seal_character": "唒",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "自",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "膽气滿聲在人上。从言。自聲。",
+            "note": "葢卽元曲所用咱字。"
+        },
+        {
+            "explanation": "讀若反目相睞。",
+            "note": "荒內切。十五部。"
+        }
+    ],
+    "indexes": [
+        "詯"
+    ]
+}

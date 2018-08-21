@@ -1,0 +1,49 @@
+{
+    "id": 1930,
+    "wordhead": "𢄥",
+    "explanation": "習也。从𦘒㣇聲。",
+    "volume": "03",
+    "radical": "𦘒",
+    "pronunciation": "羊至切",
+    "variants": [
+        {
+            "wordhead": "𧲁",
+            "explanation": "籒文𢑩。",
+            "seal_character": "嚛"
+        },
+        {
+            "wordhead": "𥏚",
+            "explanation": "篆文𢑩。",
+            "seal_character": "嚜"
+        }
+    ],
+    "seal_character": "嚚",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "疑",
+        "聿",
+        "帇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "習也。从𦘒。㣇聲。",
+            "note": "羊至切。十五部。"
+        },
+        {
+            "explanation": "籒文𢑩。",
+            "note": "此依小徐。右從𦘒、左從籒文㣇也。"
+        },
+        {
+            "explanation": "篆文𢑩。",
+            "note": "按此條先以古文。亦上部之例也。必先古文者、古文從𦘒篆不從𦘒也。各本篆文右從𦘒則何不以篆文居首哉。肆從隶而隷作肆。肄亦同也。類篇不誤。今正。𠤕古文矢字。𠤗疑二字從之。此亦從𠤕聲也。"
+        }
+    ],
+    "indexes": [
+        "𢄥",
+        "𧲁",
+        "𥏚"
+    ]
+}

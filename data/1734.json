@@ -1,0 +1,39 @@
+{
+    "id": 1734,
+    "wordhead": "韶",
+    "explanation": "虞舜樂也。《書》曰：“《簫韶》九成，鳳皇來儀。”从音召聲。",
+    "volume": "03",
+    "radical": "音",
+    "pronunciation": "市招切",
+    "variants": [],
+    "seal_character": "喓",
+    "pinyin": "shao",
+    "pinyin_full": "sháo",
+    "components": [
+        "召",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "虞舜樂也。",
+            "note": "樂記曰。韶、繼也。公羊疏引宋鈞注樂說云。簫之言肅。舜時民樂其肅敬而紹堯道。故謂之簫韶。按韶字葢舜時始製。"
+        },
+        {
+            "explanation": "書曰。",
+            "note": "書上當有虞字。誤衍於上句。"
+        },
+        {
+            "explanation": "簫韶九成。鳳皇來儀。",
+            "note": "咎繇謨文。"
+        },
+        {
+            "explanation": "从音。召聲。",
+            "note": "市招切。二部。或作招。周禮作㲈。皆假借。"
+        }
+    ],
+    "indexes": [
+        "韶"
+    ]
+}

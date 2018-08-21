@@ -1,0 +1,46 @@
+{
+    "id": 8087,
+    "wordhead": "婚",
+    "explanation": "婦家也。《禮》：娶婦以昏時，婦人陰也，故曰婚。从女从昏，昏亦聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "呼昆切",
+    "variants": [
+        {
+            "wordhead": "𡕽",
+            "explanation": "籒文婚。",
+            "seal_character": "熠"
+        }
+    ],
+    "seal_character": "熟",
+    "pinyin": "hun",
+    "pinyin_full": "hūn",
+    "components": [
+        "女",
+        "昏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "婦家也。",
+            "note": "釋親曰。婦之父爲婚。婦之黨爲婚兄弟。"
+        },
+        {
+            "explanation": "禮。娶婦㠯昏時。婦人侌也。故曰婚。",
+            "note": "禮謂禮經也。士昏禮曰。凡行事必用昏昕。注曰。用昕使者。用昏壻也。郊特牲曰。昏禮不用樂。幽陰之義也。"
+        },
+        {
+            "explanation": "从女昏。昏亦聲。",
+            "note": "呼昆切。十三部。"
+        },
+        {
+            "explanation": "籒文婚如此。",
+            "note": "其會意、形聲不可勥說。車部之？、巾部之？皆以爲聲。"
+        }
+    ],
+    "indexes": [
+        "婚",
+        "𡕽"
+    ]
+}

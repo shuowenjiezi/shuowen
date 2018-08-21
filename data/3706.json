@@ -1,0 +1,39 @@
+{
+    "id": 3706,
+    "wordhead": "檷",
+    "explanation": "絡絲檷。从木爾聲。讀若柅。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "奴礼切",
+    "variants": [],
+    "seal_character": "庳",
+    "pinyin": "ni",
+    "pinyin_full": "nǐ",
+    "components": [
+        "木",
+        "爾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絡絲柎也。",
+            "note": "柎各本作檷。今依易釋文、玉篇、廣韵正。釋文作趺。柎趺右今字。柎、咢足也。絡絲柎者、若今絡絲架子。姤初六。繫於金柅。九家易曰。絲繫於柅。猶女繫於男。故以喻初宜繫二也。"
+        },
+        {
+            "explanation": "從木。爾聲。",
+            "note": "奴禮切。十六部。"
+        },
+        {
+            "explanation": "讀若昵。",
+            "note": "昵各本作柅。今依易釋文正。昵或暱字。合韵也。"
+        },
+        {
+            "explanation": "易曰。繫於金檷。",
+            "note": "六字各本無。今依易釋文補。"
+        }
+    ],
+    "indexes": [
+        "檷"
+    ]
+}

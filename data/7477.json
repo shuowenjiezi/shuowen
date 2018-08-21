@@ -1,0 +1,35 @@
+{
+    "id": 7477,
+    "wordhead": "凋",
+    "explanation": "半傷也。从仌周聲。",
+    "volume": "11",
+    "radical": "仌",
+    "pronunciation": "都僚切",
+    "variants": [],
+    "seal_character": "滾",
+    "pinyin": "diao",
+    "pinyin_full": "diāo",
+    "components": [
+        "周",
+        "仌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "半傷也。",
+            "note": "傷、創也。半傷、未全傷也。"
+        },
+        {
+            "explanation": "从仌。",
+            "note": "仌霜者傷物之具。故从仌。"
+        },
+        {
+            "explanation": "周聲。",
+            "note": "都僚切。二部三部。"
+        }
+    ],
+    "indexes": [
+        "凋"
+    ]
+}

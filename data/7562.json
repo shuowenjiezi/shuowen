@@ -1,0 +1,32 @@
+{
+    "id": 7562,
+    "wordhead": "鰜",
+    "explanation": "魚名。从魚兼聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "古甜切",
+    "variants": [],
+    "seal_character": "潥",
+    "pinyin": "qian",
+    "pinyin_full": "qiàn",
+    "components": [
+        "兼",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鰜魚也。",
+            "note": "三字今正。按當作䱾魚也。玉篇曰。䱾、大靑魚。類篇曰。鰜魚大而靑。是爲一物也。廣韵云。比目魚。因鳥有鶼皮傅耳。"
+        },
+        {
+            "explanation": "从魚。兼聲。",
+            "note": "古甜切。七部。"
+        }
+    ],
+    "indexes": [
+        "鳒",
+        "鰜"
+    ]
+}

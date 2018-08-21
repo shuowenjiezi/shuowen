@@ -1,0 +1,52 @@
+{
+    "id": 393,
+    "wordhead": "蔦",
+    "explanation": "寄生也。从艸鳥聲。《詩》曰：“蔦與女蘿。”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "都了切",
+    "variants": [
+        {
+            "wordhead": "樢",
+            "explanation": "蔦或从木。",
+            "seal_character": "俀"
+        }
+    ],
+    "seal_character": "便",
+    "pinyin": "niao",
+    "pinyin_full": "niǎo",
+    "components": [
+        "木",
+        "艸",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寄生艸也。",
+            "note": "艸字各本脫。依毛詩音義及韵會補。小雅傳曰。蔦、寄生也。陸璣曰。蔦一名寄生。葉似當盧。子如覆盆子。本艸經。桑上寄生。一名寓木。一名宛童。按寓木、宛童見釋木。"
+        },
+        {
+            "explanation": "从艸。",
+            "note": "毛、陸皆曰寄生耳。許獨云寄生艸者。爲其字之從艸也。"
+        },
+        {
+            "explanation": "鳥聲。",
+            "note": "詩音義云。說文音弔。唐韵都了切。二部。"
+        },
+        {
+            "explanation": "詩曰。蔦與女蘿。",
+            "note": "小雅頍弁文。"
+        },
+        {
+            "explanation": "蔦或從木。",
+            "note": "艸屬故從艸。寓木故從木。廣雅釋木作樢字。"
+        }
+    ],
+    "indexes": [
+        "茑",
+        "蔦",
+        "樢"
+    ]
+}

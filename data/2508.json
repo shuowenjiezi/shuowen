@@ -1,0 +1,46 @@
+{
+    "id": 2508,
+    "wordhead": "𤔔",
+    "explanation": "治也。幺子相亂，𠬪治之也。讀若亂同。一曰理也。",
+    "volume": "04",
+    "radical": "𠬪",
+    "pronunciation": "郎段切",
+    "variants": [
+        {
+            "wordhead": "𠭟",
+            "explanation": "古文𤔔<span>[<span>𤔬</span>]</span>。",
+            "seal_character": "夺"
+        }
+    ],
+    "seal_character": "夹",
+    "pinyin": "luan",
+    "pinyin_full": "luàn",
+    "components": [
+        "冂",
+        "幺"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“曰冂，坰也，界也。”",
+    "duan_notes": [
+        {
+            "explanation": "治也。",
+            "note": "此與乙部亂音義皆同。"
+        },
+        {
+            "explanation": "幺子相亂。𠬪治之也。",
+            "note": "幺子謂<>。亂當作爭。謂<>也。<>音扃。介也。彼此分介則爭。鬥部云。兒善訟者也。𠬪治之、如𢒫下又寸分理之。"
+        },
+        {
+            "explanation": "讀若亂同。",
+            "note": "郎段切。十四部。"
+        },
+        {
+            "explanation": "一曰理也。",
+            "note": "與治無二義。當由唐人避諱。致此妄增。"
+        }
+    ],
+    "indexes": [
+        "𤔔",
+        "𠭟"
+    ]
+}

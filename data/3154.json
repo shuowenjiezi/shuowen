@@ -1,0 +1,31 @@
+{
+    "id": 3154,
+    "wordhead": "衃",
+    "explanation": "凝血也。从血不聲。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "芳桮切",
+    "variants": [],
+    "seal_character": "尫",
+    "pinyin": "pei",
+    "pinyin_full": "pēi",
+    "components": [
+        "不",
+        "血"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "凝血也。",
+            "note": "素問赤如衃血者死注。衃血、謂敗惡凝聚之血。色赤黑也。"
+        },
+        {
+            "explanation": "从血。不聲。",
+            "note": "芳杯切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "衃"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 5393,
+    "wordhead": "屍",
+    "explanation": "終主。从尸从死。",
+    "volume": "08",
+    "radical": "尸",
+    "pronunciation": "式脂切",
+    "variants": [],
+    "seal_character": "昃",
+    "pinyin": "shi",
+    "pinyin_full": "shī",
+    "components": [
+        "死",
+        "尸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "終主也。",
+            "note": "終主者、方死無所主。以是爲主也。曲禮曰。在牀曰屍。今經傳字多作尸。同音假借也。亦尙有作屍者。"
+        },
+        {
+            "explanation": "从尸死。",
+            "note": "死者、終也。尸者、主也。故曰終主。式脂切。十五部。"
+        }
+    ],
+    "indexes": [
+        "尸",
+        "屍"
+    ]
+}

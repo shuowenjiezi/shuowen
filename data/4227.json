@@ -1,0 +1,41 @@
+{
+    "id": 4227,
+    "wordhead": "㬥",
+    "explanation": "晞也。从日从出，从𠬞从米。",
+    "volume": "07",
+    "radical": "日",
+    "pronunciation": "薄報切",
+    "variants": [
+        {
+            "wordhead": "𣋴",
+            "explanation": "古文㬥从日麃聲。",
+            "seal_character": "惠"
+        }
+    ],
+    "seal_character": "惟",
+    "pinyin": "pu",
+    "pinyin_full": "pù",
+    "components": [
+        "出",
+        "麃",
+        "日",
+        "収",
+        "米"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "晞也。",
+            "note": "攷工記。晝㬥諸日。孟子。一日㬥之。引伸爲表㬥、㬥露之義。與𠦍部𣋦義別。凡𣋦疾、𣋦虐、𣋦虎皆𠦍部字也。而今隷一之。經典皆作暴。難於諟正。"
+        },
+        {
+            "explanation": "从日出𠬞米。",
+            "note": "日出而竦手舉米曬之。合四字會意。玉篇步卜切。五經文字捕沃切。廣韵浦木切。大徐薄報切。非也。三部。"
+        }
+    ],
+    "indexes": [
+        "㬥",
+        "𣋴"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 6073,
+    "wordhead": "㣈",
+    "explanation": "㣇屬。从二㣇。",
+    "volume": "09",
+    "radical": "㣇",
+    "pronunciation": "息利切",
+    "variants": [
+        {
+            "wordhead": "𢅜",
+            "explanation": "古文㣈。《虞書》曰：“㣈類于上帝”。",
+            "seal_character": "棿"
+        }
+    ],
+    "seal_character": "棾",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㣇屬。从二㣇。",
+            "note": "息利切。十五部。"
+        },
+        {
+            "explanation": "古文㣈。虞書曰。",
+            "note": "虞當作唐。說詳禾部。"
+        },
+        {
+            "explanation": "㣈類于上帝。",
+            "note": "堯典文。許所據葢壁中古文也。伏生尚書及孔安國以今文讀定之古文尚書皆作肆。太史公史記作遂。然則漢人釋肆爲遂。卽爾雅之肆故也。壁中文作㣈、乃肆之假借字也。此引書說叚借。與𡚽卽好、？卽蔑爲一例。"
+        }
+    ],
+    "indexes": [
+        "㣈",
+        "𢅜"
+    ]
+}

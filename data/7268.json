@@ -1,0 +1,43 @@
+{
+    "id": 7268,
+    "wordhead": "瀑",
+    "explanation": "疾雨也。一曰沫也。一曰瀑，資也。从水暴聲。《詩》曰：“終風且瀑。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "平到切",
+    "variants": [],
+    "seal_character": "渖",
+    "pinyin": "bao",
+    "pinyin_full": "bào",
+    "components": [
+        "水",
+        "暴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "疾雨也。",
+            "note": "曓疾有所趣也。故从水、从曓、爲疾雨。"
+        },
+        {
+            "explanation": "从水。曓聲。",
+            "note": "平到切。二部。"
+        },
+        {
+            "explanation": "詩曰。終風且𤄗。",
+            "note": "詩邶風文。按毛詩終風且曓傳曰。曓、疾也。卽指風言。許所據葢三家詩。"
+        },
+        {
+            "explanation": "一曰沫也。",
+            "note": "沫一作沬。誤。馬融長笛賦曰。山水猥至。𤀰𤄗噴沫。噴沫、水跳沫也。𤀰𤄗、噴沫皃。蜀都賦亦曰。龍池𤀰𤄗濆其隈。濆當作噴。江賦曰。拊拂𤄗沫。"
+        },
+        {
+            "explanation": "一曰𤄗、霣也。",
+            "note": "雨部曰。霣、雨也。齊人謂靁爲霣。"
+        }
+    ],
+    "indexes": [
+        "瀑"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 4119,
+    "wordhead": "酄",
+    "explanation": "魯下邑。从邑雚聲。《春秋傳》曰：“齊人來㱕酄。”",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "呼官切",
+    "variants": [],
+    "seal_character": "息",
+    "pinyin": "huan",
+    "pinyin_full": "huān",
+    "components": [
+        "雚",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魯下邑。",
+            "note": "春秋經定十年。齊人來歸鄆、讙、龜陰之田。鄆、公羊作運。讙、三經三傳皆同。許作酄。容許所據異也。應劭注前志引春秋哀八年取酄及闡。字亦作酄。賈、服云。鄆讙二邑名。左傳桓三年杜注曰。讙、魯地。濟北蛇丘縣西有下讙亭。"
+        },
+        {
+            "explanation": "从邑。雚聲。",
+            "note": "呼官切。十四部。"
+        },
+        {
+            "explanation": "春秋傳曰。齊人來歸酄。",
+            "note": "按許引左氏則言春秋傳曰。引公羊則言春秋公羊傳曰。以別於左氏。"
+        }
+    ],
+    "indexes": [
+        "酄"
+    ]
+}

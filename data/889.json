@@ -1,0 +1,35 @@
+{
+    "id": 889,
+    "wordhead": "啖",
+    "explanation": "噍啖也。从口炎聲。一曰噉。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "徒敢切",
+    "variants": [],
+    "seal_character": "凜",
+    "pinyin": "dan",
+    "pinyin_full": "dàn",
+    "components": [
+        "口",
+        "炎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "噍啖也。",
+            "note": "荀子王霸篇。啖啖常欲人之有。注。啖啖幷吞之皃。"
+        },
+        {
+            "explanation": "从口。炎聲。",
+            "note": "徒敢切。八部。"
+        },
+        {
+            "explanation": "一曰噉。",
+            "note": "韵會無此三字。云或作噉。按口部無噉字。玉篇、廣韵皆正作噉。云啖同。以𠧐字例之。葢說文本作噉。"
+        }
+    ],
+    "indexes": [
+        "啖"
+    ]
+}

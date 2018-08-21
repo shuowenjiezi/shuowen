@@ -1,0 +1,35 @@
+{
+    "id": 7581,
+    "wordhead": "鱏",
+    "explanation": "魚名。从魚覃聲。傳曰：“伯牙鼓琴，鱏魚出聽。”",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "余箴切",
+    "variants": [],
+    "seal_character": "潺",
+    "pinyin": "xun",
+    "pinyin_full": "xún",
+    "components": [
+        "覃",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鱏魚也。",
+            "note": "郭景純說。鮪卽鱏也。許意不尒。故二篆割分異處。劉注蜀都賦曰。鱏魚出江中。頭與身正半。口在腹下。亦與陸璣所說鮪狀正同。鱏今字作鱘。見陳藏器本艸。"
+        },
+        {
+            "explanation": "从魚。𪉷聲。",
+            "note": "余箴切。七部。師古曰。今俗語讀尋。"
+        },
+        {
+            "explanation": "傳曰。伯牙鼓琴。鱏魚出聽。",
+            "note": "傳曰者、諸書多有之。不定爲何書也。諸書或作鱏魚。或作淫魚。或作潛魚。皆由聲近。傳意、謂大魚耳。淫者、大也。"
+        }
+    ],
+    "indexes": [
+        "鱏"
+    ]
+}

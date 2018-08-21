@@ -1,0 +1,43 @@
+{
+    "id": 2406,
+    "wordhead": "𪀖",
+    "explanation": "禿𪀖也。从鳥尗聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "七由切",
+    "variants": [
+        {
+            "wordhead": "鶖",
+            "explanation": "𪀖或从秋。",
+            "seal_character": "壁"
+        }
+    ],
+    "seal_character": "壀",
+    "pinyin": "qiu",
+    "pinyin_full": "qiū",
+    "components": [
+        "鳥",
+        "秋",
+        "尗"
+    ],
+    "xuan_note": "臣鉉等曰：尗非聲，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "秃𪀖也。",
+            "note": "小雅毛傳。鶖、禿鶖也。張尙對孫皓曰。鳥之大者有禿鶖。古今注曰。扶老、秃秋也。大者頭高八尺。李時珍說其形甚詳。云頭項皆無毛。此其偁禿之故乎。"
+        },
+        {
+            "explanation": "从鳥。尗聲。",
+            "note": "七由切。三部。尗聲秋聲同在三部也。"
+        },
+        {
+            "explanation": "𪀖或从秋。",
+            "note": "秋聲。"
+        }
+    ],
+    "indexes": [
+        "𪀖",
+        "鶖"
+    ]
+}

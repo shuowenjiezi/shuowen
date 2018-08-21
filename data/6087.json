@@ -1,0 +1,39 @@
+{
+    "id": 6087,
+    "wordhead": "貐",
+    "explanation": "猰貐，似貙，虎爪，食人，迅走。从豸俞聲。",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "以主切",
+    "variants": [],
+    "seal_character": "椏",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "俞",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䝟貐。",
+            "note": "䝟大徐作猰。廣韵引許作䝟。無䝟篆者、疑、許本作契。無豸㫄。後人加之。"
+        },
+        {
+            "explanation": "从貙虎爪。",
+            "note": "依許當作叉。"
+        },
+        {
+            "explanation": "食人迅𧺆。",
+            "note": "以上釋獸說如此。"
+        },
+        {
+            "explanation": "从豸。俞聲。",
+            "note": "以主切。古音在四部。爾雅音義曰。韋昭餘彼反。按彼字必侯字或𠋫字之誤。集韵、類篇不知其誤。乃云貐尹捶切。入四紙。葢古書之襲繆有如此者。"
+        }
+    ],
+    "indexes": [
+        "貐"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1906,
+    "wordhead": "尹",
+    "explanation": "治也。从又、丿，握事者也。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "余凖切",
+    "variants": [
+        {
+            "wordhead": "𢂟",
+            "explanation": "古文尹。",
+            "seal_character": "噵"
+        }
+    ],
+    "seal_character": "噴",
+    "pinyin": "yin",
+    "pinyin_full": "yǐn",
+    "components": [
+        "又",
+        "丿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治也。",
+            "note": "伊下曰。尹治天下。廣韵曰。正也。進也。誠也。"
+        },
+        {
+            "explanation": "从又丿。",
+            "note": "句。"
+        },
+        {
+            "explanation": "握事者也。",
+            "note": "又爲握。丿爲事。余準切。十三部。"
+        },
+        {
+            "explanation": "古文尹。",
+            "note": "各本乖異。今姑從大徐。"
+        }
+    ],
+    "indexes": [
+        "尹",
+        "𢂟"
+    ]
+}

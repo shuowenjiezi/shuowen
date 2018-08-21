@@ -1,0 +1,42 @@
+{
+    "id": 2946,
+    "wordhead": "䇘",
+    "explanation": "可以收繩也。从竹，象形，中象人手所推握也。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "胡誤切",
+    "variants": [
+        {
+            "wordhead": "互",
+            "explanation": "䇘或省。",
+            "seal_character": "嬴"
+        }
+    ],
+    "seal_character": "嬳",
+    "pinyin": "hu",
+    "pinyin_full": "hù",
+    "components": [
+        "竹",
+        "互"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "可㠯收繩者也。",
+            "note": "者字今補。收當作糾。聲之誤也。糾、絞也。今絞繩者尙有此器。"
+        },
+        {
+            "explanation": "从竹。象形。",
+            "note": "謂其物像工字。"
+        },
+        {
+            "explanation": "中象人手所推握也。",
+            "note": "謂{彑-一}像人手推之持之。胡誤切。五部。"
+        }
+    ],
+    "indexes": [
+        "䇘",
+        "互"
+    ]
+}

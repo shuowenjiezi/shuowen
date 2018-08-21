@@ -1,0 +1,51 @@
+{
+    "id": 8819,
+    "wordhead": "蜙",
+    "explanation": "蜙蝑，以股鳴者。从虫松聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "息恭切",
+    "variants": [
+        {
+            "wordhead": "蚣",
+            "explanation": "蜙或省。",
+            "seal_character": "瓌"
+        }
+    ],
+    "seal_character": "瓋",
+    "pinyin": "song",
+    "pinyin_full": "sōnɡ",
+    "components": [
+        "虫",
+        "公",
+        "松"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作古紅切，以爲蜈蚣蟲名。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蜙蝑、",
+            "note": "逗。雙聲。"
+        },
+        {
+            "explanation": "春黍也。",
+            "note": "詩釋文曰。楊雄、許愼皆云春黍。陸氏所據有此三字。今補。周南傳曰。斯螽、蜙蝑也。豳風傳曰。螽斯、蜙蝑也。釋蟲曰。蜤螽、蜙蝑。舍人曰。今所謂春黍也。方言曰。春黍謂之蜙蝑。詩斯螽卽螽斯。爾雅蜇卽斯。蜙蝑、春黍皆雙聲。蜙春、蝑黍又曡韵。陸璣疏曰。幽州人謂之春箕。蝗類也。"
+        },
+        {
+            "explanation": "㠯股鳴者。",
+            "note": "考工記梓人文。鄭曰。股鳴、蜙蝑動股屬。七月曰。五月斯螽動股。"
+        },
+        {
+            "explanation": "从虫。松聲。",
+            "note": "息恭切。九部。陸氏引許愼思弓反。"
+        },
+        {
+            "explanation": "蜙或省。",
+            "note": "毛詩如此作。"
+        }
+    ],
+    "indexes": [
+        "蜙",
+        "蚣"
+    ]
+}

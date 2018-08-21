@@ -1,0 +1,61 @@
+{
+    "id": 1860,
+    "wordhead": "𩱡",
+    "explanation": "鬻也。从𩰲侃聲。",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "諸延切",
+    "variants": [
+        {
+            "wordhead": "餰",
+            "explanation": "𩱡或从食<span>[<span>𠊊</span>]</span>衍聲。",
+            "seal_character": "嘵"
+        },
+        {
+            "wordhead": "飦",
+            "explanation": "或从干聲。",
+            "seal_character": "嘶"
+        },
+        {
+            "wordhead": "䭈",
+            "explanation": "或从建聲。",
+            "seal_character": "嘷"
+        }
+    ],
+    "seal_character": "嘴",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "干",
+        "建",
+        "侃",
+        "食",
+        "衍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鬻也。从䰜。侃聲。",
+            "note": "諸延切。十四部。按此當去虔切。𩱡或作餰。猶愆作諐也。淺人謂卽饘字不分。故同切諸延耳。"
+        },
+        {
+            "explanation": "𩱡或从食。衍聲。",
+            "note": "荀卿書。酒醴餰鬻。內則曰。取稻米舉糔溲之。小切狼臅膏。以與稻米爲酏。注。此周禮酏食也。此酏當从𩜾。周禮醢人酏食注曰。酏、𩜾也。引內則取稻米云云。正作𩜾字。按襍問志曰。內則𩜾次糝。周禮酏次糝。酏在六飲中。不合在豆。且內則有𩜾無酏。周禮有酏無𩜾。明酏𩜾是一也。故破酏從𩜾也。據此則內則本作𩜾字。注中此酏當從𩜾。謂周禮此酏字當從內則作𩜾字。言此酏者、以別於六飲之酏也。今本內則作酏。淺人所改。"
+        },
+        {
+            "explanation": "𩱡或从食。干聲。",
+            "note": "孟子曰。飦粥之食。趙曰。飦、𩞁粥也。𩞁同糜。"
+        },
+        {
+            "explanation": "𩱡或从食。建聲。",
+            "note": "韵會引左傳注。䭈於是鬻於是。今未詳所據。"
+        }
+    ],
+    "indexes": [
+        "𩱡",
+        "餰",
+        "飦",
+        "䭈"
+    ]
+}

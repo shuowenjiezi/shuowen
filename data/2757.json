@@ -1,0 +1,31 @@
+{
+    "id": 2757,
+    "wordhead": "判",
+    "explanation": "分也。从刀半聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "普半切",
+    "variants": [],
+    "seal_character": "婝",
+    "pinyin": "pan",
+    "pinyin_full": "pàn",
+    "components": [
+        "刀",
+        "半"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "分也。",
+            "note": "媒氏掌萬民之判。注。判、半也。得耦爲合。主合其半成夫婦也。朝士有判書以治則聽。注。判、半分而合者。"
+        },
+        {
+            "explanation": "从刀。半聲。",
+            "note": "形聲包㑹意。普半切。十四部。"
+        }
+    ],
+    "indexes": [
+        "判"
+    ]
+}

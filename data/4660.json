@@ -1,0 +1,39 @@
+{
+    "id": 4660,
+    "wordhead": "窀",
+    "explanation": "葬之厚夕。从穴屯聲。《春秋傳》曰：“窀穸从先君於地下。”",
+    "volume": "07",
+    "radical": "穴",
+    "pronunciation": "陟倫切",
+    "variants": [],
+    "seal_character": "拜",
+    "pinyin": "zhun",
+    "pinyin_full": "zhūn",
+    "components": [
+        "屯",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "窀穸、",
+            "note": "逗。各本刪此二字。今依全書例補。厚釋窀。夕釋穸。"
+        },
+        {
+            "explanation": "葬之厚夕也。",
+            "note": "襄十三年左傳曰。惟是春秋窀穸之事。所以從先君於禰廟者。杜曰。窀、厚也。穸、夜也。厚夜猶長夜。春秋謂祭祀。長夜謂葬薶。按窀淳同音。窀訓厚。"
+        },
+        {
+            "explanation": "从穴。屯聲。",
+            "note": "陟輪切。十三部。"
+        },
+        {
+            "explanation": "春秋傳曰。窀穸從先君於地下。",
+            "note": "與今左傳異。"
+        }
+    ],
+    "indexes": [
+        "窀"
+    ]
+}

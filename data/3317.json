@@ -1,0 +1,46 @@
+{
+    "id": 3317,
+    "wordhead": "𦎫",
+    "explanation": "孰也。从亯从羊。讀若純。一曰鬻也。",
+    "volume": "05",
+    "radical": "亯",
+    "pronunciation": "常倫切",
+    "variants": [
+        {
+            "wordhead": "𠆆",
+            "explanation": "篆文𦎧。",
+            "seal_character": "峹"
+        }
+    ],
+    "seal_character": "峸",
+    "pinyin": "chun",
+    "pinyin_full": "chún",
+    "components": [
+        "羊",
+        "亯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "孰也。",
+            "note": "今俗云純熟。當作此字。純醇行而？廢矣。周禮司裘注。假借爲？的字。"
+        },
+        {
+            "explanation": "从亯⺸。",
+            "note": "凡从？者、今𣜩皆作享。與亯之隷無別。"
+        },
+        {
+            "explanation": "讀若純。",
+            "note": "常倫切。十三部。"
+        },
+        {
+            "explanation": "一曰鬻也。",
+            "note": "鬻、䭈也。"
+        }
+    ],
+    "indexes": [
+        "𦎫",
+        "𠆆"
+    ]
+}

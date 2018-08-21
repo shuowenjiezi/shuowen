@@ -1,0 +1,42 @@
+{
+    "id": 8920,
+    "wordhead": "蠹",
+    "explanation": "木中蟲。从䖵橐聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "當故切",
+    "variants": [
+        {
+            "wordhead": "螙",
+            "explanation": "蠹或从木，象蟲在木中形，譚長說。",
+            "seal_character": "畀"
+        }
+    ],
+    "seal_character": "甿",
+    "pinyin": "du",
+    "pinyin_full": "dù",
+    "components": [
+        "木",
+        "橐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木中蟲。",
+            "note": "在木中食木者也。今俗謂之蛀。音注。左傳曰。公聚朽蠹。"
+        },
+        {
+            "explanation": "从䖵。槖聲。",
+            "note": "當故切。五部。"
+        },
+        {
+            "explanation": "蠹或从木。象蟲在木中形。譚長說。",
+            "note": "上形聲。此會意。"
+        }
+    ],
+    "indexes": [
+        "蠹",
+        "螙"
+    ]
+}

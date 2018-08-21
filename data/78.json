@@ -1,0 +1,45 @@
+{
+    "id": 78,
+    "wordhead": "王",
+    "explanation": "天下所歸往也。董仲舒曰：“古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者王也。”孔子曰：“一貫三爲王。”凡王之屬皆从王。[李陽冰曰：“中畫近上。王者，則天之義。”]",
+    "volume": "01",
+    "radical": "王",
+    "pronunciation": "雨方切",
+    "variants": [
+        {
+            "wordhead": "𠙻",
+            "explanation": "古文王。",
+            "seal_character": "乣"
+        }
+    ],
+    "seal_character": "乢",
+    "pinyin": "wang",
+    "pinyin_full": "wánɡ",
+    "components": [
+        "王"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天下所歸往也。",
+            "note": "見白虎通。王往曡韵。"
+        },
+        {
+            "explanation": "董仲舒曰。古之造文者。三畫而連其中謂之王。三者、天地人也。而參通之者、王也。",
+            "note": "見春秋䋣露。引之說字形也。韋昭注國語曰。參、三也。"
+        },
+        {
+            "explanation": "孔子曰。一貫三爲王。",
+            "note": "又引孔子語證董說。"
+        },
+        {
+            "explanation": "凡王之屬皆从王。",
+            "note": "雨方切。十部。"
+        }
+    ],
+    "indexes": [
+        "王",
+        "𠙻"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 9787,
+    "wordhead": "醮",
+    "explanation": "冠娶禮。祭。从酉焦聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "子肖切",
+    "variants": [
+        {
+            "wordhead": "𥛲",
+            "explanation": "醮或从示。",
+            "seal_character": "礣"
+        }
+    ],
+    "seal_character": "礢",
+    "pinyin": "jiao",
+    "pinyin_full": "jiào",
+    "components": [
+        "示",
+        "焦",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "冠娶禮祭也。",
+            "note": "士冠禮。若不醴則醮用酒。三加、凡三醮。鄭曰。酌而無酬酢曰醮。士昏禮。父醮子。命之迎婦。嫡婦則酌之以醴。庶婦使人醮之。酌之以酒。鄭曰。酒不酬酢曰醮。依鄭說、非謂祭也。而許云冠娶禮祭。事屬可疑。詳經文不言祭也。葢古本作冠娶妻禮也。一曰祭也。轉寫有奪與。祭者別一義。不蒙冠婚。宋玉高唐賦。醮諸神禮太一。此後世醮祀之始見也。"
+        },
+        {
+            "explanation": "从酉。焦聲。",
+            "note": "子肖切。二部。"
+        },
+        {
+            "explanation": "醮或从示。",
+            "note": "按依此則有祭義審矣。"
+        }
+    ],
+    "indexes": [
+        "醮",
+        "𥛲"
+    ]
+}

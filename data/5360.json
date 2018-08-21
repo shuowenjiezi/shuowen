@@ -1,0 +1,31 @@
+{
+    "id": 5360,
+    "wordhead": "孝",
+    "explanation": "善事父母者。从老省，从子。子承老也。",
+    "volume": "08",
+    "radical": "老",
+    "pronunciation": "呼教切",
+    "variants": [],
+    "seal_character": "旟",
+    "pinyin": "xiao",
+    "pinyin_full": "xiào",
+    "components": [
+        "子",
+        "老"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "善事父母者。",
+            "note": "禮記。孝者、畜也。順於道。不逆於倫。是之謂畜。"
+        },
+        {
+            "explanation": "从老省。从子。子承老也。",
+            "note": "說會意之恉。呼教切。二部。"
+        }
+    ],
+    "indexes": [
+        "孝"
+    ]
+}

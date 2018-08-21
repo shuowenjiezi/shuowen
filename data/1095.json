@@ -1,0 +1,43 @@
+{
+    "id": 1095,
+    "wordhead": "邁",
+    "explanation": "遠行也。从辵，蠆省聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "莫話切",
+    "variants": [
+        {
+            "wordhead": "𨙚",
+            "explanation": "邁或不省。",
+            "seal_character": "劾"
+        }
+    ],
+    "seal_character": "劽",
+    "pinyin": "mai",
+    "pinyin_full": "mài",
+    "components": [
+        "蠆",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遠行也。",
+            "note": "釋言、毛傳曰。邁行也。"
+        },
+        {
+            "explanation": "从辵。萬聲。",
+            "note": "莫話切。十五部。萬聲在十四部。合音也。"
+        },
+        {
+            "explanation": "邁或从蠆。",
+            "note": "按蟲部𧍣字。上不从萬。而𤕫部、厂部𧍣皆从萬从虫。未聞其詳。"
+        }
+    ],
+    "indexes": [
+        "迈",
+        "邁",
+        "𨙚"
+    ]
+}

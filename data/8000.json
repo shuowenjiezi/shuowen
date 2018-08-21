@@ -1,0 +1,31 @@
+{
+    "id": 8000,
+    "wordhead": "扤",
+    "explanation": "動也。从手兀聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "五忽切",
+    "variants": [],
+    "seal_character": "煄",
+    "pinyin": "wu",
+    "pinyin_full": "wù",
+    "components": [
+        "兀",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "動也。",
+            "note": "詩正月。天之扤我。傳曰。扤、動也。考工記。是以大扤。"
+        },
+        {
+            "explanation": "从手。兀聲。",
+            "note": "五忽切。十五部。"
+        }
+    ],
+    "indexes": [
+        "扤"
+    ]
+}

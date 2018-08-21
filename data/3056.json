@@ -1,0 +1,54 @@
+{
+    "id": 3056,
+    "wordhead": "平",
+    "explanation": "語平舒也。从亏从八。八，分也。爰禮說。",
+    "volume": "05",
+    "radical": "亏",
+    "pronunciation": "符兵切",
+    "variants": [
+        {
+            "wordhead": "𠀭",
+            "explanation": "古文平<span>[<span>𠀒</span>]</span>如此。",
+            "seal_character": "容"
+        }
+    ],
+    "seal_character": "宸",
+    "pinyin": "ping",
+    "pinyin_full": "pínɡ",
+    "components": [
+        "亏",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "語平舒也。",
+            "note": "引伸爲凡安舒之偁。"
+        },
+        {
+            "explanation": "从亏八。",
+            "note": "句。"
+        },
+        {
+            "explanation": "八、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "分也。",
+            "note": "說从八之意。分之而勻適則平舒矣。符兵切。十一部。"
+        },
+        {
+            "explanation": "爰禮說。",
+            "note": "爰禮者、敘目云孝宣皇帝時沛人爰禮是也。"
+        },
+        {
+            "explanation": "古文平如此。",
+            "note": "此等篆皆轉寫譌亂。何氏煌曰。玉篇中畫不𣃔。小篆疑从古文省也。今从玉篇。"
+        }
+    ],
+    "indexes": [
+        "平",
+        "𠀭"
+    ]
+}

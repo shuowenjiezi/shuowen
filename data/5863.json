@@ -1,0 +1,39 @@
+{
+    "id": 5863,
+    "wordhead": "𡹔",
+    "explanation": "山壞也。从山朋聲。",
+    "volume": "09",
+    "radical": "山",
+    "pronunciation": "北滕切",
+    "variants": [
+        {
+            "wordhead": "𨹹",
+            "explanation": "古文从𨸏。",
+            "seal_character": "栖"
+        }
+    ],
+    "seal_character": "栕",
+    "pinyin": "beng",
+    "pinyin_full": "bēnɡ",
+    "components": [
+        "山",
+        "阜",
+        "朋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山壞也。",
+            "note": "引伸之天子死曰𡹔。"
+        },
+        {
+            "explanation": "从山。朋聲。",
+            "note": "方滕切。六部。按𥻳體山在朋上。"
+        }
+    ],
+    "indexes": [
+        "𡹔",
+        "𨹹"
+    ]
+}

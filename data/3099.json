@@ -1,0 +1,45 @@
+{
+    "id": 3099,
+    "wordhead": "虐",
+    "explanation": "殘也。从虍，虎足反爪人也。",
+    "volume": "05",
+    "radical": "虍",
+    "pronunciation": "魚約切",
+    "variants": [
+        {
+            "wordhead": "𧆱",
+            "explanation": "古文虐如此。",
+            "seal_character": "寬"
+        }
+    ],
+    "seal_character": "寫",
+    "pinyin": "nve",
+    "pinyin_full": "nüè",
+    "components": [
+        "人",
+        "口",
+        "虎",
+        "爪",
+        "虍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "殘也。",
+            "note": "歹部曰。殘、賊也。"
+        },
+        {
+            "explanation": "从虍爪人。",
+            "note": "爪人補。三字會意。"
+        },
+        {
+            "explanation": "虎足反爪人也。",
+            "note": "覆手曰爪。虎反爪鄉外攫人是曰虐。魚約切。二部。"
+        }
+    ],
+    "indexes": [
+        "虐",
+        "𧆱"
+    ]
+}

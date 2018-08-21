@@ -1,0 +1,52 @@
+{
+    "id": 5685,
+    "wordhead": "㐱",
+    "explanation": "稠髮也。从彡从人。《詩》曰：“㐱髮如雲。”",
+    "volume": "09",
+    "radical": "彡",
+    "pronunciation": "之忍切",
+    "variants": [
+        {
+            "wordhead": "鬒",
+            "explanation": "㐱或从髟眞聲。",
+            "seal_character": "杋"
+        }
+    ],
+    "seal_character": "杊",
+    "pinyin": "zhen",
+    "pinyin_full": "zhěn",
+    "components": [
+        "人",
+        "真",
+        "彡",
+        "髟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稠髮也。",
+            "note": "稠者多也。禾稠、曰稹。髮稠曰㐱。其意一也。"
+        },
+        {
+            "explanation": "从彡。",
+            "note": "謂髮。"
+        },
+        {
+            "explanation": "人聲。",
+            "note": "之忍切。十二部。"
+        },
+        {
+            "explanation": "詩曰。㐱髮如雲。",
+            "note": "庸風君子偕老文。今詩作鬒。葢以或字改古字。傳曰。鬒、黑髮也。疑黑字亦非毛公之舊。許多襲毛。不應有異。左傳。昔有仍氏生女。黰黑而甚美。黰正謂稠髮。髮多且黑而皃甚美也。服、杜皆云美髮爲黰。不言黑髮。"
+        },
+        {
+            "explanation": "㐱或从髟。眞聲。",
+            "note": "黰又其或體。"
+        }
+    ],
+    "indexes": [
+        "㐱",
+        "鬒"
+    ]
+}

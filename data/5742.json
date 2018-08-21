@@ -1,0 +1,35 @@
+{
+    "id": 5742,
+    "wordhead": "㖃",
+    "explanation": "厚怒聲。从口、后，后亦聲。",
+    "volume": "09",
+    "radical": "后",
+    "pronunciation": "呼后切",
+    "variants": [],
+    "seal_character": "枋",
+    "pinyin": "hou",
+    "pinyin_full": "hǒu",
+    "components": [
+        "口",
+        "后"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "厚怒聲。",
+            "note": "厚當作𣆪。𣆪與㖃㬪韵。諸書用呴字、卽此字也。聲類曰。呴、嗥也。俗作吼。"
+        },
+        {
+            "explanation": "从后口。",
+            "note": "各本作口后。誤。今正。厚怒故从后。后之言厚也。聲出於口、故从口會意。不云从口后聲系之口部者、許定此爲后口會意。如古文厚之从后土也。"
+        },
+        {
+            "explanation": "后亦聲。",
+            "note": "呼后切。四部。"
+        }
+    ],
+    "indexes": [
+        "㖃"
+    ]
+}

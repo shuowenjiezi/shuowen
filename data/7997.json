@@ -1,0 +1,47 @@
+{
+    "id": 7997,
+    "wordhead": "播",
+    "explanation": "穜也。一曰布也。从手番聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "補過切",
+    "variants": [
+        {
+            "wordhead": "𢿥",
+            "explanation": "古文播。",
+            "seal_character": "煁"
+        }
+    ],
+    "seal_character": "煀",
+    "pinyin": "bo",
+    "pinyin_full": "bō",
+    "components": [
+        "番",
+        "手",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "穜也。",
+            "note": "穜者、𡎐也。𡎐者、穜也。堯典曰。播時百榖。"
+        },
+        {
+            "explanation": "从手。番聲。",
+            "note": "補過切。十四十七部。"
+        },
+        {
+            "explanation": "一曰布也。",
+            "note": "周禮？朦注曰。播謂發揚其音。"
+        },
+        {
+            "explanation": "古文播。",
+            "note": "九歌。𨤏芳椒兮成堂。補注。𨤏古播字。"
+        }
+    ],
+    "indexes": [
+        "播",
+        "𢿥"
+    ]
+}

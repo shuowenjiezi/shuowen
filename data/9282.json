@@ -1,0 +1,43 @@
+{
+    "id": 9282,
+    "wordhead": "䥏",
+    "explanation": "鉏䥏也。从金御聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "魚舉切",
+    "variants": [
+        {
+            "wordhead": "鋙",
+            "explanation": "䥏或从吾。",
+            "seal_character": "盯"
+        }
+    ],
+    "seal_character": "目",
+    "pinyin": "yu",
+    "pinyin_full": "yǔ",
+    "components": [
+        "御",
+        "金",
+        "吾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鉏䥏也。",
+            "note": "鉏音牀吕切。䥏音魚巨切。曡韵字。齒部齟齬、齒不相值也。鉏䥏、葢亦器之能相抵拒錯摩者。故廣韵以不相當釋鉏鋙。周禮玉人注云駔牙。左傳人有名鉏吾者。皆此二者之同音叚借。"
+        },
+        {
+            "explanation": "从金。御聲。",
+            "note": "魚舉切。五部。"
+        },
+        {
+            "explanation": "䥏或从吾。",
+            "note": "吾古讀如魚。"
+        }
+    ],
+    "indexes": [
+        "䥏",
+        "鋙"
+    ]
+}

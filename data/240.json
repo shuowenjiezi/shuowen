@@ -1,0 +1,30 @@
+{
+    "id": 240,
+    "wordhead": "艸",
+    "explanation": "百芔也。从二屮。凡艸之屬皆从艸。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "倉老切",
+    "variants": [],
+    "seal_character": "伝",
+    "pinyin": "cao",
+    "pinyin_full": "cǎo",
+    "components": [
+        "屮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "百芔也。",
+            "note": "卉下曰。艸之緫名也。是謂轉注。二屮三屮一也。引伸爲艸稿、艸具之艸。"
+        },
+        {
+            "explanation": "从二屮。",
+            "note": "倉老切。古音在三部。俗以草爲艸。乃別以皁爲草。"
+        }
+    ],
+    "indexes": [
+        "艸"
+    ]
+}

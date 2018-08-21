@@ -1,0 +1,43 @@
+{
+    "id": 4611,
+    "wordhead": "躳",
+    "explanation": "身也。从身从呂。",
+    "volume": "07",
+    "radical": "呂",
+    "pronunciation": "居戎切",
+    "variants": [
+        {
+            "wordhead": "躬",
+            "explanation": "躳或从弓。",
+            "seal_character": "抪"
+        }
+    ],
+    "seal_character": "抩",
+    "pinyin": "gong",
+    "pinyin_full": "ɡōnɡ",
+    "components": [
+        "呂",
+        "弓",
+        "身"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "身也。",
+            "note": "廣雅同。"
+        },
+        {
+            "explanation": "从呂。从身。",
+            "note": "从呂者、身以呂爲柱也。矦執信圭。伸圭人形直。伯執躳圭。躳圭人形曲。鞠躳者、斂曲之皃也。居戎切。九部。"
+        },
+        {
+            "explanation": "俗从弓身。",
+            "note": "弓身者、曲之會意也。"
+        }
+    ],
+    "indexes": [
+        "躳",
+        "躬"
+    ]
+}

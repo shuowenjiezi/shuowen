@@ -1,0 +1,36 @@
+{
+    "id": 5013,
+    "wordhead": "儕",
+    "explanation": "等輩也。从人齊聲。《春秋傳》曰：“吾儕小人。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "仕皆切",
+    "variants": [],
+    "seal_character": "摭",
+    "pinyin": "chai",
+    "pinyin_full": "chái",
+    "components": [
+        "齊",
+        "人"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "等輩也。",
+            "note": "等、齊𥳑也。故凡齊皆曰等。樂記曰。先王之喜怒。皆得其儕焉。喜則天下和之。怒則暴亂者畏之。注。儕猶輩類。"
+        },
+        {
+            "explanation": "从人。齊聲。",
+            "note": "仕皆切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。吾儕小人。",
+            "note": "左傳宣十一年、襄十七年文。"
+        }
+    ],
+    "indexes": [
+        "侪",
+        "儕"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1773,
+    "wordhead": "𢍱",
+    "explanation": "升高也。从舁囟聲。",
+    "volume": "03",
+    "radical": "舁",
+    "pronunciation": "七然切",
+    "variants": [
+        {
+            "wordhead": "𠨧",
+            "explanation": "𢍱或从卩<span>[<span>卪</span>]</span>。",
+            "seal_character": "嗆"
+        },
+        {
+            "wordhead": "𢍹",
+            "explanation": "古文𢍱。",
+            "seal_character": "嗇"
+        }
+    ],
+    "seal_character": "嗅",
+    "pinyin": "qian",
+    "pinyin_full": "qiān",
+    "components": [
+        "卩",
+        "舁",
+        "囟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦫵高也。",
+            "note": "𦫵之言登也。此與辵部遷？音義同。"
+        },
+        {
+            "explanation": "从舁。囟聲。",
+            "note": "囟音信。䙴音遷。合音也。七然切。十四部。"
+        },
+        {
+            "explanation": "𢍱或从卪。",
+            "note": "卪謂所登之階級也。郊祀志。湯伐桀。欲䙴夏社。不可。地理志。春秋經曰。衞？于帝丘。"
+        }
+    ],
+    "indexes": [
+        "𢍱",
+        "𠨧",
+        "𢍹"
+    ]
+}

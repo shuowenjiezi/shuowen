@@ -1,0 +1,35 @@
+{
+    "id": 6059,
+    "wordhead": "豷",
+    "explanation": "豕息也。从豕壹聲。《春秋傳》曰：“生敖及豷。”",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "許利切",
+    "variants": [],
+    "seal_character": "棬",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "豕",
+        "壹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "豕息也。",
+            "note": "息者、喘也。豷與㞒呬䨳音義皆同。而有人豕之別。"
+        },
+        {
+            "explanation": "从豕。壹聲。",
+            "note": "許利切。十二部。"
+        },
+        {
+            "explanation": "春秋傳曰。生敖及豷。",
+            "note": "襄四年左傳文。今左傳敖作澆。論語及夰部作奡。"
+        }
+    ],
+    "indexes": [
+        "豷"
+    ]
+}

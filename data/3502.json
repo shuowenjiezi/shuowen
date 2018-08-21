@@ -1,0 +1,31 @@
+{
+    "id": 3502,
+    "wordhead": "枳",
+    "explanation": "木。似橘。从木只聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "諸氏切",
+    "variants": [],
+    "seal_character": "巔",
+    "pinyin": "zhi",
+    "pinyin_full": "zhǐ",
+    "components": [
+        "木",
+        "只"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "枳木。似橘。",
+            "note": "考工記。橘踰淮而北爲枳。本艸經所謂枳實也。枳可爲籬。周書小開曰。德枳維大人。"
+        },
+        {
+            "explanation": "從木。只聲。",
+            "note": "諸氏切。十六部。"
+        }
+    ],
+    "indexes": [
+        "枳"
+    ]
+}

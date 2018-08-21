@@ -1,0 +1,35 @@
+{
+    "id": 1369,
+    "wordhead": "跳",
+    "explanation": "蹶也。从足兆聲。一曰躍也。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "徒遼切",
+    "variants": [],
+    "seal_character": "叹",
+    "pinyin": "tiao",
+    "pinyin_full": "tiào",
+    "components": [
+        "兆",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蹷也。",
+            "note": "方言。自關而西秦晉之閒曰跳。"
+        },
+        {
+            "explanation": "从足。兆聲。",
+            "note": "徒遼切。二部。"
+        },
+        {
+            "explanation": "一曰躍也。",
+            "note": "躍、迅也。"
+        }
+    ],
+    "indexes": [
+        "跳"
+    ]
+}

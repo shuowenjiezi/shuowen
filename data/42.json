@@ -1,0 +1,31 @@
+{
+    "id": 42,
+    "wordhead": "礿",
+    "explanation": "夏祭也。从示勺聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "以灼切",
+    "variants": [],
+    "seal_character": "丸",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "示",
+        "勺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "夏祭也。",
+            "note": "周禮。以禴夏享先王。公羊傳曰。夏曰礿。注。始熟可汋。故曰礿。釋天曰。春祭曰祠。夏祭曰礿。秋祭曰嘗。冬祭曰蒸。孫炎曰。祠之言食。礿、新菜可汋。嘗、嘗新穀。蒸、進品物也。汋與礿曡韵。汋卽說文𩱲字。王制。春曰礿。夏曰禘。與周禮異。"
+        },
+        {
+            "explanation": "从示。勺聲。",
+            "note": "以灼切。古音在第二部。礿亦作禴。勺龠同部。"
+        }
+    ],
+    "indexes": [
+        "礿"
+    ]
+}

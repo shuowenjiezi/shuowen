@@ -1,0 +1,52 @@
+{
+    "id": 9682,
+    "wordhead": "馗",
+    "explanation": "九達道也。似龜背，故謂之馗。馗，高也。从九从首。",
+    "volume": "14",
+    "radical": "九",
+    "pronunciation": "渠追切",
+    "variants": [
+        {
+            "wordhead": "逵",
+            "explanation": "馗或从辵从坴。",
+            "seal_character": "碡"
+        }
+    ],
+    "seal_character": "碠",
+    "pinyin": "kui",
+    "pinyin_full": "kuí",
+    "components": [
+        "九",
+        "辵",
+        "首",
+        "坴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "九𨔶道也。",
+            "note": "釋宫曰。九𨔶謂之馗。韓詩。施于中馗。"
+        },
+        {
+            "explanation": "佀龜背。故謂之馗。",
+            "note": "龜背中高而四下。馗之四面無不可通、似之。龜古音如姬、如鳩。馗古音如求。以曡韵爲訓也。大徐本此下有馗高也三字。非是。"
+        },
+        {
+            "explanation": "从九首。",
+            "note": "會意。首猶向也。故道字亦从首。九亦聲。古音在三部。今渠追切。"
+        },
+        {
+            "explanation": "馗或从辵坴。",
+            "note": "今毛詩作此字。"
+        },
+        {
+            "explanation": "馗高也。故从坴。",
+            "note": "故字今增。徐楚金云。坴、高土也。會意。玉裁按坴亦聲。"
+        }
+    ],
+    "indexes": [
+        "馗",
+        "逵"
+    ]
+}

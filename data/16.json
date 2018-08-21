@@ -1,0 +1,31 @@
+{
+    "id": 16,
+    "wordhead": "禠",
+    "explanation": "福也。从示虒聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "息移切",
+    "variants": [],
+    "seal_character": "丘",
+    "pinyin": "si",
+    "pinyin_full": "sī",
+    "components": [
+        "示",
+        "虒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "福也。",
+            "note": "見釋詁。張衡東京賦曰。祈禠禳災。"
+        },
+        {
+            "explanation": "从示。虒聲。",
+            "note": "息移切。字林弋爾反。十六部。"
+        }
+    ],
+    "indexes": [
+        "禠"
+    ]
+}

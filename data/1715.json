@@ -1,0 +1,32 @@
+{
+    "id": 1715,
+    "wordhead": "譯",
+    "explanation": "傳譯四夷之言者。从言睪聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "羊昔切",
+    "variants": [],
+    "seal_character": "啿",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "言",
+        "睪"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傳四夷之語者。",
+            "note": "依李善、徐堅訂。方言。譯、傳也。王制曰。東方曰寄南方曰象。西方曰狄鞮。北方曰譯。"
+        },
+        {
+            "explanation": "从言睪聲。",
+            "note": "羊昔切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "译",
+        "譯"
+    ]
+}

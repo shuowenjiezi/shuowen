@@ -1,0 +1,43 @@
+{
+    "id": 931,
+    "wordhead": "吝",
+    "explanation": "恨惜也。从口文聲。《易》曰：“以往吝。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "良刃切",
+    "variants": [
+        {
+            "wordhead": "𠲲",
+            "explanation": "古文吝从彣。",
+            "seal_character": "刊"
+        }
+    ],
+    "seal_character": "刉",
+    "pinyin": "lin",
+    "pinyin_full": "lìn",
+    "components": [
+        "口",
+        "文",
+        "彣"
+    ],
+    "xuan_note": "臣鉉等曰：今俗别作恡，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "恨惜也。",
+            "note": "慳吝亦恨惜也。"
+        },
+        {
+            "explanation": "从口。文聲。",
+            "note": "按此字葢从口文會意。凡恨惜者多文之以口。非文聲也。良刃切。十二部。"
+        },
+        {
+            "explanation": "易曰。㠯往吝。",
+            "note": "蒙初六爻辭。按？部引以往遴。不同者。許易偁孟氏。或兼偁他家。或孟易有或本。皆未可知也。"
+        }
+    ],
+    "indexes": [
+        "吝",
+        "𠲲"
+    ]
+}

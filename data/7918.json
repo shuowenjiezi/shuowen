@@ -1,0 +1,40 @@
+{
+    "id": 7918,
+    "wordhead": "揚",
+    "explanation": "飛舉也。从手昜聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "與章切",
+    "variants": [
+        {
+            "wordhead": "𢾙",
+            "explanation": "古文。",
+            "seal_character": "热"
+        }
+    ],
+    "seal_character": "烬",
+    "pinyin": "yang",
+    "pinyin_full": "yánɡ",
+    "components": [
+        "昜",
+        "手",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飛舉也。从手。昜聲。",
+            "note": "與章切。十部。"
+        },
+        {
+            "explanation": "古文揚。从攴。",
+            "note": "漢碑用颺歷。他文用敭歷。皆用今文尙書般庚之優賢揚歷也。"
+        }
+    ],
+    "indexes": [
+        "扬",
+        "揚",
+        "𢾙"
+    ]
+}

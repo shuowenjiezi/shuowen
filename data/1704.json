@@ -1,0 +1,35 @@
+{
+    "id": 1704,
+    "wordhead": "訧",
+    "explanation": "罪也。从言尤聲。《周書》曰：“報以庶訧。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "羽求切",
+    "variants": [],
+    "seal_character": "啱",
+    "pinyin": "you",
+    "pinyin_full": "yóu",
+    "components": [
+        "言",
+        "尤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "罪也。",
+            "note": "邶風毛傳。訧、過也。亦作郵。釋言。郵、過也。亦作尤。孟子引詩畜君何尤。"
+        },
+        {
+            "explanation": "从言。尤聲。",
+            "note": "羽求切。古音在一部。"
+        },
+        {
+            "explanation": "周書曰。報以庶訧。",
+            "note": "呂㓝文。"
+        }
+    ],
+    "indexes": [
+        "訧"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2479,
+    "wordhead": "舄",
+    "explanation": "𩁆也。象形。",
+    "volume": "04",
+    "radical": "烏",
+    "pronunciation": "七雀切",
+    "variants": [
+        {
+            "wordhead": "𩁆",
+            "explanation": "篆文舄从隹、㫺。",
+            "seal_character": "外"
+        }
+    ],
+    "seal_character": "夕",
+    "pinyin": "que",
+    "pinyin_full": "què",
+    "components": [
+        "隹",
+        "昔",
+        "舄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䧿也。",
+            "note": "謂舄卽䧿字。此以今字釋古字之例。古文作舄。小篆作䧿。𣆪下曰。？也。周禮注曰。勛讀爲勲。皆以今字釋古字。鳥部曰。雗鷽、䧿也。言其物。此云。舄、䧿也。言其字。舄本䧿字。自經典借爲履舄字而本義廢矣。周禮注曰。複下曰舄。禪下曰屨。小雅毛傳曰。舄、達屨也。達之言重沓也。卽複下之謂也。釋名曰。舄、腊也。複其下使乾腊也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "烏舄焉皆象形。惟首各異。故合爲一部。七削切。古音在五部。"
+        },
+        {
+            "explanation": "篆文舄。从隹㫺。",
+            "note": "昔聲也。此亦上部先古文之例。䧿𣜩變从鳥。"
+        }
+    ],
+    "indexes": [
+        "舄",
+        "𩁆"
+    ]
+}

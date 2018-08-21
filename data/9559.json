@@ -1,0 +1,35 @@
+{
+    "id": 9559,
+    "wordhead": "轘",
+    "explanation": "車裂人也。从車瞏聲。《春秋傳》曰：“轘諸栗門。”",
+    "volume": "14",
+    "radical": "車",
+    "pronunciation": "胡慣切",
+    "variants": [],
+    "seal_character": "砘",
+    "pinyin": "huan",
+    "pinyin_full": "huàn",
+    "components": [
+        "車",
+        "瞏"
+    ],
+    "xuan_note": "臣鉉等曰：瞏，渠營切。非聲。當从𨘣省。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "車裂人也。",
+            "note": "周禮條狼氏。誓僕右曰殺。誓馭曰車轘。注曰。車轘、謂車裂也。"
+        },
+        {
+            "explanation": "从車。瞏聲。",
+            "note": "胡慣切。十四部。按大徐云。瞏渠營切。非聲。當从環省。此惑於毛詩靑靑瞏瞏爲韵。而不知詩之瞏瞏、乃煢煢之雙聲叚借也。"
+        },
+        {
+            "explanation": "春秋傳曰。轘諸栗門。",
+            "note": "宣公十一年左傳文。"
+        }
+    ],
+    "indexes": [
+        "轘"
+    ]
+}

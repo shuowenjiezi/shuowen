@@ -1,0 +1,31 @@
+{
+    "id": 3512,
+    "wordhead": "檀",
+    "explanation": "木也。从木亶聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "徒乾切",
+    "variants": [],
+    "seal_character": "巟",
+    "pinyin": "tan",
+    "pinyin_full": "tán",
+    "components": [
+        "木",
+        "亶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "檀木也。",
+            "note": "鄭風傳曰。檀、彊刃之木。刃今韌字。榽醯似檀。齊人諺曰。上山斫檀。榽醯先殫。"
+        },
+        {
+            "explanation": "從木。亶聲。",
+            "note": "徒乾切。十四部。"
+        }
+    ],
+    "indexes": [
+        "檀"
+    ]
+}

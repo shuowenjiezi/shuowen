@@ -1,0 +1,51 @@
+{
+    "id": 227,
+    "wordhead": "壻",
+    "explanation": "夫也。从士胥聲。《詩》曰：“女也不爽，士貳其行。”士者，夫也。讀與細同。",
+    "volume": "01",
+    "radical": "士",
+    "pronunciation": "穌計切",
+    "variants": [
+        {
+            "wordhead": "婿",
+            "explanation": "壻或从女。",
+            "seal_character": "伋"
+        }
+    ],
+    "seal_character": "伊",
+    "pinyin": "xu",
+    "pinyin_full": "xù",
+    "components": [
+        "胥",
+        "士",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "夫也。",
+            "note": "夫者丈夫也。然則壻爲男子之美稱。因以爲女夫之稱。釋親曰。女子子之夫爲壻。"
+        },
+        {
+            "explanation": "从士胥。",
+            "note": "鉉本有聲字。誤。周禮注、詩箋皆曰。胥、有才知之稱。又曰。胥讀如諝。謂其有才知爲什長。說文言部曰。諝、知也。然則从胥者、从諝之省。詩曰。"
+        },
+        {
+            "explanation": "女也不爽。士貳其行。士者、夫也。",
+            "note": "此引衞風而䆁之。明从士之意。"
+        },
+        {
+            "explanation": "讀與細同。",
+            "note": "穌計切。古音當在十六部。"
+        },
+        {
+            "explanation": "壻或从女。",
+            "note": "以女配有才知者、爲會意。"
+        }
+    ],
+    "indexes": [
+        "壻",
+        "婿"
+    ]
+}

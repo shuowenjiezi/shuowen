@@ -1,0 +1,48 @@
+{
+    "id": 2645,
+    "wordhead": "膌",
+    "explanation": "瘦也。从肉𦟝聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "資昔切",
+    "variants": [
+        {
+            "wordhead": "㾊",
+            "explanation": "古文膌从疒<span>[<span>𤕫</span><span>𤕬</span>]</span>从朿，朿亦聲。",
+            "seal_character": "姘"
+        }
+    ],
+    "seal_character": "姗",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "朿",
+        "肉",
+        "脊",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𤸃也。",
+            "note": "𤕫部曰。𤸃、臞也。許欲令其義錯見也。膌亦作瘠。𤸃亦作膄。凡人少肉則脊吕歷歷然。故其字從脊。大雅。串夷載路。箋云。路、瘠也。天意去殷之惡。就周之德。文王則侵伐混夷以瘠之。此讀路爲露也。瘠者露骨。"
+        },
+        {
+            "explanation": "从肉。𦟝聲。",
+            "note": "資昔切。十六部。"
+        },
+        {
+            "explanation": "古文膌。从𤕫朿。",
+            "note": "朿、木芒也。木芒是老瘠之狀。故從朿。吕覽曰。凡耕之大方。棘者欲肥。肥者欲棘。高云。棘、羸瘠也。詩。棘人之欒欒。言羸瘠也。土亦有瘠土。按棘從竝朿。故高云爾。"
+        },
+        {
+            "explanation": "朿亦聲。",
+            "note": "朿聲與脊聲同十六部也。"
+        }
+    ],
+    "indexes": [
+        "膌",
+        "㾊"
+    ]
+}

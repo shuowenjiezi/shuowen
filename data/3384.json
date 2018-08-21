@@ -1,0 +1,46 @@
+{
+    "id": 3384,
+    "wordhead": "弟",
+    "explanation": "韋束之次弟也。从古字之象。凡弟之屬皆从弟。",
+    "volume": "05",
+    "radical": "弟",
+    "pronunciation": "特計切",
+    "variants": [
+        {
+            "wordhead": "𠂖",
+            "explanation": "古文弟从古文韋省，丿聲。",
+            "seal_character": "嵕"
+        }
+    ],
+    "seal_character": "嵔",
+    "pinyin": "di",
+    "pinyin_full": "dì",
+    "components": [
+        "韋",
+        "丿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "韋束之次弟也。",
+            "note": "以韋束物。如輈五束、衡三束之類。束之不一則有次弟也。引伸之爲凡次弟之弟、爲兄弟之弟、爲豈弟之弟。詩正義引說文有第字。"
+        },
+        {
+            "explanation": "从古文之象。",
+            "note": "文各本作字。今正。說文小篆有从古文之像似者凡三。曰弟、曰革、曰民。皆各像其古文爲之。特計切。十五部。"
+        },
+        {
+            "explanation": "古文弟。从古文韋省。",
+            "note": "古文韋見韋部。"
+        },
+        {
+            "explanation": "丿聲。",
+            "note": "丿、右戾也。房密匹蔑二切。"
+        }
+    ],
+    "indexes": [
+        "弟",
+        "𠂖"
+    ]
+}

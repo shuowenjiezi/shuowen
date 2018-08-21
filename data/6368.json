@@ -1,0 +1,35 @@
+{
+    "id": 6368,
+    "wordhead": "𪕶",
+    "explanation": "鼠屬。从鼠益聲。",
+    "volume": "10",
+    "radical": "鼠",
+    "pronunciation": "於革切",
+    "variants": [
+        {
+            "wordhead": "貖",
+            "explanation": "或从豸。",
+            "seal_character": "橅"
+        }
+    ],
+    "seal_character": "橄",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "益",
+        "鼠",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼠屬。从鼠。益聲。",
+            "note": "於革切。十六部。"
+        }
+    ],
+    "indexes": [
+        "𪕶",
+        "貖"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3300,
+    "wordhead": "知",
+    "explanation": "詞也。从口从矢。",
+    "volume": "05",
+    "radical": "矢",
+    "pronunciation": "陟离切",
+    "variants": [],
+    "seal_character": "峢",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "口",
+        "矢"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䛐也。",
+            "note": "白部曰。？、識䛐也。从白、从亏、从知。按此䛐也之上亦當有識字。知？義同。故？作知。"
+        },
+        {
+            "explanation": "从口矢。",
+            "note": "識敏、故出於口者疾如矢也。陟离切。十六部。"
+        }
+    ],
+    "indexes": [
+        "知"
+    ]
+}

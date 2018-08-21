@@ -1,0 +1,43 @@
+{
+    "id": 5223,
+    "wordhead": "監",
+    "explanation": "臨下也。从臥，䘓省聲。",
+    "volume": "08",
+    "radical": "臥",
+    "pronunciation": "古銜切",
+    "variants": [
+        {
+            "wordhead": "𧨭",
+            "explanation": "古文監<span>[<span>𧗄</span>]</span>从言。",
+            "seal_character": "敊"
+        }
+    ],
+    "seal_character": "敉",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "言",
+        "臥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臨下也。",
+            "note": "小雅毛傳。監、視也。許書。𥌈、視也。監、臨下也。古字少而義晐。今字多而義別。監與鑒互相假。"
+        },
+        {
+            "explanation": "从臥。䘓省聲。",
+            "note": "古銜切。八部。"
+        },
+        {
+            "explanation": "古文監。从言。",
+            "note": "會意。"
+        }
+    ],
+    "indexes": [
+        "监",
+        "監",
+        "𧨭"
+    ]
+}

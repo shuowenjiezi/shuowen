@@ -1,0 +1,41 @@
+{
+    "id": 3328,
+    "wordhead": "啚",
+    "explanation": "嗇也。从口、㐭。㐭，受也。",
+    "volume": "05",
+    "radical": "㐭",
+    "pronunciation": "方美切",
+    "variants": [
+        {
+            "wordhead": "𠴿",
+            "explanation": "古文啚如此。",
+            "seal_character": "崌"
+        }
+    ],
+    "seal_character": "崋",
+    "pinyin": "bi",
+    "pinyin_full": "bǐ",
+    "components": [
+        "口"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "嗇也。",
+            "note": "下文云。嗇、愛濇也。水部曰。濇、不滑也。凡鄙吝字當作此。鄙行而啚廢矣。論語鄙夫、周書鄙我周邦、皆當作此。"
+        },
+        {
+            "explanation": "从囗。",
+            "note": "音韋。囗猶聚也。"
+        },
+        {
+            "explanation": "从㐭。㐭、受也。",
+            "note": "㐭所以受榖。引伸之凡受皆曰㐭。聚而受之、愛濇之意也。方美切。十五部。"
+        }
+    ],
+    "indexes": [
+        "啚",
+        "𠴿"
+    ]
+}

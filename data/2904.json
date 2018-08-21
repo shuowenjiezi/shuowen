@@ -1,0 +1,35 @@
+{
+    "id": 2904,
+    "wordhead": "籓",
+    "explanation": "大箕也。从竹潘聲。一曰蔽也。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "甫煩切",
+    "variants": [],
+    "seal_character": "嬀",
+    "pinyin": "fan",
+    "pinyin_full": "fān",
+    "components": [
+        "潘",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大箕也。",
+            "note": "廣雅曰。籓籮箕也。"
+        },
+        {
+            "explanation": "从竹。潘聲。",
+            "note": "甫煩切。十四部。"
+        },
+        {
+            "explanation": "一曰蔽也。",
+            "note": "艸部曰。藩、屛也。尸部曰。屛、蔽也。是則籓與藩音義皆同。"
+        }
+    ],
+    "indexes": [
+        "籓"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 1748,
+    "wordhead": "𠬞",
+    "explanation": "竦手也。从𠂇从又。凡廾之屬皆从廾。(今變隸作廾。)",
+    "volume": "03",
+    "radical": "𠬞",
+    "pronunciation": "居竦切",
+    "variants": [
+        {
+            "wordhead": "𢪒",
+            "explanation": "楊雄說：廾<span>[<span>𠬞</span>]</span>从兩手。",
+            "seal_character": "喦"
+        }
+    ],
+    "seal_character": "喥",
+    "pinyin": "gong",
+    "pinyin_full": "ɡǒnɡ",
+    "components": [
+        "又",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竦手也。",
+            "note": "竦、敬也。"
+        },
+        {
+            "explanation": "从𠂇又。",
+            "note": "按此字謂竦其㒳手以有所奉也。故下云奉、承也。手部曰。承、奉也。受也。五經文字其恭反。九經字㨾音邛。廣韵引說文居竦切。以菐從？聲求之。古音在三部。"
+        },
+        {
+            "explanation": "楊雄說𠬞从㒳手。",
+            "note": "葢訓纂篇如此作。古文？從二手。此以古文？爲𠬞也。"
+        }
+    ],
+    "indexes": [
+        "𠬞",
+        "𢪒"
+    ]
+}

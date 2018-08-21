@@ -1,0 +1,43 @@
+{
+    "id": 3377,
+    "wordhead": "𩏇",
+    "explanation": "履後帖也。从韋段聲。",
+    "volume": "05",
+    "radical": "韋",
+    "pronunciation": "徒玩切",
+    "variants": [
+        {
+            "wordhead": "緞",
+            "explanation": "𩏇或从糸。",
+            "seal_character": "嵋"
+        }
+    ],
+    "seal_character": "嵊",
+    "pinyin": "duan",
+    "pinyin_full": "duàn",
+    "components": [
+        "韋",
+        "糸",
+        "段"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "履後帖也。",
+            "note": "帖、帛書署也。引伸爲今俗語帮貼之字。凡履跟必帮貼之。令堅厚。不則易敝。臣瓚曰。躡跟曰跕。按履緊曰跕屣也。跕與帖音同。急就篇。履舄鞜裒䋐緞紃。師古引說文爲注。"
+        },
+        {
+            "explanation": "从韋。段聲。",
+            "note": "此形聲包會意也。段取堅意。古本葢衹有𩏇緞二篆。自从段譌爲从叚。而篇、韵皆有䪗縀。音乎加切。此𩏇篆之上亦妄增䪗篆。云履也。从韋叚聲。正如石部碫譌爲碬。各本說文乃作碬耳。今刪䪗篆。徒玩切。篇、韵皆上聲。徒管切。十四部。"
+        },
+        {
+            "explanation": "𩏇或从糸。",
+            "note": "今俗以爲錦繡段之段。"
+        }
+    ],
+    "indexes": [
+        "𩏇",
+        "緞"
+    ]
+}

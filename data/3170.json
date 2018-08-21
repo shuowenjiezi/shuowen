@@ -1,0 +1,54 @@
+{
+    "id": 3170,
+    "wordhead": "丹",
+    "explanation": "巴越之赤石也。象采丹井，一象丹形。凡丹之屬皆从丹。",
+    "volume": "05",
+    "radical": "丹",
+    "pronunciation": "都寒切",
+    "variants": [
+        {
+            "wordhead": "𠁿",
+            "explanation": "古文丹<span>[<span>𠂁</span>]</span>。",
+            "seal_character": "局"
+        },
+        {
+            "wordhead": "㣋",
+            "explanation": "亦古文丹<span>[<span>𠂁</span>]</span>。",
+            "seal_character": "屁"
+        }
+    ],
+    "seal_character": "尿",
+    "pinyin": "dan",
+    "pinyin_full": "dān",
+    "components": [
+        "彡",
+        "井",
+        "丶",
+        "丹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "巴越之赤石也。",
+            "note": "巴郡、南越皆出丹沙。蜀都賦。丹沙赩熾出其坂。謂巴也。吳都賦。赬丹明璣。謂越也。丹者、石之精。故凡藥物之精者曰丹。"
+        },
+        {
+            "explanation": "象采丹井。",
+            "note": "謂<>也。采丹之井、史記所謂丹穴也。蜀、吳二都賦注皆云。出山中、有穴。"
+        },
+        {
+            "explanation": "丶象丹形。",
+            "note": "都寒切。十四部。"
+        },
+        {
+            "explanation": "亦古文丹。",
+            "note": "按此似是古文彤。"
+        }
+    ],
+    "indexes": [
+        "丹",
+        "𠁿",
+        "㣋"
+    ]
+}

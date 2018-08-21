@@ -1,0 +1,55 @@
+{
+    "id": 2514,
+    "wordhead": "𠭖",
+    "explanation": "進取也。从𠬪古聲。",
+    "volume": "04",
+    "radical": "𠬪",
+    "pronunciation": "古覽切",
+    "variants": [
+        {
+            "wordhead": "𣪏",
+            "explanation": "籒文𠭖。",
+            "seal_character": "奁"
+        },
+        {
+            "wordhead": "𢽿",
+            "explanation": "古文𠭖。",
+            "seal_character": "奂"
+        }
+    ],
+    "seal_character": "奀",
+    "pinyin": "gan",
+    "pinyin_full": "ɡǎn",
+    "components": [
+        "古",
+        "殳",
+        "爪",
+        "攴",
+        "冃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "進取也。从𠬪。",
+            "note": "猶从手也。"
+        },
+        {
+            "explanation": "古聲。",
+            "note": "古聲在五部。敢在八部。此於雙聲合韵求之。古覽切。"
+        },
+        {
+            "explanation": "籒文𠭖。",
+            "note": "彐葢亦爪也。冃音冒。用爪用殳冒而前也。今字作敢。𣪏之𥻳變。"
+        },
+        {
+            "explanation": "古文𠭖。",
+            "note": "文九重三"
+        }
+    ],
+    "indexes": [
+        "𠭖",
+        "𣪏",
+        "𢽿"
+    ]
+}

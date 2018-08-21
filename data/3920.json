@@ -1,0 +1,32 @@
+{
+    "id": 3920,
+    "wordhead": "賄",
+    "explanation": "財也。从貝有聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "呼罪切",
+    "variants": [],
+    "seal_character": "徟",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "有",
+        "貝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "財也。",
+            "note": "周禮注曰。金玉曰貨。布帛曰賄。析言之也。許渾言之。貨賄皆釋曰財。"
+        },
+        {
+            "explanation": "从貝。有聲。",
+            "note": "呼罪切。按古音在一部。古假悔字爲之。聘禮注曰。古文賄皆作悔。"
+        }
+    ],
+    "indexes": [
+        "贿",
+        "賄"
+    ]
+}

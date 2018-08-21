@@ -1,0 +1,43 @@
+{
+    "id": 8673,
+    "wordhead": "縻",
+    "explanation": "牛轡也。从糸麻聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "靡爲切",
+    "variants": [
+        {
+            "wordhead": "𥿫",
+            "explanation": "縻或从多<span>[<span>𡖈</span>]</span>。",
+            "seal_character": "琥"
+        }
+    ],
+    "seal_character": "琤",
+    "pinyin": "mi",
+    "pinyin_full": "mí",
+    "components": [
+        "麻",
+        "多",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛𦆕也。",
+            "note": "𦆕本馬𦆕也。大車駕牛者則曰牛𦆕。是爲縻。潘岳賦曰。洪縻在手。凡言羈縻勿絕、謂如馬牛然也。"
+        },
+        {
+            "explanation": "从糸。麻聲。",
+            "note": "靡爲切。古音在十七部。"
+        },
+        {
+            "explanation": "縻或从多。",
+            "note": "多聲、麻聲同十七部。"
+        }
+    ],
+    "indexes": [
+        "縻",
+        "𥿫"
+    ]
+}

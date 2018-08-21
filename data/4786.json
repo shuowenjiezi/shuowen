@@ -1,0 +1,42 @@
+{
+    "id": 4786,
+    "wordhead": "冒",
+    "explanation": "冡而前也。从冃从目。",
+    "volume": "07",
+    "radical": "冃",
+    "pronunciation": "莫報切",
+    "variants": [
+        {
+            "wordhead": "𠕬",
+            "explanation": "古文冒。",
+            "seal_character": "捥"
+        }
+    ],
+    "seal_character": "捤",
+    "pinyin": "mao",
+    "pinyin_full": "mào",
+    "components": [
+        "目",
+        "冃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "冡而前也。",
+            "note": "冡者、覆也。引伸之有所干犯而不顧亦曰冒。如假冒、如冒白刃、如貪冒是也。邶風。下土是冒。傳曰。冒、覆也。此假冒爲冃也。"
+        },
+        {
+            "explanation": "从冃目。",
+            "note": "會意。冃目者、若無所見也。冃亦聲。目報切。古音在三部。"
+        },
+        {
+            "explanation": "古文冒。",
+            "note": "汗𥳑同。"
+        }
+    ],
+    "indexes": [
+        "冒",
+        "𠕬"
+    ]
+}

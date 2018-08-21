@@ -1,0 +1,45 @@
+{
+    "id": 1525,
+    "wordhead": "誥",
+    "explanation": "告也。从言告聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "古到切",
+    "variants": [
+        {
+            "wordhead": "𧧙",
+            "explanation": "古文誥。",
+            "seal_character": "咫"
+        }
+    ],
+    "seal_character": "咪",
+    "pinyin": "gao",
+    "pinyin_full": "ɡào",
+    "components": [
+        "又",
+        "肉",
+        "告",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "告也。",
+            "note": "見釋詁。按以言告人。古用此字。今則用告字。以此誥爲上告下之字。又秦造詔字。惟天子獨稱之。文選注卅五引獨𣃔曰。詔猶告也。三代無其文。秦漢有也。據此可證秦巳前無詔字。至倉頡篇乃有幼子承詔之語。故許書不錄詔字。鉉補之。非也。"
+        },
+        {
+            "explanation": "从言。告聲。",
+            "note": "古到切。古音在三部。"
+        },
+        {
+            "explanation": "古文誥。",
+            "note": "按此从言肘聲。是古音在三部之證。"
+        }
+    ],
+    "indexes": [
+        "诰",
+        "誥",
+        "𧧙"
+    ]
+}

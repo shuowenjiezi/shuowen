@@ -1,0 +1,35 @@
+{
+    "id": 6092,
+    "wordhead": "貈",
+    "explanation": "似狐，善睡獸。从豸舟聲。《論語》曰：“狐貈之厚以居。”",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "下各切",
+    "variants": [],
+    "seal_character": "椔",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "舟",
+        "豸"
+    ],
+    "xuan_note": "臣鉉等曰：舟非聲，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "似狐。善睡獸也。",
+            "note": "凡狐貉連文者、皆當作此貈字。今字乃皆假貉爲貈。造貊爲貉矣。"
+        },
+        {
+            "explanation": "从豸。舟聲。",
+            "note": "下各切。按此切乃貉之古音。非此字本音也。其字舟聲。則古音在三部。邠詩貈貍裘爲韵。一部三部合音也。"
+        },
+        {
+            "explanation": "論語曰。狐貈之厚㠯居。",
+            "note": "鄉黨篇文。居當作凥。"
+        }
+    ],
+    "indexes": [
+        "貈"
+    ]
+}

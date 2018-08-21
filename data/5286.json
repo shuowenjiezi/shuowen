@@ -1,0 +1,45 @@
+{
+    "id": 5286,
+    "wordhead": "裔",
+    "explanation": "衣裾也。从衣㕯聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "余制切",
+    "variants": [
+        {
+            "wordhead": "𧘊",
+            "explanation": "古文裔。",
+            "seal_character": "斐"
+        }
+    ],
+    "seal_character": "斏",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "衣"
+    ],
+    "xuan_note": "臣鉉等曰：㕯非聲，疑象衣裾之形。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣裙也。",
+            "note": "裙各本及篇、韵皆作裾。今正。玄應書卷十四曰。說文云。裔、衣裙也。以子孫爲苗裔者。取下垂義也。按帔曰裠。裳曰下裠。此衣裠謂下裠。故方言、離騷注皆曰。裔、末也。方言又曰。裔、祖也。亦謂其遠也。方言又曰。裔夷狄之總名。郭云。邊地爲裔。按左傳。衞侯⺊繇曰。裔焉大國。言邊於大國也。裔之義如此。言衣裙得以通之。若言衣裾則何以解焉。小徐云。裾、衣邊。葢小徐作注時本作裙。"
+        },
+        {
+            "explanation": "从衣。",
+            "note": "此字衣在上。正謂其末下垂。"
+        },
+        {
+            "explanation": "㕯聲。",
+            "note": "余制切。十五部。"
+        },
+        {
+            "explanation": "古文裔。",
+            "note": "几聲。"
+        }
+    ],
+    "indexes": [
+        "裔",
+        "𧘊"
+    ]
+}

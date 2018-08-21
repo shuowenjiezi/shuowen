@@ -1,0 +1,31 @@
+{
+    "id": 6412,
+    "wordhead": "炭",
+    "explanation": "燒木餘也。从火，岸省聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "他案切",
+    "variants": [],
+    "seal_character": "橳",
+    "pinyin": "tan",
+    "pinyin_full": "tàn",
+    "components": [
+        "火",
+        "岸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "燒木未灰",
+            "note": "未灰大徐作餘。"
+        },
+        {
+            "explanation": "也。从火。屵聲。",
+            "note": "各本作岸省聲。今依小徐本。屵从厂聲。厂呼旱切也。他旱切。十四部。"
+        }
+    ],
+    "indexes": [
+        "炭"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 111,
+    "wordhead": "琥",
+    "explanation": "發兵瑞玉，爲虎文。从玉从虎，虎亦聲。《春秋傳》曰：“賜子家雙琥。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "呼古切",
+    "variants": [],
+    "seal_character": "事",
+    "pinyin": "hu",
+    "pinyin_full": "hǔ",
+    "components": [
+        "玉",
+        "虎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "發兵瑞玉。",
+            "note": "周禮。牙璋以起軍旅。以治兵守。不以琥也。漢與郡國守相爲銅虎符。銅虎符從第一至第五。國家當發兵。遣使者至郡國合符。符合乃聽受之。葢以代牙璋也。許所云未聞。"
+        },
+        {
+            "explanation": "爲虎文。",
+            "note": "瑑虎爲文也。鄭注周禮。琥猛象秋嚴。"
+        },
+        {
+            "explanation": "从王。虎聲。",
+            "note": "呼古切。五部。"
+        },
+        {
+            "explanation": "春秋傳曰。賜子家子雙琥是。",
+            "note": "昭公卅二年左傳文。"
+        }
+    ],
+    "indexes": [
+        "琥"
+    ]
+}

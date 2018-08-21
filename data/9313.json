@@ -1,0 +1,35 @@
+{
+    "id": 9313,
+    "wordhead": "鉆",
+    "explanation": "𨮯銸也。从金占聲。一曰膏車𨮯鉆。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "敕淹切",
+    "variants": [],
+    "seal_character": "眏",
+    "pinyin": "chan",
+    "pinyin_full": "chān",
+    "components": [
+        "金",
+        "占"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鐵銸也。",
+            "note": "周禮典同注。飛鉆涅闇。疏引鬼谷子飛鉗。"
+        },
+        {
+            "explanation": "从金。占聲。",
+            "note": "敕淹切。古音在七部。讀如砧。劉氏渠金反。"
+        },
+        {
+            "explanation": "一曰膏車鐵鉆。",
+            "note": "謂脂其車轂者。以器納𨍋濡膏而染轂中也。其器曰鉆。鐵爲之。"
+        }
+    ],
+    "indexes": [
+        "鉆"
+    ]
+}

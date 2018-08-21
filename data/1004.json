@@ -1,0 +1,31 @@
+{
+    "id": 1004,
+    "wordhead": "趖",
+    "explanation": "走意。从走坐聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "蘇和切",
+    "variants": [],
+    "seal_character": "剙",
+    "pinyin": "suo",
+    "pinyin_full": "suō",
+    "components": [
+        "坐",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "走意。",
+            "note": "花閒詞曰。荳蔲花閒趖晚日。今京師人謂日跌爲晌午趖。"
+        },
+        {
+            "explanation": "从走。坐聲。",
+            "note": "穌和切。十七部。"
+        }
+    ],
+    "indexes": [
+        "趖"
+    ]
+}

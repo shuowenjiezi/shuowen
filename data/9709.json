@@ -1,0 +1,43 @@
+{
+    "id": 9709,
+    "wordhead": "辜",
+    "explanation": "辠也。从辛古聲。",
+    "volume": "14",
+    "radical": "辛",
+    "pronunciation": "古乎切",
+    "variants": [
+        {
+            "wordhead": "𡲞",
+            "explanation": "古文辜从死<span>[<span>𠒁</span>]</span>。",
+            "seal_character": "磄"
+        }
+    ],
+    "seal_character": "磃",
+    "pinyin": "gu",
+    "pinyin_full": "ɡū",
+    "components": [
+        "古",
+        "死",
+        "辛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "辠也。",
+            "note": "周禮。殺王之親者辜之。鄭注。辜之言枯也。謂磔之。按辜本非常重罪。引申之、凡有罪皆曰辜。"
+        },
+        {
+            "explanation": "从辛。古聲。",
+            "note": "古乎切。五部。"
+        },
+        {
+            "explanation": "古文辜。从死。",
+            "note": "从古文死也。"
+        }
+    ],
+    "indexes": [
+        "辜",
+        "𡲞"
+    ]
+}

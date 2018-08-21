@@ -1,0 +1,38 @@
+{
+    "id": 8413,
+    "wordhead": "甑",
+    "explanation": "甗也。从瓦曾聲。",
+    "volume": "12",
+    "radical": "瓦",
+    "pronunciation": "子孕切",
+    "variants": [
+        {
+            "wordhead": "𩱭",
+            "explanation": "籒文甑从䰜。",
+            "seal_character": "猄"
+        }
+    ],
+    "seal_character": "猃",
+    "pinyin": "zeng",
+    "pinyin_full": "zènɡ",
+    "components": [
+        "曾",
+        "瓦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "甗也。",
+            "note": "考工記。陶人爲甑。實二鬴。厚半寸。脣寸。七穿。按甑所以炊烝米爲飯者。其底七穿。故必以箅蔽甑底。而加米於上。而？之、而？之。"
+        },
+        {
+            "explanation": "从瓦。曾聲。",
+            "note": "子孕切。六部。"
+        }
+    ],
+    "indexes": [
+        "甑",
+        "𩱭"
+    ]
+}

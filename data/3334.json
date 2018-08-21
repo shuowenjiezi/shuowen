@@ -1,0 +1,43 @@
+{
+    "id": 3334,
+    "wordhead": "麰",
+    "explanation": "來麰，麥也。从麥牟聲。",
+    "volume": "05",
+    "radical": "麥",
+    "pronunciation": "莫浮切",
+    "variants": [
+        {
+            "wordhead": "𦭷",
+            "explanation": "麰或从艸。",
+            "seal_character": "崗"
+        }
+    ],
+    "seal_character": "崖",
+    "pinyin": "mou",
+    "pinyin_full": "móu",
+    "components": [
+        "艸",
+        "牟",
+        "麥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "來麰、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "麥也。",
+            "note": "見毛傳。"
+        },
+        {
+            "explanation": "从麥。牟聲。",
+            "note": "莫浮切。三部。"
+        }
+    ],
+    "indexes": [
+        "麰",
+        "𦭷"
+    ]
+}

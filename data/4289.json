@@ -1,0 +1,46 @@
+{
+    "id": 4289,
+    "wordhead": "曟",
+    "explanation": "房星；爲民田時者。从晶辰聲。",
+    "volume": "07",
+    "radical": "晶",
+    "pronunciation": "植鄰切",
+    "variants": [
+        {
+            "wordhead": "晨",
+            "explanation": "曟或省。",
+            "seal_character": "愩"
+        }
+    ],
+    "seal_character": "愨",
+    "pinyin": "chen",
+    "pinyin_full": "chén",
+    "components": [
+        "辰",
+        "晶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "房星。",
+            "note": "爾雅曰。天駟、房也。大辰、房心尾也。於天官爲東官蒼龍。"
+        },
+        {
+            "explanation": "爲民田時者。",
+            "note": "周語曰。農祥䢅正。韋云。農祥、房星也。䢅正、謂立春之日䢅中於午也。農事之𠋫。故曰農祥。爾雅注曰。龍星明者以爲時𠋫。故曰大辰。"
+        },
+        {
+            "explanation": "从晶。辰聲。",
+            "note": "以䢅解例之。當云从晶、从辰、辰時也、辰亦聲。上文爲民田時者、正爲从辰發也。曟星字亦徑作辰。周語。辰馬農祥。植鄰切。十三部。"
+        },
+        {
+            "explanation": "曟或省。",
+            "note": "今之䢅字作此。"
+        }
+    ],
+    "indexes": [
+        "曟",
+        "晨"
+    ]
+}

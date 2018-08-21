@@ -1,0 +1,41 @@
+{
+    "id": 8777,
+    "wordhead": "𧍣",
+    "explanation": "毒蟲也。象形。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "丑芥切",
+    "variants": [
+        {
+            "wordhead": "𧔐",
+            "explanation": "蠆或从䖵。",
+            "seal_character": "璝"
+        }
+    ],
+    "seal_character": "璜",
+    "pinyin": "chai",
+    "pinyin_full": "chài",
+    "components": [
+        "蠆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "毒蟲也。",
+            "note": "左傳曰。蠭蠆有毒。詩曰。卷髮如蠆。通俗文曰。蠆長尾謂之蠍。蠍毒傷人曰䖧。䖧張列反。或作蜇。旦聲。非且聲也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "按不曰从虫象形而但曰象形者、虫篆有尾。象其尾也。蠍之毒在尾。詩箋云。蠆、螫蟲也。尾末揵然。似婦人髮末上曲卷然。其字上本不从萬。以苗象其身首之形。俗作萬。非。且與牡蠇字混。丑芥切。按字林他割反。玄應書他達切。皆舊音也。十五部。"
+        },
+        {
+            "explanation": "𧍣或从䖵。",
+            "note": "蠍尾有單鉤者。有雙鉤者。故或从䖵。"
+        }
+    ],
+    "indexes": [
+        "𧍣",
+        "𧔐"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3880,
+    "wordhead": "㯡",
+    "explanation": "桼垸巳，復桼之。从桼包聲。",
+    "volume": "06",
+    "radical": "桼",
+    "pronunciation": "匹皃切",
+    "variants": [],
+    "seal_character": "彲",
+    "pinyin": "pao",
+    "pinyin_full": "pào",
+    "components": [
+        "包",
+        "桼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "桼垸巳。",
+            "note": "句。"
+        },
+        {
+            "explanation": "復桼之。",
+            "note": "垸者、以桼龢灰垸而䰍也。旣垸之。復桼之以光其外也。"
+        },
+        {
+            "explanation": "从桼。包聲。",
+            "note": "舉形聲包會意也。匹皃切。古音在三部。篇、韵步交切。"
+        }
+    ],
+    "indexes": [
+        "㯡"
+    ]
+}

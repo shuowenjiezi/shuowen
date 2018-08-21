@@ -1,0 +1,49 @@
+{
+    "id": 591,
+    "wordhead": "菹",
+    "explanation": "酢菜也。从艸沮聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "側魚切",
+    "variants": [
+        {
+            "wordhead": "𦼬",
+            "explanation": "或从皿。",
+            "seal_character": "傑"
+        },
+        {
+            "wordhead": "𧂚",
+            "explanation": "或从缶。",
+            "seal_character": "傒"
+        }
+    ],
+    "seal_character": "傐",
+    "pinyin": "zu",
+    "pinyin_full": "zū",
+    "components": [
+        "艸",
+        "沮",
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酢菜也。",
+            "note": "酢今之醋字。菹須醯成味。周禮七菹。韭菁𦯄葵芹䈚筍也。鄭曰。凡醯酱所和。細切爲韲。全物若䐑爲菹。少儀麋鹿爲菹。則菹之稱菜肉通。玉裁謂。韲菹皆本菜稱。用爲肉稱也。"
+        },
+        {
+            "explanation": "从艸。沮聲。",
+            "note": "側魚切。五部。"
+        },
+        {
+            "explanation": "或从缶。",
+            "note": "案二篆今本從皿。李燾本注或從血。五篇血部有𧗎𧂚二字。玉篇血部𧗎字下引周禮醯人七𧗎。菹或從血者。鄭君菜肉通稱之說是也。從缶者、謂鬱諸器中乃成也。菹醢通稱。故血部云𧗎、醢也。此艸部𧗎𧂚二字葢後人增之。"
+        }
+    ],
+    "indexes": [
+        "菹",
+        "𦼬",
+        "𧂚"
+    ]
+}

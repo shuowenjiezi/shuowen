@@ -1,0 +1,36 @@
+{
+    "id": 1197,
+    "wordhead": "遠",
+    "explanation": "遼也。从辵袁聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "雲阮切",
+    "variants": [
+        {
+            "wordhead": "𨖸",
+            "explanation": "古文遠。",
+            "seal_character": "匼"
+        }
+    ],
+    "seal_character": "医",
+    "pinyin": "yuan",
+    "pinyin_full": "yuǎn",
+    "components": [
+        "步",
+        "辵",
+        "袁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遼也。从辵。袁聲。",
+            "note": "雲阮切。十四部。"
+        }
+    ],
+    "indexes": [
+        "远",
+        "遠",
+        "𨖸"
+    ]
+}

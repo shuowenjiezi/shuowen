@@ -1,0 +1,39 @@
+{
+    "id": 3528,
+    "wordhead": "松",
+    "explanation": "木也。从木公聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "祥容切",
+    "variants": [
+        {
+            "wordhead": "㮤",
+            "explanation": "松或从容。",
+            "seal_character": "巰"
+        }
+    ],
+    "seal_character": "巯",
+    "pinyin": "song",
+    "pinyin_full": "sōnɡ",
+    "components": [
+        "木",
+        "容",
+        "公"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "松木也。從木。公聲。",
+            "note": "祥容切。九部。集韵思恭切。關內語也。按俗皆從關內語惟徽州讀祥容切。"
+        },
+        {
+            "explanation": "松或從容。",
+            "note": "容聲也。此如頌𩔜同字。"
+        }
+    ],
+    "indexes": [
+        "松",
+        "㮤"
+    ]
+}

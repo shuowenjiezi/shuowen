@@ -1,0 +1,35 @@
+{
+    "id": 4309,
+    "wordhead": "夜",
+    "explanation": "舍也。天下休舍也。从夕，亦省聲。",
+    "volume": "07",
+    "radical": "夕",
+    "pronunciation": "羊謝切",
+    "variants": [],
+    "seal_character": "慂",
+    "pinyin": "ye",
+    "pinyin_full": "yè",
+    "components": [
+        "夕",
+        "亦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "舍也。",
+            "note": "以曡韵爲訓。"
+        },
+        {
+            "explanation": "天下休舍。",
+            "note": "休舍猶休息也。舍、止也。夜與夕渾言不別。析言則殊。小雅。莫肎夙夜。莫肎朝夕。朝夕猶夙夜也。春秋經夏四月辛卯夜。卽辛卯夕也。"
+        },
+        {
+            "explanation": "从夕。亦省聲。",
+            "note": "羊謝切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "夜"
+    ]
+}

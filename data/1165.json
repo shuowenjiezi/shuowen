@@ -1,0 +1,35 @@
+{
+    "id": 1165,
+    "wordhead": "迭",
+    "explanation": "更迭也。从辵失聲。一曰达。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "匕",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "失",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "更迭也。",
+            "note": "或假佚字、迭字臷字爲之。"
+        },
+        {
+            "explanation": "从辵。失聲。",
+            "note": "徒結切。十二部。"
+        },
+        {
+            "explanation": "一曰达",
+            "note": "下脫字字。一曰此达字之異體也。葢达迭二字互相爲用。"
+        }
+    ],
+    "indexes": [
+        "迭"
+    ]
+}

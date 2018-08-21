@@ -1,0 +1,47 @@
+{
+    "id": 1204,
+    "wordhead": "道",
+    "explanation": "所行道也。从辵从𩠐。一達謂之道。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒皓切",
+    "variants": [
+        {
+            "wordhead": "𡬹",
+            "explanation": "古文道从𩠐、寸。",
+            "seal_character": "卅"
+        }
+    ],
+    "seal_character": "卄",
+    "pinyin": "dao",
+    "pinyin_full": "dào",
+    "components": [
+        "辵",
+        "首",
+        "寸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所行道也。",
+            "note": "毛傳每云行道也。道者人所行。故亦謂之行。道之引伸爲道理。亦爲引道。"
+        },
+        {
+            "explanation": "从辵首。",
+            "note": "首者、行所達也。首亦聲徒晧切。古音在三部。"
+        },
+        {
+            "explanation": "一達謂之道。",
+            "note": "釋宮文。行部偁四達謂之衢。九部偁九達謂之馗。按許三偁當是一例。當作一達謂之道。从辵首。道人所行也。故从辵、此猶上文邍人所登故从辵也。自邍以下字皆不系於人。故發其例如此。許書多經淺人改竄。遂不可讀矣。"
+        },
+        {
+            "explanation": "古文道。从首寸。",
+            "note": "从寸者如九軌七軌五軌。"
+        }
+    ],
+    "indexes": [
+        "道",
+        "𡬹"
+    ]
+}

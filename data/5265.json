@@ -1,0 +1,31 @@
+{
+    "id": 5265,
+    "wordhead": "袌",
+    "explanation": "褱也。从衣包聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "薄保切",
+    "variants": [],
+    "seal_character": "敹",
+    "pinyin": "bao",
+    "pinyin_full": "bào",
+    "components": [
+        "包",
+        "衣"
+    ],
+    "xuan_note": "臣鉉等曰：今俗作抱，非是。抱與捊同。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "褱也。",
+            "note": "論語。子生三年。然後免於父母之懷。馬融釋以懷抱。卽褱袌也。今字抱行而袌廢矣。抱者、引埾也。"
+        },
+        {
+            "explanation": "从衣。包聲。",
+            "note": "此舉形聲包會意。薄保切。古音在三部。"
+        }
+    ],
+    "indexes": [
+        "袌"
+    ]
+}

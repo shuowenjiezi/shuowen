@@ -1,0 +1,43 @@
+{
+    "id": 5252,
+    "wordhead": "袤",
+    "explanation": "衣帶以上。从衣矛聲。一曰南北曰袤，東西曰廣。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "莫候切",
+    "variants": [
+        {
+            "wordhead": "𧝺",
+            "explanation": "籒文袤从楙。",
+            "seal_character": "敫"
+        }
+    ],
+    "seal_character": "敪",
+    "pinyin": "mao",
+    "pinyin_full": "mào",
+    "components": [
+        "矛",
+        "楙",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣帶㠯上。",
+            "note": "此古義也。少得其證。今則後義行而古義廢矣。帶者、上衣下常之介也。"
+        },
+        {
+            "explanation": "从衣。矛聲。",
+            "note": "莫𠋫切。四部。"
+        },
+        {
+            "explanation": "一曰南北曰袤。東西曰廣。",
+            "note": "周髀筭經曰。天地之廣袤。史記曰。蒙恬築長城。廣袤萬餘里。廣雅。袤、長也。"
+        }
+    ],
+    "indexes": [
+        "袤",
+        "𧝺"
+    ]
+}

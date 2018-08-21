@@ -1,0 +1,50 @@
+{
+    "id": 9608,
+    "wordhead": "𨽍",
+    "explanation": "通溝也。从𨸏賣聲。讀若瀆。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "徒谷切",
+    "variants": [
+        {
+            "wordhead": "豄",
+            "explanation": "古文𨽍从谷。",
+            "seal_character": "祬"
+        }
+    ],
+    "seal_character": "硍",
+    "pinyin": "du",
+    "pinyin_full": "dú",
+    "components": [
+        "賣",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "通溝。",
+            "note": "句。西都賦曰。通溝大漕。潰渭洞河。"
+        },
+        {
+            "explanation": "㠯防水者也。",
+            "note": "小徐及廣韵本如此。𨽍與瀆不同。瀆从水。主謂水。故解曰溝也。𨽍从𨸏。主謂地。故曰通溝以防水。防水猶禦水也。通洞之溝、水去迅速。無滯不爲災。通之言洞也。洞者、疾流也。故其字讀若洞。四瀆字當作此。亦作四竇。"
+        },
+        {
+            "explanation": "从𨸏。𧶠聲。",
+            "note": "徒谷切。三部。"
+        },
+        {
+            "explanation": "讀若洞。",
+            "note": "大徐洞作瀆。非也。此許所聞舊音。急就篇。乘風縣鐘華洞樂。皇象碑本洞作𨽍。衣部襱或从賣聲作襩。"
+        },
+        {
+            "explanation": "古文𨽍。从谷。",
+            "note": "釋山曰。山豄無所通、谿。"
+        }
+    ],
+    "indexes": [
+        "𨽍",
+        "豄"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 2542,
+    "wordhead": "殄",
+    "explanation": "盡也。从歺㐱聲。",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "徒典切",
+    "variants": [
+        {
+            "wordhead": "𠂈",
+            "explanation": "古文殄如此。",
+            "seal_character": "奧"
+        }
+    ],
+    "seal_character": "奦",
+    "pinyin": "tian",
+    "pinyin_full": "tiǎn",
+    "components": [
+        "歺",
+        "殄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盡也。",
+            "note": "釋詁、大雅瞻卬傳同。邶風。籧篨不殄。傳曰。殄絕也。此盡義之引伸也。箋云。殄當作腆。腆、善也。按古文假殄爲腆。儀禮注云腆古文作殄。是也。"
+        },
+        {
+            "explanation": "从𣦵。㐱聲。",
+            "note": "徒典切。十二部。"
+        }
+    ],
+    "indexes": [
+        "殄",
+        "𠂈"
+    ]
+}

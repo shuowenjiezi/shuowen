@@ -1,0 +1,38 @@
+{
+    "id": 9000,
+    "wordhead": "垣",
+    "explanation": "牆也。从土亘聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "雨元切",
+    "variants": [
+        {
+            "wordhead": "𩫧",
+            "explanation": "籒文垣从𩫖<span>[<span>𩫏</span>]</span>。",
+            "seal_character": "疨"
+        }
+    ],
+    "seal_character": "疧",
+    "pinyin": "yuan",
+    "pinyin_full": "yuán",
+    "components": [
+        "土",
+        "亘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牆也。",
+            "note": "此云垣者。牆也。渾言之。牆下日垣蔽也。析言之。垣蔽者、牆又爲垣之蔽也。垣自其大言之。牆自其高言之。"
+        },
+        {
+            "explanation": "从土。𠄢聲。",
+            "note": "雨元切。十四部。"
+        }
+    ],
+    "indexes": [
+        "垣",
+        "𩫧"
+    ]
+}

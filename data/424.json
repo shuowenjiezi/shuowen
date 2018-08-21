@@ -1,0 +1,35 @@
+{
+    "id": 424,
+    "wordhead": "薠",
+    "explanation": "青薠，似莎者。从艸煩聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "附袁切",
+    "variants": [],
+    "seal_character": "俤",
+    "pinyin": "fan",
+    "pinyin_full": "fán",
+    "components": [
+        "艸",
+        "煩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "靑薠。",
+            "note": "句。"
+        },
+        {
+            "explanation": "佀莎而大者。",
+            "note": "而大二字依韵會所引補。子虛賦。薛莎靑薠。張揖曰。靑薠似莎而大。生江湖。鴈所食。按高注淮南曰。薠狀如葴。與張說不同。楚辭有白薠。殆與靑薠一種。色少異耳。"
+        },
+        {
+            "explanation": "从艸。煩聲。",
+            "note": "附袁切。十四部。"
+        }
+    ],
+    "indexes": [
+        "薠"
+    ]
+}

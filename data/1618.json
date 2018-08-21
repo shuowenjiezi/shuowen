@@ -1,0 +1,44 @@
+{
+    "id": 1618,
+    "wordhead": "誒",
+    "explanation": "可惡之辭。从言矣聲。一曰誒然。《春秋傳》曰：“誒誒出出。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "許其切",
+    "variants": [],
+    "seal_character": "唐",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "言",
+        "矣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "可惡之䛐。",
+            "note": "䛐各本作辭。誤。今正䛐者、意內而言外也。韋孟詩。勤唉厥生、漢書唉作誒。師古曰。誒歎聲。項羽本紀索隱曰。唉、歎恨發聲之䛐。皆與許此義合。"
+        },
+        {
+            "explanation": "从言。矣聲。",
+            "note": "許其切。一部。"
+        },
+        {
+            "explanation": "一曰誒",
+            "note": "逗。"
+        },
+        {
+            "explanation": "然。",
+            "note": "下當有也。方言。欸𧫦然也。南楚凡言然者曰欸。或曰𧫦。口部曰。唉、？也。廣雅。欸𧫦然？也。是則誒與欸唉音義皆同。通用也。"
+        },
+        {
+            "explanation": "春秋傳曰。誒誒岀岀。",
+            "note": "襄三十年文。此證前一義也。今傳作譆譆。"
+        }
+    ],
+    "indexes": [
+        "诶",
+        "誒"
+    ]
+}

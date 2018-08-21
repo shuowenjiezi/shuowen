@@ -1,0 +1,39 @@
+{
+    "id": 9064,
+    "wordhead": "垝",
+    "explanation": "毀垣也。从土危聲。《詩》曰：“乘彼垝垣。”",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "過委切",
+    "variants": [
+        {
+            "wordhead": "陒",
+            "explanation": "垝或从𨸏。",
+            "seal_character": "痵"
+        }
+    ],
+    "seal_character": "痶",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "危",
+        "土",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "毀垣也。",
+            "note": "當曰垝垣、毀垣也。衞風氓曰。乗彼垝垣。傳曰。垝、毀也。下文云。毀、缺也。"
+        },
+        {
+            "explanation": "从土。危聲。",
+            "note": "過委切。十六部。"
+        }
+    ],
+    "indexes": [
+        "垝",
+        "陒"
+    ]
+}

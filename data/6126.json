@@ -1,0 +1,31 @@
+{
+    "id": 6126,
+    "wordhead": "駓",
+    "explanation": "黃馬白毛也。从馬丕聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "𢾭悲切",
+    "variants": [],
+    "seal_character": "椼",
+    "pinyin": "pi",
+    "pinyin_full": "pī",
+    "components": [
+        "馬",
+        "丕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黃白襍毛也。",
+            "note": "各本作黃馬白毛。今正。六書通引唐本作黃馬白襍毛。此唐本衍馬字。淺人不刪馬字而刪襍字耳。釋嘼、毛傳皆曰黃白襍毛曰駓。字林作駓。"
+        },
+        {
+            "explanation": "从馬。㔻聲。",
+            "note": "古作丕字。中直貫下。或作㔻。是以論曹魏者曰丕之字不十也。詩釋文此字本作䮆。字林乃作駓。敷悲切。古音一部。"
+        }
+    ],
+    "indexes": [
+        "駓"
+    ]
+}

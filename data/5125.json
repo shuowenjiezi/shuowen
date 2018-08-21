@@ -1,0 +1,43 @@
+{
+    "id": 5125,
+    "wordhead": "侮",
+    "explanation": "傷也。从人𣫭聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "文甫切",
+    "variants": [
+        {
+            "wordhead": "㑄",
+            "explanation": "古文从母。",
+            "seal_character": "擞"
+        }
+    ],
+    "seal_character": "擝",
+    "pinyin": "wu",
+    "pinyin_full": "wǔ",
+    "components": [
+        "人",
+        "母",
+        "每"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㑥也。",
+            "note": "㑥各本作傷。誤。今正。鍇曰。㑥、慢易字也。鍇作注時未誤也。小雅常棣假務爲侮。"
+        },
+        {
+            "explanation": "从人。每聲。",
+            "note": "五部。按每聲在一部合音。"
+        },
+        {
+            "explanation": "古文从母。",
+            "note": "母聲猶每聲也。漢書五行志。慢㑄之心生。"
+        }
+    ],
+    "indexes": [
+        "侮",
+        "㑄"
+    ]
+}

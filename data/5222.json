@@ -1,0 +1,31 @@
+{
+    "id": 5222,
+    "wordhead": "臥",
+    "explanation": "休也。从人、臣，取其伏也。凡臥之屬皆从臥。",
+    "volume": "08",
+    "radical": "臥",
+    "pronunciation": "吾貨切",
+    "variants": [],
+    "seal_character": "效",
+    "pinyin": "wo",
+    "pinyin_full": "wò",
+    "components": [
+        "人",
+        "臣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "伏也。",
+            "note": "伏大徐作休。誤。臥與寑異。寑於牀。論語寢不尸是也。臥於几。孟子隱几而臥是也。臥於几。故曰伏。尸篆下曰象臥之形是也。此析言之耳。統言之則不別。故宀部曰寑者臥也。曲禮云。寢毋伏。則謂寢於牀者毋得俯伏也。引伸爲凡休息之偁。"
+        },
+        {
+            "explanation": "从人臣。取其伏也。",
+            "note": "臣下曰。象屈服之形。故以人臣會意。吾貨切。十七部。"
+        }
+    ],
+    "indexes": [
+        "臥"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1201,
+    "wordhead": "迂",
+    "explanation": "避也。从辵于聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "憶倶切",
+    "variants": [],
+    "seal_character": "十",
+    "pinyin": "yu",
+    "pinyin_full": "yū",
+    "components": [
+        "于",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "避也。",
+            "note": "迂曲回避。其義一也。"
+        },
+        {
+            "explanation": "从辵。于聲。",
+            "note": "憶俱切。五部。"
+        }
+    ],
+    "indexes": [
+        "迂"
+    ]
+}

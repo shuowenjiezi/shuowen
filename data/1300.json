@@ -1,0 +1,32 @@
+{
+    "id": 1300,
+    "wordhead": "齦",
+    "explanation": "齧也。从齒𥃩聲。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "康很切",
+    "variants": [],
+    "seal_character": "厰",
+    "pinyin": "ken",
+    "pinyin_full": "kěn",
+    "components": [
+        "艮",
+        "齒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧也。",
+            "note": "此與豕部豤音義同。疑古衹作豤。齦者後出分別之字也。今人又用爲齗字矣。"
+        },
+        {
+            "explanation": "从齒。𥃩聲。",
+            "note": "康很切。十三部。"
+        }
+    ],
+    "indexes": [
+        "龈",
+        "齦"
+    ]
+}

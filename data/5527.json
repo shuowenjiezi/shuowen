@@ -1,0 +1,37 @@
+{
+    "id": 5527,
+    "wordhead": "歎",
+    "explanation": "吟也。从欠，𪅀省聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "池案切",
+    "variants": [
+        {
+            "wordhead": "𣥁",
+            "explanation": "籒文歎不省。",
+            "seal_character": "暛"
+        }
+    ],
+    "seal_character": "暚",
+    "pinyin": "tan",
+    "pinyin_full": "tàn",
+    "components": [
+        "欠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吟也。謂情有所悅。吟歎而歌詠。",
+            "note": "悅當作說。謂情已下十字各本無。今依李善注盧諶覽古詩所引補。葢演說文語也。古歎與嘆義別。歎與喜樂爲類。嘆與怒哀爲類。如樂記云一唱而三歎。有遺音者矣。又云長言之不足。故嗟歎之。嗟歎之不足。故不知手之舞之。足之蹈之。論語喟然歎曰。皆是此歎字。檀弓曰戚斯嘆。嘆斯擗。詩云而無永嘆。嘅其嘆矣。愾我寤嘆。皆是嘆字。"
+        },
+        {
+            "explanation": "从欠。𪅀省聲。",
+            "note": "他案切。十四部。"
+        }
+    ],
+    "indexes": [
+        "歎",
+        "𣥁"
+    ]
+}

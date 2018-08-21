@@ -1,0 +1,41 @@
+{
+    "id": 2614,
+    "wordhead": "𦙪",
+    "explanation": "髆也。从肉，象形。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "古賢切",
+    "variants": [
+        {
+            "wordhead": "肩",
+            "explanation": "俗肩从戶。",
+            "seal_character": "妶"
+        }
+    ],
+    "seal_character": "妵",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "肩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "髆也。",
+            "note": "骨部曰。髆、肩甲也。"
+        },
+        {
+            "explanation": "从肉。象形。",
+            "note": "象其半也。古賢切。十四部。"
+        },
+        {
+            "explanation": "俗𦙪从戸。",
+            "note": "從門戸於義無取。故爲俗字。"
+        }
+    ],
+    "indexes": [
+        "𦙪",
+        "肩"
+    ]
+}

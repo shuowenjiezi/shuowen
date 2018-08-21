@@ -1,0 +1,31 @@
+{
+    "id": 1637,
+    "wordhead": "詄",
+    "explanation": "忘也。从言失聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "唥",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "言",
+        "失"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "忘也。",
+            "note": "廣雅。誤也。"
+        },
+        {
+            "explanation": "从言。失聲。",
+            "note": "徒結切。十二部。"
+        }
+    ],
+    "indexes": [
+        "詄"
+    ]
+}

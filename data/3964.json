@@ -1,0 +1,32 @@
+{
+    "id": 3964,
+    "wordhead": "賦",
+    "explanation": "斂也。从貝武聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "方遇切",
+    "variants": [],
+    "seal_character": "忍",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "貝",
+        "武"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "斂也。",
+            "note": "周禮大宰。以九賦斂財賄。斂之曰賦。班之亦曰賦。經傳中凡言以物班布與人曰賦。"
+        },
+        {
+            "explanation": "从貝。武聲。",
+            "note": "方遇切。五部。"
+        }
+    ],
+    "indexes": [
+        "赋",
+        "賦"
+    ]
+}

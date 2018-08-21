@@ -1,0 +1,35 @@
+{
+    "id": 7105,
+    "wordhead": "涓",
+    "explanation": "小流也。从水肙聲。《爾雅》曰：“汝爲涓。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "古玄切",
+    "variants": [],
+    "seal_character": "浦",
+    "pinyin": "juan",
+    "pinyin_full": "juān",
+    "components": [
+        "水",
+        "肙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小流也。",
+            "note": "凡言涓涓者、皆謂細小之流。"
+        },
+        {
+            "explanation": "从水。肙聲。",
+            "note": "古懸切。十四部。"
+        },
+        {
+            "explanation": "爾雅曰。汝爲涓。",
+            "note": "見釋水。亦大水溢出別爲小水之名也。郭本作濆。葢非。濆、水厓也。"
+        }
+    ],
+    "indexes": [
+        "涓"
+    ]
+}

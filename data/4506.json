@@ -1,0 +1,35 @@
+{
+    "id": 4506,
+    "wordhead": "兇",
+    "explanation": "擾恐也。从人在凶下。《春秋傳》曰：“曹人兇懼。”",
+    "volume": "07",
+    "radical": "凶",
+    "pronunciation": "許拱切",
+    "variants": [],
+    "seal_character": "戫",
+    "pinyin": "xiong",
+    "pinyin_full": "xiōnɡ",
+    "components": [
+        "人",
+        "凶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢺕恐也。",
+            "note": "杜注左曰。兇、恐懼聲。"
+        },
+        {
+            "explanation": "从儿在凶下。",
+            "note": "會意。許拱切。九部。"
+        },
+        {
+            "explanation": "春秋傳曰。曹人兇懼。",
+            "note": "僖二十八年左傳文。"
+        }
+    ],
+    "indexes": [
+        "兇"
+    ]
+}

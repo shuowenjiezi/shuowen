@@ -1,0 +1,32 @@
+{
+    "id": 1108,
+    "wordhead": "適",
+    "explanation": "之也。从辵啻聲。適，宋魯語。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "施隻切",
+    "variants": [],
+    "seal_character": "勏",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "啻",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "之也。",
+            "note": "釋詁。適之往也。方言。逝徂適往也。適、宋魯語也。按此不曰往而曰之。許意葢以之與往稍別。逝、徂、往自發動言之。適自所到言之。故變卦曰之卦。女子嫁曰適人。"
+        },
+        {
+            "explanation": "从辵。啻聲。",
+            "note": "施隻切。十六部。"
+        }
+    ],
+    "indexes": [
+        "适",
+        "適"
+    ]
+}

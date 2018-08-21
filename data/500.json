@@ -1,0 +1,31 @@
+{
+    "id": 500,
+    "wordhead": "芛",
+    "explanation": "艸之葟榮也。从艸尹聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "羊捶切",
+    "variants": [],
+    "seal_character": "倳",
+    "pinyin": "wei",
+    "pinyin_full": "wěi",
+    "components": [
+        "艸",
+        "尹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸之皇榮也。",
+            "note": "皇當作葟。或？字。釋艸曰。蕍芛葟華榮郭曰。今俗呼艸木華初生者爲芛。音䝐豬之䝐。"
+        },
+        {
+            "explanation": "从艸。尹聲。",
+            "note": "羊捶切。古音在十三部。"
+        }
+    ],
+    "indexes": [
+        "芛"
+    ]
+}

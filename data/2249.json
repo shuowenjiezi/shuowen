@@ -1,0 +1,31 @@
+{
+    "id": 2249,
+    "wordhead": "翕",
+    "explanation": "起也。从羽合聲。",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "許及切",
+    "variants": [],
+    "seal_character": "堇",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "合",
+        "羽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "起也。",
+            "note": "釋詁、毛傳皆云。翕、合也。許云起也者、但言合則不見起。言起而合在其中矣。翕从合者、鳥將起必斂翼也。"
+        },
+        {
+            "explanation": "从羽。合聲。",
+            "note": "許及切。七部。"
+        }
+    ],
+    "indexes": [
+        "翕"
+    ]
+}

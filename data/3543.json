@@ -1,0 +1,45 @@
+{
+    "id": 3543,
+    "wordhead": "樹",
+    "explanation": "生植之緫名。从木尌聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "常句切",
+    "variants": [
+        {
+            "wordhead": "𡬾",
+            "explanation": "籒文。",
+            "seal_character": "帀"
+        }
+    ],
+    "seal_character": "巿",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "木",
+        "豆",
+        "寸",
+        "尌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "木生植之緫名也。",
+            "note": "植、立也。假借爲尌竪字。"
+        },
+        {
+            "explanation": "從木。尌聲。",
+            "note": "形聲包會意。常句切。四部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "籒文從豆不從豈者。豆柄直。亦有直立之義。豆與壴同𡉈四部。爲龤聲。寸則謂手植之也。"
+        }
+    ],
+    "indexes": [
+        "树",
+        "樹",
+        "𡬾"
+    ]
+}

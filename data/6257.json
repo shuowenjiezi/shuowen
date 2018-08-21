@@ -1,0 +1,42 @@
+{
+    "id": 6257,
+    "wordhead": "𪋻",
+    "explanation": "鹿行揚土也。从麤从土。",
+    "volume": "10",
+    "radical": "麤",
+    "pronunciation": "直珍切",
+    "variants": [
+        {
+            "wordhead": "𡔚",
+            "explanation": "籒文。",
+            "seal_character": "槍"
+        }
+    ],
+    "seal_character": "槌",
+    "pinyin": "chen",
+    "pinyin_full": "chén",
+    "components": [
+        "土",
+        "麤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鹿行揚土也。",
+            "note": "羣行則揚土甚。引伸爲凡揚土之偁。土部曰。埃、塵也。塺、塵也。坋、塵也。釋詁。塵、久也。卽桑柔傳之塡、久也。東山傳。烝、窴也。箋云。古者聲窴塡塵同也。又甫田傳曰。尊者食新。農夫食陳。按窴塡塵陳四字同音。皆訓久。當是塡爲正字。塡者、？也。？則安定。窴鎭與塡同。塵陳皆叚借字也。"
+        },
+        {
+            "explanation": "从麤土。",
+            "note": "不入土部者、重麤也。直珍切。十二部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "揚土上散。故从二土在上。"
+        }
+    ],
+    "indexes": [
+        "𪋻",
+        "𡔚"
+    ]
+}

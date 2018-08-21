@@ -1,0 +1,44 @@
+{
+    "id": 8369,
+    "wordhead": "直",
+    "explanation": "正見也。从𠃊从十从目。",
+    "volume": "12",
+    "radical": "𠃊",
+    "pronunciation": "除力切",
+    "variants": [
+        {
+            "wordhead": "𣖇",
+            "explanation": "古文直。",
+            "seal_character": "狍"
+        }
+    ],
+    "seal_character": "狌",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "目",
+        "十",
+        "囧",
+        "乚"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“乚，隱也。今十目所見是直也。”",
+    "duan_notes": [
+        {
+            "explanation": "正見也。",
+            "note": "左傳曰。正直爲正。正曲爲直。其引申之義也。見之審則必能矯其枉。故曰正曲爲直。"
+        },
+        {
+            "explanation": "从十目乚。",
+            "note": "謂以十目視乚。乚者無所逃也。三字會意。除力切。一部。今隷作直。"
+        },
+        {
+            "explanation": "古文直。或从木如此。",
+            "note": "囧猶目也。从木者、木從繩則正。"
+        }
+    ],
+    "indexes": [
+        "直",
+        "𣖇"
+    ]
+}

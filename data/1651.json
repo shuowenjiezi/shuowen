@@ -1,0 +1,35 @@
+{
+    "id": 1651,
+    "wordhead": "訆",
+    "explanation": "大呼也。从言丩聲。《春秋傳》曰：“或訆于宋大廟。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "古弔切",
+    "variants": [],
+    "seal_character": "唵",
+    "pinyin": "jiao",
+    "pinyin_full": "jiào",
+    "components": [
+        "言",
+        "丩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大嘑也。",
+            "note": "與㗊部嘂、口部叫音義皆同。"
+        },
+        {
+            "explanation": "从言。丩聲。",
+            "note": "古弔切。三部。"
+        },
+        {
+            "explanation": "春秋傳曰。或訆于宋大廟。",
+            "note": "襄三十年文。今傳作叫。"
+        }
+    ],
+    "indexes": [
+        "訆"
+    ]
+}

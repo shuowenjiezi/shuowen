@@ -1,0 +1,39 @@
+{
+    "id": 769,
+    "wordhead": "牣",
+    "explanation": "牣，滿也。从牛刃聲。《詩》曰：“於牣魚躍。”",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "而震切",
+    "variants": [],
+    "seal_character": "兖",
+    "pinyin": "ren",
+    "pinyin_full": "rèn",
+    "components": [
+        "牛",
+        "刃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牣、",
+            "note": "此複字刪之未盡者。"
+        },
+        {
+            "explanation": "滿也。",
+            "note": "見大雅毛傳。"
+        },
+        {
+            "explanation": "从牛。刃聲。",
+            "note": "而震切。古音在十三部。"
+        },
+        {
+            "explanation": "詩曰。於牣魚躍。",
+            "note": "於如字。"
+        }
+    ],
+    "indexes": [
+        "牣"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 7168,
+    "wordhead": "滲",
+    "explanation": "下漉也。从水參聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "所禁切",
+    "variants": [],
+    "seal_character": "涧",
+    "pinyin": "shen",
+    "pinyin_full": "shèn",
+    "components": [
+        "水",
+        "參"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "下漉也。",
+            "note": "司馬相如封禪文。滋液滲漉。楊雄河東賦。澤滲灕而下降。今俗云滲屚。"
+        },
+        {
+            "explanation": "从水。參聲。",
+            "note": "所禁切。七部。"
+        }
+    ],
+    "indexes": [
+        "渗",
+        "滲"
+    ]
+}

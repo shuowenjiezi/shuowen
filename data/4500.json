@@ -1,0 +1,40 @@
+{
+    "id": 4500,
+    "wordhead": "舂",
+    "explanation": "擣粟也。从廾持杵臨臼上。午，杵省也。古者雝父初作舂。",
+    "volume": "07",
+    "radical": "臼",
+    "pronunciation": "書容切",
+    "variants": [],
+    "seal_character": "戣",
+    "pinyin": "chong",
+    "pinyin_full": "chōnɡ",
+    "components": [
+        "収",
+        "臼",
+        "午"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "擣粟也。",
+            "note": "言粟以晐他穀。亦言粟以晐米。小徐本粟作米。周禮有舂人。廣雅曰。臿䑘昁䑗糳捶？？㯔䂿舂也。"
+        },
+        {
+            "explanation": "从𠬞持杵㠯臨臼。",
+            "note": "會意。書容切。九部。"
+        },
+        {
+            "explanation": "杵省。",
+            "note": "此與日部匕合也、會部曾益也、㫃部允進也同。皆六書之叚借也。"
+        },
+        {
+            "explanation": "古者雝父初作舂。",
+            "note": "太平御覽、世本。雍父作舂杵臼。宋衷曰。雍父、黃帝臣也。周本紀。楚圍雍氏。正義云。？地志。故雍城在洛州陽翟縣東北二十五里。故老云。黃帝時雍作杵臼所封也。"
+        }
+    ],
+    "indexes": [
+        "舂"
+    ]
+}

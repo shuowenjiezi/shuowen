@@ -1,0 +1,55 @@
+{
+    "id": 1503,
+    "wordhead": "謀",
+    "explanation": "慮難曰謀。从言某聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "莫浮切",
+    "variants": [
+        {
+            "wordhead": "𠰔",
+            "explanation": "古文謀。",
+            "seal_character": "咏"
+        },
+        {
+            "wordhead": "𧦥",
+            "explanation": "亦古文。",
+            "seal_character": "咐"
+        }
+    ],
+    "seal_character": "咎",
+    "pinyin": "mou",
+    "pinyin_full": "móu",
+    "components": [
+        "口",
+        "某",
+        "言",
+        "母"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "慮難曰謀。",
+            "note": "左傳叔孫豹說皇皇者華曰。訪問於善爲咨。咨難爲謀。魯語作咨事爲謀。韋曰。事當爲難。吳語大夫種曰。夫謀必素見成事焉而後履之。囗部曰。圖、畫計難也。圖與謀同義。"
+        },
+        {
+            "explanation": "从言。某聲。",
+            "note": "莫浮切。古音在一部。"
+        },
+        {
+            "explanation": "古文謀。",
+            "note": "鍇本作？。不誤。从母非从母也。母聲某聲同在一部。士冠禮古文某爲謀。葢古文禮某作𠰔也。"
+        },
+        {
+            "explanation": "亦古文。",
+            "note": "上从母。下古文言。"
+        }
+    ],
+    "indexes": [
+        "谋",
+        "謀",
+        "𠰔",
+        "𧦥"
+    ]
+}

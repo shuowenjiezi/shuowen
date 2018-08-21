@@ -1,0 +1,39 @@
+{
+    "id": 2592,
+    "wordhead": "脣",
+    "explanation": "口耑也。从肉辰聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "食倫切",
+    "variants": [
+        {
+            "wordhead": "䫃",
+            "explanation": "古文脣从頁<span>[<span>𩑋</span>]</span>。",
+            "seal_character": "妝"
+        }
+    ],
+    "seal_character": "妜",
+    "pinyin": "chun",
+    "pinyin_full": "chún",
+    "components": [
+        "肉",
+        "辰",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "口耑也。",
+            "note": "口之厓也。假借爲水厓之字。鄭注乾鑿度引詩寘之河之脣。"
+        },
+        {
+            "explanation": "从肉。辰聲。",
+            "note": "食鄰切。古音十三部。"
+        }
+    ],
+    "indexes": [
+        "脣",
+        "䫃"
+    ]
+}

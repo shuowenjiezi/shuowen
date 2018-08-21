@@ -1,0 +1,48 @@
+{
+    "id": 7711,
+    "wordhead": "閾",
+    "explanation": "門榍也。从門或聲。《論語》曰：“行不履閾。”",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "于逼切",
+    "variants": [
+        {
+            "wordhead": "𨵨",
+            "explanation": "古文閾从洫。",
+            "seal_character": "瀉"
+        }
+    ],
+    "seal_character": "瀈",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "門",
+        "或",
+        "洫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "門榍也。",
+            "note": "木部曰。？者、門限也。相合爲一義。釋宮曰。柣謂之閾。柣、郭干結反。卽？字也。禮古文閾作戚。此皆叚借字也。"
+        },
+        {
+            "explanation": "从門。或聲。",
+            "note": "于逼切。一部。"
+        },
+        {
+            "explanation": "論語曰。行不履閾。",
+            "note": "鄉黨篇文。"
+        },
+        {
+            "explanation": "古文閾。从洫。",
+            "note": "从洫聲。此猶大雅毛詩築城伊淢。淢卽洫之古文。韓詩正作洫。"
+        }
+    ],
+    "indexes": [
+        "阈",
+        "閾",
+        "𨵨"
+    ]
+}

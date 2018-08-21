@@ -1,0 +1,43 @@
+{
+    "id": 7838,
+    "wordhead": "搹",
+    "explanation": "把也。从手鬲聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "於革切",
+    "variants": [
+        {
+            "wordhead": "㧖",
+            "explanation": "搹或从戹。",
+            "seal_character": "炚"
+        }
+    ],
+    "seal_character": "炙",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "鬲",
+        "手",
+        "戹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "把也。",
+            "note": "喪服。苴絰大搹。注曰。搹、扼也。中人之扼圍九寸。此言中人滿手把之。其圍九寸。則其徑約計三寸也。喪服傳。朝一溢米。夕一溢米。王肅、劉逵皆云。滿手曰溢。與鄭異。按此謂溢爲搹之叚借字也。然搹溢字見一章數行內、不應異用。則知鄭說爲長。"
+        },
+        {
+            "explanation": "从手。鬲聲。",
+            "note": "於革切。十六部。"
+        },
+        {
+            "explanation": "搹或从戹。",
+            "note": "㧖今隷變作扼。猶軶隷變作軛也。許云扼者、搹之或字。而鄭注禮云搹扼也者、漢時少用搹。多用扼。故以今字釋古字。非於許有異也。"
+        }
+    ],
+    "indexes": [
+        "搹",
+        "㧖"
+    ]
+}

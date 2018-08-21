@@ -1,0 +1,36 @@
+{
+    "id": 4594,
+    "wordhead": "害",
+    "explanation": "傷也。从宀从口。宀、口，言从家起也。丯聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "胡蓋切",
+    "variants": [],
+    "seal_character": "抔",
+    "pinyin": "hai",
+    "pinyin_full": "hài",
+    "components": [
+        "口",
+        "宀",
+        "丯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傷也。",
+            "note": "人部曰。傷、創也。刀部曰。創、傷也。詩書多假害爲曷。故周南毛傳曰。害、何也。俗本改爲曷、何也。非是。今人分別害去、曷入。古無去入之分也。"
+        },
+        {
+            "explanation": "从宀口。言从家起也。",
+            "note": "會意。言爲亂階。而言每起於袵席。"
+        },
+        {
+            "explanation": "丰聲。",
+            "note": "胡葢切。十五部。"
+        }
+    ],
+    "indexes": [
+        "害"
+    ]
+}

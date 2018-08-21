@@ -1,0 +1,31 @@
+{
+    "id": 6672,
+    "wordhead": "情",
+    "explanation": "人之陰气有欲者。从心青聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "疾盈切",
+    "variants": [],
+    "seal_character": "殛",
+    "pinyin": "qing",
+    "pinyin_full": "qínɡ",
+    "components": [
+        "青",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人之侌气有欲者。",
+            "note": "董仲舒曰。情者、人之欲也。人欲之謂情。情非制度不節。禮記曰。何謂人情喜怒哀懼愛惡欲。七者不學而能。左傳曰。民有好惡喜怒哀樂。生於六氣。孝經援神契曰。性生於陽以理執。情生於陰以繫念。"
+        },
+        {
+            "explanation": "从心。靑聲。",
+            "note": "疾盈切。十一部。"
+        }
+    ],
+    "indexes": [
+        "情"
+    ]
+}

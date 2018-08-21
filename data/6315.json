@@ -1,0 +1,35 @@
+{
+    "id": 6315,
+    "wordhead": "獧",
+    "explanation": "疾跳也。一曰急也。从犬瞏聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "古縣切",
+    "variants": [],
+    "seal_character": "樉",
+    "pinyin": "juan",
+    "pinyin_full": "juàn",
+    "components": [
+        "犬",
+        "瞏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "疾跳也。",
+            "note": "跳者、躍也。"
+        },
+        {
+            "explanation": "一曰急也。",
+            "note": "獧狷古今字。今論語作狷、孟子作獧是也。論語曰。狂者進取。狷者有所不爲也。大徐別增狷篆。非。"
+        },
+        {
+            "explanation": "从犬。睘聲。",
+            "note": "古縣切。十四部。"
+        }
+    ],
+    "indexes": [
+        "獧"
+    ]
+}

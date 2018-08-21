@@ -1,0 +1,40 @@
+{
+    "id": 6075,
+    "wordhead": "彘",
+    "explanation": "豕也。後蹏廢謂之彘。从彑矢聲；从二匕，彘足與鹿足同。",
+    "volume": "09",
+    "radical": "彑",
+    "pronunciation": "直例切",
+    "variants": [],
+    "seal_character": "椁",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "矢",
+        "匕",
+        "彑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "豕也。",
+            "note": "與豕篆下彘也爲轉注。"
+        },
+        {
+            "explanation": "後蹏廢謂之彘。",
+            "note": "廢、鈍置也。彘之言滯也。豕前足僅屈伸。後足行步蹇劣。故謂之廢。"
+        },
+        {
+            "explanation": "从彑。从二匕。矢聲。",
+            "note": "直例切。十五部。"
+        },
+        {
+            "explanation": "彘足與鹿足同。",
+            "note": "說从二匕之意也。鹿、㲋、能足皆从二匕。"
+        }
+    ],
+    "indexes": [
+        "彘"
+    ]
+}

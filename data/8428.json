@@ -1,0 +1,47 @@
+{
+    "id": 8428,
+    "wordhead": "甈",
+    "explanation": "康瓠，破罌。从瓦臬聲。",
+    "volume": "12",
+    "radical": "瓦",
+    "pronunciation": "魚例切",
+    "variants": [
+        {
+            "wordhead": "𤮅",
+            "explanation": "甈或从埶<span>[<span>𡎐</span>]</span>。",
+            "seal_character": "猔"
+        }
+    ],
+    "seal_character": "猓",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "瓦",
+        "臬",
+        "埶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "康瓠。",
+            "note": "句。按當有謂之甈三字。"
+        },
+        {
+            "explanation": "破罌也。",
+            "note": "康之言空也。瓠之言壺也。空壺謂破罌也。罌已破矣。無所用之。空之而巳。釋器曰。康瓠謂之甈。甈之言滯而無用也。法言曰。甄陶天下者。其在和乎。剛則甈。柔則坯。此引申之義也。"
+        },
+        {
+            "explanation": "从瓦。臬聲。",
+            "note": "魚列切。十五部。廣韵五計切。玉篇邱滯切。"
+        },
+        {
+            "explanation": "甈或从埶。",
+            "note": "埶聲古與臬聲同。是以臬多叚藝爲之。"
+        }
+    ],
+    "indexes": [
+        "甈",
+        "𤮅"
+    ]
+}

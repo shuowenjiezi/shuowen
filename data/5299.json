@@ -1,0 +1,31 @@
+{
+    "id": 5299,
+    "wordhead": "被",
+    "explanation": "𡪢衣，長一身有半。从衣皮聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "平義切",
+    "variants": [],
+    "seal_character": "斞",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "衣",
+        "皮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𡪢衣。長一身有半。",
+            "note": "論語鄉黨篇曰。必有寢衣。長一身有半。孔安國曰。今被也。鄭注曰。今小臥被是也。引伸爲橫被四表之被。"
+        },
+        {
+            "explanation": "从衣。皮聲。",
+            "note": "皮義切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "被"
+    ]
+}

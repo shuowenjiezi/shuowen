@@ -1,0 +1,35 @@
+{
+    "id": 2683,
+    "wordhead": "腒",
+    "explanation": "北方謂鳥腊曰腒。从肉居聲。傳曰：堯如腊，舜如腒。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "九魚切",
+    "variants": [],
+    "seal_character": "娄",
+    "pinyin": "ju",
+    "pinyin_full": "jū",
+    "components": [
+        "肉",
+        "居"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "北方謂鳥腊腒。",
+            "note": "周禮、内則注皆曰。腒、乾雉。士相見之禮。摯、冬用雉。夏用腒。注曰。備腐臭也。按鄭主謂乾雉、依士相見禮而言也。士相見禮腒謂雉。周禮、内則不必專謂雉。許槩言鳥腊爲長。"
+        },
+        {
+            "explanation": "从肉。居聲。",
+            "note": "九魚切。五部。"
+        },
+        {
+            "explanation": "傳曰。堯如腊。舜如腒。",
+            "note": "亦見王充論衡引傳。"
+        }
+    ],
+    "indexes": [
+        "腒"
+    ]
+}

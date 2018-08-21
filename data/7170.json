@@ -1,0 +1,35 @@
+{
+    "id": 7170,
+    "wordhead": "溷",
+    "explanation": "亂也。一曰水濁皃。从水圂聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "胡困切",
+    "variants": [],
+    "seal_character": "涩",
+    "pinyin": "hun",
+    "pinyin_full": "hùn",
+    "components": [
+        "水",
+        "圂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亂也。",
+            "note": "離騷。世溷濁而不分兮。王曰。溷、亂也。濁、貪也。"
+        },
+        {
+            "explanation": "一曰水濁皃。",
+            "note": "此別一義。今人不分。"
+        },
+        {
+            "explanation": "从水。圂聲。",
+            "note": "胡困切。十三部。"
+        }
+    ],
+    "indexes": [
+        "溷"
+    ]
+}

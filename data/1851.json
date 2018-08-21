@@ -1,0 +1,46 @@
+{
+    "id": 1851,
+    "wordhead": "鬵",
+    "explanation": "大釜也。一曰鼎大上小下若甑曰鬵。从鬲兓聲。讀若岑。",
+    "volume": "03",
+    "radical": "鬲",
+    "pronunciation": "才林切",
+    "variants": [
+        {
+            "wordhead": "𩱠",
+            "explanation": "籒文鬵。",
+            "seal_character": "嘩"
+        }
+    ],
+    "seal_character": "嘨",
+    "pinyin": "xin",
+    "pinyin_full": "qín",
+    "components": [
+        "鬲",
+        "兓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大鬴也。",
+            "note": "檜風。誰能亨魚。摡之釜鬵。毛曰。鬵、釜屬。按下文別一義。"
+        },
+        {
+            "explanation": "一曰鼎大上小下若甑曰鬵。",
+            "note": "釋器。鼎絕大謂之鼐。圜弇上謂之鼒。附耳外謂之釴。款足者謂之鬲。䰝謂之鬵。鬵、鉹也。按此六句皆說鼎。故許以鼎大上小下若甑發明甑謂之鬵。金部云。鉹、鬵鼎。亦所以發明鬵、鉹也。釋爾雅者尟通此矣。"
+        },
+        {
+            "explanation": "从鬲。兓聲。讀若岑。",
+            "note": "才林切。七部。"
+        },
+        {
+            "explanation": "籒文鬵。",
+            "note": "從䰜。"
+        }
+    ],
+    "indexes": [
+        "鬵",
+        "𩱠"
+    ]
+}

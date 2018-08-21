@@ -1,0 +1,43 @@
+{
+    "id": 1423,
+    "wordhead": "龠",
+    "explanation": "樂之竹管，三孔，以和眾聲也。从品、侖。侖，理也。凡龠之屬皆从龠。",
+    "volume": "02",
+    "radical": "龠",
+    "pronunciation": "以灼切",
+    "variants": [],
+    "seal_character": "吱",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "品",
+        "侖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樂之竹管。",
+            "note": "此與竹部籥異義。今經傳多用籥字。非也。"
+        },
+        {
+            "explanation": "三孔。",
+            "note": "孔同空。按周禮笙師禮記少儀明堂位鄭注、爾雅郭注、應氏風俗通皆云三孔。惟毛傳云六孔。廣雅云七孔。"
+        },
+        {
+            "explanation": "㠯和衆聲也。",
+            "note": "和衆聲、謂奏樂時也。萬舞時衹用龠以節舞。無他聲。"
+        },
+        {
+            "explanation": "从品侖。",
+            "note": "惟以和衆聲。故從品。"
+        },
+        {
+            "explanation": "侖、理也。",
+            "note": "亼部曰。侖、思也。按思猶䚡。䚡理一也。大雅。於論𡔷鍾。毛傳曰。論、思也。鄭曰。論之言倫也。毛鄭意一也。從侖、謂得其倫理也。以灼切。二部。"
+        }
+    ],
+    "indexes": [
+        "龠"
+    ]
+}

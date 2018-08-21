@@ -1,0 +1,47 @@
+{
+    "id": 6641,
+    "wordhead": "夫",
+    "explanation": "丈夫也。从大，一以象簪也。周制以八寸爲尺，十尺爲丈。人長八尺，故曰丈夫。凡夫之屬皆从夫。",
+    "volume": "10",
+    "radical": "夫",
+    "pronunciation": "甫無切",
+    "variants": [],
+    "seal_character": "歶",
+    "pinyin": "fu",
+    "pinyin_full": "fū",
+    "components": [
+        "一",
+        "大"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "丈夫也。从<亣>一。",
+            "note": "从一大則爲天。从大一則爲夫。於此見人與天同也。天之一、冒大上。爲會意。夫之一、毌大首。爲象形。亦爲會意。"
+        },
+        {
+            "explanation": "一㠯象兂。",
+            "note": "兂、首筓也。俗作簪。依御覽宜補冠而後簪、人二十而冠、成人也十二字。此說以一象簪之意。甫無切。五部。"
+        },
+        {
+            "explanation": "周制八寸爲尺。",
+            "note": "尺部曰。中婦人手長八寸謂之咫。周尺也。"
+        },
+        {
+            "explanation": "十尺爲丈。",
+            "note": "十部曰。丈、十尺也。从又持十。"
+        },
+        {
+            "explanation": "人長八尺。",
+            "note": "見考工記。"
+        },
+        {
+            "explanation": "故曰丈夫。",
+            "note": "此說人偁丈夫之恉。"
+        }
+    ],
+    "indexes": [
+        "夫"
+    ]
+}

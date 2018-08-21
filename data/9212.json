@@ -1,0 +1,55 @@
+{
+    "id": 9212,
+    "wordhead": "協",
+    "explanation": "眾之同和也。从劦从十。",
+    "volume": "13",
+    "radical": "劦",
+    "pronunciation": "胡頰切",
+    "variants": [
+        {
+            "wordhead": "旪",
+            "explanation": "古文協从日、十。",
+            "seal_character": "皢"
+        },
+        {
+            "wordhead": "叶",
+            "explanation": "或从口<span>[<span>𠙵</span>]</span>。",
+            "seal_character": "皣"
+        }
+    ],
+    "seal_character": "皡",
+    "pinyin": "xie",
+    "pinyin_full": "xié",
+    "components": [
+        "口",
+        "劦",
+        "十",
+        "曰"
+    ],
+    "xuan_note": "臣鉉等曰：十，眾也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "同眾之龢也。",
+            "note": "各本作衆之和同。非是。今正。同衆之和。一如同力。"
+        },
+        {
+            "explanation": "从劦十。",
+            "note": "十、衆也。胡頰切。八部。"
+        },
+        {
+            "explanation": "古文協。从口十。",
+            "note": "字見周禮大史協事注。曰故書協作叶。杜子春云。叶、協也。書亦或爲協。或爲汁。大行人協辭命注。故書作汁辭命。鄭司農云。汁當爲叶。書或爲叶。按十口所同。亦同衆之意。"
+        },
+        {
+            "explanation": "叶或从曰。",
+            "note": "口曰一也。"
+        }
+    ],
+    "indexes": [
+        "协",
+        "協",
+        "旪",
+        "叶"
+    ]
+}

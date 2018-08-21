@@ -1,0 +1,38 @@
+{
+    "id": 1855,
+    "wordhead": "融",
+    "explanation": "炊气上出也。从鬲，蟲省聲。",
+    "volume": "03",
+    "radical": "鬲",
+    "pronunciation": "以戎切",
+    "variants": [
+        {
+            "wordhead": "𧖓",
+            "explanation": "籒文融不省。",
+            "seal_character": "嘯"
+        }
+    ],
+    "seal_character": "嘮",
+    "pinyin": "rong",
+    "pinyin_full": "rónɡ",
+    "components": [
+        "鬲",
+        "蟲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "炊气上出也。",
+            "note": "釋詁、毛傳、方言皆曰。融、長也。此其引伸之義也。通作䑣。思玄賦。展泄泄以䑣䑣。廣成頌。豐䑣薱蔚。"
+        },
+        {
+            "explanation": "从鬲。蟲省聲。",
+            "note": "以戎切。九部。"
+        }
+    ],
+    "indexes": [
+        "融",
+        "𧖓"
+    ]
+}

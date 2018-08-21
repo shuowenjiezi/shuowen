@@ -1,0 +1,43 @@
+{
+    "id": 2024,
+    "wordhead": "斁",
+    "explanation": "解也。从攴睪聲。《詩》云：“服之無斁。”斁，猒也。一曰終也。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "羊益切",
+    "variants": [],
+    "seal_character": "國",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "睪",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "解也。",
+            "note": "此與釋音義同。後人區別之。"
+        },
+        {
+            "explanation": "从攴。〾𥇡聲。",
+            "note": "羊益切。古音在五部。"
+        },
+        {
+            "explanation": "詩曰。服之無斁。",
+            "note": "周南文。"
+        },
+        {
+            "explanation": "斁、厭也。",
+            "note": "見釋詁、毛傳。按此三字釋所引詩之斁。以別於上文解訓。此全書之一例也。厭同猒。飽也。經典亦假射爲斁。"
+        },
+        {
+            "explanation": "一曰終也。",
+            "note": "此別一義。"
+        }
+    ],
+    "indexes": [
+        "斁"
+    ]
+}

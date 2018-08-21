@@ -1,0 +1,40 @@
+{
+    "id": 9071,
+    "wordhead": "毀",
+    "explanation": "缺也。从土，毇省聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "許委切",
+    "variants": [
+        {
+            "wordhead": "𣪷",
+            "explanation": "古文毀从壬。",
+            "seal_character": "祩"
+        }
+    ],
+    "seal_character": "瘀",
+    "pinyin": "hui",
+    "pinyin_full": "huǐ",
+    "components": [
+        "土",
+        "壬",
+        "毇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "缺也。",
+            "note": "缺者、器破也。因爲凡破之偁。"
+        },
+        {
+            "explanation": "从土。毇省聲。",
+            "note": "許委切。十六部。"
+        }
+    ],
+    "indexes": [
+        "毁",
+        "毀",
+        "𣪷"
+    ]
+}

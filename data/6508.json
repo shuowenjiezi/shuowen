@@ -1,0 +1,34 @@
+{
+    "id": 6508,
+    "wordhead": "黑",
+    "explanation": "火所熏之色也。从炎，上出𡆧。𡆧，古窻字。凡黑之屬皆从黑。",
+    "volume": "10",
+    "radical": "黑",
+    "pronunciation": "呼北切",
+    "variants": [],
+    "seal_character": "櫢",
+    "pinyin": "hei",
+    "pinyin_full": "hēi",
+    "components": [
+        "炎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "北方色也。",
+            "note": "四字各本無。依青赤白三部下云東方色、南方色、西方色。黃下亦云地之色。則當有此四字明矣。今補。"
+        },
+        {
+            "explanation": "火所熏之色也。",
+            "note": "熏者、火煙上出也。此語爲从炎起本。"
+        },
+        {
+            "explanation": "从炎、上出𡆧。",
+            "note": "會意。？古文囱字。在屋曰囱。大徐本此下增？古䆫字。許本無之。呼北切。一部。隷作黑。"
+        }
+    ],
+    "indexes": [
+        "黑"
+    ]
+}

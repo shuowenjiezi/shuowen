@@ -1,0 +1,43 @@
+{
+    "id": 2155,
+    "wordhead": "瞋",
+    "explanation": "張目也。从目眞聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "昌眞切",
+    "variants": [
+        {
+            "wordhead": "𥅜",
+            "explanation": "祕書瞋从戌。",
+            "seal_character": "垡"
+        }
+    ],
+    "seal_character": "垠",
+    "pinyin": "chen",
+    "pinyin_full": "chēn",
+    "components": [
+        "真",
+        "目",
+        "戌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "張目也。",
+            "note": "此與言部謓義略同。"
+        },
+        {
+            "explanation": "从目。眞聲。",
+            "note": "昌眞切。十二部。"
+        },
+        {
+            "explanation": "祕書瞋。从戌。",
+            "note": "祕書謂緯書。易部亦云祕書說日月爲易、象陰陽也。戌聲眞聲同在十二部。"
+        }
+    ],
+    "indexes": [
+        "瞋",
+        "𥅜"
+    ]
+}

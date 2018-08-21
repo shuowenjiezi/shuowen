@@ -1,0 +1,35 @@
+{
+    "id": 7355,
+    "wordhead": "涒",
+    "explanation": "食已而復吐之。从水君聲。《爾雅》曰：“太歲在申曰涒灘。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "他昆切",
+    "variants": [],
+    "seal_character": "湲",
+    "pinyin": "tun",
+    "pinyin_full": "tūn",
+    "components": [
+        "水",
+        "君"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "食巳而復吐之。",
+            "note": "未聞。江賦涒粼、謂水皃。"
+        },
+        {
+            "explanation": "从水。君聲。",
+            "note": "他昆切。十三部。"
+        },
+        {
+            "explanation": "爾雅曰。大歲在𦥔曰涒灘。",
+            "note": "釋天文。高誘曰。涒、大也。灘、循也。萬物皆大循其情性也。"
+        }
+    ],
+    "indexes": [
+        "涒"
+    ]
+}

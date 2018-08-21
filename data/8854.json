@@ -1,0 +1,47 @@
+{
+    "id": 8854,
+    "wordhead": "蜦",
+    "explanation": "蛇屬，黑色，潛于神淵，能興風雨。从虫侖聲。讀若戾艸。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "力屯切",
+    "variants": [
+        {
+            "wordhead": "蜧",
+            "explanation": "蜦或从戾<span>{<span>+</span><span>聲</span>}</span>。",
+            "seal_character": "瓱"
+        }
+    ],
+    "seal_character": "瓰",
+    "pinyin": "lun",
+    "pinyin_full": "lún",
+    "components": [
+        "虫",
+        "戾",
+        "侖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "它屬也。",
+            "note": "它者、虫也。象寃曲垂尾形。蜦卽其屬也。"
+        },
+        {
+            "explanation": "黑色。濳於神淵之中。能興雲致雨。",
+            "note": "依甘泉、江賦二注訂。淮南書曰。犧牛粹毛。宜於廟牲。其於以致雨不若黑蜧。高云。黑蜧、神蛇。潛於神淵。能興雲雨。"
+        },
+        {
+            "explanation": "从虫。侖聲。讀若䓞艸。",
+            "note": "䓞各本譌戾。今正。䓞見艸部。侖聲而讀䓞者、雙聲也。十三部與十五部音轉冣近也。力計切。大徐力屯切。"
+        },
+        {
+            "explanation": "蜦或从戾。",
+            "note": "淮南書如此作。"
+        }
+    ],
+    "indexes": [
+        "蜦",
+        "蜧"
+    ]
+}

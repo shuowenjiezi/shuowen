@@ -1,0 +1,43 @@
+{
+    "id": 8992,
+    "wordhead": "墣",
+    "explanation": "塊也。从土菐聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "匹角切",
+    "variants": [
+        {
+            "wordhead": "圤",
+            "explanation": "墣或从卜。",
+            "seal_character": "疞"
+        }
+    ],
+    "seal_character": "疝",
+    "pinyin": "pu",
+    "pinyin_full": "pú",
+    "components": [
+        "土",
+        "卜",
+        "菐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "凷也。",
+            "note": "吳語曰。㳙人疇枕王以墣。淮南書曰。土之勝水也。非以一墣塞江。"
+        },
+        {
+            "explanation": "从土。菐聲。",
+            "note": "匹角切。古音在三部。"
+        },
+        {
+            "explanation": "墣或从卜。",
+            "note": "卜聲亦在三部。"
+        }
+    ],
+    "indexes": [
+        "墣",
+        "圤"
+    ]
+}

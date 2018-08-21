@@ -1,0 +1,32 @@
+{
+    "id": 15,
+    "wordhead": "祿",
+    "explanation": "福也。从示彔聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "盧谷切",
+    "variants": [],
+    "seal_character": "丗",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "示",
+        "彔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "福也。",
+            "note": "詩言福祿多不別。商頌五篇。㒳言福、三言祿。大恉不殊。釋詁、毛詩傳皆曰。祿、福也。此古義也。鄭旣醉箋始爲分別之詞。"
+        },
+        {
+            "explanation": "从示。彔聲。",
+            "note": "盧谷切。三部。"
+        }
+    ],
+    "indexes": [
+        "禄",
+        "祿"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 9579,
+    "wordhead": "阪",
+    "explanation": "坡者曰阪。一曰澤障。一曰山脅也。从𨸏反聲。",
+    "volume": "14",
+    "radical": "𨸏",
+    "pronunciation": "府遠切",
+    "variants": [],
+    "seal_character": "砮",
+    "pinyin": "ban",
+    "pinyin_full": "bǎn",
+    "components": [
+        "反",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "坡者曰阪。",
+            "note": "釋地、毛傳皆曰。陂者曰阪。許云坡者曰阪。然則坡陂異部同字也。說卦傳。其於稼也爲反生。叚借反爲阪也。"
+        },
+        {
+            "explanation": "从𨸏。反聲。",
+            "note": "府遠切。十四部。"
+        },
+        {
+            "explanation": "一曰澤障也。",
+            "note": "陂爲澤障。故阪亦同。"
+        },
+        {
+            "explanation": "一曰山脅也。",
+            "note": "山脅、山胛也。呂覽。阪險原隰、高注。阪險、傾危也。小雅阪田箋曰。崎嶇墝埆之處也。"
+        }
+    ],
+    "indexes": [
+        "坂",
+        "阪"
+    ]
+}

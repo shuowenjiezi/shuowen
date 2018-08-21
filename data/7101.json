@@ -1,0 +1,31 @@
+{
+    "id": 7101,
+    "wordhead": "衍",
+    "explanation": "水朝宗于海也。从水从行。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "以淺切",
+    "variants": [],
+    "seal_character": "浢",
+    "pinyin": "yan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "行",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水朝宗于海皃也。",
+            "note": "鉉無皃字。非。海淖之來。旁推曲暢。兩厓渚涘之閒不辨牛馬。故曰衍。引伸爲凡有餘之義。假羨字爲之。"
+        },
+        {
+            "explanation": "从水行。",
+            "note": "洐字水在旁。衍字水在中。在中者、盛也。會意。以淺切。十四部。"
+        }
+    ],
+    "indexes": [
+        "衍"
+    ]
+}

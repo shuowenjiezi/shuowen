@@ -1,0 +1,31 @@
+{
+    "id": 3157,
+    "wordhead": "衄",
+    "explanation": "鼻出血也。从血丑聲。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "女六切",
+    "variants": [],
+    "seal_character": "尮",
+    "pinyin": "nv",
+    "pinyin_full": "nǜ",
+    "components": [
+        "血",
+        "丑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼻出血也。",
+            "note": "素問曰。鼻衄。又脾移熱於肝則爲驚衄。按諸書用挫衄者、縮朒字之假借也。縮朒者、退卻之意也。"
+        },
+        {
+            "explanation": "从血。丑聲。",
+            "note": "女六切。三部。"
+        }
+    ],
+    "indexes": [
+        "衄"
+    ]
+}

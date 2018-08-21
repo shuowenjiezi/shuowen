@@ -1,0 +1,32 @@
+{
+    "id": 3240,
+    "wordhead": "饑",
+    "explanation": "穀不孰爲饑。从食幾聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "居衣切",
+    "variants": [],
+    "seal_character": "岞",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "幾",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "榖不孰爲饑。",
+            "note": "釋天文。又曰。仍饑爲荐。按論語年饑、因之以饑饉。鄭本皆作飢。"
+        },
+        {
+            "explanation": "从𠊊。幾聲。",
+            "note": "居衣切。十五部。"
+        }
+    ],
+    "indexes": [
+        "饥",
+        "饑"
+    ]
+}

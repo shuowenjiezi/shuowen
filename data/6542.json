@@ -1,0 +1,43 @@
+{
+    "id": 6542,
+    "wordhead": "黥",
+    "explanation": "墨刑在面也。从黑京聲。",
+    "volume": "10",
+    "radical": "黑",
+    "pronunciation": "渠京切",
+    "variants": [
+        {
+            "wordhead": "𪐛",
+            "explanation": "黥或从刀<span>[<span>𠚣</span>]</span>。",
+            "seal_character": "欅"
+        }
+    ],
+    "seal_character": "欄",
+    "pinyin": "qing",
+    "pinyin_full": "qínɡ",
+    "components": [
+        "刀",
+        "黑",
+        "京"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "墨㓝在面也。",
+            "note": "此㓝亦謂之墨。周禮司㓝注曰。墨、黥也。先刻其面。以墨窒之。"
+        },
+        {
+            "explanation": "从黑。京聲。",
+            "note": "渠京切。古音在十部。"
+        },
+        {
+            "explanation": "或从刀作。",
+            "note": "刀之而墨之也。會也。"
+        }
+    ],
+    "indexes": [
+        "黥",
+        "𪐛"
+    ]
+}

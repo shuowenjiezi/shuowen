@@ -1,0 +1,31 @@
+{
+    "id": 4103,
+    "wordhead": "酁",
+    "explanation": "宋地也。从邑毚聲。讀若讒。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "士咸切",
+    "variants": [],
+    "seal_character": "恟",
+    "pinyin": "chan",
+    "pinyin_full": "chán",
+    "components": [
+        "毚",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "宋地也。",
+            "note": "左傳哀十七年。宋皇瑗之子麇。有友曰田丙。而奪其兄酁般邑以與之。酁般猶祁午、盂丙。酁者、般之邑也。不詳其地在漢之何郡縣。故但曰宋地。"
+        },
+        {
+            "explanation": "从邑。毚聲。讀若讒。",
+            "note": "士咸切。八部。"
+        }
+    ],
+    "indexes": [
+        "酁"
+    ]
+}

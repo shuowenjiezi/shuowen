@@ -1,0 +1,43 @@
+{
+    "id": 4521,
+    "wordhead": "䪢",
+    "explanation": "墜也。从韭，次、𠂔皆聲。",
+    "volume": "07",
+    "radical": "韭",
+    "pronunciation": "祖雞切",
+    "variants": [
+        {
+            "wordhead": "𠬘",
+            "explanation": "䪡或从齊<span>[<span>𠄷</span><span>𠫼</span>]</span>。",
+            "seal_character": "戽"
+        }
+    ],
+    "seal_character": "戼",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "齊",
+        "次",
+        "韭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩐌也。",
+            "note": "周禮醢人。王舉則共醢六十罋。以五齊七醢七菹三臡實之。注。齊當爲齏。凡醢醬所和。細切爲齏。全物若䐑爲菹。王氏念孫曰。䪣者、細碎之名。莊子言䪣粉是也。按艸部曰。菹、酢菜也。酢菜之細切者曰䪣。通俗文曰。淹韭曰䪠。淹薤曰𩐌。葢其名起於淹韭、淹䪥。故从韭。"
+        },
+        {
+            "explanation": "从韭。次𠂔皆聲。",
+            "note": "二字皆聲。米部竊字同也。祖雞切。十五部。"
+        },
+        {
+            "explanation": "䪣或从𠫼。",
+            "note": "齊聲。"
+        }
+    ],
+    "indexes": [
+        "䪢",
+        "𠬘"
+    ]
+}

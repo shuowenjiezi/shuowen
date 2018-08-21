@@ -1,0 +1,47 @@
+{
+    "id": 8874,
+    "wordhead": "蠏",
+    "explanation": "有二敖八足，㫄行，非蛇鮮之穴無所庇。从虫解聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "胡買切",
+    "variants": [
+        {
+            "wordhead": "䲒",
+            "explanation": "蟹或从魚<span>[<span>𤋳</span>]</span>。",
+            "seal_character": "甇"
+        }
+    ],
+    "seal_character": "甆",
+    "pinyin": "xie",
+    "pinyin_full": "xiè",
+    "components": [
+        "虫",
+        "解",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "有二敖八足。",
+            "note": "敖俗作螯、作𩪋。廣韵曰。𩪋、蟹大腳也。螯、蟹屬。然則俗作螯尤誤也。敖、出游也。故其大腳曰敖。今本大戴禮作螯。非。"
+        },
+        {
+            "explanation": "旁行。",
+            "note": "攷工記梓人仄行。卽旁行也。鄭亦云蟹屬。"
+        },
+        {
+            "explanation": "非它鮮之穴無所庇。",
+            "note": "庇者、蔭也。鮮者、今之鱓字。鱓者、魚名。見魚部。魚之似蛇者也。常演切。又作䱇。今大戴禮作䱇。或誤䱉。荀子作蟺。許書古本多作鮮。葢漢人多叚貉國鮮魚之字爲之。本無正字也。玄應曰。鱓又作鱔鮮二形、同。勸學篇曰。蟹二螯八足。非虵䱇之穴而無所寄者。用心躁也。"
+        },
+        {
+            "explanation": "从虫。解聲。",
+            "note": "胡買切。十六部。廣韵曰。蟹、說文作蠏。知古如此作。"
+        }
+    ],
+    "indexes": [
+        "蠏",
+        "䲒"
+    ]
+}

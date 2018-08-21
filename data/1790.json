@@ -1,0 +1,39 @@
+{
+    "id": 1790,
+    "wordhead": "靼",
+    "explanation": "柔革也。从革，从旦聲。",
+    "volume": "03",
+    "radical": "革",
+    "pronunciation": "旨熱切",
+    "variants": [
+        {
+            "wordhead": "𩍕",
+            "explanation": "古文靼从亶。",
+            "seal_character": "嗡"
+        }
+    ],
+    "seal_character": "嗠",
+    "pinyin": "da",
+    "pinyin_full": "dá",
+    "components": [
+        "革",
+        "亶",
+        "旦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "柔革也。",
+            "note": "柔當作鞣。上文云柔皮之工、謂治之使柔。此云柔革、謂革之柔耎者也。"
+        },
+        {
+            "explanation": "从革。旦聲。",
+            "note": "旨熱切。十五部。旦聲在十四部。合音也。"
+        }
+    ],
+    "indexes": [
+        "靼",
+        "𩍕"
+    ]
+}

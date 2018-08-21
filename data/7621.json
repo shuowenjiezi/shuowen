@@ -1,0 +1,39 @@
+{
+    "id": 7621,
+    "wordhead": "鮨",
+    "explanation": "魚䏽醬也。出蜀中。从魚旨聲。一曰鮪魚名。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "旨夷切",
+    "variants": [],
+    "seal_character": "澥",
+    "pinyin": "qi",
+    "pinyin_full": "qí",
+    "components": [
+        "旨",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魚䏽𤖕也。",
+            "note": "醬字衍。䏽者、豕肉醬也。引申爲魚肉醬。則偁魚䏽可矣。公食大夫禮牛鮨注曰。內則鮨爲膾。然則膾用鮨。謂此經之醢牛鮨、卽內則之醢牛膾也。聶而切之爲膾。更細切之、則成醬爲鮨矣。鮨者、膾之冣細者也。牛得名鮨、猶魚得名䏽也。鄭曰。今文鮨作鰭。按鰭是叚借字。說文有耆無鰭。"
+        },
+        {
+            "explanation": "出蜀中。",
+            "note": "謂魚醬獨蜀中有之。"
+        },
+        {
+            "explanation": "从魚。旨聲。",
+            "note": "旨夷切。十五部。"
+        },
+        {
+            "explanation": "一曰鮪魚名。",
+            "note": "鮪魚名當作鮨魚也三字一句。謂有魚名鮨也。"
+        }
+    ],
+    "indexes": [
+        "鮨"
+    ]
+}

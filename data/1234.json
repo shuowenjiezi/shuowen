@@ -1,0 +1,35 @@
+{
+    "id": 1234,
+    "wordhead": "𢕬",
+    "explanation": "行皃。从彳歰聲。一曰此與馺同。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "穌合切",
+    "variants": [],
+    "seal_character": "卥",
+    "pinyin": "sa",
+    "pinyin_full": "sà",
+    "components": [
+        "彳",
+        "歰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行皃。",
+            "note": "吳都賦。㒊譶澩㺒。㒊當从彳。廣韵。？、衆行皃。"
+        },
+        {
+            "explanation": "从彳。歰聲。",
+            "note": "穌合切。七部。"
+        },
+        {
+            "explanation": "一曰此與馺同。",
+            "note": "一說？卽馺字也。馺、馬行相及也。"
+        }
+    ],
+    "indexes": [
+        "𢕬"
+    ]
+}

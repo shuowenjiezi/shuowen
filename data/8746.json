@@ -1,0 +1,39 @@
+{
+    "id": 8746,
+    "wordhead": "螾",
+    "explanation": "側行者。从虫寅聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "余忍切",
+    "variants": [
+        {
+            "wordhead": "蚓",
+            "explanation": "螾或从引。",
+            "seal_character": "瑻"
+        }
+    ],
+    "seal_character": "瑺",
+    "pinyin": "yin",
+    "pinyin_full": "yǐn",
+    "components": [
+        "虫",
+        "寅",
+        "引"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "側行者。",
+            "note": "考工記。卻行、仄行。鄭曰。卻行、螾衍屬。仄行、蟹屬。與許異。今觀丘蚓實卻行。非側行。鄭說長也。丘蚓俗曰曲蟮。漢巴郡有朐忍縣。以此蟲得名。丘朐曲一語之轉也。或譌胊忍爲胊䏰。讀如蠢潤二音。遠失之矣。"
+        },
+        {
+            "explanation": "从虫。寅聲。",
+            "note": "余忍切。十二部。"
+        }
+    ],
+    "indexes": [
+        "螾",
+        "蚓"
+    ]
+}

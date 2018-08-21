@@ -1,0 +1,35 @@
+{
+    "id": 857,
+    "wordhead": "咠",
+    "explanation": "聶語也。从口从耳。《詩》曰：“咠咠幡幡。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "七入切",
+    "variants": [],
+    "seal_character": "冸",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "口",
+        "耳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聶語也。",
+            "note": "耳部曰。聶、附耳私小語也。按聶取㒳耳附一耳。咠取口附耳也。"
+        },
+        {
+            "explanation": "从口耳。",
+            "note": "七入切。七部。"
+        },
+        {
+            "explanation": "詩曰。咠咠幡幡。",
+            "note": "巷伯三章。緝緝翩翩。四章。捷捷幡幡。許引當云咠咠翩翩。而云咠咠幡幡者。誤合二章爲一耳。咠咠今詩作緝緝。毛云。緝緝口舌聲。"
+        }
+    ],
+    "indexes": [
+        "咠"
+    ]
+}

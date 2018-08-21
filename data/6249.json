@@ -1,0 +1,31 @@
+{
+    "id": 6249,
+    "wordhead": "麙",
+    "explanation": "山羊而大者，細角。从鹿咸聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "胡毚切",
+    "variants": [],
+    "seal_character": "槁",
+    "pinyin": "xian",
+    "pinyin_full": "xián",
+    "components": [
+        "咸",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山羊而大者細角。",
+            "note": "此七字文理不順。疑有誤。當作山羊而大角者。"
+        },
+        {
+            "explanation": "从鹿。咸聲。",
+            "note": "胡毚切。七部。按釋獸說麙。與此絶異。"
+        }
+    ],
+    "indexes": [
+        "麙"
+    ]
+}

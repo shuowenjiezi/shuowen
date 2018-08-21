@@ -1,0 +1,32 @@
+{
+    "id": 1522,
+    "wordhead": "誡",
+    "explanation": "敕也。从言戒聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "古拜切",
+    "variants": [],
+    "seal_character": "咧",
+    "pinyin": "jie",
+    "pinyin_full": "jiè",
+    "components": [
+        "戒",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敕也。",
+            "note": "攵部曰。敕、誡也。"
+        },
+        {
+            "explanation": "从言。戒聲。",
+            "note": "古拜切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "诫",
+        "誡"
+    ]
+}

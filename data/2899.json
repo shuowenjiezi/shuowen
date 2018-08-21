@@ -1,0 +1,39 @@
+{
+    "id": 2899,
+    "wordhead": "筵",
+    "explanation": "竹席也。从竹延聲。《周禮》曰：“度堂以筵。”筵一丈。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "以然切",
+    "variants": [],
+    "seal_character": "嫻",
+    "pinyin": "yan",
+    "pinyin_full": "yán",
+    "components": [
+        "延",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竹席也。",
+            "note": "周禮司幾筵注曰。筵亦席也。鋪陳曰筵。藉之曰席。然基言之筵席通矣。按司几筵掌五几五席之名物。筵席不別也。五席不用竹。惟後鄭說次席是桃枝席。又說顧命蔑席、厎席、豐席、筍席皆爲竹席。許釋筵爲竹席者、其字从竹也。"
+        },
+        {
+            "explanation": "从竹。延聲。",
+            "note": "以然切。十四部。"
+        },
+        {
+            "explanation": "周禮曰。度堂以筵。",
+            "note": "匠人職曰。室中度以几。堂上度以筵。"
+        },
+        {
+            "explanation": "筵一丈。",
+            "note": "此釋周禮也。周禮曰。度九尺之筵。此不合。未詳。"
+        }
+    ],
+    "indexes": [
+        "筵"
+    ]
+}

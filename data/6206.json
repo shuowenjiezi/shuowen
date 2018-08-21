@@ -1,0 +1,36 @@
+{
+    "id": 6206,
+    "wordhead": "騰",
+    "explanation": "傳也。从馬朕聲。一曰騰，犗馬也。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "徒登切",
+    "variants": [],
+    "seal_character": "榐",
+    "pinyin": "teng",
+    "pinyin_full": "ténɡ",
+    "components": [
+        "馬",
+        "朕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傳也。",
+            "note": "傳與上文傳同。皆張戀切。引伸爲馳也。爲躍也。"
+        },
+        {
+            "explanation": "从馬。朕聲。",
+            "note": "徒登切。六部。"
+        },
+        {
+            "explanation": "一曰犗馬也。",
+            "note": "上文犗馬謂之騬、則是騰爲騬之假借字也。亦有叚騰爲乘者。如月令絫牛騰馬、讀乘匹之乘。"
+        }
+    ],
+    "indexes": [
+        "腾",
+        "騰"
+    ]
+}

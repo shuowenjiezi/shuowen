@@ -1,0 +1,44 @@
+{
+    "id": 2801,
+    "wordhead": "刅",
+    "explanation": "傷也。从刃从一。",
+    "volume": "04",
+    "radical": "刃",
+    "pronunciation": "楚良切",
+    "variants": [
+        {
+            "wordhead": "創",
+            "explanation": "或从刀<span>[<span>𠚣</span>]</span>倉聲。",
+            "seal_character": "媍"
+        }
+    ],
+    "seal_character": "媌",
+    "pinyin": "chuang",
+    "pinyin_full": "chuānɡ",
+    "components": [
+        "一",
+        "倉",
+        "刀",
+        "刃"
+    ],
+    "xuan_note": "臣鉉等曰：今俗别作瘡，非是也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "傷也。",
+            "note": "凡殺傷必以刃。"
+        },
+        {
+            "explanation": "从刃。从一。",
+            "note": "按鉉本篆作？。鍇本篆作？。今按當是從刃從一。一者、傷之象。？之所入也。？省則作？。小徐本井部？、米部粱皆從？。考桐柏廟碑梁字、羊竇、道碑粱字、五經文字及唐石經梁粱皆不作刅。今人作？書梁粱皆從刅。非古法。不可從也。楚良切。十部。"
+        },
+        {
+            "explanation": "刅或从倉。",
+            "note": "從刀倉聲也。凡刀創及創瘍字皆作此。俗變作？、作瘡。多用創爲？字。"
+        }
+    ],
+    "indexes": [
+        "刅",
+        "創"
+    ]
+}

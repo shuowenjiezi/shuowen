@@ -1,0 +1,31 @@
+{
+    "id": 20,
+    "wordhead": "福",
+    "explanation": "祐也。从示畐聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "方六切",
+    "variants": [],
+    "seal_character": "东",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "示",
+        "畐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "備也。",
+            "note": "祭統曰。賢者之祭也。必受其福。非世所謂福也。福者備也。備者百順之名也。無所不順者之謂備。按福備古音皆在第一部。曡韵也。鉉本作祜也。非。祜正世所謂福也。"
+        },
+        {
+            "explanation": "从示。畐聲。",
+            "note": "方六切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "福"
+    ]
+}

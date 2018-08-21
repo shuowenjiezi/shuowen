@@ -1,0 +1,32 @@
+{
+    "id": 6130,
+    "wordhead": "駁",
+    "explanation": "馬色不純。从馬爻聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "北角切",
+    "variants": [],
+    "seal_character": "楀",
+    "pinyin": "bo",
+    "pinyin_full": "bó",
+    "components": [
+        "馬",
+        "爻"
+    ],
+    "xuan_note": "臣鉉等曰：爻非聲，疑象駁文。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬色不純。",
+            "note": "純同𨣶。崔覲曰。不襍曰純。釋嘼曰。駵白駁。邠風毛傳同。謂駵馬發白色也。許說不同者、許意馬異色成片段者皆得曰駁。引伸之爲凡色不純之偁。"
+        },
+        {
+            "explanation": "从馬。爻聲。",
+            "note": "北角切。古音在二部。與駮各字。"
+        }
+    ],
+    "indexes": [
+        "驳",
+        "駁"
+    ]
+}

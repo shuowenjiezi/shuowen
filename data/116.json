@@ -1,0 +1,35 @@
+{
+    "id": 116,
+    "wordhead": "玠",
+    "explanation": "大圭也。从玉介聲。《周書》曰：“稱奉介圭。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "古拜切",
+    "variants": [],
+    "seal_character": "亐",
+    "pinyin": "jie",
+    "pinyin_full": "jiè",
+    "components": [
+        "玉",
+        "介"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大圭也。",
+            "note": "攷工記。天子鎭圭。諸矦命圭。戴先生曰。二者皆謂之介圭。爾雅。圭大尺二寸爲玠。據鎭圭言也。詩。錫爾介圭。以作爾寶。據命圭言也。介者、大也。禮器。大圭不瑑。以素爲貴。亦謂此也。"
+        },
+        {
+            "explanation": "从王。介聲。",
+            "note": "古拜切。十五部。"
+        },
+        {
+            "explanation": "周書曰。稱奉介圭。",
+            "note": "顧命曰。大保承介圭。又曰。賓稱奉圭兼幣。葢許君偶誤合二爲一。如或簸或舀、竷竷舞我之類。韻會引介圭作玠玉。"
+        }
+    ],
+    "indexes": [
+        "玠"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5274,
+    "wordhead": "襱",
+    "explanation": "絝踦也。从衣龍聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "丈冢切",
+    "variants": [
+        {
+            "wordhead": "𧟎",
+            "explanation": "襱或从賣<span>[<span>𧸇</span>]</span>。",
+            "seal_character": "斃"
+        }
+    ],
+    "seal_character": "斂",
+    "pinyin": "long",
+    "pinyin_full": "lónɡ",
+    "components": [
+        "龍",
+        "賣",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絝踦也。",
+            "note": "方言曰。袴、齊魯之間謂之䙭。或謂之襱。郭注。今俗呼袴踦爲襱。音鮦魚。按絝踦對下文絝上言。袴之近足狹處也。"
+        },
+        {
+            "explanation": "从衣。龍聲。",
+            "note": "丈冢切。九部。"
+        },
+        {
+            "explanation": "襱或从𧶠。",
+            "note": "𧶠聲也。三部與九部合音爲近。如急就篇華洞樂。皇象碑及廣韵作華𨽍樂。"
+        }
+    ],
+    "indexes": [
+        "襱",
+        "𧟎"
+    ]
+}

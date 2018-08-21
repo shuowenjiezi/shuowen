@@ -1,0 +1,31 @@
+{
+    "id": 6250,
+    "wordhead": "麢",
+    "explanation": "大羊而細角。从鹿霝聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "槂",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "霝",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大羊而細角。",
+            "note": "釋獸曰。麢大羊。山海經作麢。本艸作羚羊。"
+        },
+        {
+            "explanation": "从鹿。霝聲。",
+            "note": "郞丁切。十一部。"
+        }
+    ],
+    "indexes": [
+        "麢"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 8634,
+    "wordhead": "綫",
+    "explanation": "縷也。从糸戔聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "私箭切",
+    "variants": [
+        {
+            "wordhead": "線",
+            "explanation": "古文綫。",
+            "seal_character": "珹"
+        }
+    ],
+    "seal_character": "珸",
+    "pinyin": "xian",
+    "pinyin_full": "xiàn",
+    "components": [
+        "戔",
+        "糸",
+        "泉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "縷也。",
+            "note": "鄭司農周禮注曰。線、縷也。此本謂布綫。引申之絲亦偁綫。"
+        },
+        {
+            "explanation": "从糸。戔聲。",
+            "note": "私箭切。十四部。"
+        },
+        {
+            "explanation": "古文綫。",
+            "note": "周禮縫人作線。鮑人同。注曰。故書線作綜。當爲糸旁泉。讀爲絤。按線作綜、字之誤也。絤則鄭時行此字。漢功臣表。不絕如綫。晉灼曰。綫今線縷字。葢晉時通行線字。故云尒。許時古線今綫。晉時則爲古綫今線。葢文字古今轉移無定如此。"
+        }
+    ],
+    "indexes": [
+        "线",
+        "綫",
+        "線"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 9022,
+    "wordhead": "坐",
+    "explanation": "止也。从土，从畱省。土，所止也。此與畱同意。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "但臥切",
+    "variants": [
+        {
+            "wordhead": "坐",
+            "explanation": "古文坐。",
+            "seal_character": "痂"
+        }
+    ],
+    "seal_character": "痁",
+    "pinyin": "zuo",
+    "pinyin_full": "zuò",
+    "components": [
+        "人",
+        "畱",
+        "土"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "止也。",
+            "note": "止、下基也。引申爲住止。凡言坐落、坐罪是也。引申爲席地而坐。小雅。不遑啓處。傳曰。啓、跪。處、居也。古謂跪爲啓。謂坐爲凥、爲處。凥俗作居。引申謂凡止箸爲坐。"
+        },
+        {
+            "explanation": "从畱省。从土。",
+            "note": "會意。徂臥切。十七部。"
+        },
+        {
+            "explanation": "土、所止也。此與畱同意。",
+            "note": "釋从土之意。从土不必土。猶畱从田不必田。皆謂所止也。故曰同意。"
+        },
+        {
+            "explanation": "古文𡋲。",
+            "note": "今古文行而小篆廢矣。止必非一人。故从二人。左傳。鍼莊子爲坐。凡坐獄訟。必兩造也。"
+        }
+    ],
+    "indexes": [
+        "坐",
+        "坐"
+    ]
+}

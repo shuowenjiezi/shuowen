@@ -1,0 +1,43 @@
+{
+    "id": 1243,
+    "wordhead": "徯",
+    "explanation": "待也。从彳奚聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "胡計切",
+    "variants": [
+        {
+            "wordhead": "蹊",
+            "explanation": "徯或从足。",
+            "seal_character": "卯"
+        }
+    ],
+    "seal_character": "卮",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "足",
+        "彳",
+        "奚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "待也。",
+            "note": "孟子引書徯我后。趙曰。徯、待也。"
+        },
+        {
+            "explanation": "从彳。奚聲。",
+            "note": "胡計切。十六部。按書孟音義、廣韵、玉篇、集韵、說文篆韵諩皆上聲。疑胡計誤。"
+        },
+        {
+            "explanation": "徯或从足。",
+            "note": "左傳。牽牛以蹊人之田。孟子。山徑之蹊。月令。塞徯徑。凡始行之以待後行之徑曰蹊。引伸之義也。今人畫爲二字。音則徯上蹊平。誤矣。"
+        }
+    ],
+    "indexes": [
+        "徯",
+        "蹊"
+    ]
+}

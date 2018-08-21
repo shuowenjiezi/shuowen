@@ -1,0 +1,35 @@
+{
+    "id": 8410,
+    "wordhead": "瓬",
+    "explanation": "周家搏埴之工也。从瓦方聲。讀若㧚破之㧚。",
+    "volume": "12",
+    "radical": "瓦",
+    "pronunciation": "分兩切",
+    "variants": [],
+    "seal_character": "猀",
+    "pinyin": "fang",
+    "pinyin_full": "fǎnɡ",
+    "components": [
+        "方",
+        "瓦"
+    ],
+    "xuan_note": "臣鉉等曰：㧚音瓦，非聲，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周家搏埴之工也。",
+            "note": "搏作摶者誤。今正。考工記曰。搏埴之工陶瓬。鄭曰。搏之言拍也。埴、黏土也。按手部搏、索持也。拍、拊也。是搏之本義不訓拍。故鄭以之言通之。"
+        },
+        {
+            "explanation": "从瓦。方聲。",
+            "note": "分兩切。十部。"
+        },
+        {
+            "explanation": "讀若㧚破之㧚。",
+            "note": "㧚不成字。轉寫譌舛。考工記注。大鄭讀爲甫始之甫。後鄭讀如放於此乎之放。許云方聲、則讀同後鄭放於此乎。今公羊放作昉。"
+        }
+    ],
+    "indexes": [
+        "瓬"
+    ]
+}

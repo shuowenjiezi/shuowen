@@ -1,0 +1,35 @@
+{
+    "id": 4575,
+    "wordhead": "守",
+    "explanation": "守官也。从宀从寸。寺府之事者。从寸。寸，法度也。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "書九切",
+    "variants": [],
+    "seal_character": "扽",
+    "pinyin": "shou",
+    "pinyin_full": "shǒu",
+    "components": [
+        "宀",
+        "寸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "守官也。",
+            "note": "左傳曰。守道不如守官。孟子曰。有官守者。不得其職則去。"
+        },
+        {
+            "explanation": "从宀。从寸。从宀、寺府之事也。",
+            "note": "寸部曰。寺、廷也。广部曰。府、文書藏也。"
+        },
+        {
+            "explanation": "从寸、法度也。",
+            "note": "守从二者會意。書九切。三部。从宀以下十四字參韵會本訂。"
+        }
+    ],
+    "indexes": [
+        "守"
+    ]
+}

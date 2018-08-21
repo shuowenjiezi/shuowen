@@ -1,0 +1,38 @@
+{
+    "id": 1432,
+    "wordhead": "嚚",
+    "explanation": "語聲也。从㗊臣聲。",
+    "volume": "03",
+    "radical": "㗊",
+    "pronunciation": "語巾切",
+    "variants": [
+        {
+            "wordhead": "𡅚",
+            "explanation": "古文嚚。",
+            "seal_character": "吾"
+        }
+    ],
+    "seal_character": "吽",
+    "pinyin": "yin",
+    "pinyin_full": "yín",
+    "components": [
+        "土",
+        "臣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "語聲也。",
+            "note": "左傳曰。口不道忠信之言爲嚚。引伸之義也。"
+        },
+        {
+            "explanation": "从㗊。臣聲。",
+            "note": "語巾切。十二部。"
+        }
+    ],
+    "indexes": [
+        "嚚",
+        "𡅚"
+    ]
+}

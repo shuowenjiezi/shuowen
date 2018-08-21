@@ -1,0 +1,35 @@
+{
+    "id": 2068,
+    "wordhead": "卟",
+    "explanation": "卜以問疑也。从口、卜。讀與稽同。《書》云“卟疑”。",
+    "volume": "03",
+    "radical": "卜",
+    "pronunciation": "古兮切",
+    "variants": [],
+    "seal_character": "址",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "口",
+        "卜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "⺊㠯問疑也。",
+            "note": "左傳曰。⺊以決疑。不疑何⺊。問疑故從口。俗作乩。"
+        },
+        {
+            "explanation": "从口⺊。",
+            "note": "當作⺊口。⺊而以口問也。凡若此等未能盡正。學者於此例之。可以三隅反矣。"
+        },
+        {
+            "explanation": "讀與稽同。",
+            "note": "古兮切。十六部。按小徐曰。尙書曰明用卟疑。今文借稽字。徐語肊說耳。尙書無作卟疑者。卽有之。亦陸氏所謂穿鑿之徒務欲立異者也。大徐乃於同下沾書云卟疑四字。疑惑後生。其亦妄矣。"
+        }
+    ],
+    "indexes": [
+        "卟"
+    ]
+}

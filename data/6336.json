@@ -1,0 +1,42 @@
+{
+    "id": 6336,
+    "wordhead": "狂",
+    "explanation": "狾犬也。从犬㞷聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "巨王切",
+    "variants": [
+        {
+            "wordhead": "𢚇",
+            "explanation": "古文从心。",
+            "seal_character": "模"
+        }
+    ],
+    "seal_character": "樠",
+    "pinyin": "kuang",
+    "pinyin_full": "kuánɡ",
+    "components": [
+        "犬",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "狾犬也。",
+            "note": "二篆爲轉注。叚借之爲人病之偁。"
+        },
+        {
+            "explanation": "从犬。𡉚聲。",
+            "note": "巨王切。十部。"
+        },
+        {
+            "explanation": "古文从心。",
+            "note": "按此字當从古文作。小篆變爲从犬。非也。"
+        }
+    ],
+    "indexes": [
+        "狂",
+        "𢚇"
+    ]
+}

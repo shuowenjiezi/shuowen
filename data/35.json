@@ -1,0 +1,31 @@
+{
+    "id": 35,
+    "wordhead": "祔",
+    "explanation": "後死者合食於先祖。从示付聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "符遇切",
+    "variants": [],
+    "seal_character": "丰",
+    "pinyin": "fu",
+    "pinyin_full": "fù",
+    "components": [
+        "示",
+        "付"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "後死者合食於先祖。",
+            "note": "士虞禮。卒哭。明日以其班祔。春秋左氏傳曰。凡君薨。卒哭而祔。祔而作主。特祀於主。蒸嘗禘於廟。春秋榖梁傳曰。作主壞廟有時日於練焉。士虞禮注與穀梁同。"
+        },
+        {
+            "explanation": "从示。付聲。",
+            "note": "符遇切。古音在第四部。"
+        }
+    ],
+    "indexes": [
+        "祔"
+    ]
+}

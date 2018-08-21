@@ -1,0 +1,46 @@
+{
+    "id": 9666,
+    "wordhead": "𨽝",
+    "explanation": "𨹟也。从𨺅，纷聲。纷，籒文嗌字。",
+    "volume": "14",
+    "radical": "𨺅",
+    "pronunciation": "烏懈切",
+    "variants": [
+        {
+            "wordhead": "隘",
+            "explanation": "籒<span>{<span>篆</span>}</span>文𨽝从𨸏、益。",
+            "seal_character": "碌"
+        }
+    ],
+    "seal_character": "碋",
+    "pinyin": "ai",
+    "pinyin_full": "ài",
+    "components": [
+        "益",
+        "阜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "陋也。",
+            "note": "𨸏部曰。陋者、阸陜也。阸者、塞也。陜者、隘也。然則四字相爲轉注。"
+        },
+        {
+            "explanation": "从𨺅。𠍳聲。",
+            "note": "烏懈切。十六部。按此舉形聲包會意。如人之咽喉也。"
+        },
+        {
+            "explanation": "𠍳、籒文嗌字。",
+            "note": "此見口部隘下。各本譌作隘。今正。"
+        },
+        {
+            "explanation": "篆文𨽝。从𨸏益。",
+            "note": "篆各本作籒。今正。𨽝、籒文也。隘、小篆也。先籒而後篆者、爲其字之从㒳𨸏也。"
+        }
+    ],
+    "indexes": [
+        "𨽝",
+        "隘"
+    ]
+}

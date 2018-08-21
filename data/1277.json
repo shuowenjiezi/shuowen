@@ -1,0 +1,50 @@
+{
+    "id": 1277,
+    "wordhead": "齒",
+    "explanation": "口齗骨也。象口齒之形，止聲。凡齒之屬皆从齒。",
+    "volume": "02",
+    "radical": "齒",
+    "pronunciation": "昌里切",
+    "variants": [
+        {
+            "wordhead": "𠚒",
+            "explanation": "古文齒字。",
+            "seal_character": "厘"
+        }
+    ],
+    "seal_character": "厗",
+    "pinyin": "chi",
+    "pinyin_full": "chǐ",
+    "components": [
+        "止"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "口齗骨也。",
+            "note": "鄭注周禮曰。人生齒而體僃。男八月、女七月而生齒。"
+        },
+        {
+            "explanation": "象口齒之形。",
+            "note": "？者、象齒。餘？字也。"
+        },
+        {
+            "explanation": "止聲。",
+            "note": "昌里切。一部。"
+        },
+        {
+            "explanation": "凡齒之屬皆从齒。",
+            "note": "从小徐也。大徐本誤。"
+        },
+        {
+            "explanation": "古文齒字。",
+            "note": "古文獨體象形。不加聲旁。"
+        }
+    ],
+    "indexes": [
+        "齿",
+        "齒",
+        "𠚒"
+    ]
+}

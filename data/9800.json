@@ -1,0 +1,35 @@
+{
+    "id": 9800,
+    "wordhead": "醉",
+    "explanation": "卒也。卒其度量，不至於亂也。一曰潰也。从酉从卒。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "將遂切",
+    "variants": [],
+    "seal_character": "礲",
+    "pinyin": "zui",
+    "pinyin_full": "zuì",
+    "components": [
+        "卒",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "卒也。卒其度量不至於亂也。",
+            "note": "以曡韵爲訓。"
+        },
+        {
+            "explanation": "从酉卒。",
+            "note": "此以會意包形聲。卒亦聲也。將遂切。十五部。"
+        },
+        {
+            "explanation": "一曰酒潰也。",
+            "note": "此別一義。潰當爲漬之誤。若今醉蠏、醉鰕之類。"
+        }
+    ],
+    "indexes": [
+        "醉"
+    ]
+}

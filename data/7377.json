@@ -1,0 +1,31 @@
+{
+    "id": 7377,
+    "wordhead": "洗",
+    "explanation": "洒足也。从水先聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "穌典切",
+    "variants": [],
+    "seal_character": "溉",
+    "pinyin": "xian",
+    "pinyin_full": "xiǎn",
+    "components": [
+        "水",
+        "先"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "洒足也。",
+            "note": "洒俗本作灑。誤。今依宋本正。內則曰。面垢。燂潘請靧。足垢。燂湯請洗。此洒面曰靧、洒足曰洗之證也。洗讀如跣足之跣。自後人以洗代洒滌字。讀先禮切。沿至近日以洒代灑、轉同詩禮之用矣。"
+        },
+        {
+            "explanation": "从水。先聲。",
+            "note": "穌典切。十三部。"
+        }
+    ],
+    "indexes": [
+        "洗"
+    ]
+}

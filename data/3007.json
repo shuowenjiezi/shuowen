@@ -1,0 +1,47 @@
+{
+    "id": 3007,
+    "wordhead": "典",
+    "explanation": "五帝之書也。从冊在丌上，尊閣之也。莊都說，典，大冊也。",
+    "volume": "05",
+    "radical": "丌",
+    "pronunciation": "多殄切",
+    "variants": [
+        {
+            "wordhead": "𥮏",
+            "explanation": "古文典<span>[<span>𠔓</span>]</span>从竹。",
+            "seal_character": "孹"
+        }
+    ],
+    "seal_character": "學",
+    "pinyin": "dian",
+    "pinyin_full": "diǎn",
+    "components": [
+        "丌",
+        "竹",
+        "冊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "五帝之書也。",
+            "note": "三墳五典見左傳。"
+        },
+        {
+            "explanation": "从𠕋在丌上。尊閣之也。",
+            "note": "閣猶架也。以？庪閣之也。多殄切。古音在十三部。"
+        },
+        {
+            "explanation": "莊都說。典、大𠕋也。",
+            "note": "此字形之別說也。莊都者、博訪通人之一也。謂典字上从𠕋、下从大。以大𠕋會意。與𠕋在六上說異。不別爲篆者。許意下本不從大。故存其說而巳。"
+        },
+        {
+            "explanation": "古文典。从竹。",
+            "note": "古文𠕋作？。此从古文𠕋也。漢碑多有从竹、从艸者。"
+        }
+    ],
+    "indexes": [
+        "典",
+        "𥮏"
+    ]
+}

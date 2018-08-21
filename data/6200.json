@@ -1,0 +1,44 @@
+{
+    "id": 6200,
+    "wordhead": "馽",
+    "explanation": "絆馬也。从馬，囗其足。《春秋傳》曰：“韓厥執馽前。”讀若輒。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "陟立切",
+    "variants": [
+        {
+            "wordhead": "𦅬",
+            "explanation": "馽或从糸執<span>[<span>𡙕</span>]</span>聲。",
+            "seal_character": "榊"
+        }
+    ],
+    "seal_character": "榉",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "馬",
+        "囗",
+        "執",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "絆馬足也。",
+            "note": "足字依韵會補。糸部曰。絆者、馬繫也。是爲轉注。小雅白駒傳曰。縶、絆也。周頌有客箋同。莊子連之以羈馽。卽此字。"
+        },
+        {
+            "explanation": "从馬○其足。",
+            "note": "○象絆之形。隸書作馽。失其意矣。陟立切。七部。"
+        },
+        {
+            "explanation": "春秋傳曰。韓厥執𩡳前。",
+            "note": "前當作歬。語見成公二年左傳。今左作執縶馬前。葢古本正作執𩡳前。改易誤衍耳。許意、絆是物、𩡳是人用物。據傳文則謂絆爲𩡳。"
+        }
+    ],
+    "indexes": [
+        "馽",
+        "𦅬"
+    ]
+}

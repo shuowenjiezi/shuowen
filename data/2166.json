@@ -1,0 +1,39 @@
+{
+    "id": 2166,
+    "wordhead": "看",
+    "explanation": "睎也。从手下目。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "苦寒切",
+    "variants": [
+        {
+            "wordhead": "𥉏",
+            "explanation": "看或从倝。",
+            "seal_character": "垭"
+        }
+    ],
+    "seal_character": "垬",
+    "pinyin": "kan",
+    "pinyin_full": "kān",
+    "components": [
+        "目",
+        "手",
+        "倝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "睎也。从手下目。",
+            "note": "鍇曰。宋玉所謂揚袂障日而望所思也。此會意。苦寒切。十四部。"
+        },
+        {
+            "explanation": "看或从倝。",
+            "note": "倝聲。"
+        }
+    ],
+    "indexes": [
+        "看",
+        "𥉏"
+    ]
+}

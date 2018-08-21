@@ -1,0 +1,42 @@
+{
+    "id": 9036,
+    "wordhead": "城",
+    "explanation": "以盛民也。从土从成，成亦聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "氏征切",
+    "variants": [
+        {
+            "wordhead": "𩫨",
+            "explanation": "籒文城从𩫖<span>[<span>𩫏</span>]</span>。",
+            "seal_character": "痔"
+        }
+    ],
+    "seal_character": "痓",
+    "pinyin": "cheng",
+    "pinyin_full": "chénɡ",
+    "components": [
+        "土",
+        "成"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯盛民也。",
+            "note": "言盛者、如黍稷之在器中也。"
+        },
+        {
+            "explanation": "从土成。",
+            "note": "左傳曰。聖王先成民而後致力於神。"
+        },
+        {
+            "explanation": "成亦聲。",
+            "note": "氏征切。十一部。"
+        }
+    ],
+    "indexes": [
+        "城",
+        "𩫨"
+    ]
+}

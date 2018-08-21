@@ -1,0 +1,43 @@
+{
+    "id": 1172,
+    "wordhead": "逋",
+    "explanation": "亾也。从辵甫聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "博孤切",
+    "variants": [
+        {
+            "wordhead": "𨕝",
+            "explanation": "籒文逋从捕。",
+            "seal_character": "匞"
+        }
+    ],
+    "seal_character": "匝",
+    "pinyin": "bu",
+    "pinyin_full": "bū",
+    "components": [
+        "甫",
+        "辵",
+        "捕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亡也。",
+            "note": "亡部曰。亡、逃也。訟九二曰。歸而逋。"
+        },
+        {
+            "explanation": "从辵。甫聲。",
+            "note": "博孤切。五部。"
+        },
+        {
+            "explanation": "籒文逋。从捕。",
+            "note": "亦形聲。"
+        }
+    ],
+    "indexes": [
+        "逋",
+        "𨕝"
+    ]
+}

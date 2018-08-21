@@ -1,0 +1,35 @@
+{
+    "id": 2874,
+    "wordhead": "篇",
+    "explanation": "書也。一曰關西謂榜曰篇。从竹扁聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "芳連切",
+    "variants": [],
+    "seal_character": "嫡",
+    "pinyin": "pian",
+    "pinyin_full": "piān",
+    "components": [
+        "扁",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "書也。",
+            "note": "書箸也。箸於箭𥳑牘者也。亦謂之篇。古曰篇。漢人亦曰卷。卷者、縑帛可捲也。"
+        },
+        {
+            "explanation": "一曰關西謂榜篇。",
+            "note": "榜所以輔弓弩者。此其引伸之義。今之榜頟標榜是也。關西謂之篇、則同扁。"
+        },
+        {
+            "explanation": "从竹。扁聲。",
+            "note": "芳連切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "篇"
+    ]
+}

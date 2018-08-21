@@ -1,0 +1,39 @@
+{
+    "id": 3544,
+    "wordhead": "本",
+    "explanation": "木下曰本。从木，一在其下。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "布忖切",
+    "variants": [
+        {
+            "wordhead": "楍",
+            "explanation": "古文。",
+            "seal_character": "市"
+        }
+    ],
+    "seal_character": "币",
+    "pinyin": "ben",
+    "pinyin_full": "běn",
+    "components": [
+        "一",
+        "木",
+        "本"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“一，記其處也。本末朱皆同義。”",
+    "duan_notes": [
+        {
+            "explanation": "木下曰本。從木。從丅。",
+            "note": "此篆各本作<>。解云。從木、一𡉈其下。今依六書故所引唐本正。本未皆於形得義。其形一從木丄。一從木丅。而意卽𡉈是。全書如此者多矣。一記其處之說。非物形也。大雅以{木+丅[上下]}奏爲奔走。假借也。布忖切。十三部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "此從木象形也。根多竅似口。故從三口。"
+        }
+    ],
+    "indexes": [
+        "本",
+        "楍"
+    ]
+}

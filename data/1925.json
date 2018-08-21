@@ -1,0 +1,31 @@
+{
+    "id": 1925,
+    "wordhead": "史",
+    "explanation": "記事者也。从又持中。中，正也。凡史之屬皆从史。",
+    "volume": "03",
+    "radical": "史",
+    "pronunciation": "疏士切",
+    "variants": [],
+    "seal_character": "嚓",
+    "pinyin": "shi",
+    "pinyin_full": "shǐ",
+    "components": [
+        "又",
+        "中"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "記事者也。",
+            "note": "玉藻。動則左史書之。言則右史書之。不云記言者、以記事包之也。"
+        },
+        {
+            "explanation": "从又持中。中、正也。",
+            "note": "君舉必書。良史書法不隱。疏士切。一部。"
+        }
+    ],
+    "indexes": [
+        "史"
+    ]
+}

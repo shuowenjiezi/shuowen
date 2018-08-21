@@ -1,0 +1,31 @@
+{
+    "id": 6123,
+    "wordhead": "駹",
+    "explanation": "馬面顙皆白也。从馬尨聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "莫江切",
+    "variants": [],
+    "seal_character": "椸",
+    "pinyin": "mang",
+    "pinyin_full": "mánɡ",
+    "components": [
+        "馬",
+        "尨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬面顙皆白也。",
+            "note": "面者、顏前也。釋嘼曰。面顙皆白惟駹。按言惟者、以別於上文的顙、白顚、白達、素縣也。面顙白、其他非白也。故从尨。周禮駹車。借爲尨襍字也。"
+        },
+        {
+            "explanation": "从馬。尨聲。",
+            "note": "莫江切。九部。"
+        }
+    ],
+    "indexes": [
+        "駹"
+    ]
+}

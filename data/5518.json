@@ -1,0 +1,43 @@
+{
+    "id": 5518,
+    "wordhead": "𣤶",
+    "explanation": "歍𣤶也。从欠鼀聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "才六切",
+    "variants": [
+        {
+            "wordhead": "噈",
+            "explanation": "俗𣤶从口<span>[<span>𠙵</span>]</span>从就<span>[<span>𡯶</span>]</span>。",
+            "seal_character": "暑"
+        }
+    ],
+    "seal_character": "暐",
+    "pinyin": "zu",
+    "pinyin_full": "zú",
+    "components": [
+        "口",
+        "欠",
+        "就"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "歍𣤶也。",
+            "note": "其義已在上文。故但曰歍𣤶而已。此全書之通例。"
+        },
+        {
+            "explanation": "从欠。鼀聲。",
+            "note": "才六切。廣韵子六切。三部。"
+        },
+        {
+            "explanation": "俗𣤶。从口从就。",
+            "note": "會意兼形聲。"
+        }
+    ],
+    "indexes": [
+        "𣤶",
+        "噈"
+    ]
+}

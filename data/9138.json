@@ -1,0 +1,31 @@
+{
+    "id": 9138,
+    "wordhead": "畹",
+    "explanation": "田三十畝也。从田宛聲。",
+    "volume": "13",
+    "radical": "田",
+    "pronunciation": "於阮切",
+    "variants": [],
+    "seal_character": "癎",
+    "pinyin": "wan",
+    "pinyin_full": "wǎn",
+    "components": [
+        "宛",
+        "田"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "田三十畮曰畹。",
+            "note": "大徐本三作二。誤。魏都賦。下畹高堂。張注云。班固曰畹、三十畞也。此葢孟堅離騷章句滋蘭九畹之解也。王注乃云十二畞曰畹。或曰田之長爲畹。恐非是。"
+        },
+        {
+            "explanation": "从田。宛聲。",
+            "note": "於阮切。十四部。"
+        }
+    ],
+    "indexes": [
+        "畹"
+    ]
+}

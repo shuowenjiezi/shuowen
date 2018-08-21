@@ -1,0 +1,31 @@
+{
+    "id": 834,
+    "wordhead": "噤",
+    "explanation": "口閉也。从口禁聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "巨禁切",
+    "variants": [],
+    "seal_character": "冞",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "口",
+        "禁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "口閉也。",
+            "note": "史淮陰矦傳。雖有舜禹之智。吟而不言。此假吟爲噤也。吟噤義相似。"
+        },
+        {
+            "explanation": "从口。禁聲。",
+            "note": "巨禁切。七部。"
+        }
+    ],
+    "indexes": [
+        "噤"
+    ]
+}

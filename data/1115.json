@@ -1,0 +1,31 @@
+{
+    "id": 1115,
+    "wordhead": "遝",
+    "explanation": "䢔也。从辵眔聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒合切",
+    "variants": [],
+    "seal_character": "勗",
+    "pinyin": "ta",
+    "pinyin_full": "tà",
+    "components": [
+        "辵",
+        "眔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䢔也。",
+            "note": "廣韵。䢔、遝行相及也。文賦。紛葳蕤以馺遝。方言。迨遝、及也。東齊曰迨。關之東西曰遝。或曰及。公羊傳。祖之所逮聞也。漢石經作遝聞。"
+        },
+        {
+            "explanation": "从辵。眔聲。",
+            "note": "目部云。眔目相及也。是遝亦會意。徒合切。八部。按褱𥊽字皆眔聲。是合韵之理也。"
+        }
+    ],
+    "indexes": [
+        "遝"
+    ]
+}

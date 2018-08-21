@@ -1,0 +1,42 @@
+{
+    "id": 920,
+    "wordhead": "吟",
+    "explanation": "呻也。从口今聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "魚音切",
+    "variants": [
+        {
+            "wordhead": "䪩",
+            "explanation": "吟或从音。",
+            "seal_character": "函"
+        },
+        {
+            "wordhead": "訡",
+            "explanation": "或从言。",
+            "seal_character": "凾"
+        }
+    ],
+    "seal_character": "凼",
+    "pinyin": "yin",
+    "pinyin_full": "yín",
+    "components": [
+        "口",
+        "今",
+        "言",
+        "音"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "呻也。从口。今聲。",
+            "note": "魚音切。七部。"
+        }
+    ],
+    "indexes": [
+        "吟",
+        "䪩",
+        "訡"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 1492,
+    "wordhead": "誨",
+    "explanation": "曉教也。从言每聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "荒內切",
+    "variants": [],
+    "seal_character": "咃",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "言",
+        "每"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "曉教也。",
+            "note": "曉教者。明曉而教之也。訓以柔克。誨以剛克。周書無逸胥訓告、胥教悔是也。曉之以破其晦是曰誨。"
+        },
+        {
+            "explanation": "从言。毎聲。",
+            "note": "荒內切。十五部。"
+        }
+    ],
+    "indexes": [
+        "诲",
+        "誨"
+    ]
+}

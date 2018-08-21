@@ -1,0 +1,31 @@
+{
+    "id": 6244,
+    "wordhead": "麔",
+    "explanation": "麋牝者。从鹿咎聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "其久切",
+    "variants": [],
+    "seal_character": "榻",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "鹿",
+        "咎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "麋牡者。",
+            "note": "見釋獸。"
+        },
+        {
+            "explanation": "从鹿。咎聲。",
+            "note": "其久切。三部。"
+        }
+    ],
+    "indexes": [
+        "麔"
+    ]
+}

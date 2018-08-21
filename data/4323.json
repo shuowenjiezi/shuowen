@@ -1,0 +1,37 @@
+{
+    "id": 4323,
+    "wordhead": "虜",
+    "explanation": "獲也。从毌从力，虍聲。",
+    "volume": "07",
+    "radical": "毌",
+    "pronunciation": "郎古切",
+    "variants": [],
+    "seal_character": "慕",
+    "pinyin": "lu",
+    "pinyin_full": "lǔ",
+    "components": [
+        "力",
+        "虍",
+        "毌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獲也。",
+            "note": "公羊傳。爾虜焉。故凡虜囚亦曰纍臣。謂拘之以索也。於毌義相近。故从毌。"
+        },
+        {
+            "explanation": "从毌。从力。",
+            "note": "左傳曰。武夫力而拘諸原。"
+        },
+        {
+            "explanation": "虍聲。",
+            "note": "郎古切。五部。"
+        }
+    ],
+    "indexes": [
+        "虏",
+        "虜"
+    ]
+}

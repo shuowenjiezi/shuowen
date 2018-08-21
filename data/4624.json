@@ -1,0 +1,32 @@
+{
+    "id": 4624,
+    "wordhead": "竇",
+    "explanation": "空也。从穴，瀆省聲。",
+    "volume": "07",
+    "radical": "穴",
+    "pronunciation": "徒奏切",
+    "variants": [],
+    "seal_character": "抸",
+    "pinyin": "dou",
+    "pinyin_full": "dòu",
+    "components": [
+        "瀆",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "空也。",
+            "note": "空孔古今語。凡孔皆謂之竇。古亦借瀆爲之。如周禮注四竇卽四瀆、左傳襄三十年墓門之瀆徐音豆是也。"
+        },
+        {
+            "explanation": "从穴。𧶠聲。",
+            "note": "徒奏切。四部。按古音去入不分。"
+        }
+    ],
+    "indexes": [
+        "窦",
+        "竇"
+    ]
+}

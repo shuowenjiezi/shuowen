@@ -1,0 +1,49 @@
+{
+    "id": 1919,
+    "wordhead": "彗",
+    "explanation": "掃竹也。从又持甡。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "祥歲切",
+    "variants": [
+        {
+            "wordhead": "篲",
+            "explanation": "彗或从竹。",
+            "seal_character": "嚈"
+        },
+        {
+            "wordhead": "𥱵",
+            "explanation": "古文彗从竹从習。",
+            "seal_character": "嚉"
+        }
+    ],
+    "seal_character": "嚇",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "又",
+        "竹",
+        "習"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "埽竹也。从又持甡「𤯓+𤯓」。",
+            "note": "甡、衆生竝立之皃。從甡者、取排比之意。祥嵗切。十五部。"
+        },
+        {
+            "explanation": "彗或从竹。",
+            "note": "凡帚、柔者用茢。施於淨處。剛者用竹。施於薉處。"
+        },
+        {
+            "explanation": "古文彗。从竹習。",
+            "note": "葢七部十五部合韵。"
+        }
+    ],
+    "indexes": [
+        "彗",
+        "篲",
+        "𥱵"
+    ]
+}

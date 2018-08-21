@@ -1,0 +1,53 @@
+{
+    "id": 7539,
+    "wordhead": "𩃬",
+    "explanation": "雲覆日也。从雲今聲。",
+    "volume": "11",
+    "radical": "雲",
+    "pronunciation": "於今切",
+    "variants": [
+        {
+            "wordhead": "侌",
+            "explanation": "古文或省。",
+            "seal_character": "潋"
+        },
+        {
+            "wordhead": "𠆭",
+            "explanation": "亦古文𩃬。",
+            "seal_character": "潌"
+        }
+    ],
+    "seal_character": "潊",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "今",
+        "云",
+        "雲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雲覆日也。",
+            "note": "今人陰陽字小篆作𩃬昜。𩃬者、雲覆日。昜者、旗開見日。引申爲㒳儀字之用。今人作陰陽、乃其中之一耑而已。𩃬字今僅見大戴禮記文王官人篇、素問五帝政大論。"
+        },
+        {
+            "explanation": "从雲。今聲。",
+            "note": "於今切。七部。"
+        },
+        {
+            "explanation": "古文𩃬省。",
+            "note": "古文雲本無雨耳。非省也。陰字从此。"
+        },
+        {
+            "explanation": "亦古文𩃬。",
+            "note": "此冣初古文也。侌則以小篆法整？之。云亦同。"
+        }
+    ],
+    "indexes": [
+        "𩃬",
+        "侌",
+        "𠆭"
+    ]
+}

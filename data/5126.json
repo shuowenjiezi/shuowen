@@ -1,0 +1,47 @@
+{
+    "id": 5126,
+    "wordhead": "㑵",
+    "explanation": "妎也。从人疾聲。一曰毒也。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "秦悉切",
+    "variants": [
+        {
+            "wordhead": "嫉",
+            "explanation": "㑵或从女。",
+            "seal_character": "擠"
+        }
+    ],
+    "seal_character": "擟",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "人",
+        "女",
+        "疾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "妎也。",
+            "note": "妎者、妬也。離騷注。害賢曰嫉。害色曰妬。如曰女無美惡。入宮見妬。士無賢不肖。入朝見嫉是也。渾言則不別。古亦假疾。"
+        },
+        {
+            "explanation": "从人。疾聲。",
+            "note": "秦悉切。十二部。"
+        },
+        {
+            "explanation": "一曰毒也。",
+            "note": "廣雅曰。嫉、惡也。"
+        },
+        {
+            "explanation": "㑵或从女。",
+            "note": "妬也。故从女。"
+        }
+    ],
+    "indexes": [
+        "㑵",
+        "嫉"
+    ]
+}

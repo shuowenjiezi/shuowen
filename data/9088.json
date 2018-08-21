@@ -1,0 +1,35 @@
+{
+    "id": 9088,
+    "wordhead": "垤",
+    "explanation": "螘封也。《詩》曰：“鸛鳴于垤。”从土至聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "瘔",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "土",
+        "至"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "螘封也。",
+            "note": "螘封者、其土似封畍之高。故謂之封。周禮注。聚土曰封。此亦其意也。詩毛傳曰。垤、螘冢也。按垤之言突也。"
+        },
+        {
+            "explanation": "从土。至聲。",
+            "note": "徒結切。十二部。"
+        },
+        {
+            "explanation": "詩曰。雚鳴于垤。",
+            "note": "豳風東山文。雚各本作鸛。今依萑部所引詩更正。"
+        }
+    ],
+    "indexes": [
+        "垤"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3541,
+    "wordhead": "某",
+    "explanation": "酸果也。从木从甘。闕。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "莫厚切",
+    "variants": [
+        {
+            "wordhead": "槑",
+            "explanation": "古文某从口<span>[<span>𠙵</span>]</span>。",
+            "seal_character": "巽"
+        }
+    ],
+    "seal_character": "巼",
+    "pinyin": "mei",
+    "pinyin_full": "méi",
+    "components": [
+        "某",
+        "木",
+        "甘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酸果也。",
+            "note": "此是今梅子正字。說見梅下。"
+        },
+        {
+            "explanation": "從木。甘。闕。",
+            "note": "此闕謂義訓酸而形從甘不得其解也。玉裁謂。甘者、酸之母也。凡食甘多易作酸味。水土合而生木之驗也。莫厚切。古音𡉈一部。"
+        },
+        {
+            "explanation": "古文某。從口。",
+            "note": "從口者、甘之省也。㒳之者、皃其酢醶。"
+        }
+    ],
+    "indexes": [
+        "某",
+        "槑"
+    ]
+}

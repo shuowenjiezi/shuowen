@@ -1,0 +1,53 @@
+{
+    "id": 6545,
+    "wordhead": "囪",
+    "explanation": "在牆曰牖，在屋曰囪。象形。凡囪之屬皆从囪。",
+    "volume": "10",
+    "radical": "囪",
+    "pronunciation": "楚江切",
+    "variants": [
+        {
+            "wordhead": "窗",
+            "explanation": "或从穴。",
+            "seal_character": "欉"
+        },
+        {
+            "wordhead": "𡆧",
+            "explanation": "古文。",
+            "seal_character": "權"
+        }
+    ],
+    "seal_character": "欈",
+    "pinyin": "chuang",
+    "pinyin_full": "chuānɡ",
+    "components": [
+        "囪",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "在牆曰牖。",
+            "note": "片部曰。牖、穿壁以木爲交窗也。"
+        },
+        {
+            "explanation": "在屋曰囱。",
+            "note": "屋在上者也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "此皆以交木爲之。故象其交木之形。外域之也。楚江切。古音在九部。今竈突尙讀倉紅切。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "黑字、曾字从此。黑从炎上出𡆧。故受之以囱部。"
+        }
+    ],
+    "indexes": [
+        "囱",
+        "囪",
+        "窗",
+        "𡆧"
+    ]
+}

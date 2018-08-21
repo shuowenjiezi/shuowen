@@ -1,0 +1,32 @@
+{
+    "id": 7574,
+    "wordhead": "鱺",
+    "explanation": "魚名。从魚麗聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "郎兮切",
+    "variants": [],
+    "seal_character": "潳",
+    "pinyin": "li",
+    "pinyin_full": "lí",
+    "components": [
+        "麗",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鱺魚也。",
+            "note": "此卽今人謂鰻爲鰻鱺之字也。與鱧𩽵鯉皆不同。類篇云。小鮦也。此用郭注爾雅語。"
+        },
+        {
+            "explanation": "从魚。麗聲。",
+            "note": "郎兮切。十六部。"
+        }
+    ],
+    "indexes": [
+        "鲡",
+        "鱺"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2686,
+    "wordhead": "腝",
+    "explanation": "有骨醢也。从肉耎聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "人移切",
+    "variants": [
+        {
+            "wordhead": "𦣚",
+            "explanation": "腝或从難<span>[<span>𩁘</span>]</span>。",
+            "seal_character": "娈"
+        }
+    ],
+    "seal_character": "娇",
+    "pinyin": "ni",
+    "pinyin_full": "ní",
+    "components": [
+        "肉",
+        "難",
+        "耎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "有骨醢也。",
+            "note": "酉部曰。醢、肉醬也。釋器曰。肉謂之醢。有骨者謂之臡。醢人注曰。臡亦醢也。或曰。有骨爲臡。無骨爲醢。公食大夫禮注曰。醢有骨謂之臡。"
+        },
+        {
+            "explanation": "从肉。耎聲。",
+            "note": "人移切。古音在十四部。"
+        },
+        {
+            "explanation": "腝或从難。",
+            "note": "耎難二聲同在十四部。按公食大夫禮注曰。今文臡皆作麋。麋系腝之誤。儀禮、爾雅音義曰。臡、字林作腝。五經文字曰。臡見禮經。周禮、說文、字林皆作腝。據此則說文本無臡字甚明。後人益之也。許於禮經或從今文。或從古文。此從今文腝。鄭則從古文臡也。"
+        }
+    ],
+    "indexes": [
+        "腝",
+        "𦣚"
+    ]
+}

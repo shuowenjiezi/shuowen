@@ -1,0 +1,49 @@
+{
+    "id": 3453,
+    "wordhead": "杶",
+    "explanation": "木也。从木屯聲。《夏書》曰：“杶榦栝柏。”",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "敕倫切",
+    "variants": [
+        {
+            "wordhead": "𣝙",
+            "explanation": "或从熏。",
+            "seal_character": "嶡"
+        },
+        {
+            "wordhead": "杻",
+            "explanation": "古文杶。",
+            "seal_character": "嶢"
+        }
+    ],
+    "seal_character": "嶠",
+    "pinyin": "chun",
+    "pinyin_full": "chūn",
+    "components": [
+        "木",
+        "熏",
+        "屯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "杶木也。",
+            "note": "禹貢。杶榦桰柏。釋文。杶本又作櫄。山海經。成侯之山。其上多櫄木。郭曰。似樗樹。材中車轅。吳人呼櫄音輴車。"
+        },
+        {
+            "explanation": "從木。屯聲。",
+            "note": "敕倫切。十三部。"
+        },
+        {
+            "explanation": "古文杶。",
+            "note": "按依汗𥳑所載近是。卽屯字側書之耳。集韵徑作杻。非也。"
+        }
+    ],
+    "indexes": [
+        "杶",
+        "𣝙",
+        "杻"
+    ]
+}

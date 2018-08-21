@@ -1,0 +1,35 @@
+{
+    "id": 7685,
+    "wordhead": "房",
+    "explanation": "室在㫄也。从戶方聲。",
+    "volume": "12",
+    "radical": "戶",
+    "pronunciation": "符方切",
+    "variants": [],
+    "seal_character": "濭",
+    "pinyin": "fang",
+    "pinyin_full": "fánɡ",
+    "components": [
+        "方",
+        "戶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "室在旁也。",
+            "note": "凡堂之內、中爲正室。左右爲房。所謂東房西房也。引申之俎亦有房。"
+        },
+        {
+            "explanation": "从戶。",
+            "note": "焦氏循曰。房必有戶以𨔶於堂。又必有戶以𨔶於東夾西夾。又必有戶以𨔶於北堂。"
+        },
+        {
+            "explanation": "方聲。",
+            "note": "符方切。十部。"
+        }
+    ],
+    "indexes": [
+        "房"
+    ]
+}

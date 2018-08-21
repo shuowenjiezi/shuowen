@@ -1,0 +1,31 @@
+{
+    "id": 705,
+    "wordhead": "少",
+    "explanation": "不多也。从小丿聲。",
+    "volume": "02",
+    "radical": "小",
+    "pronunciation": "書沼切",
+    "variants": [],
+    "seal_character": "儏",
+    "pinyin": "shao",
+    "pinyin_full": "shǎo",
+    "components": [
+        "小",
+        "丿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不多也。",
+            "note": "不多則小。故古少小、互訓通用。"
+        },
+        {
+            "explanation": "从少。丿聲。",
+            "note": "丿、右戾也。房密匹蔑二切。又於小切。按上二切近是。少之形聲、葢於古雙聲求之。書沼切。二部。"
+        }
+    ],
+    "indexes": [
+        "少"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2241,
+    "wordhead": "翄",
+    "explanation": "翼也。从羽支聲。",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "施智切",
+    "variants": [
+        {
+            "wordhead": "𦐊",
+            "explanation": "翄或从氏。",
+            "seal_character": "埿"
+        }
+    ],
+    "seal_character": "埾",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "氏",
+        "羽",
+        "支"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "翼也。",
+            "note": "飛部曰。？、翄也。翼、篆文？也。"
+        },
+        {
+            "explanation": "从羽。支聲。",
+            "note": "施智切。十六部。"
+        },
+        {
+            "explanation": "翄或从羽氏。",
+            "note": "支氏同部。魏都賦。𦐊𦐊精衞。李云。說文𦐊亦翅字。叔豉反。今音祇。𦐊𦐊、飛貌也。按廣韵。翄翄、飛皃。巨支切。小雅提提、羣飛貌。是移切。"
+        }
+    ],
+    "indexes": [
+        "翄",
+        "𦐊"
+    ]
+}

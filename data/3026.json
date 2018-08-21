@@ -1,0 +1,51 @@
+{
+    "id": 3026,
+    "wordhead": "甚",
+    "explanation": "尤安樂也。从甘，从匹耦也。",
+    "volume": "05",
+    "radical": "甘",
+    "pronunciation": "常枕切",
+    "variants": [
+        {
+            "wordhead": "𠯕",
+            "explanation": "古文甚<span>[<span>𠥄</span>]</span>。",
+            "seal_character": "宕"
+        }
+    ],
+    "seal_character": "宔",
+    "pinyin": "shen",
+    "pinyin_full": "shèn",
+    "components": [
+        "口",
+        "甘",
+        "匹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "尤安樂也。",
+            "note": "尤甘也。引伸凡殊尤皆曰甚。"
+        },
+        {
+            "explanation": "从甘匹。",
+            "note": "句。匹各本誤甘。依韵會正。常枕切。七部。"
+        },
+        {
+            "explanation": "匹、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "耦也。",
+            "note": "說从匹之意。人情所尤安樂者、必在所溺愛也。"
+        },
+        {
+            "explanation": "古文甚。",
+            "note": "从口猶从甘也。"
+        }
+    ],
+    "indexes": [
+        "甚",
+        "𠯕"
+    ]
+}

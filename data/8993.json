@@ -1,0 +1,43 @@
+{
+    "id": 8993,
+    "wordhead": "凷",
+    "explanation": "墣也。从土，一屈象形。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "苦對切",
+    "variants": [
+        {
+            "wordhead": "塊",
+            "explanation": "凷或从鬼。",
+            "seal_character": "疠"
+        }
+    ],
+    "seal_character": "疟",
+    "pinyin": "kuai",
+    "pinyin_full": "kuài",
+    "components": [
+        "土",
+        "鬼",
+        "凵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "墣也。",
+            "note": "是曰轉注。喪服傳曰。寢苫枕凷。"
+        },
+        {
+            "explanation": "从土凵。凵屈象形。",
+            "note": "小徐本如是。屈者、無尾也。凷之形略方。而體似無尾者。故从土而象其形。苦對切。十五部。"
+        },
+        {
+            "explanation": "俗凷字。",
+            "note": "依爾雅釋文。"
+        }
+    ],
+    "indexes": [
+        "凷",
+        "塊"
+    ]
+}

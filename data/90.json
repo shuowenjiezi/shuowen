@@ -1,0 +1,35 @@
+{
+    "id": 90,
+    "wordhead": "瑾",
+    "explanation": "瑾瑜，美玉也。从玉堇聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "居隱切",
+    "variants": [],
+    "seal_character": "买",
+    "pinyin": "jin",
+    "pinyin_full": "jǐn",
+    "components": [
+        "玉",
+        "堇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瑾瑜、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "美玉也。",
+            "note": "左氏傳曰。瑾瑜匿瑕。山海經。黃帝乃取密山之玉榮而投之鍾山之陽。瑾瑜之玉爲良。王逸注九章云。瑾瑜、美玉也。"
+        },
+        {
+            "explanation": "从王。堇聲。",
+            "note": "居隱切。十三部。"
+        }
+    ],
+    "indexes": [
+        "瑾"
+    ]
+}

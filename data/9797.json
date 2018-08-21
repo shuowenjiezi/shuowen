@@ -1,0 +1,43 @@
+{
+    "id": 9797,
+    "wordhead": "醵",
+    "explanation": "會㱃酒也。从酉豦聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "其虐切",
+    "variants": [
+        {
+            "wordhead": "䣰",
+            "explanation": "醵或从巨。",
+            "seal_character": "礯"
+        }
+    ],
+    "seal_character": "礮",
+    "pinyin": "ju",
+    "pinyin_full": "jù",
+    "components": [
+        "豦",
+        "巨",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會㱃酒也。",
+            "note": "禮器注曰。合錢飲酒曰醵。"
+        },
+        {
+            "explanation": "从酉。豦聲。",
+            "note": "其虐切。古音在五部。其庶反。"
+        },
+        {
+            "explanation": "醵或从巨。",
+            "note": "巨聲也。"
+        }
+    ],
+    "indexes": [
+        "醵",
+        "䣰"
+    ]
+}

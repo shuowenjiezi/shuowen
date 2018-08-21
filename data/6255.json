@@ -1,0 +1,43 @@
+{
+    "id": 6255,
+    "wordhead": "麀",
+    "explanation": "牝鹿也。从鹿，从牝省。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "於虯切",
+    "variants": [
+        {
+            "wordhead": "𪋎",
+            "explanation": "或从幽聲。",
+            "seal_character": "槊"
+        }
+    ],
+    "seal_character": "槉",
+    "pinyin": "you",
+    "pinyin_full": "yōu",
+    "components": [
+        "鹿",
+        "幽",
+        "牝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牝鹿也。",
+            "note": "釋嘼曰。鹿、牝麀。小雅吉日傳曰。鹿牝曰麀。按引伸爲凡牝之偁。大雅靈臺傳曰。麀、牝也。左傳。思其麀牡。曲禮。父子聚麀。皆謂卽牝字也。詩一言騋牝。三言麀鹿。皆取生息蕃多之意。"
+        },
+        {
+            "explanation": "从鹿牝省。",
+            "note": "會意。按牝本从匕聲。讀扶死反。麀音葢本同。後人以鹿聲呦呦。改其音。並改其字作𪋎耳。於虬切。三部。"
+        },
+        {
+            "explanation": "或从幽聲。",
+            "note": "按上二篆鉉本在部末。鍇本無。知古本次此。鍇本奪而未補。鉉本則補而綴於後也。今更正。"
+        }
+    ],
+    "indexes": [
+        "麀",
+        "𪋎"
+    ]
+}

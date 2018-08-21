@@ -1,0 +1,31 @@
+{
+    "id": 2768,
+    "wordhead": "劃",
+    "explanation": "錐刀曰劃。从刀从畫，畫亦聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "呼麥切",
+    "variants": [],
+    "seal_character": "婩",
+    "pinyin": "hua",
+    "pinyin_full": "huá",
+    "components": [
+        "刀",
+        "畫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "錐刀畫曰劃。",
+            "note": "畫字各本無。今補。謂錐刀之末所畫謂之劃也。上文云刉劃傷也、剺劃也皆是也。"
+        },
+        {
+            "explanation": "从刀畫。畫亦聲。",
+            "note": "呼麥切。十六部。當依廣韵胡麥切。"
+        }
+    ],
+    "indexes": [
+        "劃"
+    ]
+}

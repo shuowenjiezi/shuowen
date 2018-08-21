@@ -1,0 +1,31 @@
+{
+    "id": 2888,
+    "wordhead": "筮",
+    "explanation": "《易》卦用蓍也。从竹从𢍮。𢍮，古文巫字。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "時制切",
+    "variants": [],
+    "seal_character": "嫯",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "巫",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "易卦用蓍也。",
+            "note": "曲禮曰。龜爲卜。策爲筮。策者、蓍也。周禮策簭人注云。問蓍曰筮。其占易。艸部曰。蓍、易以爲數。"
+        },
+        {
+            "explanation": "从竹𢍮。",
+            "note": "从竹者、蓍如筭也。筭以竹爲之。从𢍮者、事近於巫也。九簭之名。巫更、巫咸、巫式、巫目、巫易、巫比、巫祠、巫參、巫環。字皆作巫。時制切。十五部。"
+        }
+    ],
+    "indexes": [
+        "筮"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 6345,
+    "wordhead": "狼",
+    "explanation": "似犬，銳頭，白頰，高前，廣後。从犬良聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "魯當切",
+    "variants": [],
+    "seal_character": "横",
+    "pinyin": "lang",
+    "pinyin_full": "lánɡ",
+    "components": [
+        "良",
+        "犬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "佀犬。銳頭白頰。高歬廣後。",
+            "note": "詳其狀可識別也。毛傳曰。狼、獸名。釋獸曰。狼、牡貛。許謂貛卽貒。"
+        },
+        {
+            "explanation": "从犬、良聲。",
+            "note": "魯當切。十部。"
+        }
+    ],
+    "indexes": [
+        "狼"
+    ]
+}

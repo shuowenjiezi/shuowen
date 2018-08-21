@@ -1,0 +1,35 @@
+{
+    "id": 2920,
+    "wordhead": "篝",
+    "explanation": "笿也。可熏衣。从竹冓聲。宋楚謂竹篝牆以居也。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "古侯切",
+    "variants": [],
+    "seal_character": "嬑",
+    "pinyin": "gou",
+    "pinyin_full": "ɡōu",
+    "components": [
+        "冓",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "笿也。可熏衣。",
+            "note": "按也字衍文。當云笿可熏衣者。廣韵曰。熏籠。"
+        },
+        {
+            "explanation": "从竹。冓聲。",
+            "note": "古矦切。四部。"
+        },
+        {
+            "explanation": "宋楚謂竹篝牆居也。",
+            "note": "各本牆居之閒誤衍以字。方言曰。篝、陳楚宋魏之閒謂之牆居。廣雅。篝、籠也。薰篝謂之牆居。"
+        }
+    ],
+    "indexes": [
+        "篝"
+    ]
+}

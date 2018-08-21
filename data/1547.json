@@ -1,0 +1,47 @@
+{
+    "id": 1547,
+    "wordhead": "話",
+    "explanation": "合會善言也。从言𠯑聲。《傳》曰：“告之話言。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "胡快切",
+    "variants": [
+        {
+            "wordhead": "譮",
+            "explanation": "籒文䛡从會。",
+            "seal_character": "哂"
+        }
+    ],
+    "seal_character": "品",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "會",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會合善言也。",
+            "note": "䛡會曡韵。大雅。愼爾岀話。毛曰。話、善言也。"
+        },
+        {
+            "explanation": "从言。𠯑聲。",
+            "note": "胡快切十五部。"
+        },
+        {
+            "explanation": "傳曰。告之話言。",
+            "note": "此當作春秋傳曰箸之話言。見文六年左氏傳。淺人但知抑詩。故改之。刪春秋字。妄擬詩可稱傳也。抑詩作告之詁言。於詁下稱之。又妄改爲詩曰詁訓。"
+        },
+        {
+            "explanation": "籒文䛡。从言會。",
+            "note": "𠯑會同在十五部。故檜亦作栝。"
+        }
+    ],
+    "indexes": [
+        "话",
+        "話",
+        "譮"
+    ]
+}

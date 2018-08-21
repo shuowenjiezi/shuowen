@@ -1,0 +1,44 @@
+{
+    "id": 3211,
+    "wordhead": "餔",
+    "explanation": "日加申時食也。从食甫聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "博狐切",
+    "variants": [
+        {
+            "wordhead": "𥂈",
+            "explanation": "籒文餔从皿浦聲。",
+            "seal_character": "屼"
+        }
+    ],
+    "seal_character": "屻",
+    "pinyin": "bu",
+    "pinyin_full": "bū",
+    "components": [
+        "甫",
+        "浦",
+        "皿",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "申時食也。",
+            "note": "各本申時上有日加二字。今依廣韵、類篇、韵會正。淮南書云。日至於悲谷是謂餔時。餔一作晡。引伸之義凡食皆曰餔。又以食食人謂之餔。"
+        },
+        {
+            "explanation": "从𠊊。甫聲。",
+            "note": "博狐切。五部。"
+        },
+        {
+            "explanation": "籒文餔。从皿。浦聲。",
+            "note": "皿、飮食器也。"
+        }
+    ],
+    "indexes": [
+        "餔",
+        "𥂈"
+    ]
+}

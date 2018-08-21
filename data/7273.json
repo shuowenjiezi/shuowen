@@ -1,0 +1,31 @@
+{
+    "id": 7273,
+    "wordhead": "濩",
+    "explanation": "雨流霤下。从水蒦聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "胡郭切",
+    "variants": [],
+    "seal_character": "減",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "水",
+        "蒦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雨流𩅸下皃。",
+            "note": "皃宋本無。非。𩅸、屋水流下也。今俗語𧦝簷水澑下曰滴濩。乃古語也。或假濩爲鑊。如詩是刈是濩是也。或假爲護。如湯樂名大濩是也。"
+        },
+        {
+            "explanation": "从水。蒦聲。",
+            "note": "胡郭切。五部。"
+        }
+    ],
+    "indexes": [
+        "濩"
+    ]
+}

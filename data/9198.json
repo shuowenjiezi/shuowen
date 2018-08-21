@@ -1,0 +1,51 @@
+{
+    "id": 9198,
+    "wordhead": "勇",
+    "explanation": "气也。从力甬聲。",
+    "volume": "13",
+    "radical": "力",
+    "pronunciation": "余隴切",
+    "variants": [
+        {
+            "wordhead": "𢦨",
+            "explanation": "勇或从戈、用<span>[<span>𤰃</span>]</span>。",
+            "seal_character": "皒"
+        },
+        {
+            "wordhead": "恿",
+            "explanation": "古文勇从心。",
+            "seal_character": "皓"
+        }
+    ],
+    "seal_character": "皑",
+    "pinyin": "yong",
+    "pinyin_full": "yǒnɡ",
+    "components": [
+        "心",
+        "用",
+        "甬",
+        "力",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "气也。",
+            "note": "气、雲气也。引申爲人充體之气之偁。力者、筋也。勇者、气也。气之所至。力亦至焉。心之所至。气乃至焉。故古文勇从心。左傳曰。共用之謂勇。"
+        },
+        {
+            "explanation": "从力。甬聲。",
+            "note": "余隴切。九部。"
+        },
+        {
+            "explanation": "古文勇从心。",
+            "note": "孟子曰。志氣之帥也。"
+        }
+    ],
+    "indexes": [
+        "勇",
+        "𢦨",
+        "恿"
+    ]
+}

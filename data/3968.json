@@ -1,0 +1,32 @@
+{
+    "id": 3968,
+    "wordhead": "賃",
+    "explanation": "庸也。从貝任聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "尼禁切",
+    "variants": [],
+    "seal_character": "忒",
+    "pinyin": "lin",
+    "pinyin_full": "lìn",
+    "components": [
+        "貝",
+        "任"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "庸也。",
+            "note": "庸者今之傭字。廣韵曰。傭、餘封切。傭、賃也。凡僱僦皆曰庸、曰賃。"
+        },
+        {
+            "explanation": "从貝。任聲。",
+            "note": "尼禁切。七部。"
+        }
+    ],
+    "indexes": [
+        "赁",
+        "賃"
+    ]
+}

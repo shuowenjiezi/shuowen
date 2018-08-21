@@ -1,0 +1,44 @@
+{
+    "id": 8630,
+    "wordhead": "綱",
+    "explanation": "維紘繩也。从糸岡聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "古郎切",
+    "variants": [
+        {
+            "wordhead": "㭃",
+            "explanation": "古文綱。",
+            "seal_character": "珴"
+        }
+    ],
+    "seal_character": "珳",
+    "pinyin": "gang",
+    "pinyin_full": "ɡānɡ",
+    "components": [
+        "木",
+        "岡",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "网紘也。",
+            "note": "各本作維紘繩也。今依棫樸正義正。紘者、冠維也。引申之爲凡維系之偁。孔穎達云。紘者、网之大繩。商書曰。若罔在綱。有條而不紊。詩曰。綱紀四方。箋云。以罔罟喻之。張之爲綱。理之爲紀。"
+        },
+        {
+            "explanation": "从糸。岡聲。",
+            "note": "古郞切。十部。"
+        },
+        {
+            "explanation": "古文綱。",
+            "note": "古文四聲韵作？？二形。？从古文糸也。"
+        }
+    ],
+    "indexes": [
+        "纲",
+        "綱",
+        "㭃"
+    ]
+}

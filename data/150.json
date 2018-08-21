@@ -1,0 +1,31 @@
+{
+    "id": 150,
+    "wordhead": "玲",
+    "explanation": "玉聲。从玉令聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "亷",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "玉",
+        "令"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉聲也。",
+            "note": "甘泉賦。和氏瓏玲。大玄。亾彼瓏玲。皆謂玉聲。法言、廣雅作玲瓏。"
+        },
+        {
+            "explanation": "从王。令聲。",
+            "note": "郞丁切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "玲"
+    ]
+}

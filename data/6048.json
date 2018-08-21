@@ -1,0 +1,32 @@
+{
+    "id": 6048,
+    "wordhead": "豬",
+    "explanation": "豕而三毛叢居者。从豕者聲。",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "陟魚切",
+    "variants": [],
+    "seal_character": "棡",
+    "pinyin": "zhu",
+    "pinyin_full": "zhū",
+    "components": [
+        "豕",
+        "者"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "豕而三毛叢凥者。",
+            "note": "凥舊作居。今正。三毛叢凥、謂一孔生三毛也。說見蘇頌本艸圖經犀下。今之豕皆然。"
+        },
+        {
+            "explanation": "从豕。者聲。",
+            "note": "陟魚切。五部。"
+        }
+    ],
+    "indexes": [
+        "猪",
+        "豬"
+    ]
+}

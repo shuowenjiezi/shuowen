@@ -1,0 +1,47 @@
+{
+    "id": 3148,
+    "wordhead": "凵",
+    "explanation": "凵盧，飯器，以柳爲之。象形。凡凵之屬皆从凵。",
+    "volume": "05",
+    "radical": "𠙴",
+    "pronunciation": "去魚切",
+    "variants": [
+        {
+            "wordhead": "𥬔",
+            "explanation": "𠙴或从竹去<span>[<span>㚎</span>]</span>聲。",
+            "seal_character": "尥"
+        }
+    ],
+    "seal_character": "尤",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "凵",
+        "竹",
+        "去"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𠙴盧、",
+            "note": "㬪韵爲名。"
+        },
+        {
+            "explanation": "飯器。",
+            "note": "𠙴盧詳皿部盧下。按皿部不言凵者。單𧦝曰盧。絫𧦝曰𠙴盧也。"
+        },
+        {
+            "explanation": "㠯桺作之。象形。",
+            "note": "下侈上斂。去魚切。五部。"
+        },
+        {
+            "explanation": "𠙴或从竹。去聲。",
+            "note": "按士昏禮注作𥬔籚。廣韵曰。𥬔、飯器。"
+        }
+    ],
+    "indexes": [
+        "凵",
+        "𥬔"
+    ]
+}

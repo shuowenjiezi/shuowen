@@ -1,0 +1,31 @@
+{
+    "id": 5081,
+    "wordhead": "倌",
+    "explanation": "小臣也。从人从官。《詩》曰：“命彼倌人。”",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "古患切",
+    "variants": [],
+    "seal_character": "撱",
+    "pinyin": "guan",
+    "pinyin_full": "ɡuān",
+    "components": [
+        "人",
+        "官"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小臣也。",
+            "note": "庸風定之方中曰。命彼倌人。傳曰。倌人、主駕者。按許說異毛。小臣葢謂周禮小臣上士四人。大僕之佐也。一云左傳所謂巾車脂舝也。"
+        },
+        {
+            "explanation": "从人。官聲。",
+            "note": "古患切。十四部。"
+        }
+    ],
+    "indexes": [
+        "倌"
+    ]
+}

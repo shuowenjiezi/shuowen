@@ -1,0 +1,31 @@
+{
+    "id": 7769,
+    "wordhead": "聥",
+    "explanation": "張耳有所聞也。从耳禹聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "王矩切",
+    "variants": [],
+    "seal_character": "灈",
+    "pinyin": "ju",
+    "pinyin_full": "jǔ",
+    "components": [
+        "耳",
+        "禹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "張耳有所聞也。",
+            "note": "廣雅。驚也。"
+        },
+        {
+            "explanation": "从耳。禹聲。",
+            "note": "王矩切。五部。"
+        }
+    ],
+    "indexes": [
+        "聥"
+    ]
+}

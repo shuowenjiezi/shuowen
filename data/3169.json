@@ -1,0 +1,48 @@
+{
+    "id": 3169,
+    "wordhead": "咅",
+    "explanation": "相與語，唾而不受也。从丶从否，否亦聲。",
+    "volume": "05",
+    "radical": "丶",
+    "pronunciation": "天口切",
+    "variants": [
+        {
+            "wordhead": "㰯",
+            "explanation": "咅或从豆从欠。",
+            "seal_character": "尾"
+        }
+    ],
+    "seal_character": "尽",
+    "pinyin": "pou",
+    "pinyin_full": "pǒu",
+    "components": [
+        "欠",
+        "豆",
+        "否",
+        "丶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "相與語唾而不受也。",
+            "note": "今俗有此。"
+        },
+        {
+            "explanation": "从丶。从否。",
+            "note": "不部曰。否、不也。从丶否者、主於不然也。"
+        },
+        {
+            "explanation": "丶亦聲。",
+            "note": "丶各本作否。非。今正。㕻、韵書皆入侯部。或字从豆聲。豆與丶同部。周易蔀斗主爲韵。蔀正㕻聲也。天口切。四部。其形𣜩作咅。"
+        },
+        {
+            "explanation": "咅或从豆欠。",
+            "note": "欠者、口气也。豆者、聲也。"
+        }
+    ],
+    "indexes": [
+        "咅",
+        "㰯"
+    ]
+}

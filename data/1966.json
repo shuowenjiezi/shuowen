@@ -1,0 +1,45 @@
+{
+    "id": 1966,
+    "wordhead": "役",
+    "explanation": "戍邊也。从殳从彳。",
+    "volume": "03",
+    "radical": "殳",
+    "pronunciation": "營隻切",
+    "variants": [
+        {
+            "wordhead": "𠈧",
+            "explanation": "古文役从人。",
+            "seal_character": "囈"
+        }
+    ],
+    "seal_character": "囇",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "又",
+        "人",
+        "殳",
+        "弓",
+        "彳"
+    ],
+    "xuan_note": "臣鉉等曰：彳，步也。彳亦聲。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "戍也。",
+            "note": "依韵會訂。戍、守邊也。司馬法曰。弓矢圉。殳矛守。戈𢧢助。凡五兵。長以衞短。短以救長。按圉、古禦字。今周禮注作圍。誤。殳所以守也。故其字從殳。引伸之義凡事勞皆曰役。又生民詩。禾役穟穟。役者、穎之假借。禾部兩引詩皆作禾穎。"
+        },
+        {
+            "explanation": "从殳彳。",
+            "note": "彳取巡行之意。營隻切。十六部。"
+        },
+        {
+            "explanation": "古文役。从人。",
+            "note": "與戍從人持戈同意。"
+        }
+    ],
+    "indexes": [
+        "役",
+        "𠈧"
+    ]
+}

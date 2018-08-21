@@ -1,0 +1,31 @@
+{
+    "id": 9001,
+    "wordhead": "圪",
+    "explanation": "牆高也。《詩》曰：“崇墉𡉛𡉛。”从土乞聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "魚迄切",
+    "variants": [],
+    "seal_character": "疩",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "土",
+        "乞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牆高皃也。",
+            "note": "大雅皇矣曰。崇墉言言。傳曰。言言、高大也。又曰。崇墉仡仡。傳曰。仡仡猶言言也。依說文本作圪圪。"
+        },
+        {
+            "explanation": "詩曰。崇墉𡉛𡉛。从土。气聲。",
+            "note": "魚迄切。十五部。"
+        }
+    ],
+    "indexes": [
+        "圪"
+    ]
+}

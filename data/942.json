@@ -1,0 +1,35 @@
+{
+    "id": 942,
+    "wordhead": "嗾",
+    "explanation": "使犬聲。从口族聲。《春秋傳》曰：“公嗾夫獒。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "穌奏切",
+    "variants": [],
+    "seal_character": "刖",
+    "pinyin": "sou",
+    "pinyin_full": "sǒu",
+    "components": [
+        "口",
+        "族"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "使犬聲。",
+            "note": "見左傳宣二年。使犬者、作之噬也。方言曰。秦晉之西鄙自冀隴而西使犬曰哨。郭音騷。哨與嗾一聲之轉。公羊疏云。今呼犬謂之屬。"
+        },
+        {
+            "explanation": "从口。族聲。",
+            "note": "穌奏切。三部。釋文素口反。"
+        },
+        {
+            "explanation": "春秋傳曰。公嗾夫獒。",
+            "note": "按嗾服本作取。云取嗾也。嗾夫獒。使之噬盾也。今本釋文、正義皆譌亂。取誤爲㖩。"
+        }
+    ],
+    "indexes": [
+        "嗾"
+    ]
+}

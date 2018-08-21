@@ -1,0 +1,45 @@
+{
+    "id": 7747,
+    "wordhead": "閔",
+    "explanation": "弔者在門也。从門文聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "眉殞切",
+    "variants": [
+        {
+            "wordhead": "𢞰",
+            "explanation": "古文閔。",
+            "seal_character": "瀱"
+        }
+    ],
+    "seal_character": "瀰",
+    "pinyin": "min",
+    "pinyin_full": "mǐn",
+    "components": [
+        "門",
+        "民",
+        "文",
+        "思"
+    ],
+    "xuan_note": "臣鉉等曰：今別作憫，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弔者在門也。",
+            "note": "引申爲凡痛惜之辭。俗作憫。邶風。覯閔旣多。豳風。鬻子之閔斯。傳曰。閔、病也。"
+        },
+        {
+            "explanation": "从門。文聲。",
+            "note": "眉殞切。十三部。"
+        },
+        {
+            "explanation": "古文閔。",
+            "note": "按此篆篇、韵不載。恐不足據。小徐篆作𢞰。然則大徐上體从古文民。今寫譌甚。汗𥳑正从古文民。"
+        }
+    ],
+    "indexes": [
+        "闵",
+        "閔",
+        "𢞰"
+    ]
+}

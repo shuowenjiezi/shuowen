@@ -1,0 +1,48 @@
+{
+    "id": 5217,
+    "wordhead": "徵",
+    "explanation": "召也。从微省，壬爲徵。行於微而文達者，即徵之。",
+    "volume": "08",
+    "radical": "𡈼",
+    "pronunciation": "陟陵切",
+    "variants": [
+        {
+            "wordhead": "𢾷",
+            "explanation": "古文徵。",
+            "seal_character": "敁"
+        }
+    ],
+    "seal_character": "敀",
+    "pinyin": "zheng",
+    "pinyin_full": "zhēnɡ",
+    "components": [
+        "微",
+        "各",
+        "壬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "召也。",
+            "note": "召者、𧦝也。周禮司市典祀注、鄉飮酒禮注、鄉射禮注皆曰。徵、召也。按徵者、證也。驗也。有證驗、斯有感召。有感召、而事以成。故士昏禮注、禮運注又曰。徵、成也。依文各解。義則相通。"
+        },
+        {
+            "explanation": "从壬。从微省。",
+            "note": "會意。微卽？也。陟陵切。六部。"
+        },
+        {
+            "explanation": "壬微爲徵。",
+            "note": "嫌上文未顯。故又明之。已上九字各本譌奪不可讀。今補正。"
+        },
+        {
+            "explanation": "行於微而聞達者卽徵也。",
+            "note": "聞各本作文。今依韵會訂。又說壬微之意。言行於隱微而聞達挺箸於外。是乃感召之意也。"
+        }
+    ],
+    "indexes": [
+        "征",
+        "徵",
+        "𢾷"
+    ]
+}

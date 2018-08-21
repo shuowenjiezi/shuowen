@@ -1,0 +1,35 @@
+{
+    "id": 651,
+    "wordhead": "菉",
+    "explanation": "王芻也。从艸录聲。《詩》曰：“菉竹猗猗。”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "力玉切",
+    "variants": [],
+    "seal_character": "僕",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "艸",
+        "录"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "王芻也。",
+            "note": "見釋艸、毛傳。"
+        },
+        {
+            "explanation": "从艸。彔聲。",
+            "note": "力玉切。三部。籒文作？。"
+        },
+        {
+            "explanation": "詩曰。箓竹猗猗。",
+            "note": "今毛詩作綠。大學引作箓。小雅。終朝采綠。王逸引作菉。"
+        }
+    ],
+    "indexes": [
+        "菉"
+    ]
+}

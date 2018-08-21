@@ -1,0 +1,31 @@
+{
+    "id": 8432,
+    "wordhead": "𤭢",
+    "explanation": "破也。从瓦卒聲。",
+    "volume": "12",
+    "radical": "瓦",
+    "pronunciation": "穌對切",
+    "variants": [],
+    "seal_character": "猘",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "卒",
+        "瓦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "破也。",
+            "note": "破上當有瓦字。破下曰石𤭢也。此曰瓦破也。是二篆爲轉注。而形各有所从。𤭢與碎音同義異。碎者、䊳也。𤭢則破而巳。不必䊳也。今則碎行而𤭢廢矣。"
+        },
+        {
+            "explanation": "从瓦。卒聲。",
+            "note": "穌對切。十五部。"
+        }
+    ],
+    "indexes": [
+        "𤭢"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 145,
+    "wordhead": "琢",
+    "explanation": "治玉也。从玉豖聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "竹角切",
+    "variants": [],
+    "seal_character": "亱",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "玉",
+        "豖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治玉也。",
+            "note": "釋器。玉謂之琢。石謂之摩。毛傳同。按琢琱字謂鐫鏨之事。理字謂分析之事。攷工記𠜜磨五工。玉人、記玉之用。楖人、雕人、闕。楖人葢理之。如楖之疏髮。雕人葢琢之。如鳥之啄物。左思賦水鳥曰。彫琢蔓藻、是其意。"
+        },
+        {
+            "explanation": "从王。豖聲。",
+            "note": "竹角切。三部。"
+        }
+    ],
+    "indexes": [
+        "琢"
+    ]
+}

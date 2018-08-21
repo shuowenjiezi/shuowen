@@ -1,0 +1,39 @@
+{
+    "id": 1865,
+    "wordhead": "𩱱",
+    "explanation": "鬻也。从𩰲毓聲。",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "余六切",
+    "variants": [
+        {
+            "wordhead": "𩱙",
+            "explanation": "𩱱或省从米。",
+            "seal_character": "噁"
+        }
+    ],
+    "seal_character": "噀",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "鬲",
+        "米",
+        "毓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鬻也。",
+            "note": "曡韵。"
+        },
+        {
+            "explanation": "从䰜。毓聲。",
+            "note": "余六切。三部。按此切余六。鬻切之六。本分別不同。後人以𩱱之切爲鬻之切。而混誤日甚。"
+        }
+    ],
+    "indexes": [
+        "𩱱",
+        "𩱙"
+    ]
+}

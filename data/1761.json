@@ -1,0 +1,51 @@
+{
+    "id": 1761,
+    "wordhead": "兵",
+    "explanation": "械也。从廾持斤，并力之皃。",
+    "volume": "03",
+    "radical": "𠬞",
+    "pronunciation": "補明切",
+    "variants": [
+        {
+            "wordhead": "𠉔",
+            "explanation": "古文兵，从人、廾、干。",
+            "seal_character": "喵"
+        },
+        {
+            "wordhead": "𠬿",
+            "explanation": "籒文。",
+            "seal_character": "営"
+        }
+    ],
+    "seal_character": "喴",
+    "pinyin": "bing",
+    "pinyin_full": "bīnɡ",
+    "components": [
+        "一",
+        "人",
+        "斤",
+        "干",
+        "収"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "械也。",
+            "note": "械者器之緫名。器曰兵。用器之人亦曰兵。下文云從廾持斤則製字兵與戒同意也。"
+        },
+        {
+            "explanation": "从廾持斤。幷力之皃。",
+            "note": "補明切。古音在十部。"
+        },
+        {
+            "explanation": "古文兵。从人廾干。",
+            "note": "干與斤皆兵器。"
+        }
+    ],
+    "indexes": [
+        "兵",
+        "𠉔",
+        "𠬿"
+    ]
+}

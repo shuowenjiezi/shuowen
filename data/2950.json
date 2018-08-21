@@ -1,0 +1,35 @@
+{
+    "id": 2950,
+    "wordhead": "籚",
+    "explanation": "積竹矛𢧢矜也。从竹盧聲。《春秋國語》曰：“朱儒扶籚。”",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "洛乎切",
+    "variants": [],
+    "seal_character": "嬸",
+    "pinyin": "lu",
+    "pinyin_full": "lú",
+    "components": [
+        "盧",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "積竹予𢧢矝也。",
+            "note": "積竹見殳部。矜、柄也。考工記。攻木之工。輪輿弓廬匠車梓。注。廬、矛𢧢矜柲也。按廬者、籚之假借字也。釋文曰。廬本或作重籚。"
+        },
+        {
+            "explanation": "从竹。盧聲。",
+            "note": "洛乎切。五部。"
+        },
+        {
+            "explanation": "春秋國曰。朱儒扶籚。",
+            "note": "晉語文。今本朱籚作侏盧。朱儒扶籚、西京賦所謂都盧尋橦也。"
+        }
+    ],
+    "indexes": [
+        "籚"
+    ]
+}

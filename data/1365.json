@@ -1,0 +1,43 @@
+{
+    "id": 1365,
+    "wordhead": "蹢",
+    "explanation": "住足也。从足，適省聲。或曰蹢躅。賈侍中說：足垢也。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "直隻切",
+    "variants": [],
+    "seal_character": "叴",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "足",
+        "適"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蹢躅、",
+            "note": "各本奪此二字。文選注四引皆有。"
+        },
+        {
+            "explanation": "逗足也。",
+            "note": "逗各本作住。今正。逗者止足也。說文無住字、人部有侸。侸者立也。立者侸也。是爲轉注。侸非𨅙躅之義。易曰。羸豕孚𨅙躅。三年問。鳴號焉。蹢躅焉。蹢躅之雙聲曡韵曰踟躕、曰跢跦、曰歭䠧、曰？箸。俗用躊躇。"
+        },
+        {
+            "explanation": "从足。啻聲。",
+            "note": "俗本作適省聲。非是。直隻切。十六部。"
+        },
+        {
+            "explanation": "或曰蹢躅。",
+            "note": "按四字衍文。"
+        },
+        {
+            "explanation": "賈侍中說足垢也。",
+            "note": "賈謂足垢爲蹢躅。"
+        }
+    ],
+    "indexes": [
+        "蹢"
+    ]
+}

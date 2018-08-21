@@ -1,0 +1,56 @@
+{
+    "id": 2484,
+    "wordhead": "棄",
+    "explanation": "捐也。从廾推𠦒棄之，从𠫓。𠫓，逆子也。",
+    "volume": "04",
+    "radical": "𠦒",
+    "pronunciation": "詰利切",
+    "variants": [
+        {
+            "wordhead": "弃",
+            "explanation": "古文棄。",
+            "seal_character": "夜"
+        },
+        {
+            "wordhead": "𠆉",
+            "explanation": "籒文棄。",
+            "seal_character": "夝"
+        }
+    ],
+    "seal_character": "夛",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "収"
+    ],
+    "xuan_note": "臣鉉等曰：𠫓，他忽切。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "捐也。",
+            "note": "手部曰。捐、棄也。"
+        },
+        {
+            "explanation": "从𠬞推𠦒棄也。",
+            "note": "竦手推𠦒而捐之也。"
+        },
+        {
+            "explanation": "从㐬。㐬、逆子也。",
+            "note": "旣以𠬞𠦒會意。又加㐬以箸之。㐬者、不孝子。人所棄也。棄、詰利切。十五部。"
+        },
+        {
+            "explanation": "古文棄。",
+            "note": "古以竦手去屰子會意。按字𥻳變作棄。中體佀世。唐人諱世。故開成石經及凡碑板皆作弃。近人乃謂經典多用古文矣。"
+        },
+        {
+            "explanation": "籒文棄。",
+            "note": "今字亦從𠫓不從㐬。"
+        }
+    ],
+    "indexes": [
+        "弃",
+        "棄",
+        "弃",
+        "𠆉"
+    ]
+}

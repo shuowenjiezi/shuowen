@@ -1,0 +1,31 @@
+{
+    "id": 6485,
+    "wordhead": "燥",
+    "explanation": "乾也。从火喿聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "穌到切",
+    "variants": [],
+    "seal_character": "櫉",
+    "pinyin": "zao",
+    "pinyin_full": "zào",
+    "components": [
+        "喿",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "乾也。",
+            "note": "易曰。水流溼。火就燥。"
+        },
+        {
+            "explanation": "从火。喿聲。",
+            "note": "蘇到切。二部。"
+        }
+    ],
+    "indexes": [
+        "燥"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4666,
+    "wordhead": "寤",
+    "explanation": "寐覺而有信曰寤。从㝱省，吾聲。一曰晝見而夜㝱也。",
+    "volume": "07",
+    "radical": "㝱",
+    "pronunciation": "五故切",
+    "variants": [
+        {
+            "wordhead": "𡬑",
+            "explanation": "籒文寤。",
+            "seal_character": "拣"
+        }
+    ],
+    "seal_character": "拢",
+    "pinyin": "wu",
+    "pinyin_full": "wù",
+    "components": [
+        "吾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "寐覺而有言曰寤。",
+            "note": "有言、今鍇本作省信。鉉本作有信。皆誤。今依韵會所據鍇本。釋玄應引倉頡篇。覺而有言曰寤。左傳季寤字子言是其證。按周南毛傳曰。窹、覺也。衛風鄭箋同。言其大略而巳。鄭釋周禮寤夢云。覺時道之而夢。亦與倉頡篇同也。古書多叚寤爲悟。"
+        },
+        {
+            "explanation": "从㝱省。吾聲。",
+            "note": "五故切。五部。"
+        },
+        {
+            "explanation": "一曰晝見而夜㝱也。",
+            "note": "葢亦周禮寤夢之說。陳風傳云。晤、遇也。箋云。晤、對也。寤與晤義相通。"
+        },
+        {
+            "explanation": "籒文寤。",
+            "note": "周禮占夢釋文云。寤本又作𧄯。此用籒文而小變也。"
+        }
+    ],
+    "indexes": [
+        "寤",
+        "𡬑"
+    ]
+}

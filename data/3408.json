@@ -1,0 +1,38 @@
+{
+    "id": 3408,
+    "wordhead": "李",
+    "explanation": "果也。从木子聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "良止切",
+    "variants": [
+        {
+            "wordhead": "杍",
+            "explanation": "古文。",
+            "seal_character": "嵰"
+        }
+    ],
+    "seal_character": "嵯",
+    "pinyin": "li",
+    "pinyin_full": "lǐ",
+    "components": [
+        "木",
+        "子"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "李果也。从木。子聲。",
+            "note": "良止切。一部。古李理同音通用。故行李與行理竝見。大李與大理不分。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "尙書音義曰。梓材音子。本亦作梓。馬云。古作梓字。治木器曰梓。正義曰。此古杍字。今文作梓。按正義本經作杍。音義本經作梓。據二家說、葢壁中古文作杍。而馬季長易爲梓匠之梓也。如馬說、是壁中文假借杍爲梓匠字也。"
+        }
+    ],
+    "indexes": [
+        "李",
+        "杍"
+    ]
+}

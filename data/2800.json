@@ -1,0 +1,30 @@
+{
+    "id": 2800,
+    "wordhead": "刃",
+    "explanation": "刀堅也。象刀有刃之形。凡刃之屬皆从刃。",
+    "volume": "04",
+    "radical": "刃",
+    "pronunciation": "而振切",
+    "variants": [],
+    "seal_character": "媋",
+    "pinyin": "ren",
+    "pinyin_full": "rèn",
+    "components": [
+        "刃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刀鋻也。",
+            "note": "鋻各本作堅。今正。刀部曰。？、刀劎刃也。金部曰。鋻、？也。郭璞三倉解詁曰。焠作刀鋻也。"
+        },
+        {
+            "explanation": "象刀有刃之形。",
+            "note": "而振切。十三部。"
+        }
+    ],
+    "indexes": [
+        "刃"
+    ]
+}

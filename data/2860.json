@@ -1,0 +1,42 @@
+{
+    "id": 2860,
+    "wordhead": "䉠",
+    "explanation": "竹也。从竹微聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "無非切",
+    "variants": [
+        {
+            "wordhead": "𥰙",
+            "explanation": "籒文从微省。",
+            "seal_character": "嫓"
+        }
+    ],
+    "seal_character": "嫒",
+    "pinyin": "wei",
+    "pinyin_full": "wéi",
+    "components": [
+        "微",
+        "竹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竹也。",
+            "note": "竹名。按䉠篃古今字也。如禮經古文眉作微、爾雅湄作㵟之比。西山經英山其陽多箭多篃。今本作䉋。郭云。今漢中郡出。厚裏而長節。根㴱。筍冬生。戴凱之云。生非一處。江南山谷所饒也。故是箭竹類。一尺數節。葉大如履。可以作篷。莖中作矢。俗謂之䈛笴。按郭云長節、戴云穊節。不合。旣云中作矢。則一尺數節當作數尺一節也。"
+        },
+        {
+            "explanation": "从竹。微聲。",
+            "note": "無非切。十五部。按廣韵云又武悲切。"
+        },
+        {
+            "explanation": "籒文。从微省。",
+            "note": "按當云从𣁋。省字衍。"
+        }
+    ],
+    "indexes": [
+        "䉠",
+        "𥰙"
+    ]
+}

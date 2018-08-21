@@ -1,0 +1,64 @@
+{
+    "id": 2494,
+    "wordhead": "叀",
+    "explanation": "專小謹也。从幺省；屮，財見也；屮亦聲。凡叀之屬皆从叀。",
+    "volume": "04",
+    "radical": "叀",
+    "pronunciation": "職緣切",
+    "variants": [
+        {
+            "wordhead": "𡴁",
+            "explanation": "古文叀。",
+            "seal_character": "夨"
+        },
+        {
+            "wordhead": "𠧢",
+            "explanation": "亦古文叀。",
+            "seal_character": "天"
+        }
+    ],
+    "seal_character": "大",
+    "pinyin": "zhuan",
+    "pinyin_full": "zhuān",
+    "components": [
+        "屮",
+        "幺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小謹也。",
+            "note": "各本小上有專字。此複舉字未𠜂。又誤加寸也。"
+        },
+        {
+            "explanation": "从幺省。",
+            "note": "小意。"
+        },
+        {
+            "explanation": "从屮。",
+            "note": "二字今補。"
+        },
+        {
+            "explanation": "屮財見也。",
+            "note": "亦小意。"
+        },
+        {
+            "explanation": "田象謹形。",
+            "note": "四字各本無。今補。葢李陽冰爲墨斗之說而有所𠜂也。上從屮。下從幺省。中象顓顓謹皃。"
+        },
+        {
+            "explanation": "屮亦聲。",
+            "note": "職緣切。十四部。"
+        },
+        {
+            "explanation": "亦古文叀。",
+            "note": "斤部古文𣃔、殳部㲃皆從此。"
+        }
+    ],
+    "indexes": [
+        "叀",
+        "𡴁",
+        "𠧢"
+    ]
+}

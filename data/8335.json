@@ -1,0 +1,31 @@
+{
+    "id": 8335,
+    "wordhead": "戣",
+    "explanation": "《周禮》：侍臣執戣，立于東垂。兵也。从戈癸聲。",
+    "volume": "12",
+    "radical": "戈",
+    "pronunciation": "渠追切",
+    "variants": [],
+    "seal_character": "犥",
+    "pinyin": "kui",
+    "pinyin_full": "kuí",
+    "components": [
+        "癸",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周制。侍臣執戣。立於東𡍮。兵也。",
+            "note": "見周書顧命。某氏傳曰。戣瞿皆戟屬。鄭云。戣瞿葢今三鋒矛。王肅則曰。皆平器之名。許不言何兵。略同子雍也。"
+        },
+        {
+            "explanation": "从戈。𤼩聲。",
+            "note": "渠追切。十五部。"
+        }
+    ],
+    "indexes": [
+        "戣"
+    ]
+}

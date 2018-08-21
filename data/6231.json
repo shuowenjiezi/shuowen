@@ -1,0 +1,35 @@
+{
+    "id": 6231,
+    "wordhead": "麚",
+    "explanation": "牡鹿。从鹿叚聲。以夏至解角。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "古牙切",
+    "variants": [],
+    "seal_character": "榬",
+    "pinyin": "jia",
+    "pinyin_full": "jiā",
+    "components": [
+        "叚",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牡鹿也。",
+            "note": "釋嘼曰。鹿、牡麚。"
+        },
+        {
+            "explanation": "从鹿。叚聲。",
+            "note": "古牙切。古音五部。俗作䴥。"
+        },
+        {
+            "explanation": "㠯夏至解角。",
+            "note": "月令。仲夏之月。日長至。鹿角解。"
+        }
+    ],
+    "indexes": [
+        "麚"
+    ]
+}

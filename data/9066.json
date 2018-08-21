@@ -1,0 +1,50 @@
+{
+    "id": 9066,
+    "wordhead": "垔",
+    "explanation": "塞也。《尚書》曰：“鯀垔洪水。”从土西聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "於眞切",
+    "variants": [
+        {
+            "wordhead": "𡎱",
+            "explanation": "古文垔<span>[<span>𡍯</span>]</span>。",
+            "seal_character": "痺"
+        }
+    ],
+    "seal_character": "痹",
+    "pinyin": "yin",
+    "pinyin_full": "yīn",
+    "components": [
+        "土",
+        "西"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𡫳也。",
+            "note": "按此字古書多作堙、作陻。眞字乃廢矣。左傳井堙木刊服注、周語墮高堙庳韋注皆同此。"
+        },
+        {
+            "explanation": "从土。㢴聲。",
+            "note": "於眞切。古音在十三部。"
+        },
+        {
+            "explanation": "商書曰。",
+            "note": "大徐尙書曰、小徐書曰皆誤。"
+        },
+        {
+            "explanation": "鯀垔洪水。",
+            "note": "周書鴻範文。左傳與許例云商書。"
+        },
+        {
+            "explanation": "古文垔如此。",
+            "note": "上从古文西。"
+        }
+    ],
+    "indexes": [
+        "垔",
+        "𡎱"
+    ]
+}

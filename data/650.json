@@ -1,0 +1,44 @@
+{
+    "id": 650,
+    "wordhead": "薻",
+    "explanation": "水艸也。从艸从水，巢聲。《詩》曰：“于以采薻？”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "子皓切",
+    "variants": [
+        {
+            "wordhead": "藻",
+            "explanation": "薻或从澡。",
+            "seal_character": "僔"
+        }
+    ],
+    "seal_character": "僓",
+    "pinyin": "zao",
+    "pinyin_full": "zǎo",
+    "components": [
+        "巢",
+        "艸",
+        "水",
+        "澡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水艸也。",
+            "note": "今水中莖大如釵股、葉蒙茸深綠色、莖寸許有節者是。左氏謂之薀藻。"
+        },
+        {
+            "explanation": "从艸水。巢聲。",
+            "note": "子晧切。二部。籒文作？。禮經華采之字、古文用繅。今文用藻、璪。"
+        },
+        {
+            "explanation": "詩曰。于以采薻。",
+            "note": "召南文。"
+        }
+    ],
+    "indexes": [
+        "薻",
+        "藻"
+    ]
+}

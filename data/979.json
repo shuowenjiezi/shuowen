@@ -1,0 +1,32 @@
+{
+    "id": 979,
+    "wordhead": "趨",
+    "explanation": "走也。从走芻聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "七逾切",
+    "variants": [],
+    "seal_character": "剀",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "芻",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "走也。",
+            "note": "曲禮注曰。行而張足曰趨。按張足過於布武。大雅。左右趣之。毛曰。趣、趨也。此謂假借趣爲趨也。"
+        },
+        {
+            "explanation": "从走。芻聲。",
+            "note": "七逾切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "趋",
+        "趨"
+    ]
+}

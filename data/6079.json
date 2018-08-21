@@ -1,0 +1,52 @@
+{
+    "id": 6079,
+    "wordhead": "豚",
+    "explanation": "小豕也。从彖省，象形。从又持肉，以給祠祀。凡豚之屬皆从豚。",
+    "volume": "09",
+    "radical": "豚",
+    "pronunciation": "徒魂切",
+    "variants": [
+        {
+            "wordhead": "豚",
+            "explanation": "篆文从肉、豕。",
+            "seal_character": "椆"
+        }
+    ],
+    "seal_character": "椅",
+    "pinyin": "tun",
+    "pinyin_full": "tún",
+    "components": [
+        "又",
+        "肉",
+        "豕",
+        "彖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小豕也。",
+            "note": "方言。豬、其子或謂之豚。或謂之豯。"
+        },
+        {
+            "explanation": "从古文豕。",
+            "note": "各本作从㣇省象形五字。非也。今正。"
+        },
+        {
+            "explanation": "从又持肉。以給祠祀也。",
+            "note": "凡祭宗廟之禮。豕曰剛鬛。豚曰腯肥。又、手也。徒䰟切。十三部。"
+        },
+        {
+            "explanation": "凡？之屬皆从？。",
+            "note": "各本？作豚。誤。今正。"
+        },
+        {
+            "explanation": "篆文从肉豕。",
+            "note": "上古文。此小篆也。亦以上附二之例。不入豚於豕部附以古文？者、以有从？之？則不得不立此部首也。爾雅音義曰。籒文作豚。玉篇亦曰。豚者、籒文。皆誤。恐學者惑焉。故箸於此。"
+        }
+    ],
+    "indexes": [
+        "豚",
+        "豚"
+    ]
+}

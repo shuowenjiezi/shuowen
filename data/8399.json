@@ -1,0 +1,31 @@
+{
+    "id": 8399,
+    "wordhead": "柩",
+    "explanation": "棺也。从匚从木，久聲。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "日救切",
+    "variants": [
+        {
+            "wordhead": "𠥬",
+            "explanation": "籒文柩。",
+            "seal_character": "狱"
+        }
+    ],
+    "seal_character": "狰",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "木",
+        "久",
+        "匚",
+        "舊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [],
+    "indexes": [
+        "柩",
+        "𠥬"
+    ]
+}

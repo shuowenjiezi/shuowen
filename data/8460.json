@@ -1,0 +1,44 @@
+{
+    "id": 8460,
+    "wordhead": "彈",
+    "explanation": "行丸也。从弓單聲。",
+    "volume": "12",
+    "radical": "弓",
+    "pronunciation": "徒案切",
+    "variants": [
+        {
+            "wordhead": "𢎫",
+            "explanation": "彈或从弓持丸<span>[<span>𠁽</span>]</span>。",
+            "seal_character": "猷"
+        }
+    ],
+    "seal_character": "猶",
+    "pinyin": "tan",
+    "pinyin_full": "dàn",
+    "components": [
+        "單",
+        "弓",
+        "丸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行丸也。",
+            "note": "左傳。晉靈公從臺上彈人。而觀其避丸也。引申爲凡抨彈、糾彈之偁。"
+        },
+        {
+            "explanation": "从弓。單聲。",
+            "note": "徒案切。十四部。亦平聲。"
+        },
+        {
+            "explanation": "或說彈从弓持丸如此。",
+            "note": "各本篆形作？。今正。汗𥳑云。？、彈字也。出說文。又佩觿、集韵皆有？字。葢古本說文从弓而象丸形。與玉部朽玉字同意。"
+        }
+    ],
+    "indexes": [
+        "弹",
+        "彈",
+        "𢎫"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": 8469,
+    "wordhead": "系",
+    "explanation": "繋也。从糸丿聲。凡系之屬皆从系。",
+    "volume": "12",
+    "radical": "系",
+    "pronunciation": "胡計切",
+    "variants": [
+        {
+            "wordhead": "𣫦",
+            "explanation": "系<span>[<span>𢁴</span>]</span>或从毄、處。",
+            "seal_character": "獄"
+        },
+        {
+            "wordhead": "𦃟",
+            "explanation": "籒文系<span>[<span>𢁴</span>]</span>从爪、絲。",
+            "seal_character": "獅"
+        }
+    ],
+    "seal_character": "獃",
+    "pinyin": "xi",
+    "pinyin_full": "xì",
+    "components": [
+        "毄",
+        "丿",
+        "糸",
+        "絲",
+        "爪",
+        "處"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "縣也。",
+            "note": "縣各本作繫。非其義。今正。𥄉部曰。縣者、系也。引申爲凡總持之偁。故系與縣二篆爲轉注。系者、垂統於上而承於下也。系與係可通用。然經傳係多謂束縛。故係下曰絜束也。其義不同。系之義引申爲世系。周禮瞽朦。世帝繫。小史。奠繫世。皆謂帝繫世本之屬。其字借繫爲之。當作系。大傳。繫之以姓而弗別。亦系之叚借。"
+        },
+        {
+            "explanation": "从糸。",
+            "note": "糸、細絲也。縣物者不必麤也。"
+        },
+        {
+            "explanation": "𠂆聲。",
+            "note": "𠂆余制切。抴也。虒字从之。系字亦从之。形聲中有會意也。胡計切。十六部。"
+        },
+        {
+            "explanation": "系或从毄處。",
+            "note": "从處而𣪠聲也。𣪠亦在十六部。故古係縛字亦多叚𣪠爲之。"
+        },
+        {
+            "explanation": "籒文系。从爪絲。",
+            "note": "此會意也。覆手曰爪。絲縣於掌中而下垂。是系之意也。"
+        }
+    ],
+    "indexes": [
+        "系",
+        "𣫦",
+        "𦃟"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 8851,
+    "wordhead": "蛟",
+    "explanation": "龍之屬也。池魚滿三千六百，蛟來爲之長，能率魚飛。置笱水中，卽蛟去。从虫交聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "古肴切",
+    "variants": [],
+    "seal_character": "瓭",
+    "pinyin": "jiao",
+    "pinyin_full": "jiāo",
+    "components": [
+        "虫",
+        "交"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "龍屬。無角曰蛟。",
+            "note": "各本作龍之屬也四字。今依韵會正。龍者、鱗蟲之長。蛟其屬。無角則屬而别也。郭氏山海經傳曰。似蛇。四腳。細頸。頸有白嬰。大者數圍。卵生。子如一二斛瓮。能呑人。按蛟或作鮫。然鮫者魚名。其字不相代也。"
+        },
+        {
+            "explanation": "从虫。交聲。",
+            "note": "依韵會本四字在此。古肴切。二部。"
+        },
+        {
+            "explanation": "池魚滿三千六百。蛟來爲之長。能䢦魚而飛。",
+            "note": "韵會有而字。"
+        },
+        {
+            "explanation": "置笱水中卽蛟去。",
+            "note": "䢦者、先導也。曲竹捕魚曰笱。"
+        }
+    ],
+    "indexes": [
+        "蛟"
+    ]
+}

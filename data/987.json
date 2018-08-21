@@ -1,0 +1,31 @@
+{
+    "id": 987,
+    "wordhead": "趯",
+    "explanation": "踊也。从走翟聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "以灼切",
+    "variants": [],
+    "seal_character": "剈",
+    "pinyin": "yue",
+    "pinyin_full": "yuè",
+    "components": [
+        "翟",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "躍也。",
+            "note": "召南傳曰。趯趯、躍也。足部曰。躍、迅也。"
+        },
+        {
+            "explanation": "从走。翟聲。",
+            "note": "以灼切。古音在二部。平聲。"
+        }
+    ],
+    "indexes": [
+        "趯"
+    ]
+}

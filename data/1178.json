@@ -1,0 +1,39 @@
+{
+    "id": 1178,
+    "wordhead": "逎",
+    "explanation": "迫也。从辵酉聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "字秋切",
+    "variants": [
+        {
+            "wordhead": "遒",
+            "explanation": "逎或从酋。",
+            "seal_character": "匦"
+        }
+    ],
+    "seal_character": "匥",
+    "pinyin": "qiu",
+    "pinyin_full": "qiú",
+    "components": [
+        "酋",
+        "辵",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "迫也。",
+            "note": "大雅。似先公酋矣。正義。酋作遒。按酋者遒之叚借字。釋詁、毛傳皆曰。酋、終也。終與迫義相成。逎與揫義略同也。"
+        },
+        {
+            "explanation": "从辵。酉聲。",
+            "note": "字秋切。三部。"
+        }
+    ],
+    "indexes": [
+        "逎",
+        "遒"
+    ]
+}

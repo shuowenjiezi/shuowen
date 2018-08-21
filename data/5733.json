@@ -1,0 +1,43 @@
+{
+    "id": 5733,
+    "wordhead": "鬀",
+    "explanation": "𩮜髮也。从髟弟聲。大人曰髡，小人曰鬀，盡及身毛曰𩮜。",
+    "volume": "09",
+    "radical": "髟",
+    "pronunciation": "他計切",
+    "variants": [],
+    "seal_character": "枂",
+    "pinyin": "ti",
+    "pinyin_full": "tì",
+    "components": [
+        "弟",
+        "髟"
+    ],
+    "xuan_note": "臣鉉等曰：今俗別作剃，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩮜髮也。",
+            "note": "鬀俗作剃。"
+        },
+        {
+            "explanation": "从髟。弟聲。",
+            "note": "必次弟除之、故从弟。此亦形聲包會意。他計切。十五部。"
+        },
+        {
+            "explanation": "大人曰髡。",
+            "note": "謂有罪者。"
+        },
+        {
+            "explanation": "小兒曰鬀。",
+            "note": "周禮雉氏注曰。雉讀如鬀小兒頭之鬀。韓非曰。嬰兒不剔首則腹痛。剔亦鬀也。葢自古小兒鬀髮。"
+        },
+        {
+            "explanation": "盡及身毛曰𩮜。",
+            "note": "此又析言三字之不同也。上文則渾言之。"
+        }
+    ],
+    "indexes": [
+        "鬀"
+    ]
+}

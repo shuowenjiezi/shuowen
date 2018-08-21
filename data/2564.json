@@ -1,0 +1,39 @@
+{
+    "id": 2564,
+    "wordhead": "骿",
+    "explanation": "并脅也。从骨并聲。晉文公骿脅。",
+    "volume": "04",
+    "radical": "骨",
+    "pronunciation": "部田切",
+    "variants": [],
+    "seal_character": "奾",
+    "pinyin": "pian",
+    "pinyin_full": "pián",
+    "components": [
+        "并",
+        "骨"
+    ],
+    "xuan_note": "臣鉉等曰：骿胝字同。今别作胼，非。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "骿脅、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "幷榦也。",
+            "note": "依左傳正義訂。肉部。脅、膀也。肋、脅骨也。廣雅。榦謂之肋。是脅骨一名榦。故韋注國語云。骿、幷榦也。杜注左傳云。騈脅、合榦也。其字左傳、史記作騈。國語、吳都賦作骿。論衡作仳。騈仳假借字。"
+        },
+        {
+            "explanation": "从骨。幷聲。",
+            "note": "形聲包會意也。部田切。古音在十一部。"
+        },
+        {
+            "explanation": "晉文公骿脅。",
+            "note": "見左傳僖卄三年、晉語。"
+        }
+    ],
+    "indexes": [
+        "骿"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 4571,
+    "wordhead": "寶",
+    "explanation": "珍也。从宀从王从貝，缶聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "博皓切",
+    "variants": [
+        {
+            "wordhead": "寚",
+            "explanation": "古文寶省貝。",
+            "seal_character": "批"
+        }
+    ],
+    "seal_character": "扸",
+    "pinyin": "bao",
+    "pinyin_full": "bǎo",
+    "components": [
+        "王",
+        "貝",
+        "宀",
+        "缶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "珍也。",
+            "note": "玉部曰。珍、寶也。二字互訓。史記多假葆爲寶。"
+        },
+        {
+            "explanation": "从宀玉貝。",
+            "note": "玉與貝在屋下。會意。"
+        },
+        {
+            "explanation": "缶聲。",
+            "note": "博晧切。古音在三部。"
+        },
+        {
+            "explanation": "古文寶。省貝。",
+            "note": "廣韵曰。古文作珤。"
+        }
+    ],
+    "indexes": [
+        "宝",
+        "寶",
+        "寚"
+    ]
+}

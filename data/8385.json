@@ -1,0 +1,47 @@
+{
+    "id": 8385,
+    "wordhead": "匡",
+    "explanation": "飲器，筥也。从匚㞷聲。",
+    "volume": "12",
+    "radical": "匚",
+    "pronunciation": "去王切",
+    "variants": [
+        {
+            "wordhead": "筐",
+            "explanation": "匩或从竹。",
+            "seal_character": "狡"
+        }
+    ],
+    "seal_character": "狠",
+    "pinyin": "kuang",
+    "pinyin_full": "kuānɡ",
+    "components": [
+        "竹",
+        "匚",
+        "匡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飯器。",
+            "note": "句。小徐有也字。"
+        },
+        {
+            "explanation": "筥也。",
+            "note": "謂卽筥也。竹部曰。筥、䈰也。䈰一曰飯器。容五升。䈰有三義。而筥匡取此一義耳。匡不專於盛飯。故詩采卷耳以頃匡、求桑以懿匡。匡之引申叚借爲匡正。小雅。王于出征。以匡王國。傳曰。匡、正也。葢正其不正爲匡。凡小不平曰匡剌。革其匡剌亦曰匡也。詩有頃匡。謂匡之半淺半深不平者。故謂之頃。所謂匡剌也。匡剌見攷工記注。"
+        },
+        {
+            "explanation": "从匚。㞷聲。",
+            "note": "去王切。十部。"
+        },
+        {
+            "explanation": "匩或从竹。",
+            "note": "今人亦分匡筐爲二義。"
+        }
+    ],
+    "indexes": [
+        "匡",
+        "筐"
+    ]
+}

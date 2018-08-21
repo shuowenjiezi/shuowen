@@ -1,0 +1,35 @@
+{
+    "id": 745,
+    "wordhead": "犉",
+    "explanation": "黃牛黑脣也。从牛𦎫聲。《詩》曰：“九十其犉。”",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "如均切",
+    "variants": [],
+    "seal_character": "儾",
+    "pinyin": "run",
+    "pinyin_full": "rún",
+    "components": [
+        "牛",
+        "享"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黃牛黑脣也。",
+            "note": "釋畜云。黑脣犉。毛傳云。黃牛黑脣曰犉。按爾雅不言黃牛者、牛以黃爲正色。凡不言何色皆謂黃牛也。"
+        },
+        {
+            "explanation": "从牛。𦎫聲。",
+            "note": "如匀切。十三部。"
+        },
+        {
+            "explanation": "詩曰。九十其犉。",
+            "note": "見小雅。"
+        }
+    ],
+    "indexes": [
+        "犉"
+    ]
+}

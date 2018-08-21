@@ -1,0 +1,39 @@
+{
+    "id": 3490,
+    "wordhead": "樗",
+    "explanation": "木也。以其皮裹松脂。从木雩聲。讀若華。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "乎化切",
+    "variants": [
+        {
+            "wordhead": "檴",
+            "explanation": "或从蒦。",
+            "seal_character": "巈"
+        }
+    ],
+    "seal_character": "巇",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "木",
+        "蒦",
+        "雩"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "樗木也。",
+            "note": "各本樗與㯉二篆互譌。今正。毛詩音義、爾雅音義、五經文字可證也。假令許書與今互異。則陸氏、張氏當辨明之。如穜種之例矣。豳風、小雅毛傳皆曰。樗、惡木也。惟其惡木。故豳人祗以爲薪。小雅以儷惡菜。今之臭椿樹是也。所在有之。有一種葉香者可食。"
+        },
+        {
+            "explanation": "從木。雩聲。",
+            "note": "各本作虖聲。今正。丑居切。五部。"
+        }
+    ],
+    "indexes": [
+        "樗",
+        "檴"
+    ]
+}

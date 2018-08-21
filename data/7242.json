@@ -1,0 +1,43 @@
+{
+    "id": 7242,
+    "wordhead": "津",
+    "explanation": "水渡也。从水𦘔聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "將鄰切",
+    "variants": [
+        {
+            "wordhead": "𦪉",
+            "explanation": "古文𣸁从舟从淮。",
+            "seal_character": "混"
+        }
+    ],
+    "seal_character": "淶",
+    "pinyin": "jin",
+    "pinyin_full": "jīn",
+    "components": [
+        "水",
+        "舟",
+        "淮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水渡也。",
+            "note": "商書微子曰。若涉大水其無津。俗本妄增涯字。按經傳多假借津爲𧗃潤字。周禮其民黑而津是。"
+        },
+        {
+            "explanation": "从水。𦘔聲。",
+            "note": "將鄰切。十二部。隸省作津。"
+        },
+        {
+            "explanation": "古文津。从舟淮。",
+            "note": "按當是从舟。从水、進省聲。"
+        }
+    ],
+    "indexes": [
+        "津",
+        "𦪉"
+    ]
+}

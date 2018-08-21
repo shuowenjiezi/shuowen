@@ -1,0 +1,66 @@
+{
+    "id": 5798,
+    "wordhead": "鬽",
+    "explanation": "老精物也。从鬼、彡。彡，鬼毛。",
+    "volume": "09",
+    "radical": "鬼",
+    "pronunciation": "密祕切",
+    "variants": [
+        {
+            "wordhead": "魅",
+            "explanation": "或从未聲。",
+            "seal_character": "柋"
+        },
+        {
+            "wordhead": "𢑛",
+            "explanation": "古文。",
+            "seal_character": "柌"
+        },
+        {
+            "wordhead": "𤲄",
+            "explanation": "籒文从彖首，从尾<span>[<span>㞑</span>]</span>省聲。",
+            "seal_character": "柍"
+        }
+    ],
+    "seal_character": "柊",
+    "pinyin": "mei",
+    "pinyin_full": "mèi",
+    "components": [
+        "鬼",
+        "尾",
+        "彖",
+        "未",
+        "甶",
+        "彡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "老物精也。",
+            "note": "各本作精物。今依蕪城賦王莽傳二注正。論衡曰。鬼者、老物之精也。漢藝文志有神鬼精物之語。則作精物亦通。周禮。以夏日至致地示物鬽。注曰。百物之神曰鬽。引春秋傳。螭鬽魍魎。按今左傳作魅。釋文。本作鬽。服䖍注云。魅、怪物。或云魅人面獸身而四足。好惑人。山林異氣所生。"
+        },
+        {
+            "explanation": "从鬼彡。",
+            "note": "密祕切。十五部。"
+        },
+        {
+            "explanation": "彡、鬼毛。",
+            "note": "說从彡之意。彡者、毛飾畫之文。因以爲毛之偁。"
+        },
+        {
+            "explanation": "或从未。",
+            "note": "从未爲聲。"
+        },
+        {
+            "explanation": "籒文。从彖首。从㞑省聲。",
+            "note": "彖首謂彖也。豕之頭也。或曰當是㣇首。？聲猶未聲也。按此篆今訛爲二。？古文也。？籒文也。與解語不相應。亦與髟部、立部不相應。今刪正。鬽當是古文。則？爲籒文審矣。○七篇录下云。刻木录录也。盧谷切。與此相似而非一字。从彖首、當是从㣇省。篆當作？。轉寫失其眞。"
+        }
+    ],
+    "indexes": [
+        "鬽",
+        "魅",
+        "𢑛",
+        "𤲄"
+    ]
+}

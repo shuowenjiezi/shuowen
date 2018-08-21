@@ -1,0 +1,41 @@
+{
+    "id": 1920,
+    "wordhead": "叚",
+    "explanation": "借也。闕。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "古雅切",
+    "variants": [
+        {
+            "wordhead": "𠖊",
+            "explanation": "古文叚。",
+            "seal_character": "嚋"
+        },
+        {
+            "wordhead": "𠭊",
+            "explanation": "譚長說：叚如此。",
+            "seal_character": "嚌"
+        }
+    ],
+    "seal_character": "嚊",
+    "pinyin": "jia",
+    "pinyin_full": "jiǎ",
+    "components": [],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "借也。",
+            "note": "人部假云非眞也。此叚云借也。然則凡云假借當作此字。古多借瑕爲叚。晉士文伯名匈字伯瑕。楚陽匈、鄭駟乞皆字子瑕。古名字相應。則瑕卽叚也。禮記公肩假、古今人表作公肩瑕。左傳瑕嘉平戎於王。周禮注作叚嘉。皆同音叚借。"
+        },
+        {
+            "explanation": "闕。",
+            "note": "謂闕其形也。其從又可知。其餘則未解。故曰闕。古雅切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "叚",
+        "𠖊",
+        "𠭊"
+    ]
+}

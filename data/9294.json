@@ -1,0 +1,40 @@
+{
+    "id": 9294,
+    "wordhead": "鐫",
+    "explanation": "穿木鐫也。从金雋聲。一曰琢石也。讀若瀸。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "子全切",
+    "variants": [],
+    "seal_character": "盼",
+    "pinyin": "juan",
+    "pinyin_full": "juān",
+    "components": [
+        "金",
+        "雋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "破木鐫也。",
+            "note": "謂破木之器曰鐫也。因而破木謂之鐫矣。"
+        },
+        {
+            "explanation": "从金。雋聲。",
+            "note": "子全切。十三部。"
+        },
+        {
+            "explanation": "一曰琢石也。",
+            "note": "此破木引申之義耳。凡似此者皆淺人所增也。"
+        },
+        {
+            "explanation": "讀若瀸。",
+            "note": "瀸在閉口音、非其類。"
+        }
+    ],
+    "indexes": [
+        "镌",
+        "鐫"
+    ]
+}

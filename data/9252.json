@@ -1,0 +1,32 @@
+{
+    "id": 9252,
+    "wordhead": "鑊",
+    "explanation": "鑴也。从金蒦聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "胡郭切",
+    "variants": [],
+    "seal_character": "盎",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "金",
+        "蒦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鑴也。",
+            "note": "少牢饋食禮有羊鑊、有豕鑊。鑊所以煑也。"
+        },
+        {
+            "explanation": "从金。蒦聲。",
+            "note": "胡郭切。五部。"
+        }
+    ],
+    "indexes": [
+        "镬",
+        "鑊"
+    ]
+}

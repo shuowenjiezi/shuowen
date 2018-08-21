@@ -1,0 +1,43 @@
+{
+    "id": 698,
+    "wordhead": "蓐",
+    "explanation": "陳艸復生也。从艸辱聲。一曰蔟也。凡蓐之屬皆从蓐。",
+    "volume": "01",
+    "radical": "蓐",
+    "pronunciation": "而蜀切",
+    "variants": [
+        {
+            "wordhead": "",
+            "explanation": "籒文蓐从茻。",
+            "seal_character": "儆"
+        }
+    ],
+    "seal_character": "儅",
+    "pinyin": "ru",
+    "pinyin_full": "rù",
+    "components": [
+        "艸",
+        "辱",
+        "茻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "陳艸復生也。从艸。辱聲。",
+            "note": "而蜀切。三部。"
+        },
+        {
+            "explanation": "一曰蔟也。",
+            "note": "此別一義。艸部曰。蔟、行蠶蓐也。蓐訓陳艸復生。引伸爲薦席之蓐。故蠶蔟亦呼蓐。"
+        },
+        {
+            "explanation": "籒文蓐。从茻。",
+            "note": "此不與艸部五十三文爲類而別立蓐部者、以有薅字從蓐故也。"
+        }
+    ],
+    "indexes": [
+        "蓐",
+        ""
+    ]
+}

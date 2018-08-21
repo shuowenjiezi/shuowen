@@ -1,0 +1,39 @@
+{
+    "id": 9273,
+    "wordhead": "鏶",
+    "explanation": "鍱也。从金集聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "奏入切",
+    "variants": [
+        {
+            "wordhead": "鍓",
+            "explanation": "鏶或从咠。",
+            "seal_character": "盥"
+        }
+    ],
+    "seal_character": "盤",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "金",
+        "咠",
+        "集"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鍱也。从金。集聲。",
+            "note": "秦入切。七部"
+        },
+        {
+            "explanation": "鏶或从咠。",
+            "note": "咠聲。"
+        }
+    ],
+    "indexes": [
+        "鏶",
+        "鍓"
+    ]
+}

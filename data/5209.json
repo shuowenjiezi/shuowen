@@ -1,0 +1,65 @@
+{
+    "id": 5209,
+    "wordhead": "丘",
+    "explanation": "土之高也，非人所爲也。从北从一。一，地也，人居在丘南，故从北。中邦之居，在崐崘東南。一曰四方高，中央下爲丘。象形。凡丘之屬皆从丘。(今隷變作丘。)",
+    "volume": "08",
+    "radical": "丘",
+    "pronunciation": "去鳩切",
+    "variants": [
+        {
+            "wordhead": "𤤘",
+            "explanation": "古文从土。",
+            "seal_character": "攷"
+        }
+    ],
+    "seal_character": "收",
+    "pinyin": "qiu",
+    "pinyin_full": "qiū",
+    "components": [
+        "丘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "土之高也。",
+            "note": "大司徒注曰。土高曰丘。"
+        },
+        {
+            "explanation": "非人所爲也。",
+            "note": "釋丘曰。非人爲之丘。謂非人力所爲也。"
+        },
+        {
+            "explanation": "从北。从一。",
+            "note": "會意。去鳩切。古音在一部。讀如欺。漢時讀入今之尤韵。故禮記嫌名注曰。宇與禹、丘與區之類。漢時區亦去鳩切也。"
+        },
+        {
+            "explanation": "一、地也。",
+            "note": "釋从一之意。"
+        },
+        {
+            "explanation": "人凥在丠南。故从北。",
+            "note": "釋从北之意。"
+        },
+        {
+            "explanation": "中邦之凥在昆侖東南。",
+            "note": "昆侖下當有丘字。嫌人居不必在丘南。故言倉頡造字之初取意於此。"
+        },
+        {
+            "explanation": "一曰四方高中央下爲丘。",
+            "note": "淮南墬形訓注曰。四方而高曰丘。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "與上會意別。"
+        },
+        {
+            "explanation": "古文从土。",
+            "note": "从土猶从一。"
+        }
+    ],
+    "indexes": [
+        "丘",
+        "𤤘"
+    ]
+}

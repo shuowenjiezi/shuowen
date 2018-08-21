@@ -1,0 +1,39 @@
+{
+    "id": 2329,
+    "wordhead": "䍮",
+    "explanation": "羊未卒歲也。从羊兆聲。或曰：夷羊百斤左右爲䍮。讀若《春秋》“盟于洮”。",
+    "volume": "04",
+    "radical": "羊",
+    "pronunciation": "治小切",
+    "variants": [],
+    "seal_character": "塦",
+    "pinyin": "zhao",
+    "pinyin_full": "zhào",
+    "components": [
+        "羊",
+        "兆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羊未卒歲也。",
+            "note": "廣雅。吳羊牡一歲曰牯䍮。三歲曰羝。其牝一歲曰牸䍮。三歲曰牂。"
+        },
+        {
+            "explanation": "从羊。兆聲。",
+            "note": "治小切。二部。"
+        },
+        {
+            "explanation": "或曰。羠羊百斤𠂇又爲䍮。",
+            "note": "羠各本作夷。小徐釋以殷紂時夷羊。非也。今依急就篇顏注正。㓺羊易肥。故有重百斤左右者。"
+        },
+        {
+            "explanation": "讀若春秋盟于洮。",
+            "note": "見僖八年。釋文洮他刀反。羠䍮音同。"
+        }
+    ],
+    "indexes": [
+        "䍮"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 3127,
+    "wordhead": "䀁",
+    "explanation": "小甌也。从皿有聲。讀若灰。一曰若賄。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "于救切",
+    "variants": [
+        {
+            "wordhead": "𥁓",
+            "explanation": "䀁或从右。",
+            "seal_character": "對"
+        }
+    ],
+    "seal_character": "尌",
+    "pinyin": "you",
+    "pinyin_full": "yòu",
+    "components": [
+        "右",
+        "有",
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "小甌也。",
+            "note": "甌、小盆也。廣韵。䀁、抒水器也。"
+        },
+        {
+            "explanation": "从皿。有聲。讀若灰。",
+            "note": "灰有二聲。古音皆在一部也。今音于救切。"
+        },
+        {
+            "explanation": "一曰若賄。",
+            "note": "賄从有聲。古音亦在一部。"
+        },
+        {
+            "explanation": "䀁或从右。",
+            "note": "右聲也。古亦在一部。"
+        }
+    ],
+    "indexes": [
+        "䀁",
+        "𥁓"
+    ]
+}

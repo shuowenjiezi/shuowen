@@ -1,0 +1,50 @@
+{
+    "id": 4597,
+    "wordhead": "宄",
+    "explanation": "姦也。外爲盜，内爲宄。从宀九聲。讀若軌。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "居洧切",
+    "variants": [
+        {
+            "wordhead": "𠬚",
+            "explanation": "古文宄。",
+            "seal_character": "抙"
+        },
+        {
+            "wordhead": "𡧫",
+            "explanation": "亦古文宄。",
+            "seal_character": "抚"
+        }
+    ],
+    "seal_character": "折",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "又",
+        "九",
+        "宀",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "姦也。",
+            "note": "姦宄者、通偁。內外者、析言之也。"
+        },
+        {
+            "explanation": "外爲盜。內爲宄。",
+            "note": "凡盜起外爲姦。中出爲宄。成十七年左傳曰。亂在外爲姦。在內爲宄。外傳晉語亦云。亂在內爲宄。在外爲姦。魯語。竊寶者爲宄。用宄之財者爲姦。亦謂莒太子僕竊莒寶爲內。魯藏姦爲外。三傳無異也。惟亂在內、故字从宀。鄭注尙書云。由內爲姦。起外爲軌。或後人轉寫誤也。宄經史亦假軌爲之。"
+        },
+        {
+            "explanation": "从宀。九聲。讀若軌。",
+            "note": "居洧切。古音九在三部。"
+        }
+    ],
+    "indexes": [
+        "宄",
+        "𠬚",
+        "𡧫"
+    ]
+}

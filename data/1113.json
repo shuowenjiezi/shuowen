@@ -1,0 +1,47 @@
+{
+    "id": 1113,
+    "wordhead": "造",
+    "explanation": "就也。从辵告聲。譚長說：造，上士也。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "七到切",
+    "variants": [
+        {
+            "wordhead": "艁",
+            "explanation": "古文造从舟。",
+            "seal_character": "動"
+        }
+    ],
+    "seal_character": "勔",
+    "pinyin": "zao",
+    "pinyin_full": "zào",
+    "components": [
+        "告",
+        "辵",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "就也。",
+            "note": "造就疊韵。廣雅。造詣也。"
+        },
+        {
+            "explanation": "从辵。告聲。",
+            "note": "七到切。古音在三部。"
+        },
+        {
+            "explanation": "譚長說造、上士也。",
+            "note": "王制。升於司徒者不征於鄉。升於學者不征於司徒。曰造士。注造、成也。能習禮則爲成士。按依鄭則與就同義。"
+        },
+        {
+            "explanation": "古文造。从舟。",
+            "note": "釋水天子造舟。毛傳同。陸氏云。廣雅作艁。按艁者、謂並舟成梁。後引伸爲凡成就之言。"
+        }
+    ],
+    "indexes": [
+        "造",
+        "艁"
+    ]
+}

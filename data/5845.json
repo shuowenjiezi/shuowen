@@ -1,0 +1,39 @@
+{
+    "id": 5845,
+    "wordhead": "岫",
+    "explanation": "山穴也。从山由聲。",
+    "volume": "09",
+    "radical": "山",
+    "pronunciation": "似又切",
+    "variants": [
+        {
+            "wordhead": "𥥉",
+            "explanation": "籒文从穴。",
+            "seal_character": "栂"
+        }
+    ],
+    "seal_character": "栁",
+    "pinyin": "xiu",
+    "pinyin_full": "xiù",
+    "components": [
+        "由",
+        "山",
+        "穴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山有穴也。",
+            "note": "有字各本奪。今依文選張景陽襍詩注補。有穴之山謂之岫。非山穴謂之岫也。東京賦。王鮪岫居。薛解云。山有穴曰岫。然則岫居、言居有穴之山。"
+        },
+        {
+            "explanation": "从山。由聲。",
+            "note": "似又切。三部。"
+        }
+    ],
+    "indexes": [
+        "岫",
+        "𥥉"
+    ]
+}

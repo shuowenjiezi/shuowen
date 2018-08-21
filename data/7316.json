@@ -1,0 +1,39 @@
+{
+    "id": 7316,
+    "wordhead": "汀",
+    "explanation": "平也。从水丁聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "他丁切",
+    "variants": [
+        {
+            "wordhead": "𠀩",
+            "explanation": "汀或从平<span>[<span>𠀒</span>]</span>。",
+            "seal_character": "湉"
+        }
+    ],
+    "seal_character": "湈",
+    "pinyin": "ting",
+    "pinyin_full": "tīnɡ",
+    "components": [
+        "丁",
+        "平",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "平也。",
+            "note": "謂水之平也。水平謂之汀。因之洲渚之平謂之汀。李善引文字集略云。水際平沙也。乃引伸之義耳。"
+        },
+        {
+            "explanation": "从水。丁聲。",
+            "note": "他丁切。十一部。"
+        }
+    ],
+    "indexes": [
+        "汀",
+        "𠀩"
+    ]
+}

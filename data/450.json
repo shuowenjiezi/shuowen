@@ -1,0 +1,35 @@
+{
+    "id": 450,
+    "wordhead": "蘠",
+    "explanation": "蘠靡，虋冬也。从艸牆聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "賤羊切",
+    "variants": [],
+    "seal_character": "俿",
+    "pinyin": "qiang",
+    "pinyin_full": "qiánɡ",
+    "components": [
+        "艸",
+        "牆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蘠靡、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "虋冬也。",
+            "note": "見釋艸。按本艸經有天門冬、麥門冬。未知爾雅、說文謂何品也。"
+        },
+        {
+            "explanation": "从艸。牆聲。",
+            "note": "賤羊切。十部。"
+        }
+    ],
+    "indexes": [
+        "蘠"
+    ]
+}

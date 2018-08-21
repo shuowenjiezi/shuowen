@@ -1,0 +1,48 @@
+{
+    "id": 6106,
+    "wordhead": "馬",
+    "explanation": "怒也。武也。象馬頭髦尾四足之形。凡馬之屬皆从馬。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "莫下切",
+    "variants": [
+        {
+            "wordhead": "𢒠",
+            "explanation": "古文。",
+            "seal_character": "椧"
+        },
+        {
+            "wordhead": "𢒧",
+            "explanation": "籒文馬與𢒠同，有髦。",
+            "seal_character": "椦"
+        }
+    ],
+    "seal_character": "椥",
+    "pinyin": "ma",
+    "pinyin_full": "mǎ",
+    "components": [
+        "馬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "怒也。武也。",
+            "note": "以曡韵爲訓。亦門聞也、戸護也之例也。釋名曰。大司馬。馬、武也。大揔武事也。"
+        },
+        {
+            "explanation": "象馬頭髦尾四足之形。",
+            "note": "古、籒文皆以彡象髦。右建奏事。事下。建讀之曰。誤書馬字。與尾當五。今乃四。不足一。上譴死矣。莫下切。古音在五部。"
+        },
+        {
+            "explanation": "籒文馬。與𢒠同有髦。",
+            "note": "說文各本籒文古文皆作𢒠。無別。據玉篇古文作𢒠、籒文作𢒗。是古文从<>（𢁓）加髦籒从<>加髦。故云二者同有髦也。毛髦覆於頸。故象覆形。"
+        }
+    ],
+    "indexes": [
+        "马",
+        "馬",
+        "𢒠",
+        "𢒧"
+    ]
+}

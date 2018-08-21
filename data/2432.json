@@ -1,0 +1,58 @@
+{
+    "id": 2432,
+    "wordhead": "鶃",
+    "explanation": "鳥也。从鳥兒聲。《春秋傳》曰：“六鶃退飛。”",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "五歴切",
+    "variants": [
+        {
+            "wordhead": "鷊",
+            "explanation": "鶃或从鬲。",
+            "seal_character": "壞"
+        },
+        {
+            "wordhead": "𪁌",
+            "explanation": "司馬相如說：鶃从赤<span>[<span>𤆍</span>]</span>。",
+            "seal_character": "壟"
+        }
+    ],
+    "seal_character": "壝",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "鬲",
+        "鳥",
+        "兒",
+        "赤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鶃鳥也。",
+            "note": "字見春秋經文十六年。水鳥也。博物志曰。鷁雄雌相視則孕。或曰。雄鳴上風。雌鳴下風。薛綜曰。鷁首者、船頭象鷁鳥。厭水神。按今字多作鷁。"
+        },
+        {
+            "explanation": "从鳥。兒聲。",
+            "note": "五歷切。十六部。"
+        },
+        {
+            "explanation": "春秋傳曰。六鶃退飛。",
+            "note": "三傳皆同。今皆左兒右鳥。"
+        },
+        {
+            "explanation": "鶃或从鬲。",
+            "note": "兒聲鬲聲益聲皆十六部也。"
+        },
+        {
+            "explanation": "司馬相如鶃从赤。",
+            "note": "按赤聲古音在五部。而用爲鶃字者合韵也。葢凡將篇如此作。今上林賦濯鷁牛首。衹作鷁。"
+        }
+    ],
+    "indexes": [
+        "鶃",
+        "鷊",
+        "𪁌"
+    ]
+}

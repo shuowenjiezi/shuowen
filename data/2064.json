@@ -1,0 +1,52 @@
+{
+    "id": 2064,
+    "wordhead": "教",
+    "explanation": "上所施下所效也。从攴从孝。凡教之屬皆从教。",
+    "volume": "03",
+    "radical": "教",
+    "pronunciation": "古孝切",
+    "variants": [
+        {
+            "wordhead": "𧧿",
+            "explanation": "古文教。",
+            "seal_character": "圹"
+        },
+        {
+            "wordhead": "𤕝",
+            "explanation": "亦古文教。",
+            "seal_character": "场"
+        }
+    ],
+    "seal_character": "圸",
+    "pinyin": "jiao",
+    "pinyin_full": "jiào",
+    "components": [
+        "孝",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "上所施、下所效也。",
+            "note": "教效㬪韵。"
+        },
+        {
+            "explanation": "从攴𡥈。",
+            "note": "𡥈見子部。效也。上施故從攵。下效故從𡥈。古孝切。二部。"
+        },
+        {
+            "explanation": "古文敎。",
+            "note": "右从古文言。"
+        },
+        {
+            "explanation": "亦古文敎。",
+            "note": "從攴從爻。"
+        }
+    ],
+    "indexes": [
+        "教",
+        "𧧿",
+        "𤕝"
+    ]
+}

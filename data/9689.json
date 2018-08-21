@@ -1,0 +1,37 @@
+{
+    "id": 9689,
+    "wordhead": "禼",
+    "explanation": "蟲也。从厹，象形。讀與偰同。",
+    "volume": "14",
+    "radical": "禸",
+    "pronunciation": "私列切",
+    "variants": [
+        {
+            "wordhead": "𥝁",
+            "explanation": "古文𥜽。",
+            "seal_character": "碫"
+        }
+    ],
+    "seal_character": "碪",
+    "pinyin": "xie",
+    "pinyin_full": "xiè",
+    "components": [
+        "禼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蟲也。",
+            "note": "殷玄王以爲名。見漢書。俗改用偰契字。"
+        },
+        {
+            "explanation": "从厹。象形。讀與偰同。",
+            "note": "私列切。十五部。"
+        }
+    ],
+    "indexes": [
+        "禼",
+        "𥝁"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 4298,
+    "wordhead": "期",
+    "explanation": "會也。从月其聲。",
+    "volume": "07",
+    "radical": "月",
+    "pronunciation": "渠之切",
+    "variants": [
+        {
+            "wordhead": "𣅆",
+            "explanation": "古文期从日、丌。",
+            "seal_character": "愴"
+        }
+    ],
+    "seal_character": "愳",
+    "pinyin": "qi",
+    "pinyin_full": "qī",
+    "components": [
+        "其",
+        "丌",
+        "日",
+        "月"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會也。",
+            "note": "會者、合也。期者、要約之意。所以爲會合也。叚借爲期年、期月字。其本字作稘。期行而稘廢矣。周禮質人、士虞禮古文期年字作基。"
+        },
+        {
+            "explanation": "从月。",
+            "note": "月猶時也。要約必言其時。"
+        },
+        {
+            "explanation": "其聲。",
+            "note": "渠之切。一部。"
+        },
+        {
+            "explanation": "古文从日丌。",
+            "note": "日猶時也。丌聲"
+        }
+    ],
+    "indexes": [
+        "期",
+        "𣅆"
+    ]
+}

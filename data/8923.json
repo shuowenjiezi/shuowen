@@ -1,0 +1,42 @@
+{
+    "id": 8923,
+    "wordhead": "𧖚",
+    "explanation": "蚍𧖚也。从䖵㯱聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "縛牟切",
+    "variants": [
+        {
+            "wordhead": "蜉",
+            "explanation": "𧖚或从虫从孚。",
+            "seal_character": "畆"
+        }
+    ],
+    "seal_character": "畅",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "虫",
+        "孚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧖕𧕰也。",
+            "note": "蟲部？𧕰、大螘也。此不言大螘者、義見於上一字。全書之例如是也。蚍蜉、大螘。釋蟲文。郭云。俗呼爲馬蚍蜉。按馬之言大也。"
+        },
+        {
+            "explanation": "从䖵。㯱聲。",
+            "note": "縛牟切。三部。"
+        },
+        {
+            "explanation": "𧕰或从虫、从孚。",
+            "note": "孚聲。古音孚讀如浮。"
+        }
+    ],
+    "indexes": [
+        "𧖚",
+        "蜉"
+    ]
+}

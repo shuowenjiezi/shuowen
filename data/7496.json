@@ -1,0 +1,39 @@
+{
+    "id": 7496,
+    "wordhead": "䨷",
+    "explanation": "稷雪也。从雨𢿱聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "穌甸切",
+    "variants": [
+        {
+            "wordhead": "䨘",
+            "explanation": "䨷或从見。",
+            "seal_character": "漚"
+        }
+    ],
+    "seal_character": "漙",
+    "pinyin": "xian",
+    "pinyin_full": "xiàn",
+    "components": [
+        "雨",
+        "見",
+        "散"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "稷䨮也。",
+            "note": "謂雪之如稷者。毛詩傳曰。霰、暴雪也。暴當是黍之字誤。俗謂米雪、或謂粒雪皆是也。曾子曰。陽之專氣爲霰。詩箋云。將大雨雪。始必微溫。雪自上下。遇溫氣而團。謂之霰。久之寒勝則大雪矣。"
+        },
+        {
+            "explanation": "从雨。𢿱聲。",
+            "note": "穌甸切。十四部。"
+        }
+    ],
+    "indexes": [
+        "䨷",
+        "䨘"
+    ]
+}

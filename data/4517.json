@@ -1,0 +1,43 @@
+{
+    "id": 4517,
+    "wordhead": "敊",
+    "explanation": "配鹽幽尗也。从尗支聲。",
+    "volume": "07",
+    "radical": "尗",
+    "pronunciation": "是義切",
+    "variants": [
+        {
+            "wordhead": "豉",
+            "explanation": "俗𢻃从豆。",
+            "seal_character": "戸"
+        }
+    ],
+    "seal_character": "户",
+    "pinyin": "chi",
+    "pinyin_full": "chǐ",
+    "components": [
+        "支",
+        "尗",
+        "豆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "配鹽幽尗也。",
+            "note": "廣雅說飲食曰。寑、䤁、鬱、𠪮、幽也。幽與鬱同義。以豆鬱之。其味苦。招䰟曰。大苦鹹酸。辛甘行些。王云。大苦、豉也。辛謂椒薑也。甘謂飴密也。言取豉汁調和以椒薑鹹酢。和以飴蜜。則辛甘之味皆發而行也。釋名曰。豉、嗜也。五味調和。須之而成。乃可甘嗜。故齊人謂豉聲同嗜也。按齊民要術說作豉必室中溫煖。所謂幽尗也。云食徑作豉法。用鹽五升。所謂配鹽也。"
+        },
+        {
+            "explanation": "从尗。支聲。",
+            "note": "是義切。十六部。"
+        },
+        {
+            "explanation": "俗𢻃。从豆。",
+            "note": "此可證尗豆爲古今字。豆部之𧯦字、𧯡字皆非古文所有也。"
+        }
+    ],
+    "indexes": [
+        "敊",
+        "豉"
+    ]
+}

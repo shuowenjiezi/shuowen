@@ -1,0 +1,47 @@
+{
+    "id": 7946,
+    "wordhead": "拓",
+    "explanation": "拾也。陳、宋語。从手石聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "之石切",
+    "variants": [
+        {
+            "wordhead": "摭",
+            "explanation": "拓或从庶<span>[<span>𢉙</span>]</span>。",
+            "seal_character": "焋"
+        }
+    ],
+    "seal_character": "焊",
+    "pinyin": "zhi",
+    "pinyin_full": "zhí",
+    "components": [
+        "石",
+        "庶",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "拾也。",
+            "note": "有司徹篇。乃摭于魚腊俎。俎釋三个。其餘皆取之。摘下云。拓果樹實也。儀禮摭古文作摕。此實非一字。因雙聲而異。"
+        },
+        {
+            "explanation": "陳宋語。",
+            "note": "方言。摭、取也。陳宋之閒曰摭。"
+        },
+        {
+            "explanation": "从手。石聲。",
+            "note": "之石切。古音在五部。"
+        },
+        {
+            "explanation": "拓或从庶。",
+            "note": "石聲庶聲皆古音五部。"
+        }
+    ],
+    "indexes": [
+        "拓",
+        "摭"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2400,
+    "wordhead": "鵅",
+    "explanation": "烏鸔也。从鳥各聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "盧各切",
+    "variants": [],
+    "seal_character": "墺",
+    "pinyin": "luo",
+    "pinyin_full": "luò",
+    "components": [
+        "各",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "烏鸔也。",
+            "note": "見釋鳥。郭云。水鳥也。按此與隹部雒音同義別。"
+        },
+        {
+            "explanation": "从鳥。各聲。",
+            "note": "盧各切。五部。"
+        }
+    ],
+    "indexes": [
+        "鵅"
+    ]
+}

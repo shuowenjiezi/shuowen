@@ -1,0 +1,31 @@
+{
+    "id": 9786,
+    "wordhead": "酌",
+    "explanation": "盛酒行觴也。从酉勺聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "之若切",
+    "variants": [],
+    "seal_character": "礡",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "勺",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盛酒行觴也。",
+            "note": "盛酒於觶中以飲人曰行觴。投壷云。命酌曰請行觴。觶實曰觴。詩曰。我姑酌彼金罍。取行觴之意曰。泂酌彼行潦。取盛酒之意。"
+        },
+        {
+            "explanation": "从酉。勺聲。",
+            "note": "形聲包會意。之若切。二部。"
+        }
+    ],
+    "indexes": [
+        "酌"
+    ]
+}

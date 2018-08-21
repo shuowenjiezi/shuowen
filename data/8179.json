@@ -1,0 +1,31 @@
+{
+    "id": 8179,
+    "wordhead": "孂",
+    "explanation": "竦身也。从女簋聲。讀若《詩》“糾糾葛屨”。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "居夭切",
+    "variants": [],
+    "seal_character": "爃",
+    "pinyin": "jiao",
+    "pinyin_full": "jiǎo",
+    "components": [
+        "女",
+        "簋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竦身也。",
+            "note": "竦者、敬也。从立束。自申束也。竦身取自申之意。凡言夭矯者、當用此字。"
+        },
+        {
+            "explanation": "从女。簋聲。讀若詩糾糾葛屨。",
+            "note": "讀如此糾字。簋字古音正如是。在三部。今孂居夭切。音之轉也。"
+        }
+    ],
+    "indexes": [
+        "孂"
+    ]
+}

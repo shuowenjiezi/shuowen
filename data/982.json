@@ -1,0 +1,31 @@
+{
+    "id": 982,
+    "wordhead": "超",
+    "explanation": "跳也。从走召聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "敕宵切",
+    "variants": [],
+    "seal_character": "剃",
+    "pinyin": "chao",
+    "pinyin_full": "chāo",
+    "components": [
+        "召",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "跳也。",
+            "note": "跳一曰躍也。躍、迅也。迅、疾也。然則超與趣同義。"
+        },
+        {
+            "explanation": "从走。召聲。",
+            "note": "敕宵切。二部。"
+        }
+    ],
+    "indexes": [
+        "超"
+    ]
+}

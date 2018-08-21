@@ -1,0 +1,41 @@
+{
+    "id": 9262,
+    "wordhead": "𨪐",
+    "explanation": "酒器也。从金，𠁁象器形。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "大口切",
+    "variants": [
+        {
+            "wordhead": "𠁁",
+            "explanation": "𨪐或省金。",
+            "seal_character": "盙"
+        }
+    ],
+    "seal_character": "盘",
+    "pinyin": "dou",
+    "pinyin_full": "dòu",
+    "components": [
+        "金"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "酒器也。",
+            "note": "未聞。或曰卽行葦之大斗。非是。毛傳大斗長三尺。謂勺柄長三尺也。"
+        },
+        {
+            "explanation": "从金𠁁。象器形。",
+            "note": "大口切。四部。"
+        },
+        {
+            "explanation": "𨪐或省金。",
+            "note": "斲字用爲聲。"
+        }
+    ],
+    "indexes": [
+        "𨪐",
+        "𠁁"
+    ]
+}

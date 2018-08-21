@@ -1,0 +1,39 @@
+{
+    "id": 7312,
+    "wordhead": "汙",
+    "explanation": "薉也。一曰小池爲汙。一曰涂也。从水于聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "烏故切",
+    "variants": [],
+    "seal_character": "湄",
+    "pinyin": "wu",
+    "pinyin_full": "wū",
+    "components": [
+        "于",
+        "水"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "薉也。",
+            "note": "艸部曰。薉者、蕪也。地云蕪薉。水云汙薉。皆謂其不潔淸也。此冡上濁水不流池類言之。大徐本移浼篆於汙篆前。不知下文㶄灒浼類列。略同方言。廁於此、則非其次矣。"
+        },
+        {
+            "explanation": "从水。亏聲。",
+            "note": "烏故切。按當哀都切。五部。義與洿略同。"
+        },
+        {
+            "explanation": "一曰小池爲汙。",
+            "note": "池之小者。汙池、見孟子滕文公。"
+        },
+        {
+            "explanation": "一曰涂也。",
+            "note": "與杅義略同。木部曰。杅、所以涂也。"
+        }
+    ],
+    "indexes": [
+        "汙"
+    ]
+}

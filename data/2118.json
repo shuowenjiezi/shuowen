@@ -1,0 +1,38 @@
+{
+    "id": 2118,
+    "wordhead": "钉",
+    "explanation": "蔽人視也。从目幵聲。讀若攜手。一曰直視也。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "",
+    "variants": [
+        {
+            "wordhead": "𥅝",
+            "explanation": "䀘目或在下。",
+            "seal_character": "坸"
+        }
+    ],
+    "seal_character": "坷",
+    "pinyin": "xie",
+    "pinyin_full": "xié",
+    "components": [
+        "目",
+        "幵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蔽人視也。",
+            "note": "鍇曰。映人而視也。"
+        },
+        {
+            "explanation": "从目。幵聲。讀若攜手。",
+            "note": "苦兮切。按廣韵戸圭切。十六部。"
+        }
+    ],
+    "indexes": [
+        "钉",
+        "𥅝"
+    ]
+}

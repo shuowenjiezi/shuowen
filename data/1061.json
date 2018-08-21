@@ -1,0 +1,31 @@
+{
+    "id": 1061,
+    "wordhead": "趒",
+    "explanation": "雀行也。从走兆聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "徒遼切",
+    "variants": [],
+    "seal_character": "劓",
+    "pinyin": "tiao",
+    "pinyin_full": "tiáo",
+    "components": [
+        "兆",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雀行也。",
+            "note": "今人槩用跳字。"
+        },
+        {
+            "explanation": "从走。兆聲。",
+            "note": "徒遼切。二部。"
+        }
+    ],
+    "indexes": [
+        "趒"
+    ]
+}

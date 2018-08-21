@@ -1,0 +1,43 @@
+{
+    "id": 2301,
+    "wordhead": "𨾊",
+    "explanation": "鳥肥大𨾊𨾊也。从隹工聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "戶工切",
+    "variants": [
+        {
+            "wordhead": "䲨",
+            "explanation": "𨾊或从鳥。",
+            "seal_character": "塇"
+        }
+    ],
+    "seal_character": "塆",
+    "pinyin": "hong",
+    "pinyin_full": "hónɡ",
+    "components": [
+        "工",
+        "隹",
+        "鳥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥肥大𨾊𨾊然也。",
+            "note": "然依韵會補。詩傳云。大曰鴻。小曰鴈。當作此𨾊字。謂鴈之肥大者也。"
+        },
+        {
+            "explanation": "从隹。工聲。",
+            "note": "戸工切。九部。"
+        },
+        {
+            "explanation": "𨾊或从鳥。",
+            "note": "玄應曰。䲨古文𨾊。聲類以爲鴻鵠之或字。"
+        }
+    ],
+    "indexes": [
+        "𨾊",
+        "䲨"
+    ]
+}

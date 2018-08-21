@@ -1,0 +1,31 @@
+{
+    "id": 3220,
+    "wordhead": "飵",
+    "explanation": "楚人相謁食麥曰飵。从食乍聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "在各切",
+    "variants": [],
+    "seal_character": "岆",
+    "pinyin": "zuo",
+    "pinyin_full": "zuò",
+    "components": [
+        "乍",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "楚人相謁食麥曰飵。",
+            "note": "方言。餥飵食也。陳楚之內相謁而食麥饘謂之餥。楚曰飵。凡陳楚之郊南楚之外相謁而餐或曰酢、或曰䬯。秦晉之際、河陰之閒曰䭡䭓。此秦語也。"
+        },
+        {
+            "explanation": "从𠊊。乍聲。",
+            "note": "在各切。五部。"
+        }
+    ],
+    "indexes": [
+        "飵"
+    ]
+}

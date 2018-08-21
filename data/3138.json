@@ -1,0 +1,35 @@
+{
+    "id": 3138,
+    "wordhead": "盉",
+    "explanation": "調味也。从皿禾聲。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "戶戈切",
+    "variants": [],
+    "seal_character": "尚",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "禾",
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "調味也。",
+            "note": "調聲曰龢。調味曰盉。今則和行而龢盉皆廢矣。𩰲部曰鬻、五味盉羹也。"
+        },
+        {
+            "explanation": "从皿。",
+            "note": "調味必於器中。故从皿。古器有名盉者。因其可以盉羹而名之盉也。廣川書跋引說文。調味器也。沾器字非。"
+        },
+        {
+            "explanation": "禾聲。",
+            "note": "戸戈切。十七部。"
+        }
+    ],
+    "indexes": [
+        "盉"
+    ]
+}

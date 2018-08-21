@@ -1,0 +1,32 @@
+{
+    "id": 197,
+    "wordhead": "璣",
+    "explanation": "珠不圜也。从玉幾聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "居衣切",
+    "variants": [],
+    "seal_character": "仨",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "玉",
+        "幾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "珠不圜者。",
+            "note": "各本作也。今依尙書音義、後漢書注作者。凡經傳沂鄂謂之幾、門橜謂之機。故珠不圜之字从幾。"
+        },
+        {
+            "explanation": "从王。幾聲。",
+            "note": "居衣切。十五部。"
+        }
+    ],
+    "indexes": [
+        "玑",
+        "璣"
+    ]
+}

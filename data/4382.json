@@ -1,0 +1,35 @@
+{
+    "id": 4382,
+    "wordhead": "稗",
+    "explanation": "禾別也。从禾卑聲。琅邪有稗縣。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "㫄卦切",
+    "variants": [],
+    "seal_character": "憜",
+    "pinyin": "bai",
+    "pinyin_full": "bài",
+    "components": [
+        "禾",
+        "卑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾別也。",
+            "note": "謂禾類而別於禾也。孟子曰。苟爲不孰。不如荑稗。左傳云。用秕稗也。杜云。稗、草之似穀者。稗有米似禾。可食。故亦種之。如淳曰。細米爲稗。故小說謂之稗官。小販謂之稗販。"
+        },
+        {
+            "explanation": "从禾。卑聲。",
+            "note": "旁卦切。十六部。"
+        },
+        {
+            "explanation": "琅邪有稗縣。",
+            "note": "地理志琅邪郡椑縣。郡國志無。後漢省也。椑當是本作稗。莽曰識命。葢惡其名而易之。今山東沂州府莒州州南有稗縣故城。或曰本春秋時向國。隱公二年莒人入向是也。"
+        }
+    ],
+    "indexes": [
+        "稗"
+    ]
+}

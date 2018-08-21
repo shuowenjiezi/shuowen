@@ -1,0 +1,43 @@
+{
+    "id": 4766,
+    "wordhead": "𤻲",
+    "explanation": "治也。从疒樂聲。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "力照切",
+    "variants": [
+        {
+            "wordhead": "療",
+            "explanation": "或从尞<span>[<span>𤎚</span><span>𤊽</span>]</span>。",
+            "seal_character": "捎"
+        }
+    ],
+    "seal_character": "捍",
+    "pinyin": "liao",
+    "pinyin_full": "liáo",
+    "components": [
+        "尞",
+        "樂",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治也。",
+            "note": "方言曰。療、治也。周禮注云。止病曰療。詩陳風。泌之洋洋。可以樂饑。傳云。可以樂道忘饑。箋云。可飮以𤻲饑。是鄭讀樂爲𤻲也。經文本作樂。唐石經依鄭改爲𤻲。誤矣。"
+        },
+        {
+            "explanation": "从𤕫。樂聲。讀若勞。",
+            "note": "力照切。二部。"
+        },
+        {
+            "explanation": "或从尞。",
+            "note": "尞聲。"
+        }
+    ],
+    "indexes": [
+        "𤻲",
+        "療"
+    ]
+}

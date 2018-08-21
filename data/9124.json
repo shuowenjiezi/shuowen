@@ -1,0 +1,43 @@
+{
+    "id": 9124,
+    "wordhead": "野",
+    "explanation": "郊外也。从里予聲。",
+    "volume": "13",
+    "radical": "里",
+    "pronunciation": "羊者切",
+    "variants": [
+        {
+            "wordhead": "𡐨",
+            "explanation": "古文野从里省，从林。",
+            "seal_character": "瘾"
+        }
+    ],
+    "seal_character": "瘽",
+    "pinyin": "ye",
+    "pinyin_full": "yě",
+    "components": [
+        "林",
+        "里",
+        "予"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "郊外也。",
+            "note": "邑部曰。歫國百里曰郊。冂部曰。邑外謂之郊。郊外謂之野。野外謂之林。林外謂之冂。詩召南、邶風傳皆曰。郊外曰野。鄭風傳曰。野、四郊之外也。論語。質勝文則野。包咸曰。野如野人。言鄙略也。"
+        },
+        {
+            "explanation": "从里。予聲。",
+            "note": "羊者切。古音在五部。"
+        },
+        {
+            "explanation": "古文野。从里省。从林。",
+            "note": "亦作埜。"
+        }
+    ],
+    "indexes": [
+        "野",
+        "𡐨"
+    ]
+}

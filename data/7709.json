@@ -1,0 +1,36 @@
+{
+    "id": 7709,
+    "wordhead": "闔",
+    "explanation": "門扇也。一曰閉也。从門盍聲。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "胡臘切",
+    "variants": [],
+    "seal_character": "瀆",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "門",
+        "盍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "門扉也。",
+            "note": "月令。乃脩？扇。公羊傳。齒箸乎門？。釋宮。？謂之扉。"
+        },
+        {
+            "explanation": "从門。盇聲。",
+            "note": "胡臘切。八部。"
+        },
+        {
+            "explanation": "一曰閉也。",
+            "note": "下文曰閉、？門也。易曰。？戶謂之坤。"
+        }
+    ],
+    "indexes": [
+        "阖",
+        "闔"
+    ]
+}

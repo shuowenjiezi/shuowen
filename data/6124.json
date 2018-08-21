@@ -1,0 +1,43 @@
+{
+    "id": 6124,
+    "wordhead": "騧",
+    "explanation": "黃馬，黑喙。从馬咼聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "古華切",
+    "variants": [
+        {
+            "wordhead": "𩦣",
+            "explanation": "籒文騧。",
+            "seal_character": "椺"
+        }
+    ],
+    "seal_character": "椹",
+    "pinyin": "gua",
+    "pinyin_full": "ɡuā",
+    "components": [
+        "馬",
+        "咼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黃馬黑喙。",
+            "note": "釋嘼曰。白馬黑脣駩。黑喙騧。如爾雅之文、則是白馬黑喙也。秦風傳曰。黃馬黑喙曰騧。許本之。豈今爾雅奪黃馬二字與。郭云。今之淺黃色者爲騧馬。"
+        },
+        {
+            "explanation": "从馬。咼聲。",
+            "note": "古華切。十七部。宋明帝以騧字似禍。改从瓜。遂於古音不合。"
+        },
+        {
+            "explanation": "籒文騧。",
+            "note": "咼聲𩰬聲同在十七部。"
+        }
+    ],
+    "indexes": [
+        "䯄",
+        "騧",
+        "𩦣"
+    ]
+}

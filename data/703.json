@@ -1,0 +1,40 @@
+{
+    "id": 703,
+    "wordhead": "葬",
+    "explanation": "藏也。从死在茻中；一其中，所以薦之。《易》曰：“古之葬者，厚衣之以薪。”",
+    "volume": "01",
+    "radical": "茻",
+    "pronunciation": "則浪切",
+    "variants": [],
+    "seal_character": "儍",
+    "pinyin": "zang",
+    "pinyin_full": "zànɡ",
+    "components": [
+        "一",
+        "茻",
+        "死"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "臧也。",
+            "note": "見檀弓。"
+        },
+        {
+            "explanation": "从死在茻中。一、其中所㠯荐之。",
+            "note": "荐各本作薦。今正。荐、艸席也。有藉義。故凡藉於下者用此字。"
+        },
+        {
+            "explanation": "易曰。古者葬、厚衣之以薪。",
+            "note": "此引易𣪠辭。說從死在茻中之意也。上古厚衣以薪。故其字上下皆艸。"
+        },
+        {
+            "explanation": "茻亦聲。",
+            "note": "此於㬪韵得之。則浪切。十部。"
+        }
+    ],
+    "indexes": [
+        "葬"
+    ]
+}

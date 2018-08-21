@@ -1,0 +1,35 @@
+{
+    "id": 4459,
+    "wordhead": "䊪",
+    "explanation": "粟重一䄷，爲十六斗太半斗，舂爲米一斛曰䊪。从米萬聲。",
+    "volume": "07",
+    "radical": "米",
+    "pronunciation": "洛帶切",
+    "variants": [],
+    "seal_character": "懳",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "米",
+        "萬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "粟重一䄷。爲十六斗大半斗。",
+            "note": "見禾部。不言禾黍者。粟本禾黍實之名。稻𧦝粟則借辭也。"
+        },
+        {
+            "explanation": "春爲米一斛曰䊪。",
+            "note": "粟十六斗大半斗爲米十斗。卽九章筭術粟米之法。粟率五十糲米三十也。張晏曰。一斛粟七斗米爲糲。與九章筭術率異。"
+        },
+        {
+            "explanation": "从米。萬聲。",
+            "note": "今皆作糲。从厲。古从萬聲。與牡蠇字正同。漢書司馬遷傳。䊪梁之食。與許篆體合。洛帶切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䊪"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 70,
+    "wordhead": "祘",
+    "explanation": "明視以筭之。从二示。《逸周書》曰：“士分民之祘。均分以祘之也。”读若筭。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "蘇貫切",
+    "variants": [],
+    "seal_character": "乙",
+    "pinyin": "suan",
+    "pinyin_full": "suàn",
+    "components": [
+        "示"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "明視㠯筭之。从二示。",
+            "note": "示與視、筭與祘皆曡韵也。明視故从二示。"
+        },
+        {
+            "explanation": "逸周書曰。",
+            "note": "藝文志。周書七十一篇。周史記也。劉向曰。葢孔子所論百篇之餘。故許君謂之逸周書。亦以別於偁尚書之周書。免學者惑也。"
+        },
+        {
+            "explanation": "士分民之祘。",
+            "note": "今逸周書無此語。當在亾篇內。"
+        },
+        {
+            "explanation": "均分㠯祘之也。",
+            "note": "此釋逸周書語。或曰。本典解均分以利之則民安。卽此句也。"
+        },
+        {
+            "explanation": "讀若筭。",
+            "note": "蘇貫切。十四部。"
+        }
+    ],
+    "indexes": [
+        "祘"
+    ]
+}

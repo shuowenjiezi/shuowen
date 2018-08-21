@@ -1,0 +1,31 @@
+{
+    "id": 2168,
+    "wordhead": "睡",
+    "explanation": "坐寐也。从目、垂。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "是僞切",
+    "variants": [],
+    "seal_character": "垯",
+    "pinyin": "shui",
+    "pinyin_full": "shuì",
+    "components": [
+        "目",
+        "垂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "坐寐也。",
+            "note": "知爲坐寐者、以其字从垂也。左傳曰。坐而假寐。戰國策。讀書欲睡。"
+        },
+        {
+            "explanation": "从目𡍮。",
+            "note": "宋本無聲字。此以會意包形聲也。目？者、目瞼垂而下。坐則爾。是僞切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "睡"
+    ]
+}

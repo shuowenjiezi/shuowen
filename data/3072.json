@@ -1,0 +1,34 @@
+{
+    "id": 3072,
+    "wordhead": "鼘",
+    "explanation": "鼓聲也。从鼓𣶒聲。《詩》曰：“鼗鼓鼘鼘。”",
+    "volume": "05",
+    "radical": "鼓",
+    "pronunciation": "烏玄切",
+    "variants": [],
+    "seal_character": "寍",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "鼓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼘鼘、𡔷聲也。",
+            "note": "各本無鼘鼘二字。今依韵會。詩小雅、商頌作淵淵。魯頌作咽咽。皆假借字也。魯頌音義曰。本又作鼝。譌字也。小雅傳曰。淵淵、𡔷聲也。魯頌傳曰。咽咽、𡔷節也。"
+        },
+        {
+            "explanation": "从𡔷。𣶒聲。",
+            "note": "烏玄切。十二部。"
+        },
+        {
+            "explanation": "詩曰。鼗𡔷鼘鼘。",
+            "note": "今商頌作鞉𡔷淵淵。"
+        }
+    ],
+    "indexes": [
+        "鼘"
+    ]
+}

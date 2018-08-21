@@ -1,0 +1,35 @@
+{
+    "id": 2060,
+    "wordhead": "牧",
+    "explanation": "養牛人也。从攴从牛。《詩》曰：“牧人乃夢。”",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "莫卜切",
+    "variants": [],
+    "seal_character": "圴",
+    "pinyin": "mu",
+    "pinyin_full": "mù",
+    "components": [
+        "牛",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "養牛人也。",
+            "note": "左傳曰。馬有圉。牛有牧。引伸爲牧民之牧。"
+        },
+        {
+            "explanation": "从攴牛。",
+            "note": "會意。莫⺊切。古音在一部。"
+        },
+        {
+            "explanation": "詩曰。牧人乃夢。",
+            "note": "小雅文。"
+        }
+    ],
+    "indexes": [
+        "牧"
+    ]
+}

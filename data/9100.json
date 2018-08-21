@@ -1,0 +1,40 @@
+{
+    "id": 9100,
+    "wordhead": "場",
+    "explanation": "祭神道也。一曰田不耕。一曰治穀田也。从土昜聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "直良切",
+    "variants": [],
+    "seal_character": "瘠",
+    "pinyin": "chang",
+    "pinyin_full": "chánɡ",
+    "components": [
+        "土",
+        "昜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祭神道也。",
+            "note": "也廣韵作處。玉篇引國語屛攝之位曰壇。今譌場壇之所除地曰場。"
+        },
+        {
+            "explanation": "一曰山田不耕者。",
+            "note": "田部云。畼、不生也。場與畼義相近。方言曰。坁、場也。李善曰。浮壤之名也。音傷。按不耕則浮壤起矣。是卽蚍蜉犂鼠螾場之字也。"
+        },
+        {
+            "explanation": "一曰治榖田也。",
+            "note": "豳風七月曰。九月築場圃。傳曰。春夏爲圃。秋冬爲場。箋云。場圃同地也。周禮場人注曰。場築地爲墠。季秋除圃中爲之。故許云治榖之田曰場。"
+        },
+        {
+            "explanation": "从土。昜聲。",
+            "note": "直良切。十部。"
+        }
+    ],
+    "indexes": [
+        "场",
+        "場"
+    ]
+}

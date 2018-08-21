@@ -1,0 +1,35 @@
+{
+    "id": 7714,
+    "wordhead": "䦱",
+    "explanation": "闢門也。从門爲聲。《國語》曰：“䦱門而與之言。”　",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "韋委切",
+    "variants": [],
+    "seal_character": "瀍",
+    "pinyin": "wei",
+    "pinyin_full": "wěi",
+    "components": [
+        "門",
+        "爲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "闢門也。",
+            "note": "魯語。䦱門與之言。皆不踰閾。韋注。䦱、闢也。"
+        },
+        {
+            "explanation": "从門。爲聲。",
+            "note": "韋委切。古音在十七部。"
+        },
+        {
+            "explanation": "國語曰。䦱門而與之言。",
+            "note": "謂公父文伯之母與季康子。"
+        }
+    ],
+    "indexes": [
+        "䦱"
+    ]
+}

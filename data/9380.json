@@ -1,0 +1,32 @@
+{
+    "id": 9380,
+    "wordhead": "釣",
+    "explanation": "鉤魚也。从金勺聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "多嘯切",
+    "variants": [],
+    "seal_character": "睘",
+    "pinyin": "diao",
+    "pinyin_full": "diào",
+    "components": [
+        "勺",
+        "金"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鉤魚也。",
+            "note": "鉤者、曲金也。以曲金取魚謂之釣。"
+        },
+        {
+            "explanation": "从金。勺聲。",
+            "note": "多嘯切。二部。"
+        }
+    ],
+    "indexes": [
+        "钓",
+        "釣"
+    ]
+}

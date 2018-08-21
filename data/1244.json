@@ -1,0 +1,31 @@
+{
+    "id": 1244,
+    "wordhead": "待",
+    "explanation": "竢也。从彳寺聲。",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "徒在切",
+    "variants": [],
+    "seal_character": "印",
+    "pinyin": "dai",
+    "pinyin_full": "dài",
+    "components": [
+        "寺",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竢也。",
+            "note": "立部曰。竢待也。"
+        },
+        {
+            "explanation": "从彳。寺聲。",
+            "note": "徒在切。一部。今人易其語曰等。"
+        }
+    ],
+    "indexes": [
+        "待"
+    ]
+}

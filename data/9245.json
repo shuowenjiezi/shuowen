@@ -1,0 +1,31 @@
+{
+    "id": 9245,
+    "wordhead": "銒",
+    "explanation": "似鍾而頸長。从金幵聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "戶經切",
+    "variants": [],
+    "seal_character": "盇",
+    "pinyin": "xing",
+    "pinyin_full": "xínɡ",
+    "components": [
+        "金",
+        "幵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "佀鍾而長頸。",
+            "note": "鍾俗本作鐘。今從宋本。鍾者、酒器。見下。此以相聯爲文矣。用此知古酒鍾有腹有頸。葢大其下小其上也。"
+        },
+        {
+            "explanation": "从金。幵聲。",
+            "note": "戸經切。古音當在十二部。"
+        }
+    ],
+    "indexes": [
+        "銒"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 6500,
+    "wordhead": "炎",
+    "explanation": "火光上也。从重火。凡炎之屬皆从炎。",
+    "volume": "10",
+    "radical": "炎",
+    "pronunciation": "于廉切",
+    "variants": [],
+    "seal_character": "櫙",
+    "pinyin": "yan",
+    "pinyin_full": "yán",
+    "components": [
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火光上也。",
+            "note": "洪範曰。火曰炎上。其本義也。雲漢傳曰。炎炎、熱氣也。大田傳曰。炎、火盛陽也。皆引申之義也。"
+        },
+        {
+            "explanation": "从重火。",
+            "note": "會意。于廉切。八部。"
+        }
+    ],
+    "indexes": [
+        "炎"
+    ]
+}

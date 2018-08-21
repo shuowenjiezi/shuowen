@@ -1,0 +1,36 @@
+{
+    "id": 7681,
+    "wordhead": "鹼",
+    "explanation": "鹵也。从鹽省，僉聲。",
+    "volume": "12",
+    "radical": "鹽",
+    "pronunciation": "魚欠切",
+    "variants": [],
+    "seal_character": "濨",
+    "pinyin": "jian",
+    "pinyin_full": "jiǎn",
+    "components": [
+        "僉",
+        "鹽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鹵也。",
+            "note": "廣韵千廉切。水和鹽也。"
+        },
+        {
+            "explanation": "从鹽省。",
+            "note": "此篆明明从鹵。不知何以云从鹽省。"
+        },
+        {
+            "explanation": "僉聲。",
+            "note": "魚欠切。七部。"
+        }
+    ],
+    "indexes": [
+        "硷",
+        "鹼"
+    ]
+}

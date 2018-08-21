@@ -1,0 +1,35 @@
+{
+    "id": 5214,
+    "wordhead": "聚",
+    "explanation": "會也。从乑取聲。邑落云聚。",
+    "volume": "08",
+    "radical": "㐺",
+    "pronunciation": "才句切",
+    "variants": [],
+    "seal_character": "攼",
+    "pinyin": "ju",
+    "pinyin_full": "jù",
+    "components": [
+        "取",
+        "乑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會也。",
+            "note": "公羊傳曰。會猶冣也。注云。冣、聚也。按冖部曰。冣、積也。積以物言。聚以人言。其義通也。古亦叚埾爲聚。"
+        },
+        {
+            "explanation": "从㐺。取聲。",
+            "note": "才句切。古音在四部。"
+        },
+        {
+            "explanation": "一曰邑落曰聚。",
+            "note": "平帝紀。立學官。郡國曰學。縣道邑侯曰校。鄉曰庠。聚曰序。張晏曰。聚、邑落名也。韋昭曰。小鄉曰聚。按邑落、謂邑中村落。"
+        }
+    ],
+    "indexes": [
+        "聚"
+    ]
+}

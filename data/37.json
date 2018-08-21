@@ -1,0 +1,43 @@
+{
+    "id": 37,
+    "wordhead": "𥛱",
+    "explanation": "門内祭，先祖所以徬徨。从示彭聲。《詩》曰：“祝祭于𥛱。”",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "補盲切",
+    "variants": [
+        {
+            "wordhead": "祊",
+            "explanation": "𥛱或从方。",
+            "seal_character": "丳"
+        }
+    ],
+    "seal_character": "串",
+    "pinyin": "beng",
+    "pinyin_full": "bēnɡ",
+    "components": [
+        "方",
+        "示",
+        "彭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "門內祭先祖所㫄皇也。",
+            "note": "舊所下有以。今依詩、爾雅音義。㫄或作𢔚𠊓彷。皇或作徨。皆俗。詩毛傳曰。祊、門内也。郊特牲曰。索祭祝於祊。不知神之所在。於彼乎。於此乎。或諸遠人乎。祭於祊、尚曰求諸遠者與。此㫄皇之說也。𥛱㫄皇三字曡韵。"
+        },
+        {
+            "explanation": "从示。彭聲。",
+            "note": "補𠤔（旨）切。古音在十部。詩曰。祝祭于𥛱。小雅楚茨文。今作于祊。"
+        },
+        {
+            "explanation": "𥛱或从方。",
+            "note": "彭聲、方聲同部。"
+        }
+    ],
+    "indexes": [
+        "𥛱",
+        "祊"
+    ]
+}

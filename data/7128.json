@@ -1,0 +1,31 @@
+{
+    "id": 7128,
+    "wordhead": "沄",
+    "explanation": "轉流也。从水云聲。讀若混。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "王分切",
+    "variants": [],
+    "seal_character": "浾",
+    "pinyin": "yun",
+    "pinyin_full": "yún",
+    "components": [
+        "水",
+        "云"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "轉流也。",
+            "note": "回轉之流、沄沄然也。釋言曰。沄、沆也。郭云。水流漭沆。"
+        },
+        {
+            "explanation": "从水。云聲。讀若混。",
+            "note": "按沖讀若動、沄讀若混者、古音動混不同今音也。王分切。十三部。"
+        }
+    ],
+    "indexes": [
+        "沄"
+    ]
+}

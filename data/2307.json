@@ -1,0 +1,40 @@
+{
+    "id": 2307,
+    "wordhead": "雋",
+    "explanation": "肥肉也。从弓，所以射隹。長沙有下雋縣。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "徂沇切",
+    "variants": [],
+    "seal_character": "塍",
+    "pinyin": "juan",
+    "pinyin_full": "juàn",
+    "components": [
+        "隹",
+        "弓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鳥肥也。",
+            "note": "各本作肥肉也。今依廣韵。廣韵不云說文。然必說文善本也。不言鳥則字何以从隹。蒯通著書。號曰雋永。言其所說味美而長也。惟野鳥味可言雋。故从弓。"
+        },
+        {
+            "explanation": "从弓隹。",
+            "note": "補二字。"
+        },
+        {
+            "explanation": "弓所㠯射隹。",
+            "note": "說从弓之意。徂沇切。十二部。"
+        },
+        {
+            "explanation": "長沙有下雋縣。",
+            "note": "前後志同。"
+        }
+    ],
+    "indexes": [
+        "隽",
+        "雋"
+    ]
+}

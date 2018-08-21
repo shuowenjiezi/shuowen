@@ -1,0 +1,50 @@
+{
+    "id": 1086,
+    "wordhead": "正",
+    "explanation": "是也。从止，一以止。凡正之屬皆从正。",
+    "volume": "02",
+    "radical": "正",
+    "pronunciation": "之盛切",
+    "variants": [
+        {
+            "wordhead": "㱏",
+            "explanation": "古文正从𠄞。𠄞，古上字。",
+            "seal_character": "劯"
+        },
+        {
+            "wordhead": "𣥔",
+            "explanation": "古文正从一、足。足者亦止也。",
+            "seal_character": "劰"
+        }
+    ],
+    "seal_character": "劮",
+    "pinyin": "zheng",
+    "pinyin_full": "zhènɡ",
+    "components": [
+        "一",
+        "二",
+        "止",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“守一以止也。”",
+    "duan_notes": [
+        {
+            "explanation": "是也。从一。（句）一㠯止。",
+            "note": "江沅曰。一所㠯止之也。如乍之止亡、毋之止姦。皆以一止之。之盛切。十一部。"
+        },
+        {
+            "explanation": "古文正.。从𠄞。𠄞古文上字。",
+            "note": "此亦同䇂示辰龍童音章皆从𠄞。"
+        },
+        {
+            "explanation": "古文正。从一足。足亦止也。",
+            "note": "止部曰。止爲足。"
+        }
+    ],
+    "indexes": [
+        "正",
+        "㱏",
+        "𣥔"
+    ]
+}

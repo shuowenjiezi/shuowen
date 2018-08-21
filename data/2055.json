@@ -1,0 +1,35 @@
+{
+    "id": 2055,
+    "wordhead": "畋",
+    "explanation": "平田也。从攴、田。《周書》曰：“畋尒田。”",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "待年切",
+    "variants": [],
+    "seal_character": "圯",
+    "pinyin": "tian",
+    "pinyin_full": "tián",
+    "components": [
+        "田",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "平田也。",
+            "note": "齊風。無田甫田。上田卽畋字。"
+        },
+        {
+            "explanation": "从攴田。",
+            "note": "田亦聲。待年切。十二部。"
+        },
+        {
+            "explanation": "周書曰。畋尒田。",
+            "note": "多方篇文。"
+        }
+    ],
+    "indexes": [
+        "畋"
+    ]
+}

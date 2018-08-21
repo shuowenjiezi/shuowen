@@ -1,0 +1,47 @@
+{
+    "id": 7252,
+    "wordhead": "淦",
+    "explanation": "水入船中也。一曰泥也。从水金聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "古暗切",
+    "variants": [
+        {
+            "wordhead": "汵",
+            "explanation": "淦或从今。",
+            "seal_character": "渃"
+        }
+    ],
+    "seal_character": "渂",
+    "pinyin": "gan",
+    "pinyin_full": "ɡàn",
+    "components": [
+        "今",
+        "水",
+        "金"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水入船中也。",
+            "note": "水入船中、必由朕而入。淦者、浸淫隨理之意。"
+        },
+        {
+            "explanation": "从水。金聲。",
+            "note": "古暗切。古音在七部。"
+        },
+        {
+            "explanation": "一曰泥也。",
+            "note": "謂塗泥。"
+        },
+        {
+            "explanation": "淦或从今。",
+            "note": "今聲。"
+        }
+    ],
+    "indexes": [
+        "淦",
+        "汵"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 7776,
+    "wordhead": "聵",
+    "explanation": "聾也。从耳貴聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "五怪切",
+    "variants": [
+        {
+            "wordhead": "𦖥",
+            "explanation": "聵或从㕟。<span>   臣鉉等曰：當从𦳋省，義見𦳋字注。 </span>",
+            "seal_character": "灑"
+        }
+    ],
+    "seal_character": "灐",
+    "pinyin": "kui",
+    "pinyin_full": "kuì",
+    "components": [
+        "耳",
+        "貴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聾也。",
+            "note": "國語曰。聾聵不可使聽。韋云。耳不別五聲之和曰聾。生而聾曰聵。"
+        },
+        {
+            "explanation": "从耳。𧷈聲。",
+            "note": "五怪切。十五部。"
+        },
+        {
+            "explanation": "聵或从㕟。",
+            "note": "許書㕟聲之字三。而逸㕟篆。"
+        },
+        {
+            "explanation": "或从𧱏作。",
+            "note": "？應改䇂省。說見豕部。"
+        }
+    ],
+    "indexes": [
+        "聩",
+        "聵",
+        "𦖥"
+    ]
+}

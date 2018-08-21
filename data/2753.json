@@ -1,0 +1,35 @@
+{
+    "id": 2753,
+    "wordhead": "刻",
+    "explanation": "鏤也。从刀亥聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "苦得切",
+    "variants": [],
+    "seal_character": "婘",
+    "pinyin": "ke",
+    "pinyin_full": "kè",
+    "components": [
+        "刀",
+        "亥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鏤也。",
+            "note": "金部曰。鏤、剛鐵可以刻鏤也。釋器曰。金謂之鏤。木謂之刻。此析言之。統言則刻亦鏤也。引伸爲刻覈、刻薄之刻。"
+        },
+        {
+            "explanation": "从刀。亥聲。",
+            "note": "苦得切。一部。"
+        },
+        {
+            "explanation": "古文刻。",
+            "note": "各本無。此依玉篇増。各本則下有古文作？。篇、韵皆不載。汗簡載之。云說文續添。則古本所無可知矣。葢古文刻之譌而誤系也。"
+        }
+    ],
+    "indexes": [
+        "刻"
+    ]
+}

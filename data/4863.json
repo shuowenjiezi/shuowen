@@ -1,0 +1,31 @@
+{
+    "id": 4863,
+    "wordhead": "帖",
+    "explanation": "帛書署也。从巾占聲。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "他叶切",
+    "variants": [],
+    "seal_character": "揅",
+    "pinyin": "tie",
+    "pinyin_full": "tiè",
+    "components": [
+        "占",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "帛書署也。",
+            "note": "木部曰。檢、書署也。木爲之謂之檢。帛爲之則謂之帖。皆謂幖題。今人所謂籤也。帛署必黏？。引伸爲帖服、爲帖妥。俗製貼字爲相附之義。製怗字爲安服之義。"
+        },
+        {
+            "explanation": "从巾。占聲。",
+            "note": "他叶切。七部。"
+        }
+    ],
+    "indexes": [
+        "帖"
+    ]
+}

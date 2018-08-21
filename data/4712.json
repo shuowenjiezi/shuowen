@@ -1,0 +1,43 @@
+{
+    "id": 4712,
+    "wordhead": "瘚",
+    "explanation": "屰气也。从疒从屰从欠。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "居月切",
+    "variants": [
+        {
+            "wordhead": "欮",
+            "explanation": "瘚或省疒<span>[<span>𤕫</span><span>𤕬</span>]</span>。",
+            "seal_character": "挔"
+        }
+    ],
+    "seal_character": "挓",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "欠",
+        "屰",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "屰气也。",
+            "note": "釋名曰。厥、逆氣。從下蹷起。上行入心脅也。高誘呂覽注曰。蹷逆、寒疾也。"
+        },
+        {
+            "explanation": "从𤕫。从屰欠。",
+            "note": "欠猶气也。居月切。十五部。"
+        },
+        {
+            "explanation": "瘚或省𤕫。",
+            "note": "厂部厥用爲聲。"
+        }
+    ],
+    "indexes": [
+        "瘚",
+        "欮"
+    ]
+}

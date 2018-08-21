@@ -1,0 +1,40 @@
+{
+    "id": 6381,
+    "wordhead": "羆",
+    "explanation": "如熊，黃白文。从熊，罷省聲。",
+    "volume": "10",
+    "radical": "熊",
+    "pronunciation": "彼爲切",
+    "variants": [
+        {
+            "wordhead": "𥀍",
+            "explanation": "古文从皮<span>[<span>𡰻</span>]</span>。",
+            "seal_character": "橓"
+        }
+    ],
+    "seal_character": "橒",
+    "pinyin": "pi",
+    "pinyin_full": "pí",
+    "components": [
+        "罷",
+        "皮",
+        "熊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "如熊。黃白文。",
+            "note": "見釋獸。"
+        },
+        {
+            "explanation": "从熊。罷省聲。",
+            "note": "以一能當二能也。彼爲切。古音在十七部。"
+        }
+    ],
+    "indexes": [
+        "罴",
+        "羆",
+        "𥀍"
+    ]
+}

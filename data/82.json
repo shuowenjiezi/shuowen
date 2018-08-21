@@ -1,0 +1,31 @@
+{
+    "id": 82,
+    "wordhead": "璙",
+    "explanation": "玉也。从玉尞聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "洛簫切",
+    "variants": [],
+    "seal_character": "乨",
+    "pinyin": "liao",
+    "pinyin_full": "liáo",
+    "components": [
+        "玉",
+        "尞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉也。",
+            "note": "謂玉名也。如毛傳鳧山也、繹山也之例。不言山名也。古傳注多不言名。"
+        },
+        {
+            "explanation": "从王。尞聲。",
+            "note": "洛蕭切。二部。"
+        }
+    ],
+    "indexes": [
+        "璙"
+    ]
+}

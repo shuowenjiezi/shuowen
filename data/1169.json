@@ -1,0 +1,35 @@
+{
+    "id": 1169,
+    "wordhead": "䢙",
+    "explanation": "𣀩也。从辵貝聲。《周書》曰：“我興受其䢙。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "薄邁切",
+    "variants": [],
+    "seal_character": "匙",
+    "pinyin": "bai",
+    "pinyin_full": "bài",
+    "components": [
+        "貝",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𣀩也。",
+            "note": "攵部曰。𣀩、毀也。䢙與敗音義同。"
+        },
+        {
+            "explanation": "从辵。貝聲。",
+            "note": "薄邁切。十五部。"
+        },
+        {
+            "explanation": "周書曰。我興受其䢙。",
+            "note": "微子文。云周書者、葢許所據不繫於商書也。亦見口部咈下。"
+        }
+    ],
+    "indexes": [
+        "䢙"
+    ]
+}

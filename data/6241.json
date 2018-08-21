@@ -1,0 +1,43 @@
+{
+    "id": 6241,
+    "wordhead": "𪊨",
+    "explanation": "大麋也。狗足。从鹿旨聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "居履切",
+    "variants": [
+        {
+            "wordhead": "麂",
+            "explanation": "或从几。",
+            "seal_character": "榷"
+        }
+    ],
+    "seal_character": "榶",
+    "pinyin": "ji",
+    "pinyin_full": "jǐ",
+    "components": [
+        "旨",
+        "几",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大麇也。",
+            "note": "麇各本誤麋。今正。釋獸曰。𪊨、大麕。旄毛狗足。郭云。旄毛者、㺜長也。山海經注曰。麂似獐而大。㺜毛狗腳。"
+        },
+        {
+            "explanation": "狗足。从鹿。旨聲。",
+            "note": "居履切。十五部。"
+        },
+        {
+            "explanation": "或从几。",
+            "note": "几聲。中山經如此作。"
+        }
+    ],
+    "indexes": [
+        "𪊨",
+        "麂"
+    ]
+}

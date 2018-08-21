@@ -1,0 +1,39 @@
+{
+    "id": 9433,
+    "wordhead": "斲",
+    "explanation": "斫也。从斤、𠁁。",
+    "volume": "14",
+    "radical": "斤",
+    "pronunciation": "竹角切",
+    "variants": [
+        {
+            "wordhead": "𦘣",
+            "explanation": "斲或从畫<span>[<span>𤲿</span>]</span>从丮。",
+            "seal_character": "瞏"
+        }
+    ],
+    "seal_character": "瞎",
+    "pinyin": "zhuo",
+    "pinyin_full": "zhuó",
+    "components": [
+        "斤",
+        "丮",
+        "畫"
+    ],
+    "xuan_note": "臣鉉等曰：𠁁，器也。斤以斲之。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "斫也。从斤。𠁁聲。",
+            "note": "小徐有聲。鍇曰。非聲。鉉曰。𠁁器也。斤以斲之。皆不知古音者也。古音三部四部同入。今音析入三覺。竹角切。"
+        },
+        {
+            "explanation": "斲或从丮。晝聲。",
+            "note": "大徐作从畫、从晝丮。篆體作𦘣。今依玉篇正。晝聲猶？聲也。"
+        }
+    ],
+    "indexes": [
+        "斲",
+        "𦘣"
+    ]
+}

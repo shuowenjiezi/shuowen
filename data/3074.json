@@ -1,0 +1,43 @@
+{
+    "id": 3074,
+    "wordhead": "䶀",
+    "explanation": "鼓聲也。从鼓合聲。",
+    "volume": "05",
+    "radical": "鼓",
+    "pronunciation": "徒合切",
+    "variants": [
+        {
+            "wordhead": "鞈",
+            "explanation": "古文䶀从革。",
+            "seal_character": "寐"
+        }
+    ],
+    "seal_character": "寏",
+    "pinyin": "ta",
+    "pinyin_full": "tà",
+    "components": [
+        "合",
+        "革",
+        "鼓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼙聲也。",
+            "note": "鼙各本誤作𡔷。今正。司馬法曰。鼙聲不過闒。音義曰。闒吐臘反。劉湯荅反。臘今誤从犬闒卽䶀字也。投壷音義曰。○、鄭呼爲鼙也。其聲下。其音榻榻然。榻音吐臘反。榻亦卽䶀也。史記上林賦。鏗鎗鏜䶀。漢書、文選作闛鞈。郭璞曰。闛鞈、𡔷音也。此渾言之耳。鼙亦𡔷也。淮南兵略訓。若聲之與響。若鏜之與鞈。高注。鏜鞈、𡔷鼙聲。此謂鏜、𡔷聲。鞈、鼙聲也。"
+        },
+        {
+            "explanation": "从𡔷。合聲。",
+            "note": "徒合切。七部。按當依釋文吐臘反。"
+        },
+        {
+            "explanation": "古文䶀。从革。",
+            "note": "按革部有此字。別爲訓。後人誤移此增彼也。"
+        }
+    ],
+    "indexes": [
+        "䶀",
+        "鞈"
+    ]
+}

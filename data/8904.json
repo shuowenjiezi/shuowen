@@ -1,0 +1,45 @@
+{
+    "id": 8904,
+    "wordhead": "𧎮",
+    "explanation": "齧人跳蟲。从䖵㕚聲。㕚，古爪字。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "子皓切",
+    "variants": [
+        {
+            "wordhead": "蚤",
+            "explanation": "𧎮或從虫。",
+            "seal_character": "甩"
+        }
+    ],
+    "seal_character": "用",
+    "pinyin": "zao",
+    "pinyin_full": "zǎo",
+    "components": [
+        "虫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齧人跳蟲也。",
+            "note": "齧、噬也。跳、躍也。蝨但齧人。𧎮則加之善躍。故著之。惡之甚也。"
+        },
+        {
+            "explanation": "从䖵。㕚聲。",
+            "note": "子皓切。古音在三部。"
+        },
+        {
+            "explanation": "㕚、古爪字。",
+            "note": "按此四字妄人所沾。不言古文而言古某字、許無此例。且㕚、手足甲也。爪、？也。未甞謂㕚爲爪之古文。直由俗謂爪爲手足甲、乃謂㕚爲其古字。徑注之於此。不可不刪去。"
+        },
+        {
+            "explanation": "𧎮或从虫。",
+            "note": "經傳多叚爲早字。"
+        }
+    ],
+    "indexes": [
+        "𧎮",
+        "蚤"
+    ]
+}

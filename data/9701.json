@@ -1,0 +1,45 @@
+{
+    "id": 9701,
+    "wordhead": "己",
+    "explanation": "中宮也。象萬物辟藏詘形也。己承戊，象人腹。凡己之屬皆从己。",
+    "volume": "14",
+    "radical": "己",
+    "pronunciation": "居擬切",
+    "variants": [
+        {
+            "wordhead": "𢀒",
+            "explanation": "古文己。",
+            "seal_character": "碻"
+        }
+    ],
+    "seal_character": "確",
+    "pinyin": "ji",
+    "pinyin_full": "jǐ",
+    "components": [
+        "己"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "中宫也。",
+            "note": "戊已皆中宫。故中央土。其日戊已。注曰。己之言起也。律曆志曰。理紀於已。釋名曰。已、皆有定形可紀識也。引申之義爲人已。言已以別於人者。己在中。人在外。可紀識也。論語。克已復禮爲仁。克已言自勝也。"
+        },
+        {
+            "explanation": "象萬物辟藏詘形也。",
+            "note": "辟藏者、盤辟收斂。字像其詰詘之形也。此與巳止字絕不同。宋以前分別。自明以來書籍閒大亂。如論語莫已知也。斯已而巳矣、唐石經不譌。宋儒乃不能了。居擬切。一部。"
+        },
+        {
+            "explanation": "己承戊。象人腹。",
+            "note": "冡大一經。"
+        },
+        {
+            "explanation": "古文己。",
+            "note": "己亥譌三豕者、己與三形似也。"
+        }
+    ],
+    "indexes": [
+        "己",
+        "𢀒"
+    ]
+}

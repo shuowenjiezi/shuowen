@@ -1,0 +1,31 @@
+{
+    "id": 905,
+    "wordhead": "呶",
+    "explanation": "讙聲也。从口奴聲。《詩》曰：“載號載呶。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "女交切",
+    "variants": [],
+    "seal_character": "凬",
+    "pinyin": "nao",
+    "pinyin_full": "náo",
+    "components": [
+        "口",
+        "奴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "讙聲也。从口。奴聲。",
+            "note": "女交切。古音在五部。"
+        },
+        {
+            "explanation": "詩曰。載號載呶。",
+            "note": "見小雅。毛曰。號呼、呶讙也。"
+        }
+    ],
+    "indexes": [
+        "呶"
+    ]
+}

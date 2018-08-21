@@ -1,0 +1,35 @@
+{
+    "id": 1950,
+    "wordhead": "杸",
+    "explanation": "軍中士所持殳也。从木从殳。《司馬法》曰：“執羽从杸。”",
+    "volume": "03",
+    "radical": "殳",
+    "pronunciation": "市朱切",
+    "variants": [],
+    "seal_character": "嚷",
+    "pinyin": "shu",
+    "pinyin_full": "shū",
+    "components": [
+        "木",
+        "殳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "軍中士所持殳也。",
+            "note": "軍中士所持殳。不必皆用積竹。故字從木。"
+        },
+        {
+            "explanation": "从木殳。",
+            "note": "市朱切。古音在四部。"
+        },
+        {
+            "explanation": "司馬法曰。執羽從杸。",
+            "note": "從字依廣韵。"
+        }
+    ],
+    "indexes": [
+        "杸"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 2730,
+    "wordhead": "䇟",
+    "explanation": "筋之本也。从筋，从夗省聲。",
+    "volume": "04",
+    "radical": "筋",
+    "pronunciation": "渠建切",
+    "variants": [
+        {
+            "wordhead": "腱",
+            "explanation": "䇟或从肉、建。",
+            "seal_character": "娺"
+        }
+    ],
+    "seal_character": "娹",
+    "pinyin": "jian",
+    "pinyin_full": "jiàn",
+    "components": [
+        "肉",
+        "夗",
+        "建",
+        "筋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "筋之本也。",
+            "note": "内則注曰。餌、筋腱也。王逸注招䰟曰。腱、筋頭也。餌篇、韵作䏪。"
+        },
+        {
+            "explanation": "从筋省。夗省聲。",
+            "note": "渠建切。十四部。"
+        },
+        {
+            "explanation": "䇟或从肉建。",
+            "note": "建聲也。今字多作此。"
+        }
+    ],
+    "indexes": [
+        "䇟",
+        "腱"
+    ]
+}

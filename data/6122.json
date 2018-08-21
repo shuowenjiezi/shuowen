@@ -1,0 +1,35 @@
+{
+    "id": 6122,
+    "wordhead": "驈",
+    "explanation": "驪馬白胯也。从馬矞聲。《詩》曰：“有驈有騜。”",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "食聿切",
+    "variants": [],
+    "seal_character": "椷",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "馬",
+        "矞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "驪馬白跨也。",
+            "note": "跨者、兩股之閒也。釋嘼、毛傳皆曰。驪馬白跨曰驈。"
+        },
+        {
+            "explanation": "从馬。矞聲。",
+            "note": "食聿切。十五部。"
+        },
+        {
+            "explanation": "詩曰。有驈有騜。",
+            "note": "魯頌駉文。按毛詩作皇。許騜字。字林乃有之。此騜後人所改耳。韵會作有皇。是也。爾雅作黃白騜。亦是俗本。"
+        }
+    ],
+    "indexes": [
+        "驈"
+    ]
+}

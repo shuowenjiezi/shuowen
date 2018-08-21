@@ -1,0 +1,35 @@
+{
+    "id": 3171,
+    "wordhead": "雘",
+    "explanation": "善丹也。从丹蒦聲。《周書》曰：“惟其𢾅丹雘。”讀若隺。",
+    "volume": "05",
+    "radical": "丹",
+    "pronunciation": "烏郭切",
+    "variants": [],
+    "seal_character": "层",
+    "pinyin": "wo",
+    "pinyin_full": "wò",
+    "components": [
+        "蒦",
+        "丹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "善丹也。",
+            "note": "按南山經曰。雞山、其下多丹雘。侖者之山、其下多靑雘。然則凡采色之善者皆偁雘。葢本善丹之名移而他施耳。亦猶白丹、靑丹、黑丹皆曰丹也。"
+        },
+        {
+            "explanation": "从丹。蒦聲。讀與靃同。",
+            "note": "各本作讀若隺。今依尙書音義正。烏郭切。五部。"
+        },
+        {
+            "explanation": "周書曰。惟其𢾅丹雘。",
+            "note": "杍材文。𢾅、孔穎達正義本作斁。衞包改作塗。俗字也。"
+        }
+    ],
+    "indexes": [
+        "雘"
+    ]
+}

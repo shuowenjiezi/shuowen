@@ -1,0 +1,35 @@
+{
+    "id": 4448,
+    "wordhead": "𪏻",
+    "explanation": "黏也。从黍古聲。",
+    "volume": "07",
+    "radical": "黍",
+    "pronunciation": "戶吳切",
+    "variants": [
+        {
+            "wordhead": "䊀",
+            "explanation": "黏或从米。",
+            "seal_character": "懧"
+        }
+    ],
+    "seal_character": "懦",
+    "pinyin": "hu",
+    "pinyin_full": "hú",
+    "components": [
+        "古",
+        "米",
+        "黍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黏也。从黍。古聲。",
+            "note": "戶吳切。五部。俗作糊。"
+        }
+    ],
+    "indexes": [
+        "𪏻",
+        "䊀"
+    ]
+}

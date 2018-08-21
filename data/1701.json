@@ -1,0 +1,40 @@
+{
+    "id": 1701,
+    "wordhead": "讕",
+    "explanation": "怟讕也。从言闌聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "洛干切",
+    "variants": [
+        {
+            "wordhead": "譋",
+            "explanation": "讕或从閒。",
+            "seal_character": "啮"
+        }
+    ],
+    "seal_character": "啭",
+    "pinyin": "lan",
+    "pinyin_full": "lán",
+    "components": [
+        "言",
+        "闌",
+        "閒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "抵讕也。",
+            "note": "抵各本作詆。誤文三王傳。王陽病。抵讕置辭。師古曰。抵、距也。讕、誣諱也。文帝紀韋注曰。謾、抵讕也。按抵讕猶今俗語云抵賴也。"
+        },
+        {
+            "explanation": "从言。闌聲。",
+            "note": "洛于切。十四部。"
+        }
+    ],
+    "indexes": [
+        "谰",
+        "讕",
+        "譋"
+    ]
+}

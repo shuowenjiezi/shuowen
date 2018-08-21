@@ -1,0 +1,31 @@
+{
+    "id": 5503,
+    "wordhead": "歑",
+    "explanation": "溫吹也。从欠虖聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "虎烏切",
+    "variants": [],
+    "seal_character": "晿",
+    "pinyin": "hu",
+    "pinyin_full": "hū",
+    "components": [
+        "欠",
+        "虖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "温吹也。",
+            "note": "與呼音同義異。"
+        },
+        {
+            "explanation": "从欠。虖聲。",
+            "note": "虎烏切。五部。"
+        }
+    ],
+    "indexes": [
+        "歑"
+    ]
+}

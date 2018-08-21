@@ -1,0 +1,35 @@
+{
+    "id": 3780,
+    "wordhead": "檇",
+    "explanation": "以木有所擣也。从木雋聲。《春秋傳》曰：“越敗吳於檇李。”",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "遵爲切",
+    "variants": [],
+    "seal_character": "弁",
+    "pinyin": "zui",
+    "pinyin_full": "zuì",
+    "components": [
+        "木",
+        "雋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯木有所擣也。",
+            "note": "宋永嘉戴侗曰。今人猶有此語。"
+        },
+        {
+            "explanation": "從木。雋聲。",
+            "note": "遵爲切。按當從廣韵將遂切。古音在十三十五部也。公羊傳作醉李。"
+        },
+        {
+            "explanation": "春秋傳曰。越敗吳於檇李。",
+            "note": "定公十四年事。檇李、地名。杜預曰。吳郡嘉興縣南醉李城是。"
+        }
+    ],
+    "indexes": [
+        "檇"
+    ]
+}

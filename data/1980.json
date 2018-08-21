@@ -1,0 +1,52 @@
+{
+    "id": 1980,
+    "wordhead": "皮",
+    "explanation": "剥取獸革者謂之皮。从又，爲省聲。凡皮之屬皆从皮。",
+    "volume": "03",
+    "radical": "皮",
+    "pronunciation": "符羈切",
+    "variants": [
+        {
+            "wordhead": "𥬖",
+            "explanation": "古文皮。",
+            "seal_character": "囚"
+        },
+        {
+            "wordhead": "𠰎",
+            "explanation": "籒文皮。",
+            "seal_character": "四"
+        }
+    ],
+    "seal_character": "囙",
+    "pinyin": "pi",
+    "pinyin_full": "pí",
+    "components": [
+        "又",
+        "爲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "剝取獸革者謂之皮。",
+            "note": "剝、裂也。謂使革與肉分裂也。云革者、析言則去毛曰革。統言則不別也。云者者、謂其人也。取獸革者謂之皮。皮、柀。柀、析也。見木部。因之所取謂之皮矣。引伸凡物之表皆曰皮。凡去物之表亦皆曰皮。戰國策言皮面抉眼王裦僮約言落桑皮椶釋名言皮瓠以爲蓄皆是。"
+        },
+        {
+            "explanation": "从又。",
+            "note": "又手也。所以剝取也。"
+        },
+        {
+            "explanation": "爲省聲。",
+            "note": "符羈切。古音爲皮皆在十七部。"
+        },
+        {
+            "explanation": "古文皮。",
+            "note": "从竹者、葢用竹以離之。"
+        }
+    ],
+    "indexes": [
+        "皮",
+        "𥬖",
+        "𠰎"
+    ]
+}

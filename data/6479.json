@@ -1,0 +1,36 @@
+{
+    "id": 6479,
+    "wordhead": "熾",
+    "explanation": "盛也。从火戠聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "昌志切",
+    "variants": [
+        {
+            "wordhead": "𢧾",
+            "explanation": "古文熾。",
+            "seal_character": "櫃"
+        }
+    ],
+    "seal_character": "櫂",
+    "pinyin": "chi",
+    "pinyin_full": "chì",
+    "components": [
+        "日",
+        "火",
+        "戠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盛也。从火。戠聲。",
+            "note": "昌志切。一部。"
+        }
+    ],
+    "indexes": [
+        "炽",
+        "熾",
+        "𢧾"
+    ]
+}

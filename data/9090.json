@@ -1,0 +1,39 @@
+{
+    "id": 9090,
+    "wordhead": "埍",
+    "explanation": "徒隸所居也。一曰女牢。一曰亭部。从土肙聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "古泫切",
+    "variants": [],
+    "seal_character": "瘖",
+    "pinyin": "juan",
+    "pinyin_full": "juǎn",
+    "components": [
+        "土",
+        "肙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "徒隷所凥也。",
+            "note": "徒隷、賤者偁。"
+        },
+        {
+            "explanation": "一曰女牢。",
+            "note": "𨻼牢所以拘罪者也。其拘女者曰埍。"
+        },
+        {
+            "explanation": "一曰亭部。",
+            "note": "葢謂鄉亭之繫也。韓詩宜犴宜獄云。鄉亭之繫曰犴。朝廷曰獄。"
+        },
+        {
+            "explanation": "从土。肙聲。",
+            "note": "古泫切。十四部。"
+        }
+    ],
+    "indexes": [
+        "埍"
+    ]
+}

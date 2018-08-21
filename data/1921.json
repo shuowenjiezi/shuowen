@@ -1,0 +1,47 @@
+{
+    "id": 1921,
+    "wordhead": "友",
+    "explanation": "同𢖽爲友。从二又。相交友也。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "云久切",
+    "variants": [
+        {
+            "wordhead": "𠬺",
+            "explanation": "古文友。",
+            "seal_character": "嚎"
+        },
+        {
+            "wordhead": "𦐮",
+            "explanation": "亦古文友。",
+            "seal_character": "嚏"
+        }
+    ],
+    "seal_character": "嚍",
+    "pinyin": "you",
+    "pinyin_full": "yǒu",
+    "components": [
+        "又"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "同志爲友。",
+            "note": "周禮注曰。同師曰明。同志曰友。"
+        },
+        {
+            "explanation": "从二又相交。",
+            "note": "二又、二人也。善兄弟曰友。亦取二人而如左右手也。云久切。三部。"
+        },
+        {
+            "explanation": "亦古文友。",
+            "note": "未詳。"
+        }
+    ],
+    "indexes": [
+        "友",
+        "𠬺",
+        "𦐮"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2296,
+    "wordhead": "𨾯",
+    "explanation": "牟母也。从隹奴聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "人諸切",
+    "variants": [
+        {
+            "wordhead": "鴑",
+            "explanation": "𨾯或从鳥。",
+            "seal_character": "堾"
+        }
+    ],
+    "seal_character": "堽",
+    "pinyin": "ru",
+    "pinyin_full": "rú",
+    "components": [
+        "隹",
+        "鳥",
+        "奴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牟母也。",
+            "note": "母音無。鉉作母。誤。釋鳥。鴽、牟母。鄭注公食大夫禮、月令皆作鴽、母無也。母與牟、無與母皆音同也。今二注舛譌。蔡邕月令章句。鴽爲鶉䳺之屬。時則訓注云。鴽、鶉也。李巡云。鴽䳺一名鴾母。郭云。鴽、䳺也。按内則、爾雅皆鶉鴽竝舉。則不可云？卽鶉也。"
+        },
+        {
+            "explanation": "从隹。奴聲。",
+            "note": "人諸切。五部按經典皆从如聲。"
+        }
+    ],
+    "indexes": [
+        "𨾯",
+        "鴑"
+    ]
+}

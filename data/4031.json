@@ -1,0 +1,39 @@
+{
+    "id": 4031,
+    "wordhead": "邘",
+    "explanation": "周武王子所封。在河内野王是也。从邑于聲。又讀若區。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "況于切",
+    "variants": [],
+    "seal_character": "怖",
+    "pinyin": "yu",
+    "pinyin_full": "yú",
+    "components": [
+        "于",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "周武王子所封。",
+            "note": "左傳曰。邘、晉、應、韓。武之穆也。"
+        },
+        {
+            "explanation": "在河內野王是也。",
+            "note": "是也二字衍文。河內野王、二志同。前志孟康注曰。故邘國、今邘亭是也。後志曰。野王有邘城。尚書大傳曰。文王受命一年。𣃔虞芮之訟。二年伐邘。此商時之邘也。武王子所封。徐廣曰。在野王縣西北。按今河南懷慶府府西北十三里有故邘城。"
+        },
+        {
+            "explanation": "从邑。亏聲。",
+            "note": "況于切。五部。"
+        },
+        {
+            "explanation": "讀又若區。",
+            "note": "于聲則讀如于矣。又讀同區。與四部合韵也。"
+        }
+    ],
+    "indexes": [
+        "邘"
+    ]
+}

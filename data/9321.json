@@ -1,0 +1,45 @@
+{
+    "id": 9321,
+    "wordhead": "銳",
+    "explanation": "芒也。从金兌聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "以芮切",
+    "variants": [
+        {
+            "wordhead": "㓹",
+            "explanation": "籒文銳从厂、剡。",
+            "seal_character": "眘"
+        }
+    ],
+    "seal_character": "眗",
+    "pinyin": "rui",
+    "pinyin_full": "ruì",
+    "components": [
+        "金",
+        "剡",
+        "厂",
+        "兌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "芒也。",
+            "note": "芒者、艸耑也。艸耑必鑯。故引申爲芒角字。今俗用鋒鋩字、古衹用夆芒。"
+        },
+        {
+            "explanation": "从金。兌聲。",
+            "note": "以芮切。十五部。"
+        },
+        {
+            "explanation": "籒文銳。从厂剡。",
+            "note": "从剡、厂聲。？、罽字从此。"
+        }
+    ],
+    "indexes": [
+        "锐",
+        "銳",
+        "㓹"
+    ]
+}

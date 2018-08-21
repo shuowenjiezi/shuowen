@@ -1,0 +1,45 @@
+{
+    "id": 2928,
+    "wordhead": "簠",
+    "explanation": "黍稷圜器也。从竹从皿，甫聲。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "方矩切",
+    "variants": [
+        {
+            "wordhead": "𠤱",
+            "explanation": "古文簠从匚从夫。",
+            "seal_character": "嬝"
+        }
+    ],
+    "seal_character": "嬜",
+    "pinyin": "fu",
+    "pinyin_full": "fǔ",
+    "components": [
+        "甫",
+        "皿",
+        "夫",
+        "竹",
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黍稷圜器也。",
+            "note": "簠盛稻梁。見公食大夫禮經文。云左擁簠梁是也。此云黍稷者。統言則不別也。如毛傳云四簋黍稷稻梁。亦是統言。云圜器。與鄭云方器互異。"
+        },
+        {
+            "explanation": "从竹皿。甫聲。",
+            "note": "方矩切。五部。"
+        },
+        {
+            "explanation": "古文簠。从匚夫。",
+            "note": "夫聲也。"
+        }
+    ],
+    "indexes": [
+        "簠",
+        "𠤱"
+    ]
+}

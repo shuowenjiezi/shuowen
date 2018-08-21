@@ -1,0 +1,42 @@
+{
+    "id": 2722,
+    "wordhead": "肎",
+    "explanation": "骨閒肉肎肎箸也。从肉，从冎省。一曰骨無肉也。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "苦等切",
+    "variants": [
+        {
+            "wordhead": "𠕔",
+            "explanation": "古文肎。",
+            "seal_character": "娱"
+        }
+    ],
+    "seal_character": "娰",
+    "pinyin": "ken",
+    "pinyin_full": "kěn",
+    "components": [
+        "肉",
+        "咼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "骨閒肉肎肎箸也。",
+            "note": "肎肎、附箸難解之皃。莊子說庖丁解牛曰。技經肯綮之未嘗。肯、崔引此解釋之。綮音罄。司馬云。猶結處也。按肎之言可也。故心所願曰肎。得其窾郤曰中肎。引伸之義也。"
+        },
+        {
+            "explanation": "从肉。从冎省。",
+            "note": "冎者、剔肉置其骨也。肎肎相箸。有待於剔。故從冎。陸德明引說文、字林皆口乃反。唐韵苦等切。按肎等二字古音同在一部。故皆在海韵。音轉入六部。乃在抍等韵也。？作肯。"
+        },
+        {
+            "explanation": "一曰骨無肉也。",
+            "note": "此別一義。"
+        }
+    ],
+    "indexes": [
+        "肎",
+        "𠕔"
+    ]
+}

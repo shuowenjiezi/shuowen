@@ -1,0 +1,79 @@
+{
+    "id": 5396,
+    "wordhead": "屋",
+    "explanation": "居也。从尸。尸，所主也。一曰尸，象屋形。从至。至，所至止。室、屋皆从至。",
+    "volume": "08",
+    "radical": "尸",
+    "pronunciation": "烏谷切",
+    "variants": [
+        {
+            "wordhead": "𡲃",
+            "explanation": "籒文屋从厂。",
+            "seal_character": "昇"
+        },
+        {
+            "wordhead": "𦤿",
+            "explanation": "古文屋。",
+            "seal_character": "昈"
+        }
+    ],
+    "seal_character": "昆",
+    "pinyin": "wu",
+    "pinyin_full": "wū",
+    "components": [
+        "至",
+        "尸",
+        "厂",
+        "丯",
+        "室"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "凥也。",
+            "note": "凥各本作居。誤。今正。凡凥處、於尸得几之字引伸。不當用蹲居字也。屋者、室之覆也。引申之凡覆於上者皆曰屋。天子車有黃屋。詩箋。屋、小帳也。"
+        },
+        {
+            "explanation": "从尸。",
+            "note": "句。"
+        },
+        {
+            "explanation": "尸、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "所主也。",
+            "note": "凡尸皆得訓主。屋从尸者、人爲屋主也。"
+        },
+        {
+            "explanation": "一曰尸象屋形。",
+            "note": "此从尸之又一說也。上象覆。旁象壁。"
+        },
+        {
+            "explanation": "从至。",
+            "note": "句。"
+        },
+        {
+            "explanation": "至、",
+            "note": "句。"
+        },
+        {
+            "explanation": "所止也。屋室皆从至。",
+            "note": "室下亦曰。至、所止也。烏谷切。三部。"
+        },
+        {
+            "explanation": "籒文屋。从厂。",
+            "note": "厂呼旱切。"
+        },
+        {
+            "explanation": "古文屋。",
+            "note": "按此字葢卽手部古文握字。見於淮南書。淺人補入此耳。"
+        }
+    ],
+    "indexes": [
+        "屋",
+        "𡲃",
+        "𦤿"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 7303,
+    "wordhead": "涸",
+    "explanation": "渴也。从水固聲。讀若狐貈之貈。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "下各切",
+    "variants": [
+        {
+            "wordhead": "𤃯",
+            "explanation": "涸亦从水、鹵、舟。",
+            "seal_character": "渻"
+        }
+    ],
+    "seal_character": "渺",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "水",
+        "固",
+        "鹵",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "渴也。",
+            "note": "渴、盡也。渠列切。釋詁曰。涸、渴也。俗本作竭。月令。仲秋之月。水始涸。"
+        },
+        {
+            "explanation": "从水。固聲。讀若狐貈之貈。",
+            "note": "按貈从舟聲。今人以貉爲之。音下各切。別作蠻貊字。音莫白切。皆非古也。此涸下當云讀若貉。恐音旣變之後絫經改竄耳。下各切。五部。"
+        },
+        {
+            "explanation": "涸亦从水鹵舟。",
+            "note": "未聞其意。"
+        }
+    ],
+    "indexes": [
+        "涸",
+        "𤃯"
+    ]
+}

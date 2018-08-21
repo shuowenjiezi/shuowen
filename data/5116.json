@@ -1,0 +1,31 @@
+{
+    "id": 5116,
+    "wordhead": "俳",
+    "explanation": "戲也。从人非聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "步皆切",
+    "variants": [],
+    "seal_character": "擔",
+    "pinyin": "pai",
+    "pinyin_full": "pái",
+    "components": [
+        "人",
+        "非"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "戲也。",
+            "note": "以其戲言之謂之俳。以其音樂言之謂之倡。亦謂之優。其實一物也。"
+        },
+        {
+            "explanation": "从人。非聲。",
+            "note": "步皆切。十五部。"
+        }
+    ],
+    "indexes": [
+        "俳"
+    ]
+}

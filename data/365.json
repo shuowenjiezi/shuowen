@@ -1,0 +1,35 @@
+{
+    "id": 365,
+    "wordhead": "苓",
+    "explanation": "卷耳也。从艸令聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "郎丁切",
+    "variants": [],
+    "seal_character": "侢",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "令",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "苓耳、",
+            "note": "逗。二字各本脫。今補。說見苦字下。"
+        },
+        {
+            "explanation": "卷耳艸。",
+            "note": "艸字各本作也。今依韵會所引。釋艸、毛傳皆曰。卷耳、苓耳也。"
+        },
+        {
+            "explanation": "从艸。令聲。",
+            "note": "郞丁切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "苓"
+    ]
+}

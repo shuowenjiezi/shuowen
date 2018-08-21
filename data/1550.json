@@ -1,0 +1,31 @@
+{
+    "id": 1550,
+    "wordhead": "警",
+    "explanation": "戒也。从言从敬，敬亦聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "居影切",
+    "variants": [],
+    "seal_character": "哅",
+    "pinyin": "jing",
+    "pinyin_full": "jǐnɡ",
+    "components": [
+        "敬",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "言之戒也。",
+            "note": "？部曰。戒警也。小雅。徒御不警。毛曰。不警、警也。大雅以敬爲之。常武。旣敬旣戒。箋云。敬之言警也。亦作僘。"
+        },
+        {
+            "explanation": "从言敬。敬亦聲。",
+            "note": "己皿切。十一部。"
+        }
+    ],
+    "indexes": [
+        "警"
+    ]
+}

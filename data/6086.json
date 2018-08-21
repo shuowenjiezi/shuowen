@@ -1,0 +1,31 @@
+{
+    "id": 6086,
+    "wordhead": "豺",
+    "explanation": "狼屬，狗聲。从豸才聲。",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "士皆切",
+    "variants": [],
+    "seal_character": "椎",
+    "pinyin": "chai",
+    "pinyin_full": "chái",
+    "components": [
+        "才",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "狼屬。狗聲。",
+            "note": "釋獸曰。豺、狗足。許云狗聲。似許長。其聲如犬。俗𧦝豺狗。"
+        },
+        {
+            "explanation": "从豸。才聲。",
+            "note": "士皆切。古音在一部。當入咍韵。"
+        }
+    ],
+    "indexes": [
+        "豺"
+    ]
+}

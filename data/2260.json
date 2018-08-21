@@ -1,0 +1,35 @@
+{
+    "id": 2260,
+    "wordhead": "翽",
+    "explanation": "飛聲也。从羽歲聲。《詩》曰：“鳳皇于飛，翽翽其羽。”",
+    "volume": "04",
+    "radical": "羽",
+    "pronunciation": "呼會切",
+    "variants": [],
+    "seal_character": "堒",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "羽",
+        "歲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飛聲也。",
+            "note": "詩釋文引說文。羽聲也。字林。飛聲也。此俗以字林改說文之證。毛傳云。翽翽、衆多也。此謂鳳飛羣鳥從以萬數。毛比傅下文多吉士、多吉人爲說。許說其字義。故不同也。"
+        },
+        {
+            "explanation": "从羽。歲聲。",
+            "note": "呼會切。十五部。"
+        },
+        {
+            "explanation": "詩曰。鳳皇于飛。翽翽其羽。",
+            "note": "大雅文。"
+        }
+    ],
+    "indexes": [
+        "翽"
+    ]
+}

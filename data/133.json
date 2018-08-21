@@ -1,0 +1,39 @@
+{
+    "id": 133,
+    "wordhead": "𤪌",
+    "explanation": "弁飾，往往冒玉也。从玉綦聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "渠之切",
+    "variants": [
+        {
+            "wordhead": "璂",
+            "explanation": "𤪌或从基。",
+            "seal_character": "交"
+        }
+    ],
+    "seal_character": "亣",
+    "pinyin": "qi",
+    "pinyin_full": "qí",
+    "components": [
+        "基",
+        "玉",
+        "綦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弁飾也。往往冒玉也。",
+            "note": "上也字依詩音義補。弁師曰。王之皮弁會五采玉琪。鄭司農云。故書會作䯤。䯤讀如馬會之會。謂以五采束髮也。琪讀如綦車轂之綦。按許謂以玉飾弁曰琪。與司農說同。後鄭則易琪爲綦。綦、結也。皮弁之縫中每貫結五采玉以爲飾、謂之綦。葢後鄭謂經琪字乃玉名。故易爲綦字。曹風。其弁伊騏。箋亦云騏當作綦。自用其周禮說也。許同先鄭說。往往、歴歴也。鄭云皪皪而處是也。"
+        },
+        {
+            "explanation": "从王。綦聲。",
+            "note": "渠之切。一部。"
+        }
+    ],
+    "indexes": [
+        "𤪌",
+        "璂"
+    ]
+}

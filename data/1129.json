@@ -1,0 +1,31 @@
+{
+    "id": 1129,
+    "wordhead": "逢",
+    "explanation": "遇也。从辵，峯省聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "符容切",
+    "variants": [],
+    "seal_character": "勧",
+    "pinyin": "feng",
+    "pinyin_full": "fénɡ",
+    "components": [
+        "辵",
+        "峯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "遇也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从辵。夆聲。",
+            "note": "符容切。九部。按夆、牾也。牾、逆也。此形聲包會意。各本改爲峯省聲。誤。說文本無峯。"
+        }
+    ],
+    "indexes": [
+        "逢"
+    ]
+}

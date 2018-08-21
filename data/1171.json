@@ -1,0 +1,31 @@
+{
+    "id": 1171,
+    "wordhead": "遯",
+    "explanation": "逃也。从辵从豚。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒困切",
+    "variants": [],
+    "seal_character": "匜",
+    "pinyin": "dun",
+    "pinyin_full": "dùn",
+    "components": [
+        "辵",
+        "豚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "逃也。",
+            "note": "鄭注周易曰。遯者、逃去之名。"
+        },
+        {
+            "explanation": "从辵。豚聲。",
+            "note": "徒困切。十三部。"
+        }
+    ],
+    "indexes": [
+        "遯"
+    ]
+}

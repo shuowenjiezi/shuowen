@@ -1,0 +1,31 @@
+{
+    "id": 2022,
+    "wordhead": "救",
+    "explanation": "止也。从攴求聲。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "居又切",
+    "variants": [],
+    "seal_character": "圉",
+    "pinyin": "jiu",
+    "pinyin_full": "jiù",
+    "components": [
+        "求",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "止也。",
+            "note": "論語。子謂冉有曰。女弗能救與。馬曰。救猶止也。馬意救與止稍別。許謂凡止皆謂之救。"
+        },
+        {
+            "explanation": "从攴。求聲。",
+            "note": "居又切。三部。"
+        }
+    ],
+    "indexes": [
+        "救"
+    ]
+}

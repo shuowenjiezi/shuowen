@@ -1,0 +1,32 @@
+{
+    "id": 1988,
+    "wordhead": "啟",
+    "explanation": "教也。从攴启聲。《論語》曰：“不憤不啟。”",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "康礼切",
+    "variants": [],
+    "seal_character": "囦",
+    "pinyin": "qi",
+    "pinyin_full": "qǐ",
+    "components": [
+        "攴",
+        "启"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敎也。从攴。启聲。",
+            "note": "康禮切。十五部。"
+        },
+        {
+            "explanation": "論語曰。不憤不啟。",
+            "note": "述而篇文。"
+        }
+    ],
+    "indexes": [
+        "启",
+        "啟"
+    ]
+}

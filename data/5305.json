@@ -1,0 +1,35 @@
+{
+    "id": 5305,
+    "wordhead": "袾",
+    "explanation": "好佳也。从衣朱聲。《詩》曰：“靜女其袾。”",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "昌朱切",
+    "variants": [],
+    "seal_character": "斤",
+    "pinyin": "zhu",
+    "pinyin_full": "zhū",
+    "components": [
+        "朱",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "好佳也。",
+            "note": "好下奪也字。好者、美也。佳者、善也。廣韵曰。朱衣也。按廣韵葢用說文古本。故其字从朱衣。所引詩則假袾爲姝也。"
+        },
+        {
+            "explanation": "从衣。朱聲。",
+            "note": "昌朱切。古音在四部。"
+        },
+        {
+            "explanation": "詩曰。靜女其袾。",
+            "note": "邶風靜女文。今詩袾作姝。女部引詩作𡚾。"
+        }
+    ],
+    "indexes": [
+        "袾"
+    ]
+}

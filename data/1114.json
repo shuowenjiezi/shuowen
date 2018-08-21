@@ -1,0 +1,35 @@
+{
+    "id": 1114,
+    "wordhead": "逾",
+    "explanation": "𨒋進也。从辵俞聲。《周書》曰：“無敢昬逾。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "羊朱切",
+    "variants": [],
+    "seal_character": "勖",
+    "pinyin": "yu",
+    "pinyin_full": "yú",
+    "components": [
+        "俞",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𨒋進也。",
+            "note": "𨒋進、有所超越而進也。"
+        },
+        {
+            "explanation": "从辵。俞聲。",
+            "note": "羊朱切。四部。"
+        },
+        {
+            "explanation": "周書曰。無敢昏逾。",
+            "note": "顧命文。昏从民者誤。"
+        }
+    ],
+    "indexes": [
+        "逾"
+    ]
+}

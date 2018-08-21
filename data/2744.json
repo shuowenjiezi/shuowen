@@ -1,0 +1,61 @@
+{
+    "id": 2744,
+    "wordhead": "則",
+    "explanation": "等畫物也。从刀从貝。貝，古之物貨也。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "子德切",
+    "variants": [
+        {
+            "wordhead": "𠟻",
+            "explanation": "古文則。",
+            "seal_character": "婌"
+        },
+        {
+            "wordhead": "𠞋",
+            "explanation": "亦古文則。",
+            "seal_character": "婍"
+        },
+        {
+            "wordhead": "𠟭",
+            "explanation": "籒文則从鼎。",
+            "seal_character": "婎"
+        }
+    ],
+    "seal_character": "婋",
+    "pinyin": "ze",
+    "pinyin_full": "zé",
+    "components": [
+        "貝",
+        "刀",
+        "冊",
+        "鼎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "等畫物也。",
+            "note": "等畫物者、定其差等而各爲介畫也。今俗云科則是也。介畫之、故從刀。引伸之爲法則。假借之爲語䛐。"
+        },
+        {
+            "explanation": "从刀貝。貝、古之物貨也。",
+            "note": "說從貝之意。物貨有貴賤之差。故從刀介畫之。子德切。一部。"
+        },
+        {
+            "explanation": "古文則。",
+            "note": "重貝者、定其等差之意。"
+        },
+        {
+            "explanation": "籒文則。从鼎。",
+            "note": "鼎部曰。籒文以鼎爲貝故員作？。㜏作？。霣作䨶。則作𠟭。"
+        }
+    ],
+    "indexes": [
+        "则",
+        "則",
+        "𠟻",
+        "𠞋",
+        "𠟭"
+    ]
+}

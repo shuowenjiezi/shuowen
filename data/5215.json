@@ -1,0 +1,50 @@
+{
+    "id": 5215,
+    "wordhead": "臮",
+    "explanation": "眾詞與也。从乑自聲。《虞書》曰：“臮咎繇。”",
+    "volume": "08",
+    "radical": "㐺",
+    "pronunciation": "其冀切",
+    "variants": [
+        {
+            "wordhead": "𠕨",
+            "explanation": "古文臮。",
+            "seal_character": "放"
+        }
+    ],
+    "seal_character": "攽",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "自",
+        "乑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衆與䛐也。",
+            "note": "與詞各本誤倒。今依廣韵正。衆與者、多與也。所與非一人也。詞者、意內言外之謂。或假洎爲之。如鄭詩諩偁無逸爰洎小人是也。亦假曁爲之。如公羊傳及者何。與也。會及曁、皆與也。曁猶曁曁也。釋詁曰。曁、與也。釋訓曰。曁、不及也。按不及、及也。卽公羊所謂猶曁曁也。"
+        },
+        {
+            "explanation": "从㐺。自聲。",
+            "note": "其冀切。按冀當作洎。十五部。"
+        },
+        {
+            "explanation": "虞書曰。",
+            "note": "虞當作唐。說見禾部。"
+        },
+        {
+            "explanation": "臮咎繇。",
+            "note": "堯典文。今書作曁。"
+        },
+        {
+            "explanation": "古文臮。",
+            "note": "此篆轉寫旣久。今不可得其會意形聲。姑從宋本作。"
+        }
+    ],
+    "indexes": [
+        "臮",
+        "𠕨"
+    ]
+}

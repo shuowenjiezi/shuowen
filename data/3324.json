@@ -1,0 +1,55 @@
+{
+    "id": 3324,
+    "wordhead": "良",
+    "explanation": "善也。从畗省，亡聲。",
+    "volume": "05",
+    "radical": "畗",
+    "pronunciation": "呂張切",
+    "variants": [
+        {
+            "wordhead": "𡆨",
+            "explanation": "古文良<span>[<span>𣌩</span>]</span>。",
+            "seal_character": "崄"
+        },
+        {
+            "wordhead": "𡰩",
+            "explanation": "亦古文良<span>[<span>𣌩</span>]</span>。",
+            "seal_character": "崅"
+        },
+        {
+            "wordhead": "𥭷",
+            "explanation": "亦古文良<span>[<span>𣌩</span>]</span>。",
+            "seal_character": "崆"
+        }
+    ],
+    "seal_character": "崃",
+    "pinyin": "liang",
+    "pinyin_full": "liánɡ",
+    "components": [
+        "良",
+        "亡",
+        "畗"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“良，甚也。故从畗。”",
+    "duan_notes": [
+        {
+            "explanation": "善也。从畗省。亾聲。",
+            "note": "吕張切。十部。"
+        },
+        {
+            "explanation": "古文良。",
+            "note": "玉篇不錄。"
+        },
+        {
+            "explanation": "亦古文良。",
+            "note": "玉篇作𥭣。"
+        }
+    ],
+    "indexes": [
+        "良",
+        "𡆨",
+        "𡰩",
+        "𥭷"
+    ]
+}

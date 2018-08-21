@@ -1,0 +1,39 @@
+{
+    "id": 722,
+    "wordhead": "悉",
+    "explanation": "詳盡也。从心从釆。",
+    "volume": "02",
+    "radical": "釆",
+    "pronunciation": "息七切",
+    "variants": [
+        {
+            "wordhead": "𢝕",
+            "explanation": "古文悉。",
+            "seal_character": "儦"
+        }
+    ],
+    "seal_character": "儥",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "釆",
+        "心",
+        "囧"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "詳盡也。从心釆。",
+            "note": "會意。息七切。十二部。"
+        },
+        {
+            "explanation": "古文悉。",
+            "note": "此亦會意。从心囧。囧者、窻牖麗廔闓明也。"
+        }
+    ],
+    "indexes": [
+        "悉",
+        "𢝕"
+    ]
+}

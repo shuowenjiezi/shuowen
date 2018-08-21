@@ -1,0 +1,49 @@
+{
+    "id": 5791,
+    "wordhead": "鬼",
+    "explanation": "人所歸爲鬼。从人，象鬼頭。鬼陰气賊害，从厶。凡鬼之屬皆从鬼。",
+    "volume": "09",
+    "radical": "鬼",
+    "pronunciation": "居偉切",
+    "variants": [
+        {
+            "wordhead": "𩲚",
+            "explanation": "古文从示。",
+            "seal_character": "柃"
+        }
+    ],
+    "seal_character": "柂",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "示",
+        "人",
+        "厶",
+        "鬼",
+        "甶"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "人所歸爲鬼。",
+            "note": "以曡韵爲訓。釋言曰。鬼之爲言歸也。郭注引尸子。古者謂死人爲歸人。左傳。子產曰。鬼有所歸。乃不爲厲。禮運曰。䰟氣歸於天。形魄歸於地。"
+        },
+        {
+            "explanation": "从儿、？象鬼頭。",
+            "note": "自儿而歸於鬼也。"
+        },
+        {
+            "explanation": "从厶。",
+            "note": "二字今補。厶讀如私。"
+        },
+        {
+            "explanation": "鬼陰气賊害、故从厶。",
+            "note": "陰當作侌。此說从厶之意也。神陽鬼陰。陽公陰私。居偉切。十五部。"
+        }
+    ],
+    "indexes": [
+        "鬼",
+        "𩲚"
+    ]
+}

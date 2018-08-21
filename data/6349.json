@@ -1,0 +1,36 @@
+{
+    "id": 6349,
+    "wordhead": "獺",
+    "explanation": "如小狗也。水居食魚。从犬賴聲。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "他達切",
+    "variants": [],
+    "seal_character": "樮",
+    "pinyin": "ta",
+    "pinyin_full": "tǎ",
+    "components": [
+        "犬",
+        "賴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水狗也。",
+            "note": "小徐作小狗。大徐作如小狗。今依廣韵訂。"
+        },
+        {
+            "explanation": "食魚。",
+            "note": "大徐上有水居二字。乃上文作如小狗、因妄增。"
+        },
+        {
+            "explanation": "从犬。賴聲",
+            "note": "他𨔶切。十五部。"
+        }
+    ],
+    "indexes": [
+        "獭",
+        "獺"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 4850,
+    "wordhead": "㡓",
+    "explanation": "𢃭也。从巾軍聲。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "古渾切",
+    "variants": [
+        {
+            "wordhead": "褌",
+            "explanation": "㡓或从衣。",
+            "seal_character": "掶"
+        }
+    ],
+    "seal_character": "掵",
+    "pinyin": "kun",
+    "pinyin_full": "kūn",
+    "components": [
+        "軍",
+        "衣",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "幒也。",
+            "note": "方言。褌、陳楚江淮之閒謂之䘴。釋名。褌、貫也。貫兩腳上繫腰中也。按今之套褲、古之絝也。今之滿襠褲、古之褌也。自其渾合近身言曰㡓。自其兩襱孔穴言曰幒。方言。無？之袴謂之襣。郭云。卽犢鼻褌。"
+        },
+        {
+            "explanation": "从巾。軍聲。",
+            "note": "古渾切。十三部。"
+        }
+    ],
+    "indexes": [
+        "㡓",
+        "褌"
+    ]
+}

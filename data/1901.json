@@ -1,0 +1,50 @@
+{
+    "id": 1901,
+    "wordhead": "叜",
+    "explanation": "老也。从又从灾。闕。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "穌后切",
+    "variants": [
+        {
+            "wordhead": "𡨎",
+            "explanation": "籒文从寸。",
+            "seal_character": "噮"
+        },
+        {
+            "wordhead": "𠋢",
+            "explanation": "叜或从人。",
+            "seal_character": "噯"
+        }
+    ],
+    "seal_character": "噭",
+    "pinyin": "sou",
+    "pinyin_full": "sǒu",
+    "components": [
+        "又",
+        "人",
+        "寸",
+        "灾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "老也。",
+            "note": "曡韵。方言曰。𠋢艾長老也。東齊魯衞之閒凡尊老謂之𠋢。或謂之艾。"
+        },
+        {
+            "explanation": "从又灾。",
+            "note": "鉉本作從又從灾。闕。按此有義有音。則闕者謂從又灾之意不傳也。玄應曰。又音手。手灾者、衰惡也。言脈之大候在於寸口。老人寸口脈衰。故從又從灾也。此說葢有所受之。韵會引說文從又灾。灾者、衰惡也。葢古有此五字。而學者釋之。穌后切。三部。今字作叟。亦未聞其說。"
+        },
+        {
+            "explanation": "叜或从人。",
+            "note": "今左傳如此作。"
+        }
+    ],
+    "indexes": [
+        "叜",
+        "𡨎",
+        "𠋢"
+    ]
+}

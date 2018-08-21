@@ -1,0 +1,45 @@
+{
+    "id": 3365,
+    "wordhead": "舜",
+    "explanation": "艸也。楚謂之葍，秦謂之藑。蔓地連華。象形。从舛，舛亦聲。凡䑞之屬皆从䑞。(今隸變作舜。)",
+    "volume": "05",
+    "radical": "舜",
+    "pronunciation": "舒閏切",
+    "variants": [
+        {
+            "wordhead": "𡐩",
+            "explanation": "古文䑞。",
+            "seal_character": "崻"
+        }
+    ],
+    "seal_character": "崺",
+    "pinyin": "shun",
+    "pinyin_full": "shùn",
+    "components": [
+        "舛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䑞艸也。楚謂之葍。秦謂之藑。",
+            "note": "艸部曰。藑、茅葍也。一名䑞。是一物三名也。"
+        },
+        {
+            "explanation": "蔓地生而連𦾓。象形。",
+            "note": "生而二字依爾雅音義補。？象葉蔓𦾓連之形也。"
+        },
+        {
+            "explanation": "从舛。",
+            "note": "亦狀蔓連相鄉背之皃。"
+        },
+        {
+            "explanation": "舛亦聲。",
+            "note": "舒閏切。十三部。𣜩作舜。按此與艸部𧂌音同義別。有虞氏以爲謚者。堯、高也。舜、大也。舜者、俊之同音假借字。山海經作帝俊。"
+        }
+    ],
+    "indexes": [
+        "舜",
+        "𡐩"
+    ]
+}

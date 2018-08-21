@@ -1,0 +1,44 @@
+{
+    "id": 3602,
+    "wordhead": "築",
+    "explanation": "擣也。从木筑聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "陟玉切",
+    "variants": [
+        {
+            "wordhead": "𥵭",
+            "explanation": "古文。",
+            "seal_character": "帿"
+        }
+    ],
+    "seal_character": "帾",
+    "pinyin": "zhu",
+    "pinyin_full": "zhù",
+    "components": [
+        "土",
+        "木",
+        "筑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所㠯擣也。",
+            "note": "所㠯二字今補。此蒙上築牆言所用築者。謂器也。其器名築。因之人用之亦曰築。手部曰。擣築也是也。築者、直舂之器。鄭注周禮引司馬法云。輦一斧。一斤、一鑿、一梩、一鉏。周輦加二版二築。正義曰。築者、築杵也。"
+        },
+        {
+            "explanation": "從木。筑聲。",
+            "note": "陟玉切。三部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "按此從土。䈞聲也。今本篆體譌舛。故正之。"
+        }
+    ],
+    "indexes": [
+        "筑",
+        "築",
+        "𥵭"
+    ]
+}

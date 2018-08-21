@@ -1,0 +1,39 @@
+{
+    "id": 2501,
+    "wordhead": "舒",
+    "explanation": "伸也。从舍从予，予亦聲。一曰舒，緩也。",
+    "volume": "04",
+    "radical": "予",
+    "pronunciation": "傷魚切",
+    "variants": [],
+    "seal_character": "夲",
+    "pinyin": "shu",
+    "pinyin_full": "shū",
+    "components": [
+        "予",
+        "舍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "伸也。",
+            "note": "經傳或假荼。或假豫。"
+        },
+        {
+            "explanation": "从予。",
+            "note": "物予人得伸其意。"
+        },
+        {
+            "explanation": "舍聲。",
+            "note": "此依鍇本。今鍇本作從舍予聲者、淺人知舍之古音而改之也。傷魚切。五部。"
+        },
+        {
+            "explanation": "一曰舒緩也。",
+            "note": "此與系部紓音義皆同。"
+        }
+    ],
+    "indexes": [
+        "舒"
+    ]
+}

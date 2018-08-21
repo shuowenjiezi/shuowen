@@ -1,0 +1,43 @@
+{
+    "id": 570,
+    "wordhead": "蔪",
+    "explanation": "艸相蔪苞也。从艸斬聲。《書》曰：“艸木蔪苞。”",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "慈冉切",
+    "variants": [
+        {
+            "wordhead": "𧀵",
+            "explanation": "蔪或从槧。",
+            "seal_character": "偻"
+        }
+    ],
+    "seal_character": "偺",
+    "pinyin": "jian",
+    "pinyin_full": "jiàn",
+    "components": [
+        "艸",
+        "斬",
+        "槧"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸相蔪苞也。",
+            "note": "蔪苞卽今禹貢之漸包。釋文曰。漸本又作蔪。字林才冄反。艸之相包裹也。包或作苞。叢生也。馬云。相苞裹也。按叢生之義字作苞者是。"
+        },
+        {
+            "explanation": "从艸。斬聲。",
+            "note": "慈冄切。八部。今本有書曰艸木蔪苞六字。此誤以鍇語入正文。今依韵㑹訂。"
+        },
+        {
+            "explanation": "蔪或从槧。",
+            "note": "此葢兼從艸木也。"
+        }
+    ],
+    "indexes": [
+        "蔪",
+        "𧀵"
+    ]
+}

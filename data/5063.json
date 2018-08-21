@@ -1,0 +1,31 @@
+{
+    "id": 5063,
+    "wordhead": "便",
+    "explanation": "安也。人有不便，更之。从人、更。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "房連切",
+    "variants": [],
+    "seal_character": "撟",
+    "pinyin": "pian",
+    "pinyin_full": "pián",
+    "components": [
+        "人",
+        "更"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "安也。",
+            "note": "古與平辨通用。如史記便章百姓。古文尙書作平。今文尙書作辨。毛詩平平左右。左傳作便蕃左右。"
+        },
+        {
+            "explanation": "人有不𠊳。𠊳之。故从人㪅。",
+            "note": "此會意。房連切。亦去聲。古音葢在十一部。"
+        }
+    ],
+    "indexes": [
+        "便"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 9683,
+    "wordhead": "禸",
+    "explanation": "獸足蹂地也。象形，九聲。《尔疋》曰：“狐貍貛貉醜，其足𨆌，其迹厹。”凡厹之屬皆从厹。",
+    "volume": "14",
+    "radical": "禸",
+    "pronunciation": "人九切",
+    "variants": [
+        {
+            "wordhead": "蹂",
+            "explanation": "篆文从足柔聲。",
+            "seal_character": "碣"
+        }
+    ],
+    "seal_character": "碢",
+    "pinyin": "rou",
+    "pinyin_full": "róu",
+    "components": [
+        "厶",
+        "九",
+        "足",
+        "柔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獸足蹂地也。",
+            "note": "足著地謂之厹。以蹂釋厹、以小篆釋古文也。先古文後小篆者、上部先二之例也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "謂？。"
+        },
+        {
+            "explanation": "九聲。",
+            "note": "人九切。三部。"
+        },
+        {
+            "explanation": "尒疋曰。",
+            "note": "小徐作爾雅曰。是也。此葢後人所改耳。"
+        },
+        {
+            "explanation": "狐貍貛貉醜。其足𨆌。其迹厹。",
+            "note": "釋獸文。狐貍貛、今作貍狐貒。郭注。厹、指頭處也。葢渾言之、凡迹皆曰厹。分析言之則各有名。如爾雅所說。"
+        },
+        {
+            "explanation": "篆文厹。",
+            "note": "爾雅音義云。古文爲蹂。由不知說文之例而改之。"
+        }
+    ],
+    "indexes": [
+        "禸",
+        "蹂"
+    ]
+}

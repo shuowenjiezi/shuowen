@@ -1,0 +1,36 @@
+{
+    "id": 8765,
+    "wordhead": "蟣",
+    "explanation": "蝨子也。一曰齊謂蛭曰蟣。从虫幾聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "居狶切",
+    "variants": [],
+    "seal_character": "璐",
+    "pinyin": "ji",
+    "pinyin_full": "jǐ",
+    "components": [
+        "虫",
+        "幾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蝨子也。",
+            "note": "蝨、齧人蟲也。子其卵也。戰國策作幾瑟。叚借字。"
+        },
+        {
+            "explanation": "一曰齊謂蛭曰蟣。",
+            "note": "釋魚蛭蟣注曰。今江東呼水中蛭蟲入人肉者爲蟣。"
+        },
+        {
+            "explanation": "从虫。幾聲。",
+            "note": "居豨切。十五部。"
+        }
+    ],
+    "indexes": [
+        "虮",
+        "蟣"
+    ]
+}

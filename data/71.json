@@ -1,0 +1,31 @@
+{
+    "id": 71,
+    "wordhead": "禁",
+    "explanation": "吉凶之忌也。从示林聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "居蔭切",
+    "variants": [],
+    "seal_character": "乚",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "示",
+        "林"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吉凶之忌也。",
+            "note": "禁忌雙聲。忌古亦讀如記也。曲禮曰。入竟而問禁。"
+        },
+        {
+            "explanation": "从示。林聲。",
+            "note": "居蔭切。七部。禁當次祘之前。"
+        }
+    ],
+    "indexes": [
+        "禁"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 7507,
+    "wordhead": "霃",
+    "explanation": "久陰也。从雨沈聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "直深切",
+    "variants": [],
+    "seal_character": "漦",
+    "pinyin": "chen",
+    "pinyin_full": "chén",
+    "components": [
+        "雨",
+        "沈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "久䨧也。",
+            "note": "月令。季春行秋令。則天多沈陰。沈卽霃之叚借也。沈行而霃廢矣。"
+        },
+        {
+            "explanation": "从雨。沈聲。",
+            "note": "直深切。七部。"
+        }
+    ],
+    "indexes": [
+        "霃"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 9186,
+    "wordhead": "動",
+    "explanation": "作也。从力重聲。",
+    "volume": "13",
+    "radical": "力",
+    "pronunciation": "徒總切",
+    "variants": [
+        {
+            "wordhead": "𨔝",
+            "explanation": "古文動从辵。",
+            "seal_character": "的"
+        }
+    ],
+    "seal_character": "皃",
+    "pinyin": "dong",
+    "pinyin_full": "dònɡ",
+    "components": [
+        "辵",
+        "重",
+        "力"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "作也。",
+            "note": "作者、起也。"
+        },
+        {
+            "explanation": "从力。重聲。",
+            "note": "徒緫切。九部。"
+        }
+    ],
+    "indexes": [
+        "动",
+        "動",
+        "𨔝"
+    ]
+}

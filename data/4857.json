@@ -1,0 +1,44 @@
+{
+    "id": 4857,
+    "wordhead": "帷",
+    "explanation": "在㫄曰帷。从巾隹聲。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "洧悲切",
+    "variants": [
+        {
+            "wordhead": "𠥛",
+            "explanation": "古文帷。",
+            "seal_character": "掿"
+        }
+    ],
+    "seal_character": "掾",
+    "pinyin": "wei",
+    "pinyin_full": "wéi",
+    "components": [
+        "隹",
+        "韋",
+        "巾",
+        "匚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "在旁曰帷。",
+            "note": "周禮注同。釋名曰。帷、圍也。所以自障圍也。"
+        },
+        {
+            "explanation": "从巾。隹聲。",
+            "note": "洧悲切。十五部。"
+        },
+        {
+            "explanation": "古文帷。",
+            "note": "鍇曰。从匚象周帀。"
+        }
+    ],
+    "indexes": [
+        "帷",
+        "𠥛"
+    ]
+}

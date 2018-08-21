@@ -1,0 +1,31 @@
+{
+    "id": 5500,
+    "wordhead": "欯",
+    "explanation": "喜也。从欠吉聲。",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "許吉切",
+    "variants": [],
+    "seal_character": "晼",
+    "pinyin": "xi",
+    "pinyin_full": "xì",
+    "components": [
+        "欠",
+        "吉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "喜也。",
+            "note": "廣韵曰。笑也。"
+        },
+        {
+            "explanation": "从欠。吉聲。",
+            "note": "許吉切。十二部。"
+        }
+    ],
+    "indexes": [
+        "欯"
+    ]
+}

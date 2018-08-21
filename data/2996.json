@@ -1,0 +1,35 @@
+{
+    "id": 2996,
+    "wordhead": "算",
+    "explanation": "數也。从竹从具。讀若筭。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "蘇管切",
+    "variants": [],
+    "seal_character": "孨",
+    "pinyin": "suan",
+    "pinyin_full": "suàn",
+    "components": [
+        "竹",
+        "具"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "數也。",
+            "note": "論語。何足算也。鄭曰。算、數也。古假選爲算。如邶風不可選也。車攻序因田獵而選車徒。選皆訓數是也。又假撰爲算。如大司馬羣吏撰車徒。鄭曰。撰讀曰算。謂數擇之也是也。筭爲算之器。算爲筭之用。二字音同而義別。"
+        },
+        {
+            "explanation": "从竹具。",
+            "note": "从竹者、謂必用筭以計也。从具者、具數也。"
+        },
+        {
+            "explanation": "讀若筭。",
+            "note": "穌管切。十四部。"
+        }
+    ],
+    "indexes": [
+        "算"
+    ]
+}

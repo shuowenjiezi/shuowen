@@ -1,0 +1,54 @@
+{
+    "id": 9814,
+    "wordhead": "𨡓",
+    "explanation": "盬也。从肉从酉，酒以和𨡓也；爿聲。",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "即亮切",
+    "variants": [
+        {
+            "wordhead": "𨟻",
+            "explanation": "古文。",
+            "seal_character": "祂"
+        },
+        {
+            "wordhead": "𤖙",
+            "explanation": "籒文。",
+            "seal_character": "祃"
+        }
+    ],
+    "seal_character": "祁",
+    "pinyin": "jiang",
+    "pinyin_full": "jiànɡ",
+    "components": [
+        "肉",
+        "爿",
+        "皿",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "醢也。从肉酉。",
+            "note": "从肉者、醢無不用肉也。"
+        },
+        {
+            "explanation": "酒㠯龢酱也。",
+            "note": "此說从酉之故。"
+        },
+        {
+            "explanation": "爿聲。",
+            "note": "卽亮切。十部。今俗作醬。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "作之陳之皆必以器。故从皿。"
+        }
+    ],
+    "indexes": [
+        "𨡓",
+        "𨟻",
+        "𤖙"
+    ]
+}

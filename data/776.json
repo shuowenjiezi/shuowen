@@ -1,0 +1,42 @@
+{
+    "id": 776,
+    "wordhead": "斄",
+    "explanation": "彊曲毛，可以箸起衣。从犛省，來聲。",
+    "volume": "02",
+    "radical": "犛",
+    "pronunciation": "洛哀切",
+    "variants": [
+        {
+            "wordhead": "𠩬",
+            "explanation": "古文斄省。",
+            "seal_character": "兞"
+        }
+    ],
+    "seal_character": "兝",
+    "pinyin": "lai",
+    "pinyin_full": "lái",
+    "components": [
+        "來",
+        "犛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "彊曲毛也。",
+            "note": "也依廣韵補。"
+        },
+        {
+            "explanation": "可㠯箸起衣。",
+            "note": "箸同褚。裝衣也。王莽傳。以氂裝衣。師古曰。毛之彊曲者曰氂。以裝褚衣。令其張起也。按此氂皆斄之誤。劉屈氂亦當本作屈斄。屈斄謂彊曲毛也。"
+        },
+        {
+            "explanation": "从犛省。來聲。",
+            "note": "洛哀切。舊音力之切。一部。"
+        }
+    ],
+    "indexes": [
+        "斄",
+        "𠩬"
+    ]
+}

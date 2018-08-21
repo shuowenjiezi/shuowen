@@ -1,0 +1,31 @@
+{
+    "id": 5239,
+    "wordhead": "襋",
+    "explanation": "衣領也。从衣棘聲。《詩》曰：“要之襋之。”",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "己力切",
+    "variants": [],
+    "seal_character": "敜",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "衣",
+        "棘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣領也。",
+            "note": "領者、頸項也。因以爲衣在頸之名。魏風。要之襋之。毛傳曰。要、要也。襋、領也。按裳之上曰要。衣之上曰領。皆以人體名之也。士喪禮云。襚者左執領。右執要。"
+        },
+        {
+            "explanation": "从衣。棘聲。",
+            "note": "棘之言亟也。領爲衣之亟者。故曰襋。己力切。一部。亦作？。"
+        }
+    ],
+    "indexes": [
+        "襋"
+    ]
+}

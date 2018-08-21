@@ -1,0 +1,39 @@
+{
+    "id": 6428,
+    "wordhead": "熬",
+    "explanation": "乾煎也。从火敖聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "五牢切",
+    "variants": [
+        {
+            "wordhead": "𪍾",
+            "explanation": "𤎅或从麥。",
+            "seal_character": "檄"
+        }
+    ],
+    "seal_character": "檃",
+    "pinyin": "ao",
+    "pinyin_full": "áo",
+    "components": [
+        "敖",
+        "火",
+        "麥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "乾𤋎也。",
+            "note": "方言。𤎅、火乾也。凡以火而乾五榖之類、自山而東齊楚以往謂之𤎅。"
+        },
+        {
+            "explanation": "从火。敖聲。",
+            "note": "五牢切。二部。"
+        }
+    ],
+    "indexes": [
+        "熬",
+        "𪍾"
+    ]
+}

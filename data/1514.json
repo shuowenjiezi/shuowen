@@ -1,0 +1,44 @@
+{
+    "id": 1514,
+    "wordhead": "訊",
+    "explanation": "問也。从言卂聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "思晉切",
+    "variants": [
+        {
+            "wordhead": "𧨼",
+            "explanation": "古文訊从卥。",
+            "seal_character": "咝"
+        }
+    ],
+    "seal_character": "咜",
+    "pinyin": "xun",
+    "pinyin_full": "xùn",
+    "components": [
+        "言",
+        "卂",
+        "卥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "問也",
+            "note": "釋言曰。訊、言也。小雅。訊之占夢。毛曰。訊、問也。鄭箋執訊皆兼言問爲訓。"
+        },
+        {
+            "explanation": "从言。卂聲。",
+            "note": "思晉切。十二部。"
+        },
+        {
+            "explanation": "古文訊。从卥。",
+            "note": "卥古文西。西古音詵。與十二部冣近。"
+        }
+    ],
+    "indexes": [
+        "讯",
+        "訊",
+        "𧨼"
+    ]
+}

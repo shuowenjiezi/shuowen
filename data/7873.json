@@ -1,0 +1,35 @@
+{
+    "id": 7873,
+    "wordhead": "授",
+    "explanation": "予也。从手从受，受亦聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "殖酉切",
+    "variants": [],
+    "seal_character": "炿",
+    "pinyin": "shou",
+    "pinyin_full": "shòu",
+    "components": [
+        "手",
+        "受"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "予也。",
+            "note": "予者、推予也。象相予之形。"
+        },
+        {
+            "explanation": "从手受。",
+            "note": "手付之、令其受也。故从手受。"
+        },
+        {
+            "explanation": "受亦聲。",
+            "note": "殖酉切。三部。"
+        }
+    ],
+    "indexes": [
+        "授"
+    ]
+}

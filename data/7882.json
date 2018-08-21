@@ -1,0 +1,41 @@
+{
+    "id": 7882,
+    "wordhead": "撫",
+    "explanation": "安也。从手無聲。一曰循也。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "芳武切",
+    "variants": [
+        {
+            "wordhead": "𨑟",
+            "explanation": "古文从辵、亡<span>[<span>兦</span><span>亾</span>]</span>。",
+            "seal_character": "烉"
+        }
+    ],
+    "seal_character": "烈",
+    "pinyin": "fu",
+    "pinyin_full": "fǔ",
+    "components": [
+        "無",
+        "手",
+        "辵",
+        "亡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "安也。从手。𣞤聲。",
+            "note": "芳武切。五部。"
+        },
+        {
+            "explanation": "一曰揗也。",
+            "note": "揗各本作循。今正。揗者、摩也。拊亦訓揗。故撫拊或通用。"
+        }
+    ],
+    "indexes": [
+        "抚",
+        "撫",
+        "𨑟"
+    ]
+}

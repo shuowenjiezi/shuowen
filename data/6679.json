@@ -1,0 +1,45 @@
+{
+    "id": 6679,
+    "wordhead": "愼",
+    "explanation": "謹也。从心眞聲。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "時刃切",
+    "variants": [
+        {
+            "wordhead": "𡴜",
+            "explanation": "古文。",
+            "seal_character": "殤"
+        }
+    ],
+    "seal_character": "殣",
+    "pinyin": "shen",
+    "pinyin_full": "shèn",
+    "components": [
+        "真",
+        "屮",
+        "日",
+        "心",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謹也。",
+            "note": "言部曰。謹者、愼也。二篆爲轉注。未有不誠而能謹者。故其字从眞。小雅。愼爾優游。予愼無罪。傳皆曰。誠也。詳八篇眞下。"
+        },
+        {
+            "explanation": "从心。眞聲。",
+            "note": "時刃切。十二部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "尞字从此。釋文序錄偁昚徽五典。是陸氏所據堯典作昚。自衛包改作愼。開寶中乃於尙書音義中𠜂之。"
+        }
+    ],
+    "indexes": [
+        "愼",
+        "𡴜"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 7701,
+    "wordhead": "閭",
+    "explanation": "里門也。从門呂聲。《周禮》：“五家爲比，五比爲閭。”閭，侶也，二十五家相羣侶也。",
+    "volume": "12",
+    "radical": "門",
+    "pronunciation": "力居切",
+    "variants": [],
+    "seal_character": "濽",
+    "pinyin": "lv",
+    "pinyin_full": "lǘ",
+    "components": [
+        "門",
+        "呂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "里門也。",
+            "note": "周制、二十五家爲里。其後則人所聚居爲里。不限二十五家也。里部曰。里、凥也。里門曰閭。"
+        },
+        {
+            "explanation": "从門。呂聲。",
+            "note": "力居切。五部。"
+        },
+        {
+            "explanation": "周禮。五家爲比。五比爲閭。",
+            "note": "見大司徒職。"
+        },
+        {
+            "explanation": "閭、侶也。二十五家相羣侶也。",
+            "note": "侶當作旅。旅、衆也。此引周禮言閭之古義。"
+        }
+    ],
+    "indexes": [
+        "闾",
+        "閭"
+    ]
+}

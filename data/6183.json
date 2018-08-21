@@ -1,0 +1,35 @@
+{
+    "id": 6183,
+    "wordhead": "駾",
+    "explanation": "馬行疾來皃。从馬兌聲。《詩》曰：“昆夷駾矣。”",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "他外切",
+    "variants": [],
+    "seal_character": "楸",
+    "pinyin": "tui",
+    "pinyin_full": "tuì",
+    "components": [
+        "馬",
+        "兌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬行疾來皃也。",
+            "note": "大雅緜曰。混夷駾矣。傳曰。駾、突也。箋云。混夷惶、怖驚走奔突入柞棫之中。"
+        },
+        {
+            "explanation": "从馬。兌聲。",
+            "note": "他外切。十五部。"
+        },
+        {
+            "explanation": "詩曰。昆夷駾矣。",
+            "note": "今詩昆作混。按昆恐是譌字。孟子亦作混。"
+        }
+    ],
+    "indexes": [
+        "駾"
+    ]
+}

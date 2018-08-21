@@ -1,0 +1,42 @@
+{
+    "id": 8978,
+    "wordhead": "墺",
+    "explanation": "四方土可居也。从土奧聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "於六切",
+    "variants": [
+        {
+            "wordhead": "𡌱",
+            "explanation": "古文墺。",
+            "seal_character": "疏"
+        }
+    ],
+    "seal_character": "疎",
+    "pinyin": "ao",
+    "pinyin_full": "ào",
+    "components": [
+        "土",
+        "奧"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "四方之土可定凥者也。",
+            "note": "各本作四方土可居也。少三字。今依李善西都賦注正。禹貢。四墺旣宅。今作隩者、衞包改也。僞孔傳曰。四方之土可居。玉篇土部引夏書四墺旣宅。廣韵三十七号墺字注曰。四墺、四方土。文選西都賦。天地之隩區。李注引此說文。知班賦本从土。唐以後人乃改之。如今本尙書釋文之作隩耳。周語。宅爲九隩。注云。隩、內也。其字从𨸏。"
+        },
+        {
+            "explanation": "从土。奥聲。",
+            "note": "於六切。三部。按音轉多讀於報切。"
+        },
+        {
+            "explanation": "古文墺。",
+            "note": "葢壁中禹貢如是與。"
+        }
+    ],
+    "indexes": [
+        "墺",
+        "𡌱"
+    ]
+}

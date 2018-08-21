@@ -1,0 +1,37 @@
+{
+    "id": 3356,
+    "wordhead": "夏",
+    "explanation": "中國之人也。从夊从頁从𦥑。𦥑，兩手；夊，兩足也。",
+    "volume": "05",
+    "radical": "夊",
+    "pronunciation": "胡雅切",
+    "variants": [
+        {
+            "wordhead": "𨂮",
+            "explanation": "古文夏。",
+            "seal_character": "崯"
+        }
+    ],
+    "seal_character": "崮",
+    "pinyin": "xia",
+    "pinyin_full": "xià",
+    "components": [
+        "夏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "中國之人也。",
+            "note": "以別於北方狄、東北貉、南方蠻閩、西方羌、西南焦僥、東方夷也。夏、引伸之義爲大也。"
+        },
+        {
+            "explanation": "从夊。从頁。从臼。臼、㒳手。夊、㒳足也。",
+            "note": "胡雅切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "夏",
+        "𨂮"
+    ]
+}

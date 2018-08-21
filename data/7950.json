@@ -1,0 +1,35 @@
+{
+    "id": 7950,
+    "wordhead": "擐",
+    "explanation": "貫也。从手瞏聲。《春秋傳》曰：“擐甲執兵。”",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "胡慣切",
+    "variants": [],
+    "seal_character": "焏",
+    "pinyin": "huan",
+    "pinyin_full": "huàn",
+    "components": [
+        "手",
+        "瞏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "毌也。",
+            "note": "毌各本作貫。今正。毌、穿物持之也。今人廢毌而專用貫矣。杜注左傳、韋注國語皆曰。擐、貫也。"
+        },
+        {
+            "explanation": "从手。睘聲。",
+            "note": "胡慣切。十四部。"
+        },
+        {
+            "explanation": "春秋傳曰。擐甲執兵。",
+            "note": "成二年左傳文。"
+        }
+    ],
+    "indexes": [
+        "擐"
+    ]
+}

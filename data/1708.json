@@ -1,0 +1,46 @@
+{
+    "id": 1708,
+    "wordhead": "讄",
+    "explanation": "禱也。累功德以求福。《論語》云：“讄曰：‘禱尔于上下神祇。’”从言，纍省聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "力軌切",
+    "variants": [
+        {
+            "wordhead": "𧮢",
+            "explanation": "或不省。",
+            "seal_character": "啶"
+        }
+    ],
+    "seal_character": "啵",
+    "pinyin": "lei",
+    "pinyin_full": "lěi",
+    "components": [
+        "言",
+        "纍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禱也。絫功德㠯求福也。",
+            "note": "讄絫雙聲。按讄施於生者以求福。誄施於死者以作謚。論語之讄曰。字當從畾。毛傳曰。桑紀、能誄。字當從耒。周禮六辭。鄭司農注二字巳不分矣。"
+        },
+        {
+            "explanation": "論語云。讄曰。禱尒于上下神祇。",
+            "note": "述而篇文。"
+        },
+        {
+            "explanation": "从言。畾聲。",
+            "note": "按本書無畾字。靁從雨象形作此。凡曰從畾聲者、皆從靁省聲也。力軌切。十五部。"
+        },
+        {
+            "explanation": "讄或从纍。",
+            "note": "諭語釋文或云作𧮢。"
+        }
+    ],
+    "indexes": [
+        "讄",
+        "𧮢"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4449,
+    "wordhead": "䵒",
+    "explanation": "黏也。从黍日聲。《春秋傳》曰：“不義不䵒。”",
+    "volume": "07",
+    "radical": "黍",
+    "pronunciation": "尼質切",
+    "variants": [
+        {
+            "wordhead": "䵑",
+            "explanation": "䵒或从刃。",
+            "seal_character": "懩"
+        }
+    ],
+    "seal_character": "懨",
+    "pinyin": "ni",
+    "pinyin_full": "nì",
+    "components": [
+        "日",
+        "刃",
+        "黍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "黏也。从黍。日聲。",
+            "note": "尼質切。十二部。"
+        },
+        {
+            "explanation": "春秋傳曰。不義不䵒。",
+            "note": "隱元年左傳文。今左傳作暱。昵或暱字、日近也。攷工記弓人。凡昵之類不能方。故書昵或作樴。杜子春云。樴讀爲不義不昵之昵。或爲䵑。䵑、黏也。按許所據左傳作䵒爲長。䵒與暱音義皆相近。"
+        },
+        {
+            "explanation": "䵒或从刄。",
+            "note": "刄聲也。據杜子春說。攷工記弓人昵或爲䵑。方言曰。䵑、黏也。齊魯靑徐自關而東或曰䵑。或曰𪏮。𪏮、黏也。"
+        }
+    ],
+    "indexes": [
+        "䵒",
+        "䵑"
+    ]
+}

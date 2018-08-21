@@ -1,0 +1,43 @@
+{
+    "id": 2565,
+    "wordhead": "髀",
+    "explanation": "股也。从骨卑聲。",
+    "volume": "04",
+    "radical": "骨",
+    "pronunciation": "并弭切",
+    "variants": [
+        {
+            "wordhead": "䠋",
+            "explanation": "古文髀。",
+            "seal_character": "妀"
+        }
+    ],
+    "seal_character": "奿",
+    "pinyin": "bi",
+    "pinyin_full": "bǐ",
+    "components": [
+        "卑",
+        "足",
+        "骨"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "股外也。",
+            "note": "各本無外。今依爾雅音義、文𨕖七命注、玄應書、太平御覽補。股外曰髀。髀上曰髖。肉部曰股、髀也。渾言之。此曰髀、股外也。析言之。其義相足。大部曰奎、兩髀之閒也。"
+        },
+        {
+            "explanation": "从骨。卑聲。",
+            "note": "幷弭切。十六部。"
+        },
+        {
+            "explanation": "古文髀。",
+            "note": "從足者、足所恃以能行也。鄭司農注周禮典同曰。鍾形下當䠋。按其文義當是庳之假借。庳、卑也。列女傳。古者婦人身子。寑不側。坐不邊。立不䠋。按其文義。當是跛之假借。今兩書皆譌作蹕。"
+        }
+    ],
+    "indexes": [
+        "髀",
+        "䠋"
+    ]
+}

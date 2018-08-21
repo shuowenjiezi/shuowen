@@ -1,0 +1,35 @@
+{
+    "id": 2123,
+    "wordhead": "眓",
+    "explanation": "視高皃。从目戉聲。讀若《詩》曰“施罛濊濊”。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "呼哲切",
+    "variants": [],
+    "seal_character": "坽",
+    "pinyin": "huo",
+    "pinyin_full": "huò",
+    "components": [
+        "目",
+        "戉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "視高皃。",
+            "note": "豁目字當作此。"
+        },
+        {
+            "explanation": "从目。戉聲。",
+            "note": "呼括切。十五部。"
+        },
+        {
+            "explanation": "讀若詩曰施罟濊濊。",
+            "note": "許四引衞風此句。而此與罛下作濊濊不誤。水部作𤃴𤃴、大部作𤂾𤂾、宋刻泧泧皆誤也。說詳水部濊下。"
+        }
+    ],
+    "indexes": [
+        "眓"
+    ]
+}

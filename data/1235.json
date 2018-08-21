@@ -1,0 +1,34 @@
+{
+    "id": 1235,
+    "wordhead": "微",
+    "explanation": "隱行也。从彳𢼸聲。《春秋傳》曰：“白公其徒微之。”",
+    "volume": "02",
+    "radical": "彳",
+    "pronunciation": "無非切",
+    "variants": [],
+    "seal_character": "卦",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "隱行也。",
+            "note": "𢼸訓眇。微从彳、訓隱行。叚借通用微而？不行。邶風。微我無酒。又假微爲非。"
+        },
+        {
+            "explanation": "从彳。𢼸聲。",
+            "note": "無非切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。白公其徒微之。",
+            "note": "左傳哀十六年文。杜曰。微、匿也與釋詁匿微也互訓。皆言隱、不言行。？之叚借字也。此偁傳說叚借。"
+        }
+    ],
+    "indexes": [
+        "微"
+    ]
+}

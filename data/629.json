@@ -1,0 +1,31 @@
+{
+    "id": 629,
+    "wordhead": "卉",
+    "explanation": "艸之緫名也。从艸、屮。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "許偉切",
+    "variants": [],
+    "seal_character": "傾",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "屮",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸之緫名也。",
+            "note": "方言曰。卉、艸也。東越楊州之閒曰卉。"
+        },
+        {
+            "explanation": "从艸屮。",
+            "note": "三屮卽三艸也。㑹意。許偉切。十五部。"
+        }
+    ],
+    "indexes": [
+        "卉"
+    ]
+}

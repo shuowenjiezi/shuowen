@@ -1,0 +1,53 @@
+{
+    "id": 6665,
+    "wordhead": "囟",
+    "explanation": "頭會，匘蓋也。象形。凡囟之屬皆从囟。",
+    "volume": "10",
+    "radical": "囟",
+    "pronunciation": "息進切",
+    "variants": [
+        {
+            "wordhead": "𦞤",
+            "explanation": "或从肉、宰。",
+            "seal_character": "殓"
+        },
+        {
+            "wordhead": "𠙷",
+            "explanation": "古文囟字。",
+            "seal_character": "殔"
+        }
+    ],
+    "seal_character": "殒",
+    "pinyin": "xin",
+    "pinyin_full": "xìn",
+    "components": [
+        "肉",
+        "宰",
+        "囟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "頭會匘葢也。",
+            "note": "首之會合處。頭𩪦之覆葢。玄應引葢下有頟空二字。頟空、謂頟腔也。內則注曰。夾𦥓曰角。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "內則正義引此云。𦥓、其字象小皃腦不合也。按人部兒下亦云。从儿、上象小皃頭腦未合也。九經字㨾曰。說文作𦥓。隸變作{囟-丿}。鬛腦等字从之。細思等字亦从之。攷夢英書傍石刻作<𦥓 >。宋刻書本皆作𦥓。今人楷字譌囟。又改篆體作<囟>。所謂象小皃腦不合者、不可見矣。息進切。十二部。"
+        },
+        {
+            "explanation": "或从肉宰。",
+            "note": "葢俗字。"
+        },
+        {
+            "explanation": "古文𦥓字。",
+            "note": "內則正義所引說文疑在此字之下。"
+        }
+    ],
+    "indexes": [
+        "囟",
+        "𦞤",
+        "𠙷"
+    ]
+}

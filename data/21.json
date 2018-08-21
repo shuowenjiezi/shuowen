@@ -1,0 +1,31 @@
+{
+    "id": 21,
+    "wordhead": "祐",
+    "explanation": "助也。从示右聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "于救切",
+    "variants": [],
+    "seal_character": "丝",
+    "pinyin": "you",
+    "pinyin_full": "yòu",
+    "components": [
+        "示",
+        "右"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "助也。",
+            "note": "古衹作右。"
+        },
+        {
+            "explanation": "从示。右聲。",
+            "note": "于救切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "祐"
+    ]
+}

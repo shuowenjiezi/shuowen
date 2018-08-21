@@ -1,0 +1,35 @@
+{
+    "id": 128,
+    "wordhead": "珌",
+    "explanation": "佩刀下飾。天子以玉。从玉必聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "卑吉切",
+    "variants": [],
+    "seal_character": "亞",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "必",
+        "玉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "佩刀下飾。天子以玉。",
+            "note": "毛傳云。天子以珧。說文珧字下亦云。天子珧珌。此當人云。天子以珧。諸矦以玉。淺人妄竄改之。"
+        },
+        {
+            "explanation": "从王。必聲。",
+            "note": "卑吉切。十二部。"
+        },
+        {
+            "explanation": "古文珌。",
+            "note": "各本無。玉篇曰。珌古文作㻫。汗𥳑、古文四聲韻皆曰。㻫見說文。今據補。必畢古通用。同在十二部。"
+        }
+    ],
+    "indexes": [
+        "珌"
+    ]
+}

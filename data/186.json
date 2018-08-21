@@ -1,0 +1,47 @@
+{
+    "id": 186,
+    "wordhead": "琨",
+    "explanation": "石之美者。从玉昆聲。《虞書》曰：“楊州貢瑤琨。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "古渾切",
+    "variants": [
+        {
+            "wordhead": "瑻",
+            "explanation": "琨或从貫。",
+            "seal_character": "仜"
+        }
+    ],
+    "seal_character": "仛",
+    "pinyin": "kun",
+    "pinyin_full": "kūn",
+    "components": [
+        "玉",
+        "昆",
+        "貫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "石之美者。",
+            "note": "王肅及某氏注禹貢皆曰。瑤琨皆美石。劉逵注吳都賦、顏師古注地理志皆曰。琨、美石。今本轉寫石多譌玉。穆天子傳。天子之珤玉昆。傳。石似美玉。今本昆譌果。招魂。昆蔽象棋。注。昆、玉也。當云昆同琨。石似玉。"
+        },
+        {
+            "explanation": "从王。昆聲。",
+            "note": "古渾切。十三部。"
+        },
+        {
+            "explanation": "夏書曰。",
+            "note": "夏各本譌虞。"
+        },
+        {
+            "explanation": "琨或从貫。",
+            "note": "馬融尚書、漢地理志皆作瑻。貫聲在十四部。與十三部昆聲合韻最近。而又雙聲。如昆夷亦爲串夷。韋昭瑻音貫。"
+        }
+    ],
+    "indexes": [
+        "琨",
+        "瑻"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 1752,
+    "wordhead": "弇",
+    "explanation": "蓋也。从廾从合。",
+    "volume": "03",
+    "radical": "𠬞",
+    "pronunciation": "古南切",
+    "variants": [
+        {
+            "wordhead": "𥦦",
+            "explanation": "古文弇。",
+            "seal_character": "喫"
+        }
+    ],
+    "seal_character": "喪",
+    "pinyin": "gan",
+    "pinyin_full": "yǎn",
+    "components": [
+        "合",
+        "収"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "葢也。",
+            "note": "釋言曰。弇、同也。弇、葢也。此與奄、覆也音義同。釋器曰。圜弇上謂之鼒。謂斂其上不全葢也。周禮說鐘弇聲鬰、弇謂中央寛也。"
+        },
+        {
+            "explanation": "从廾。合聲。",
+            "note": "廾合鍇誤倒。古南切。又一儉切。七部。皿部有盫字。葢弇之别體。後人所增也。"
+        }
+    ],
+    "indexes": [
+        "弇",
+        "𥦦"
+    ]
+}

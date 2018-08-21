@@ -1,0 +1,40 @@
+{
+    "id": 237,
+    "wordhead": "㞣",
+    "explanation": "艸初生，其香分布。从屮从分，分亦聲。",
+    "volume": "01",
+    "radical": "屮",
+    "pronunciation": "撫文切",
+    "variants": [
+        {
+            "wordhead": "芬",
+            "explanation": "芬或从艸。",
+            "seal_character": "伙"
+        }
+    ],
+    "seal_character": "优",
+    "pinyin": "fen",
+    "pinyin_full": "fēn",
+    "components": [
+        "分",
+        "屮",
+        "从",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸初生其香分布也。",
+            "note": "衆經音義兩引說文。芬、芳也。其所據本不同。按艸部。芳、艸香也。詩說馨香、多言苾芬。大雅毛傳曰。芬芬、香也。然則玄應所據正是古本。"
+        },
+        {
+            "explanation": "从屮。分聲。",
+            "note": "撫文切。十三部。"
+        }
+    ],
+    "indexes": [
+        "㞣",
+        "芬"
+    ]
+}

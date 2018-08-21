@@ -1,0 +1,52 @@
+{
+    "id": 7787,
+    "wordhead": "𦣞",
+    "explanation": "𩔞也。象形。凡𦣞之屬皆从𦣞。",
+    "volume": "12",
+    "radical": "𦣞",
+    "pronunciation": "與之切",
+    "variants": [
+        {
+            "wordhead": "頤",
+            "explanation": "篆文𦣝。",
+            "seal_character": "灞"
+        },
+        {
+            "wordhead": "𩠝",
+            "explanation": "籒文从首<span>[<span>𩠐</span>]</span>。",
+            "seal_character": "灟"
+        }
+    ],
+    "seal_character": "灝",
+    "pinyin": "yi",
+    "pinyin_full": "yí",
+    "components": [
+        "首",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𩔞也。",
+            "note": "頁部曰。𩔞、頥也。二篆爲轉注。𦣝者、古文頥也。鄭易注曰。頥中。句口車輔之名也。震動於下。艮止於上。口車動而上。因輔嚼物以養人。故謂之頥。頥、養也。按鄭意謂口下爲車。口上爲輔。合口車輔三者爲頥。左氏云。輔車相依。車部云。輔、人頰車也。序卦傳曰。頥者、養也。古名頥字眞。晉枚頥字仲眞。李頥字景眞。枚頥或作梅𦣱。誤也。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "此文當横視之。横視之、則口上口下口中之形俱見矣。與之切。一部。"
+        },
+        {
+            "explanation": "篆文𦣝。",
+            "note": "此爲篆文。則知𦣝爲古文也。先古文後篆文者、此亦先𠄞後上之例。不如是則巸篆無所附也。"
+        },
+        {
+            "explanation": "籒文从𩠐。",
+            "note": "𦣝本象形。如籒文篆文則从𩠐从頁而後象其形也。"
+        }
+    ],
+    "indexes": [
+        "𦣞",
+        "頤",
+        "𩠝"
+    ]
+}

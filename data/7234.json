@@ -1,0 +1,31 @@
+{
+    "id": 7234,
+    "wordhead": "汕",
+    "explanation": "魚游水皃。从水山聲。《詩》曰：“蒸然汕汕。”",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "所妟切",
+    "variants": [],
+    "seal_character": "淮",
+    "pinyin": "shan",
+    "pinyin_full": "shàn",
+    "components": [
+        "水",
+        "山"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魚游水皃。",
+            "note": "小雅。南有嘉魚。烝然汕汕。傳曰。汕、樔也。詩不从毛。葢三家之說。"
+        },
+        {
+            "explanation": "从水。山聲。",
+            "note": "所晏切。十四部。"
+        }
+    ],
+    "indexes": [
+        "汕"
+    ]
+}

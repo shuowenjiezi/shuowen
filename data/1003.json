@@ -1,0 +1,31 @@
+{
+    "id": 1003,
+    "wordhead": "𧼐",
+    "explanation": "走意。从走囷聲。",
+    "volume": "02",
+    "radical": "走",
+    "pronunciation": "丘忿切",
+    "variants": [],
+    "seal_character": "剘",
+    "pinyin": "yun",
+    "pinyin_full": "yǔn",
+    "components": [
+        "囷",
+        "走"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "走意。",
+            "note": "廣韵走皃。"
+        },
+        {
+            "explanation": "从走。囷聲。",
+            "note": "丘忿切。十三部。"
+        }
+    ],
+    "indexes": [
+        "𧼐"
+    ]
+}

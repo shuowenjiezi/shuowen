@@ -1,0 +1,39 @@
+{
+    "id": 6558,
+    "wordhead": "浾",
+    "explanation": "䞓，棠棗之汁，或从水。",
+    "volume": "10",
+    "radical": "赤",
+    "pronunciation": "",
+    "variants": [
+        {
+            "wordhead": "泟",
+            "explanation": "浾或从正。",
+            "seal_character": "欜"
+        }
+    ],
+    "seal_character": "欛",
+    "pinyin": "cheng",
+    "pinyin_full": "chēnɡ",
+    "components": [
+        "水",
+        "正",
+        "赤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "棠棗之汁也。从赤水。",
+            "note": "各本轉寫舛誤。今正。浾與䞓音雖同而義異。別爲一字。非卽䞓字也。棠棗汁皆赤。故从赤水會意。勅貞切。十一部。"
+        },
+        {
+            "explanation": "浾或从正",
+            "note": "正聲。"
+        }
+    ],
+    "indexes": [
+        "浾",
+        "泟"
+    ]
+}

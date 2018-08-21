@@ -1,0 +1,43 @@
+{
+    "id": 6052,
+    "wordhead": "豝",
+    "explanation": "牝豕也。从豕巴聲。一曰一歲，能相把拏也。《詩》曰：“一發五豝。”",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "伯加切",
+    "variants": [],
+    "seal_character": "棥",
+    "pinyin": "ba",
+    "pinyin_full": "bā",
+    "components": [
+        "豕",
+        "巴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牝豕也。",
+            "note": "釋獸、召南傳皆曰。豕、牝曰豝。"
+        },
+        {
+            "explanation": "从豕。巴聲。",
+            "note": "伯加切。古音在五部。"
+        },
+        {
+            "explanation": "一曰二歲豕。",
+            "note": "豕字今補。大司馬先鄭注云。二歲爲豝。"
+        },
+        {
+            "explanation": "能相杷拏者也。",
+            "note": "者字今依韵會補。杷舊作把。譌。今正。杷者、掊也。拏、牽引也。以㬪韵爲訓。"
+        },
+        {
+            "explanation": "詩曰一發五豝。",
+            "note": "召南騶虞文。今詩一作壹。"
+        }
+    ],
+    "indexes": [
+        "豝"
+    ]
+}

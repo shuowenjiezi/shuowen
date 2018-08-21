@@ -1,0 +1,43 @@
+{
+    "id": 31,
+    "wordhead": "祀",
+    "explanation": "祭無已也。从示巳聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "詳里切",
+    "variants": [
+        {
+            "wordhead": "禩",
+            "explanation": "祀或从異<span>[<span>異</span>]</span>。",
+            "seal_character": "丫"
+        }
+    ],
+    "seal_character": "个",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "示",
+        "巳",
+        "異"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祭無巳也。",
+            "note": "析言則祭無巳曰祀。从巳而釋爲無巳。此如治曰亂、徂曰存。終則有始之義也。釋詁曰。祀祭也。"
+        },
+        {
+            "explanation": "从示。巳聲。",
+            "note": "詳里切。一部。"
+        },
+        {
+            "explanation": "祀或从異。",
+            "note": "周禮大宗伯、小祝注皆云故書祀作禩。按禩字見於故書。是古文也。篆隷有祀無禩。是以漢儒杜子春、鄭司農不識。但云當爲祀、讀爲祀。而不敢直言古文祀。葢其愼也。至許乃定爲一字。至魏時乃入三體石經。古文巳聲異聲同在一部。故異形而同字也。"
+        }
+    ],
+    "indexes": [
+        "祀",
+        "禩"
+    ]
+}

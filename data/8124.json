@@ -1,0 +1,43 @@
+{
+    "id": 8124,
+    "wordhead": "媧",
+    "explanation": "古之神聖女，化萬物者也。从女咼聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "古蛙切",
+    "variants": [
+        {
+            "wordhead": "𡢓",
+            "explanation": "籒文媧从𩰬。",
+            "seal_character": "燋"
+        }
+    ],
+    "seal_character": "燊",
+    "pinyin": "wa",
+    "pinyin_full": "wā",
+    "components": [
+        "咼",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "古之神聖女化萬物者也。",
+            "note": "媧化㬪韵。司馬貞三皇本紀曰。三皇、說者不同。譙周以燧人爲皇。宋均以祝融爲皇。鄭康成依春秋緯注禮記云女媧三皇承伏羲者。皇甫謐亦同。"
+        },
+        {
+            "explanation": "从女。咼聲。",
+            "note": "古蛙切。古音在十七部。"
+        },
+        {
+            "explanation": "籒文媧。从𩰬。",
+            "note": "𩰬聲。亦同十七部。"
+        }
+    ],
+    "indexes": [
+        "娲",
+        "媧",
+        "𡢓"
+    ]
+}

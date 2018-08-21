@@ -1,0 +1,47 @@
+{
+    "id": 9712,
+    "wordhead": "辭",
+    "explanation": "訟也。从𤔔，𤔔猶理辜也。𤔔，理也。",
+    "volume": "14",
+    "radical": "辛",
+    "pronunciation": "似兹切",
+    "variants": [
+        {
+            "wordhead": "𤔲",
+            "explanation": "籒文辭从司。",
+            "seal_character": "磉"
+        }
+    ],
+    "seal_character": "磈",
+    "pinyin": "ci",
+    "pinyin_full": "cí",
+    "components": [
+        "司",
+        "辛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "說也。",
+            "note": "今本說譌訟。廣韵七之所引不誤。今本此說譌爲訟。訩字下訟譌爲說。其誤正同。言部曰。說者、釋也。"
+        },
+        {
+            "explanation": "从𤔔辛。",
+            "note": "會意。似茲切。一部。"
+        },
+        {
+            "explanation": "𤔔辛猶理辜也。",
+            "note": "釋會意之恉。依小徐本訂正。"
+        },
+        {
+            "explanation": "籒文辭。从司。",
+            "note": "易𣪠辭本亦作𤔲。"
+        }
+    ],
+    "indexes": [
+        "辞",
+        "辭",
+        "𤔲"
+    ]
+}

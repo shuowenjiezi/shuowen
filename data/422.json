@@ -1,0 +1,43 @@
+{
+    "id": 422,
+    "wordhead": "𦵹",
+    "explanation": "雚之初生。一曰薍。一曰鵻。从艸剡聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "土敢切",
+    "variants": [
+        {
+            "wordhead": "菼",
+            "explanation": "𦵹或从炎。",
+            "seal_character": "俢"
+        }
+    ],
+    "seal_character": "信",
+    "pinyin": "tan",
+    "pinyin_full": "tǎn",
+    "components": [
+        "炎",
+        "艸",
+        "剡"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "？之之初生。一曰薍。一曰騅。",
+            "note": "騅各本作鵻。今依爾雅。兩一曰、謂𦵹之一名也。釋言云。菼、騅也。菼、薍也王風傳云。菼鵻也。蘆之初生者也。箋云。菼、薍也。按毛釋爲鵻。恐其與蓷無別也。故又申之曰。蘆之初生者也。菼別於蘆。析言之也。統言之則菼亦偁蘆。鄭恐？葦無別也。故又申之曰薍也。𦵹與騅皆言其靑色。薍言其形。細莖稹密。許云？之初生。亦以正毛也。"
+        },
+        {
+            "explanation": "从艸。剡聲。",
+            "note": "土敢切。八部。"
+        },
+        {
+            "explanation": "𦵹或从炎。",
+            "note": "經典皆作此字。"
+        }
+    ],
+    "indexes": [
+        "𦵹",
+        "菼"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 206,
+    "wordhead": "𩆜",
+    "explanation": "𩆜巫。以玉事神。从玉霝聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "郎丁切",
+    "variants": [
+        {
+            "wordhead": "靈",
+            "explanation": "𤫊或从巫。",
+            "seal_character": "仳"
+        }
+    ],
+    "seal_character": "仲",
+    "pinyin": "ling",
+    "pinyin_full": "línɡ",
+    "components": [
+        "玉",
+        "霝",
+        "巫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "巫也。",
+            "note": "各本巫上有靈字。乃複舉篆文之未𠜂者也。許君原書。篆文之下以𣜩複寫其字。後人剛之。時有未盡。此因巫下脫也字。以靈巫爲句。失之。今補也字。屈賦九歌。靈偃蹇兮皎服。又靈連蜷兮旣畱。又思靈保兮賢姱。王注皆云。靈、巫也。楚人名巫爲靈。許亦當云巫也無疑矣。引伸之義如謚法曰極知鬼事曰靈。好祭鬼神曰靈。曾子曰陽之精氣曰神。陰之精氣曰靈。毛公曰神之精明者稱靈。皆是也。"
+        },
+        {
+            "explanation": "以玉事神。",
+            "note": "依韻會無也字。"
+        },
+        {
+            "explanation": "从王。",
+            "note": "巫能以玉事神。故其字从玉。"
+        },
+        {
+            "explanation": "霝聲。",
+            "note": "郎丁切。十一部。"
+        },
+        {
+            "explanation": "𤫊或从巫。",
+            "note": "文百二十四"
+        }
+    ],
+    "indexes": [
+        "𩆜",
+        "靈"
+    ]
+}

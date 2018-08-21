@@ -1,0 +1,47 @@
+{
+    "id": 4812,
+    "wordhead": "䍖",
+    "explanation": "覆車也。从网包聲。《詩》曰：“雉離于䍖。”",
+    "volume": "07",
+    "radical": "网",
+    "pronunciation": "縛牟切",
+    "variants": [
+        {
+            "wordhead": "𦋄",
+            "explanation": "䍖或从孚。",
+            "seal_character": "授"
+        }
+    ],
+    "seal_character": "掇",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "孚",
+        "包",
+        "网"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "覆車也。",
+            "note": "王風。雉離于罦。傳曰。罦、覆車也。"
+        },
+        {
+            "explanation": "从网。包聲。",
+            "note": "縛牟切。三部。"
+        },
+        {
+            "explanation": "詩曰。雉離于䍖。",
+            "note": "今毛傳作罦。"
+        },
+        {
+            "explanation": "䍖或从孚作。",
+            "note": "古包聲孚聲同在三部。"
+        }
+    ],
+    "indexes": [
+        "䍖",
+        "𦋄"
+    ]
+}

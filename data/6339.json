@@ -1,0 +1,39 @@
+{
+    "id": 6339,
+    "wordhead": "狻",
+    "explanation": "狻麑，如虦貓，食虎豹者。从犬夋聲。見《爾雅》。",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "素官切",
+    "variants": [],
+    "seal_character": "樤",
+    "pinyin": "suan",
+    "pinyin_full": "suān",
+    "components": [
+        "犬",
+        "夋"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "狻麑、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "如虦苗。𠊊虎豹。",
+            "note": "苗各本作貓。今依虎部正。虦苗謂淺毛也。釋獸曰。虎竊毛謂之虦苗。狻麑如虦苗？虎豹。許所本也。於此詳之。故鹿部麑下衹云狻麑也。全書之例如此。凡合二字成文者、其義詳於上字。同部異部皆然。"
+        },
+        {
+            "explanation": "从犬。",
+            "note": "非犬而从犬者、猶或行或飛、或毛或嬴、或介或鱗皆从虫也。以下同。"
+        },
+        {
+            "explanation": "夋聲。",
+            "note": "素官切。十四部。"
+        }
+    ],
+    "indexes": [
+        "狻"
+    ]
+}

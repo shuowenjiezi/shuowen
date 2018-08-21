@@ -1,0 +1,35 @@
+{
+    "id": 2995,
+    "wordhead": "筭",
+    "explanation": "長六寸。計歷數者。从竹从弄。言常弄乃不誤也。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "蘇貫切",
+    "variants": [],
+    "seal_character": "孧",
+    "pinyin": "suan",
+    "pinyin_full": "suàn",
+    "components": [
+        "竹",
+        "弄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "長六寸。所㠯計曆數者。",
+            "note": "所㠯二字今補。漢志云。筭法用竹徑一分、長六寸。二百七十一枚而成六觚。爲一握。此謂筭籌。與算數字各用。計之所謂算也。古書多不別。"
+        },
+        {
+            "explanation": "从竹弄。",
+            "note": "穌貫切。十四部。"
+        },
+        {
+            "explanation": "言常弄乃不誤也。",
+            "note": "說从弄之意。"
+        }
+    ],
+    "indexes": [
+        "筭"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 4741,
+    "wordhead": "𤴿",
+    "explanation": "皮剥也。从疒冄聲。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "赤占切",
+    "variants": [
+        {
+            "wordhead": "𤵧",
+            "explanation": "籒文从𠬝<span>[<span>𠬩</span>]</span>。",
+            "seal_character": "挳"
+        }
+    ],
+    "seal_character": "挲",
+    "pinyin": "chan",
+    "pinyin_full": "chān",
+    "components": [
+        "冄",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "皮剝也。",
+            "note": "剝、裂也。"
+        },
+        {
+            "explanation": "从𤕫。冄聲。讀若枏。又讀若襜。",
+            "note": "小徐有此七字。赤占切。七部。"
+        }
+    ],
+    "indexes": [
+        "𤴿",
+        "𤵧"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 3865,
+    "wordhead": "𠂹",
+    "explanation": "艸木華葉𠂹。象形。凡𠂹之屬皆从𠂹。",
+    "volume": "06",
+    "radical": "𠂹",
+    "pronunciation": "是爲切",
+    "variants": [
+        {
+            "wordhead": "𢏒",
+            "explanation": "古文。",
+            "seal_character": "形"
+        }
+    ],
+    "seal_character": "彡",
+    "pinyin": "chui",
+    "pinyin_full": "chuí",
+    "components": [
+        "勿",
+        "乇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸木華葉𠂹。",
+            "note": "引伸爲凡下𠂹之偁。今字𡍮行而𠂹廢矣。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "象其莖枝華葉也。此篆各書中直。惟廣韵五支及夢英所書作𠃀。是爲切。古音在十七部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "地理志曰。武功𡍮山、古文㠯爲敦物。豈古文𠂹與物字相似故與。"
+        }
+    ],
+    "indexes": [
+        "𠂹",
+        "𢏒"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 1162,
+    "wordhead": "達",
+    "explanation": "行不相遇也。从辵羍聲。《詩》曰：“挑兮達兮。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徒葛切",
+    "variants": [
+        {
+            "wordhead": "达",
+            "explanation": "達或从大。或曰迭。",
+            "seal_character": "匒"
+        }
+    ],
+    "seal_character": "匑",
+    "pinyin": "da",
+    "pinyin_full": "dá",
+    "components": [
+        "大",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行不相遇也。",
+            "note": "此與水部滑、泰字音義皆同。讀如撻。今俗說不相遇尙有此言。乃古言也。讀徒葛切。訓通達者、今言也。"
+        },
+        {
+            "explanation": "从辵。羍聲。",
+            "note": "十五部。"
+        },
+        {
+            "explanation": "詩曰。挑兮𨔶兮",
+            "note": "鄭風文。挑當同又部作𠬢。𠬢、滑也。"
+        },
+        {
+            "explanation": "𨔶或从大。",
+            "note": "亦形聲也。"
+        },
+        {
+            "explanation": "或曰此迭。",
+            "note": "下脫字字。或曰。此迭字之異體也。鳥部隼、一曰鷻字。䖵部𧖅、一曰螟字。彳部𢕬、一曰此與馺同。是其例也。"
+        }
+    ],
+    "indexes": [
+        "达",
+        "達",
+        "达"
+    ]
+}

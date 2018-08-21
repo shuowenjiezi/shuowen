@@ -1,0 +1,39 @@
+{
+    "id": 9743,
+    "wordhead": "羞",
+    "explanation": "進獻也。从羊，羊，所進也；从丑，丑亦聲。",
+    "volume": "14",
+    "radical": "丑",
+    "pronunciation": "息流切",
+    "variants": [],
+    "seal_character": "磰",
+    "pinyin": "xiu",
+    "pinyin_full": "xiū",
+    "components": [
+        "羊",
+        "丑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "進獻也。",
+            "note": "宗廟犬名羹獻。犬？者獻之。犬羊一也。故从羊。引申之、凡進皆曰羞。今文尙書。次二曰羞用五事。羞、進也。"
+        },
+        {
+            "explanation": "从羊丑。",
+            "note": "會意。不入羊部者、重丑也。"
+        },
+        {
+            "explanation": "羊所進也。",
+            "note": "說从羊之意从丑者、謂手持以進也。"
+        },
+        {
+            "explanation": "丑亦聲。",
+            "note": "息流切。三部。"
+        }
+    ],
+    "indexes": [
+        "羞"
+    ]
+}

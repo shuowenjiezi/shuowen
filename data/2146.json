@@ -1,0 +1,43 @@
+{
+    "id": 2146,
+    "wordhead": "䀏",
+    "explanation": "目搖也。从目，勻省聲。",
+    "volume": "04",
+    "radical": "目",
+    "pronunciation": "黃絢切",
+    "variants": [
+        {
+            "wordhead": "眴",
+            "explanation": "䀏或从旬。",
+            "seal_character": "垖"
+        }
+    ],
+    "seal_character": "垕",
+    "pinyin": "xuan",
+    "pinyin_full": "xuàn",
+    "components": [
+        "旬",
+        "目",
+        "勻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "目搖也。",
+            "note": "項羽本紀。梁眴籍曰。可行矣。"
+        },
+        {
+            "explanation": "从目。勻省聲。",
+            "note": "黃絢切。十二部。"
+        },
+        {
+            "explanation": "䀏或从目旬。",
+            "note": "旬聲。"
+        }
+    ],
+    "indexes": [
+        "䀏",
+        "眴"
+    ]
+}

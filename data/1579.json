@@ -1,0 +1,36 @@
+{
+    "id": 1579,
+    "wordhead": "訒",
+    "explanation": "頓也。从言刃聲。《論語》曰：“其言也訒。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "而振切",
+    "variants": [],
+    "seal_character": "哤",
+    "pinyin": "ren",
+    "pinyin_full": "rèn",
+    "components": [
+        "言",
+        "刃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "顿也。",
+            "note": "訒顿曡韵。顿之言鈍也。"
+        },
+        {
+            "explanation": "从言。刃聲。",
+            "note": "而振切。十三部。"
+        },
+        {
+            "explanation": "論語曰。其言也訒。",
+            "note": "顏淵篇文。"
+        }
+    ],
+    "indexes": [
+        "讱",
+        "訒"
+    ]
+}

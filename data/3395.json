@@ -1,0 +1,52 @@
+{
+    "id": 3395,
+    "wordhead": "椉",
+    "explanation": "覆也。从入、桀。桀，黠也。軍法曰乘。",
+    "volume": "05",
+    "radical": "桀",
+    "pronunciation": "食陵切",
+    "variants": [
+        {
+            "wordhead": "𠅞",
+            "explanation": "古文乘从几。",
+            "seal_character": "嵡"
+        }
+    ],
+    "seal_character": "嵠",
+    "pinyin": "cheng",
+    "pinyin_full": "chénɡ",
+    "components": [
+        "入",
+        "几",
+        "舛",
+        "桀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "覆也。",
+            "note": "加其上曰椉。人乗車、是其一耑也。"
+        },
+        {
+            "explanation": "从入桀。",
+            "note": "入者、覆之意也。食陵切。六部。"
+        },
+        {
+            "explanation": "桀、黠也。",
+            "note": "說从桀之意。方言。黠、慧也。自關而東趙魏之閒謂之黠。史記云。桀黠奴。凡黠者必強。故桀訓黠。入桀者、謂籠𦋇桀黠。"
+        },
+        {
+            "explanation": "軍法入桀曰椉。",
+            "note": "各本奪入桀二字、則不可通。今依韵會補。此偁軍法說字形會意。猶引易艸木麗于地說䕻、引豐其屋說寷也。云軍法者、葢出漢志兵書四穜內。入桀者、以弱勝強。書序云。周人椉黎。左傳。車馳卒奔。椉晉軍。椉之證也。"
+        },
+        {
+            "explanation": "古文椉、从几。",
+            "note": "凭几者亦覆其上。故从几。然則？亦可以爲依憑字。"
+        }
+    ],
+    "indexes": [
+        "椉",
+        "𠅞"
+    ]
+}

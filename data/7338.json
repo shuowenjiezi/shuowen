@@ -1,0 +1,47 @@
+{
+    "id": 7338,
+    "wordhead": "漉",
+    "explanation": "浚也。从水鹿聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "盧谷切",
+    "variants": [
+        {
+            "wordhead": "淥",
+            "explanation": "漉或从录<span>[<span>𢑗</span>]</span>。",
+            "seal_character": "湠"
+        }
+    ],
+    "seal_character": "湟",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "水",
+        "录",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "浚也。",
+            "note": "月令。仲春。毋竭川澤。毋漉陂池。注。順陽養物也。"
+        },
+        {
+            "explanation": "从水。鹿聲。",
+            "note": "盧谷切。三部。"
+        },
+        {
+            "explanation": "一曰水下皃也。",
+            "note": "鉉本無。今依鍇本。封禪文。滋液滲漉。後世言漉酒、是此義。"
+        },
+        {
+            "explanation": "漉或从彔。",
+            "note": "彔聲也。考工記作盝。三部。"
+        }
+    ],
+    "indexes": [
+        "漉",
+        "淥"
+    ]
+}

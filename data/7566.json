@@ -1,0 +1,44 @@
+{
+    "id": 7566,
+    "wordhead": "魴",
+    "explanation": "赤尾魚。从魚方聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "符方切",
+    "variants": [
+        {
+            "wordhead": "𩷸",
+            "explanation": "魴或从㫄。",
+            "seal_character": "潫"
+        }
+    ],
+    "seal_character": "潪",
+    "pinyin": "fang",
+    "pinyin_full": "fánɡ",
+    "components": [
+        "方",
+        "旁",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "赤尾魚也。",
+            "note": "周南曰。魴魚赬尾。釋魚曰。魴、魾。傳曰。魚勞則尾赤。按此傳當有魴魚也三字。以魴勞赤尾興如𤈦。非謂魴必赬尾也。左傳。如魚竀尾。衡流而方羊。亦謂其困頓。許以赤尾魚釋魴。殆失之。魴卽鯿魚也。許列字亦二篆相比近。而不言爲一。"
+        },
+        {
+            "explanation": "从魚。方聲。",
+            "note": "符方切。十部。"
+        },
+        {
+            "explanation": "籒文魴。从旁。",
+            "note": "此依小徐及玉篇。"
+        }
+    ],
+    "indexes": [
+        "鲂",
+        "魴",
+        "𩷸"
+    ]
+}

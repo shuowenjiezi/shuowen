@@ -1,0 +1,51 @@
+{
+    "id": 9073,
+    "wordhead": "壞",
+    "explanation": "敗也。从土褱聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "下怪切",
+    "variants": [
+        {
+            "wordhead": "𡎯",
+            "explanation": "古文壞省。",
+            "seal_character": "瘃"
+        },
+        {
+            "wordhead": "𣀤",
+            "explanation": "籒文壞。<span>   臣鉉等按：攴部有𣀤，此重出。 </span>",
+            "seal_character": "瘄"
+        }
+    ],
+    "seal_character": "瘂",
+    "pinyin": "huai",
+    "pinyin_full": "huài",
+    "components": [
+        "土",
+        "眔",
+        "攴",
+        "褱"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "敗也。",
+            "note": "敗者、毀也。"
+        },
+        {
+            "explanation": "从土。褱聲。",
+            "note": "下怪切。十五部。按毀壞字皆謂自毀、自壞。而人毀之、人壞之其義同也。不必有二音。"
+        },
+        {
+            "explanation": "古文壞省。",
+            "note": "褱省聲也。"
+        }
+    ],
+    "indexes": [
+        "坏",
+        "壞",
+        "𡎯",
+        "𣀤"
+    ]
+}

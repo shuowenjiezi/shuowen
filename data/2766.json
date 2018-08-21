@@ -1,0 +1,31 @@
+{
+    "id": 2766,
+    "wordhead": "割",
+    "explanation": "剥也。从刀害聲。",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "古達切",
+    "variants": [],
+    "seal_character": "婧",
+    "pinyin": "ge",
+    "pinyin_full": "ɡē",
+    "components": [
+        "刀",
+        "害"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "剝也。",
+            "note": "蒙剝之弟二義互訓。割謂殘破之。釋言曰。葢割裂也。尚書多假借割爲害。古二字音同也。釋言舍人本葢作害。明害與割同也。鄭注緇衣曰。割之言葢也。明葢與割同也。"
+        },
+        {
+            "explanation": "从刀。害聲。",
+            "note": "古𨔶切。十五部。按古字亦從匄聲。故宋次道、王仲至家所傳古文尚書曰？申勸寧王之德。"
+        }
+    ],
+    "indexes": [
+        "割"
+    ]
+}

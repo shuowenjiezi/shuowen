@@ -1,0 +1,51 @@
+{
+    "id": 8872,
+    "wordhead": "蠵",
+    "explanation": "大龜也。以胃鳴者。从虫巂聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "戶圭切",
+    "variants": [
+        {
+            "wordhead": "𧓾",
+            "explanation": "司馬相如說：蠵从夐<span>[<span>𢿌</span>]</span>。",
+            "seal_character": "甄"
+        }
+    ],
+    "seal_character": "甃",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "巂",
+        "虫",
+        "夐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "觜蠵。",
+            "note": "二字各本無。今補。此以曡韵爲名。角部觜下曰。一曰觜蠵也。未言何物。此蒙其文釋之曰大龜。"
+        },
+        {
+            "explanation": "大龜也。",
+            "note": "龜之冣大者。爾雅十龜。二曰靈龜。注曰。涪陵郡出大龜。甲可以卜。緣中叉。叉今之釵字謂其邊可爲釵也似瑇瑁。俗𧦝爲靈叉。今大觜觿龜也。一名靈蠵。能鳴。吴都賦曰。摸瑇瑁。捫觜蠵。按觜蠵與瑇瑁二物也。"
+        },
+        {
+            "explanation": "㠯胃鳴者。",
+            "note": "攷工記梓人文。鄭本作𦙄鳴。云榮原屬。賈、馬作胃。賈云。靈蠵也。按許得古學於賈侍中。故亦作胃。用賈說矣。"
+        },
+        {
+            "explanation": "从虫。巂聲。",
+            "note": "户圭切。十六部。觜卽移切。"
+        },
+        {
+            "explanation": "司馬相如說蠵从敻。",
+            "note": "从敻聲也。敻在十四部。合韵。葢凡將篇中所載異體。"
+        }
+    ],
+    "indexes": [
+        "蠵",
+        "𧓾"
+    ]
+}

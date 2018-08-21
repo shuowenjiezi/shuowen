@@ -1,0 +1,44 @@
+{
+    "id": 9121,
+    "wordhead": "艱",
+    "explanation": "土難治也。从堇艮聲。",
+    "volume": "13",
+    "radical": "堇",
+    "pronunciation": "古閑切",
+    "variants": [
+        {
+            "wordhead": "𡆐",
+            "explanation": "籒文艱从喜。",
+            "seal_character": "瘺"
+        }
+    ],
+    "seal_character": "瘹",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "喜",
+        "堇",
+        "艮"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "土難治也。",
+            "note": "引申之、凡難理皆曰艱。按許書無？字。疑古艱卽今？字。豤亦艮聲也。"
+        },
+        {
+            "explanation": "从堇。𥃩聲。",
+            "note": "古閑切。古音在十三部。"
+        },
+        {
+            "explanation": "籒文艱。从喜。",
+            "note": "必有喜悅之心。而後不畏其艱。而後無不治也。故从喜。此字見周禮。"
+        }
+    ],
+    "indexes": [
+        "艰",
+        "艱",
+        "𡆐"
+    ]
+}

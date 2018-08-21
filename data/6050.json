@@ -1,0 +1,35 @@
+{
+    "id": 6050,
+    "wordhead": "豯",
+    "explanation": "生三月豚，腹豯豯皃也。从豕奚聲。",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "胡雞切",
+    "variants": [],
+    "seal_character": "棣",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "豕",
+        "奚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "生三月豚。",
+            "note": "此當句。下當有一曰二字。爲別一義。"
+        },
+        {
+            "explanation": "腹奚奚皃也。",
+            "note": "奚奚各本作豯豯。今正。？部曰。奚、大腹也。以曡韵爲訓。方言曰。豬、其子或謂之豯。"
+        },
+        {
+            "explanation": "从豕。奚聲。",
+            "note": "胡雞切。十六部。"
+        }
+    ],
+    "indexes": [
+        "豯"
+    ]
+}

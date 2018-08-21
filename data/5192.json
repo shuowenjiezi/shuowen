@@ -1,0 +1,35 @@
+{
+    "id": 5192,
+    "wordhead": "化",
+    "explanation": "教行也。从𠤎从人，𠤎亦聲。",
+    "volume": "08",
+    "radical": "𠤎",
+    "pronunciation": "呼跨切",
+    "variants": [],
+    "seal_character": "攣",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "人",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "教行也。",
+            "note": "教行於上。則化成於下。賈生曰。此五學者旣成於上。則百姓黎民化輯於下矣。老子曰。我無爲而民自化。"
+        },
+        {
+            "explanation": "从匕人。",
+            "note": "上匕之而下從匕謂之化。化篆不入人部而入匕部者、不主謂匕於人者。主謂匕人者也。今以化爲變匕字矣。"
+        },
+        {
+            "explanation": "匕亦聲。",
+            "note": "呼跨切。十七部。"
+        }
+    ],
+    "indexes": [
+        "化"
+    ]
+}

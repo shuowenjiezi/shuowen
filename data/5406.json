@@ -1,0 +1,54 @@
+{
+    "id": 5406,
+    "wordhead": "履",
+    "explanation": "足所依也。从尸从彳从夊，舟象履形。一曰尸聲。凡履之屬皆从履。",
+    "volume": "08",
+    "radical": "履",
+    "pronunciation": "良止切",
+    "variants": [
+        {
+            "wordhead": "𩕎",
+            "explanation": "古文履从頁<span>[<span>𩑋</span>]</span>从足。",
+            "seal_character": "易"
+        }
+    ],
+    "seal_character": "昒",
+    "pinyin": "lv",
+    "pinyin_full": "lǚ",
+    "components": [
+        "夊",
+        "足",
+        "尸",
+        "舟",
+        "彳",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "足所依也。",
+            "note": "𡳐依㬪韵。古曰屨。今曰𡳐。古曰𡳐。今曰鞵。名之隨時不同者也。引伸之訓踐。如君子所𡳐是也。又引伸之訓祿。詩福𡳐綏之。毛傳曰。𡳐、祿也。又引伸之訓禮。序封傳、詩長髮傳是也。𡳐禮爲㬪韵。𡳐祿爲雙聲。"
+        },
+        {
+            "explanation": "从𡰣。服𡳐者也。从彳夊。",
+            "note": "夊楚危切。彳夊皆行也。"
+        },
+        {
+            "explanation": "从舟。象𡳐形。",
+            "note": "合四字會意。良止切。按良止、誤也。當依篇、韵力几切。十五部。"
+        },
+        {
+            "explanation": "一曰𡰣聲。",
+            "note": "別一說也。"
+        },
+        {
+            "explanation": "古文𡳐。从頁。从足。",
+            "note": "𡳐重首。故从頁。"
+        }
+    ],
+    "indexes": [
+        "履",
+        "𩕎"
+    ]
+}

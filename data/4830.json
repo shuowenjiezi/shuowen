@@ -1,0 +1,47 @@
+{
+    "id": 4830,
+    "wordhead": "覈",
+    "explanation": "實也。考事，襾笮邀遮，其辤得實曰覈。从襾敫聲。",
+    "volume": "07",
+    "radical": "襾",
+    "pronunciation": "下革切",
+    "variants": [
+        {
+            "wordhead": "𩅢",
+            "explanation": "覈或从雨。",
+            "seal_character": "掞"
+        }
+    ],
+    "seal_character": "掝",
+    "pinyin": "he",
+    "pinyin_full": "hé",
+    "components": [
+        "雨",
+        "敫",
+        "襾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "實也。",
+            "note": "凡有骨之偁也。骨下曰。肉之覈也。蔡邕注典引曰。有骨曰覈。周禮。其植物曰覈物。謂梅李之屬。按詩小雅。肴覈維旅。典引及注不誤。蜀都賦作槅。叚借字也。今本作核。傳譌也。周禮經作覈。注作核。葢漢人巳用核爲覈矣。"
+        },
+        {
+            "explanation": "攷事襾笮邀遮其辭得實曰覈。",
+            "note": "襾者、反覆之。笮者、迫之。徼者、巡也。遮者、遏也。言攷事者、定於一是。必使其上下四方之辭皆不得逞。而後得其實。是謂覈。此所謂咨於故實也。所謂實事求是也。"
+        },
+        {
+            "explanation": "从襾。敫聲。",
+            "note": "下革切。古音當在二部。"
+        },
+        {
+            "explanation": "覈或从雨。",
+            "note": "亦襾意。"
+        }
+    ],
+    "indexes": [
+        "覈",
+        "𩅢"
+    ]
+}

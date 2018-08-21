@@ -1,0 +1,44 @@
+{
+    "id": 2848,
+    "wordhead": "觼",
+    "explanation": "環之有舌者。从角敻聲。",
+    "volume": "04",
+    "radical": "角",
+    "pronunciation": "古穴切",
+    "variants": [
+        {
+            "wordhead": "鐍",
+            "explanation": "觼或从金、矞。",
+            "seal_character": "嫅"
+        }
+    ],
+    "seal_character": "嫄",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "敻",
+        "矞",
+        "金",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "環之有舌者。",
+            "note": "秦風曰。沃以觼軜。爾雅。環謂之捐。捐者、觼之假借字。詩容有作捐者。通俗文曰。缺環曰鐍。許與服不同。服謂如玦。許謂環中有橫者以固系。"
+        },
+        {
+            "explanation": "从角。敻聲。",
+            "note": "古穴切。十五部。敻在十四部。合韵也。"
+        },
+        {
+            "explanation": "觼或从金矞。",
+            "note": "矞聲也。莊子。固扃鐍。崔云。鐍、環舌也。按通俗文直謂鐍爲玦字。"
+        }
+    ],
+    "indexes": [
+        "觼",
+        "鐍"
+    ]
+}

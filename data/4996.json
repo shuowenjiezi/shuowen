@@ -1,0 +1,51 @@
+{
+    "id": 4996,
+    "wordhead": "仿",
+    "explanation": "相似也。从人方聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "妃罔切",
+    "variants": [
+        {
+            "wordhead": "㑂",
+            "explanation": "籒文仿从丙。",
+            "seal_character": "摚"
+        }
+    ],
+    "seal_character": "摙",
+    "pinyin": "fang",
+    "pinyin_full": "fǎnɡ",
+    "components": [
+        "方",
+        "人",
+        "丙"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "仿佛、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "相佀。",
+            "note": "句。"
+        },
+        {
+            "explanation": "視不諟也。",
+            "note": "仿佛、雙聲疊字也。各本皆改竄。非舊。今依甘泉賦、景福殿賦李注所引訂。諟卽諦。言部曰。審也。長門賦注、海賦注亦作諟。古是聲帝聲同在十六部。故以諟爲諦。仿佛或作㑂佛。或作髣髴。或作拂㧍。或作放𢘍。俗作彷彿。仿或又作𩬝。"
+        },
+        {
+            "explanation": "从人。方聲。",
+            "note": "怒罔切。十部。"
+        },
+        {
+            "explanation": "籒文仿。从丙。",
+            "note": "丙聲。古音丙聲在十部。此與周禮柄亦作枋同。"
+        }
+    ],
+    "indexes": [
+        "仿",
+        "㑂"
+    ]
+}

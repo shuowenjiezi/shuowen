@@ -1,0 +1,31 @@
+{
+    "id": 1155,
+    "wordhead": "迆",
+    "explanation": "衺行也。从辵也聲。《夏書》曰：“東迆北，會于匯。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "移尔切",
+    "variants": [],
+    "seal_character": "匉",
+    "pinyin": "yi",
+    "pinyin_full": "yǐ",
+    "components": [
+        "辵",
+        "也"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衺行也。从辵。也聲。",
+            "note": "移尒切。十六十七部。"
+        },
+        {
+            "explanation": "夏書曰。東迆北會于匯。",
+            "note": "禹貢。"
+        }
+    ],
+    "indexes": [
+        "迆"
+    ]
+}

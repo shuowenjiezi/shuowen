@@ -1,0 +1,35 @@
+{
+    "id": 6171,
+    "wordhead": "馺",
+    "explanation": "馬行相及也。从馬从及。讀若《爾雅》“小山馺，大山峘”。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "蘇荅切",
+    "variants": [],
+    "seal_character": "楫",
+    "pinyin": "sa",
+    "pinyin_full": "sà",
+    "components": [
+        "馬",
+        "及"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬行相及也。",
+            "note": "以曡韵爲訓。西京賦薛解曰。馺娑、駘盪、枍詣、承光皆臺名。按馺娑、駘盪皆以馬行皃皃台之高也。"
+        },
+        {
+            "explanation": "从馬及。及亦聲。",
+            "note": "合二徐本訂。穌合切。七部。"
+        },
+        {
+            "explanation": "讀若爾雅曰小山馺。",
+            "note": "大徐本此下有大山峘三字。葢淺人所增耳。小山馺今爾雅作小山岌。許所據古本也。讀若二字葢賸。"
+        }
+    ],
+    "indexes": [
+        "馺"
+    ]
+}

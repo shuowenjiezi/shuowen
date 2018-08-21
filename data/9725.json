@@ -1,0 +1,34 @@
+{
+    "id": 9725,
+    "wordhead": "孟",
+    "explanation": "長也。从子皿聲。",
+    "volume": "14",
+    "radical": "子",
+    "pronunciation": "莫更切",
+    "variants": [
+        {
+            "wordhead": "𡥀",
+            "explanation": "古文孟。",
+            "seal_character": "磚"
+        }
+    ],
+    "seal_character": "磙",
+    "pinyin": "meng",
+    "pinyin_full": "mènɡ",
+    "components": [
+        "子",
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "長也。从子。皿聲。",
+            "note": "莫更切。古音在十部。讀如芒。爾雅。孟、勉也。此借孟爲猛。"
+        }
+    ],
+    "indexes": [
+        "孟",
+        "𡥀"
+    ]
+}

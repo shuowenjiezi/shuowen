@@ -1,0 +1,53 @@
+{
+    "id": 1120,
+    "wordhead": "速",
+    "explanation": "疾也。从辵束聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "桑谷切",
+    "variants": [
+        {
+            "wordhead": "遬",
+            "explanation": "籒文从欶。",
+            "seal_character": "勝"
+        },
+        {
+            "wordhead": "𧫷",
+            "explanation": "古文从欶从言。",
+            "seal_character": "勞"
+        }
+    ],
+    "seal_character": "勜",
+    "pinyin": "su",
+    "pinyin_full": "sù",
+    "components": [
+        "言",
+        "辵",
+        "束"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "疾也。",
+            "note": "見釋詁。"
+        },
+        {
+            "explanation": "从辵。束聲。",
+            "note": "桑谷切。三部。"
+        },
+        {
+            "explanation": "籒文从欶。",
+            "note": "二傳作速。公羊作遬。如衞侯遬、仲孫遬是也。呂覽辨志注。遬、疾也。玉藻。見所尊者齊遬。假遬爲肅也。"
+        },
+        {
+            "explanation": "古文。从欶。从言。",
+            "note": "籒古皆欶聲。"
+        }
+    ],
+    "indexes": [
+        "速",
+        "遬",
+        "𧫷"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 6805,
+    "wordhead": "憜",
+    "explanation": "不敬也。从心，𡐦省。《春秋傳》曰：“執玉憜。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "徒果切",
+    "variants": [
+        {
+            "wordhead": "惰",
+            "explanation": "憜或省𨸏。",
+            "seal_character": "氪"
+        },
+        {
+            "wordhead": "媠",
+            "explanation": "古文。",
+            "seal_character": "氫"
+        }
+    ],
+    "seal_character": "氩",
+    "pinyin": "duo",
+    "pinyin_full": "duò",
+    "components": [
+        "女",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "不敬也。",
+            "note": "今書皆作惰。韋玄成傳。供事靡憜。師古曰。憜古惰字。"
+        },
+        {
+            "explanation": "从心。𡐦省聲。",
+            "note": "𡐦者、篆文隓字。見𨸏部。按肉部有隋字。則此當云隋聲也。徒果切。十七部。"
+        },
+        {
+            "explanation": "春秋傳曰。執玉憜。",
+            "note": "僖公十一年左傳曰。天王使召武公、内史過賜晉侯命。受玉惰。許受作執。按國語作晉侯執玉卑。葢或二書相涉之故。"
+        },
+        {
+            "explanation": "憜或省𨸏。",
+            "note": "今俗皆如此作。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "漢書韋玄成傳。無媠爾儀。張敞傳。被輕媠之名。若方言媠、美也。南楚之外曰媠。則方俗殊語耳。"
+        }
+    ],
+    "indexes": [
+        "憜",
+        "惰",
+        "媠"
+    ]
+}

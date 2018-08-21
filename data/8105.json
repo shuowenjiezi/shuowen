@@ -1,0 +1,35 @@
+{
+    "id": 8105,
+    "wordhead": "威",
+    "explanation": "姑也。从女从戌。漢律曰：“婦告威姑。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "於非切",
+    "variants": [],
+    "seal_character": "熴",
+    "pinyin": "wei",
+    "pinyin_full": "wēi",
+    "components": [
+        "女",
+        "戌"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“土盛於戌，土陰之主也，故从戌。”",
+    "duan_notes": [
+        {
+            "explanation": "姑也。",
+            "note": "引伸爲有威可畏。"
+        },
+        {
+            "explanation": "从女。戌聲。",
+            "note": "按小徐本作戌聲。而復以會意釋之。於非切。十五部。"
+        },
+        {
+            "explanation": "漢律曰。婦告威姑。",
+            "note": "惠氏定宇曰。爾雅君姑卽威姑也。古君威合音差近。"
+        }
+    ],
+    "indexes": [
+        "威"
+    ]
+}

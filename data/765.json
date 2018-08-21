@@ -1,0 +1,35 @@
+{
+    "id": 765,
+    "wordhead": "㹂",
+    "explanation": "牛很不從引也。从牛从臤，臤亦聲。一曰大皃。讀若賢。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "喫善切",
+    "variants": [],
+    "seal_character": "兒",
+    "pinyin": "qian",
+    "pinyin_full": "qiǎn",
+    "components": [
+        "臤",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛很不從牽也。从牛臤。",
+            "note": "臤者、堅也。故从牛臤。會意。"
+        },
+        {
+            "explanation": "臤亦聲。",
+            "note": "喫善切。古音在十二部。"
+        },
+        {
+            "explanation": "一曰大皃。",
+            "note": "別一義。"
+        }
+    ],
+    "indexes": [
+        "㹂"
+    ]
+}

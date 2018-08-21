@@ -1,0 +1,35 @@
+{
+    "id": 2809,
+    "wordhead": "耕",
+    "explanation": "犂也。从耒井聲。一曰古者井田。",
+    "volume": "04",
+    "radical": "耒",
+    "pronunciation": "古莖切",
+    "variants": [],
+    "seal_character": "媖",
+    "pinyin": "geng",
+    "pinyin_full": "ɡēnɡ",
+    "components": [
+        "耒",
+        "井"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𤛿也。",
+            "note": "牛部曰。𤛿、耕也。人用以發土。亦謂之耕。"
+        },
+        {
+            "explanation": "从耒丼。",
+            "note": "㑹意包形聲。古莖切。十一部。"
+        },
+        {
+            "explanation": "古者井田。故从井。",
+            "note": "此說從井之意也。巳上十字依韵㑹所據鍇本。"
+        }
+    ],
+    "indexes": [
+        "耕"
+    ]
+}

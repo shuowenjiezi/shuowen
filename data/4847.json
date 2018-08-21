@@ -1,0 +1,39 @@
+{
+    "id": 4847,
+    "wordhead": "常",
+    "explanation": "下帬也。从巾尚聲。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "市羊切",
+    "variants": [
+        {
+            "wordhead": "裳",
+            "explanation": "常或从衣。",
+            "seal_character": "掱"
+        }
+    ],
+    "seal_character": "掰",
+    "pinyin": "chang",
+    "pinyin_full": "chánɡ",
+    "components": [
+        "衣",
+        "尚",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "下帬也。",
+            "note": "釋名曰。上曰衣。下曰裳。裳、障也。以自障蔽也。士冠禮。爵弁。服纁裳。皮弁。服素積。玄端。玄裳、黃裳、襍裳可也。禮記深衣。續衽鉤邊。要縫半下。今字裳行而常廢矣。"
+        },
+        {
+            "explanation": "从巾。尙聲。",
+            "note": "从巾者、取其方幅也。引伸爲經常字。市羊切。十部。"
+        }
+    ],
+    "indexes": [
+        "常",
+        "裳"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 4677,
+    "wordhead": "瘣",
+    "explanation": "病也。从疒鬼聲。《詩》曰：“譬彼瘣木。”一曰腫㫄出也。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "胡罪切",
+    "variants": [],
+    "seal_character": "拰",
+    "pinyin": "hui",
+    "pinyin_full": "huì",
+    "components": [
+        "鬼",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "病也。从𤕫。鬼聲。",
+            "note": "胡罪切。十五部。"
+        },
+        {
+            "explanation": "詩曰。譬彼瘣木。",
+            "note": "今小雅小弁作壞木。傳曰。壞、瘣也。謂傷病也。箋云。猶內傷病之木內有疾。故無枝也。按疑今毛傳壞瘣二字互譌。許及樊光所引皆作瘣木爲是。"
+        },
+        {
+            "explanation": "一曰腫旁出也。",
+            "note": "此別一義。釋木。瘣木、苻婁。郭云。謂木病尫傴癭腫無枝條。攷工記。凡揉牙。外不廉而內不挫、旁不腫。注。腫、瘣也。"
+        }
+    ],
+    "indexes": [
+        "瘣"
+    ]
+}

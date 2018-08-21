@@ -1,0 +1,42 @@
+{
+    "id": 3940,
+    "wordhead": "𥫔",
+    "explanation": "賜也。从貝，竷省聲。",
+    "volume": "06",
+    "radical": "貝",
+    "pronunciation": "古送切",
+    "variants": [
+        {
+            "wordhead": "𧹉",
+            "explanation": "籒文𥫔。",
+            "seal_character": "徴"
+        }
+    ],
+    "seal_character": "徳",
+    "pinyin": "gong",
+    "pinyin_full": "ɡònɡ",
+    "components": [
+        "貝",
+        "竷"
+    ],
+    "xuan_note": "臣鉉等曰：竷非聲，未詳。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "賜也。",
+            "note": "釋詁曰。𥫔、賜也。據釋文本作𥫔。後人改作貢耳。端木賜字子𥫔。凡作子貢者、亦皆後人所改。淮南道應、要略二訓注皆云。𥫔、賜也。"
+        },
+        {
+            "explanation": "从貝。竷省聲。",
+            "note": "古送切。按竷聲當在八部。而讀同貢。則音之轉也。贛之古義古音皆與貢不同。"
+        },
+        {
+            "explanation": "籒文𥫔。",
+            "note": "集韵、類篇作𧹉。"
+        }
+    ],
+    "indexes": [
+        "𥫔",
+        "𧹉"
+    ]
+}

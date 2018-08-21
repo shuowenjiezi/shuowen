@@ -1,0 +1,47 @@
+{
+    "id": 2788,
+    "wordhead": "㓷",
+    "explanation": "刑鼻也。从刀臬聲。《易》曰：“天且㓷。”",
+    "volume": "04",
+    "radical": "刀",
+    "pronunciation": "魚器切",
+    "variants": [
+        {
+            "wordhead": "劓",
+            "explanation": "臬或从鼻<span>[<span>鼻</span>]</span>。",
+            "seal_character": "婿"
+        }
+    ],
+    "seal_character": "婾",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "刀",
+        "鼻",
+        "臬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "刖鼻也。",
+            "note": "刖、絕也。周禮注曰𢧵鼻。"
+        },
+        {
+            "explanation": "从刀。臬聲。",
+            "note": "臬、法也。形聲包㑹意。魚器切。十五部。易音義引說文牛列反。"
+        },
+        {
+            "explanation": "易曰。天且㓷。",
+            "note": "睽六三爻辭。馬、虞皆云黥頟爲天。"
+        },
+        {
+            "explanation": "㓷或从鼻。",
+            "note": "刀鼻㑹意。今經典如此作。"
+        }
+    ],
+    "indexes": [
+        "㓷",
+        "劓"
+    ]
+}

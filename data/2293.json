@@ -1,0 +1,36 @@
+{
+    "id": 2293,
+    "wordhead": "雁",
+    "explanation": "鳥也。从隹从人，厂聲。讀若鴈。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "五晏切",
+    "variants": [],
+    "seal_character": "堺",
+    "pinyin": "yan",
+    "pinyin_full": "yàn",
+    "components": [
+        "人",
+        "隹",
+        "厂"
+    ],
+    "xuan_note": "臣鉉等曰：雁，知時鳥。大夫以爲摯，昬禮用之。故从人。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "雁鳥也。",
+            "note": "此與鳥部鴈別。鴈从鳥爲䳘雁从隹爲鴻雁。禮舒鴈當作舒雁。謂雁之舒者。以別於眞雁也。舒雁謂之鴈。猶舒鳧謂之鶩也。經典鴻雁字多作鴈。毛傳曰。大曰鴻。小曰鴈。按鴻、大也。非鳥名。"
+        },
+        {
+            "explanation": "从隹。从人。",
+            "note": "雁有入道。人以爲摯。故从人。"
+        },
+        {
+            "explanation": "厂聲。",
+            "note": "厂呼旱切。雁五晏切。十四部。"
+        }
+    ],
+    "indexes": [
+        "雁"
+    ]
+}

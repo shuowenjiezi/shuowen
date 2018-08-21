@@ -1,0 +1,31 @@
+{
+    "id": 7567,
+    "wordhead": "鱮",
+    "explanation": "魚名。从魚與聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "徐呂切",
+    "variants": [],
+    "seal_character": "潬",
+    "pinyin": "xu",
+    "pinyin_full": "xù",
+    "components": [
+        "與",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鱮魚也。",
+            "note": "齊風。其魚魴鱮。傳曰。魴鱮、大魚。箋云。鱮似魴而弱鱗。陸疏曰。鱮似魴厚而頭大。其頭尤大而肥者、徐州人謂之鰱。廣雅曰。鱮、鰱也。"
+        },
+        {
+            "explanation": "从魚。與聲。",
+            "note": "徐呂切。五部。"
+        }
+    ],
+    "indexes": [
+        "鱮"
+    ]
+}

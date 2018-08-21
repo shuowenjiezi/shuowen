@@ -1,0 +1,43 @@
+{
+    "id": 7682,
+    "wordhead": "戶",
+    "explanation": "護也。半門曰戶。象形。凡戶之屬皆从戶。",
+    "volume": "12",
+    "radical": "戶",
+    "pronunciation": "矦古切",
+    "variants": [
+        {
+            "wordhead": "㦿",
+            "explanation": "古文戶从木。",
+            "seal_character": "濪"
+        }
+    ],
+    "seal_character": "濩",
+    "pinyin": "hu",
+    "pinyin_full": "hù",
+    "components": [
+        "木",
+        "户"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "護也。",
+            "note": "以㬪韵爲訓。"
+        },
+        {
+            "explanation": "半門曰戶。象形。",
+            "note": "矦古切。五部。"
+        },
+        {
+            "explanation": "古文戶。从木。",
+            "note": "从木而象其形。按此當是籒文加木。惟古文作戶。故此部文九皆从戶也。"
+        }
+    ],
+    "indexes": [
+        "户",
+        "戶",
+        "㦿"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 1437,
+    "wordhead": "舌",
+    "explanation": "在口，所以言也、別味也。从干从口，干亦聲。凡舌之屬皆从舌。",
+    "volume": "03",
+    "radical": "舌",
+    "pronunciation": "食列切",
+    "variants": [],
+    "seal_character": "呄",
+    "pinyin": "she",
+    "pinyin_full": "shé",
+    "components": [
+        "口",
+        "干"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“凡物入口必干於舌，故从干。”",
+    "duan_notes": [
+        {
+            "explanation": "在口所㠯言别味者也。",
+            "note": "言下各本有也。剩字。者依韵會補。口下曰。人所以言食也。口云食。舌云别味。各依文爲義。舌后字有互譌者。如左傳舌庸譌后庸、周書美女破后譌破舌是也。"
+        },
+        {
+            "explanation": "从干口。",
+            "note": "干、犯也。言犯口而出之。食犯口而入之。"
+        },
+        {
+            "explanation": "干亦聲。",
+            "note": "干在十四部。與十五部合韵。食列切。十五部。"
+        }
+    ],
+    "indexes": [
+        "舌"
+    ]
+}

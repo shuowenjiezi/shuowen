@@ -1,0 +1,32 @@
+{
+    "id": 185,
+    "wordhead": "碧",
+    "explanation": "石之青美者。从玉、石，白聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "兵尺切",
+    "variants": [],
+    "seal_character": "仚",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "石",
+        "玉",
+        "白"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "石之靑美者。",
+            "note": "西山經。高山其下多靑碧。傳。碧亦玉類也。淮南書。崑崙有碧樹。注。碧、靑石也。劉逵、常璩、郭樸皆曰。越巂會無縣東山出碧。"
+        },
+        {
+            "explanation": "从王石。白聲。",
+            "note": "从玉石者、似玉之石也。碧色靑白。金尅木之色也。故从白。云白聲者、以形聲苞會意。兵彳切。古意在五部。"
+        }
+    ],
+    "indexes": [
+        "碧"
+    ]
+}

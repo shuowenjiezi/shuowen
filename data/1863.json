@@ -1,0 +1,63 @@
+{
+    "id": 1863,
+    "wordhead": "𩱧",
+    "explanation": "五味盉羹也。从𩰲从羔。《詩》曰：“亦有和𩱧。”",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "古行切",
+    "variants": [
+        {
+            "wordhead": "𩱋",
+            "explanation": "𩱧或省。",
+            "seal_character": "嘻"
+        },
+        {
+            "wordhead": "𢑌",
+            "explanation": "或从美，𩱧省。",
+            "seal_character": "嘼"
+        },
+        {
+            "wordhead": "羹",
+            "explanation": "小篆从羔<span>[<span>𦍚</span>]</span>从美。",
+            "seal_character": "嘽"
+        }
+    ],
+    "seal_character": "嘺",
+    "pinyin": "geng",
+    "pinyin_full": "ɡēnɡ",
+    "components": [
+        "鬲",
+        "羔",
+        "美"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "五味盉𩱧也。",
+            "note": "皿部曰。盉、調味也。內則注曰。凡羹齊宜五味之和。米㞕之糝。晏子曰。和如羹焉。水火醯醢鹽梅以亨魚肉。宰夫和之。齊之以味。濟其不及。以泄其過。凡魚肉必用菜。菜謂之芼。儀禮。𨦕芼牛藿羊苦豕薇。芼及醯醢鹽梅是之謂五味之和也。實於𨦕謂之𨦕羹。肉汁不和五味謂之大羹。"
+        },
+        {
+            "explanation": "从𩰲。从羔。",
+            "note": "會意。凡從羔者、羔猶美也。古行切。古音在十部。"
+        },
+        {
+            "explanation": "詩曰。亦有和𩱧",
+            "note": "商頌文。鍇本𩱧作羹。"
+        },
+        {
+            "explanation": "或从美䰜省。",
+            "note": "羔下從美。今各本作兩羔。非也。"
+        },
+        {
+            "explanation": "小篆。从羔。从美。",
+            "note": "此是小篆則知上三字古文、籒文也。不先小篆者、此亦丄部之例。"
+        }
+    ],
+    "indexes": [
+        "𩱧",
+        "𩱋",
+        "𢑌",
+        "羹"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 8914,
+    "wordhead": "𧓎",
+    "explanation": "𧓎蛸也。从䖵卑聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "匹標切",
+    "variants": [
+        {
+            "wordhead": "𧌠",
+            "explanation": "𧓎或从虫。",
+            "seal_character": "电"
+        }
+    ],
+    "seal_character": "甴",
+    "pinyin": "pi",
+    "pinyin_full": "pí",
+    "components": [
+        "虫",
+        "卑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧓎蛸也。",
+            "note": "三字句。蛸字見虫部。"
+        },
+        {
+            "explanation": "从䖵。卑聲。",
+            "note": "匹標切。按爾雅釋文音俾。又婢貽反。在十六部。與蛸雙聲。非㬪韵也。"
+        }
+    ],
+    "indexes": [
+        "𧓎",
+        "𧌠"
+    ]
+}

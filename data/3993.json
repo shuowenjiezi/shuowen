@@ -1,0 +1,31 @@
+{
+    "id": 3993,
+    "wordhead": "郊",
+    "explanation": "距國百里爲郊。从邑交聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "古肴切",
+    "variants": [],
+    "seal_character": "忬",
+    "pinyin": "jiao",
+    "pinyin_full": "jiāo",
+    "components": [
+        "交",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "歫國百里爲郊。",
+            "note": "杜子春注周禮曰。五十里爲近郊。百里爲遠郊。玉藻說郊祭曰。於郊、故謂之郊。"
+        },
+        {
+            "explanation": "从邑。交聲。",
+            "note": "古肴切。二部。按周禮故書作蒿。假借字。"
+        }
+    ],
+    "indexes": [
+        "郊"
+    ]
+}

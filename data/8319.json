@@ -1,0 +1,42 @@
+{
+    "id": 8319,
+    "wordhead": "乂",
+    "explanation": "芟艸也。从丿从乀，相交。",
+    "volume": "12",
+    "radical": "丿",
+    "pronunciation": "魚廢切",
+    "variants": [
+        {
+            "wordhead": "刈",
+            "explanation": "乂或从刀<span>[<span>𠚣</span>]</span>。",
+            "seal_character": "犕"
+        }
+    ],
+    "seal_character": "犔",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "刀",
+        "乂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "芟艸也。",
+            "note": "艸部曰。芟、㐅艸也。二篆爲轉注。周南曰。是刈是濩。周頌曰。奄觀銍艾。艾者、㐅之叚借字。銍者、所以㐅也。禾部曰。穫、㐅榖也。是則芟艸穫榖總謂之㐅。鄭箋詩云。芟末曰艾。刀部有𠛎。金部有鎌、有鍥。所以芟艸也。銍則穫禾短鎌也。引申之、㐅訓治也。見諸經傳。許辟部云。䢃、治也。引唐書有能俾䢃。則䢃爲正字。"
+        },
+        {
+            "explanation": "从丿乀相交。",
+            "note": "象左右去之會意也。魚廢切。十五部。"
+        },
+        {
+            "explanation": "乂或从刀。",
+            "note": "乂者、必用𠛎鎌之屬也。"
+        }
+    ],
+    "indexes": [
+        "乂",
+        "刈"
+    ]
+}

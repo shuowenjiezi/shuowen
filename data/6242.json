@@ -1,0 +1,42 @@
+{
+    "id": 6242,
+    "wordhead": "麇",
+    "explanation": "麞也。从鹿，囷省聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "居筠切",
+    "variants": [
+        {
+            "wordhead": "麕",
+            "explanation": "籒文不省。",
+            "seal_character": "榹"
+        }
+    ],
+    "seal_character": "榸",
+    "pinyin": "jun",
+    "pinyin_full": "jūn",
+    "components": [
+        "囷",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "麞也。",
+            "note": "釋獸曰。麕、牡麌。牝麜。其子麆。許書皆無其字。葢鹿旁皆後人所箸也。"
+        },
+        {
+            "explanation": "从鹿。囷省聲。",
+            "note": "葢小篆省囷爲禾也。居筠切。古音在十三部。"
+        },
+        {
+            "explanation": "籒文不省。",
+            "note": "今詩如此作。"
+        }
+    ],
+    "indexes": [
+        "麇",
+        "麕"
+    ]
+}

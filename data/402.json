@@ -1,0 +1,35 @@
+{
+    "id": 402,
+    "wordhead": "蕫",
+    "explanation": "鼎蕫也。从艸童聲。杜林曰：藕根。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "多動切",
+    "variants": [],
+    "seal_character": "俉",
+    "pinyin": "dong",
+    "pinyin_full": "dǒnɡ",
+    "components": [
+        "艸",
+        "童"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼎蕫也。",
+            "note": "釋艸曰。蘱、薡蕫。郭云。似蒲而細。按說文無蘱字者、葢許所據衹作類。"
+        },
+        {
+            "explanation": "从艸。童聲。",
+            "note": "多動切。九部。亦作董。古童重通用。或用爲童蓈字。誤。"
+        },
+        {
+            "explanation": "杜林曰。藕根。",
+            "note": "漢志有杜林倉頡訓纂一篇、杜林倉頡故一篇。此葢二篇中語。藕當從後文作蕅。蕅根猶荷根也。郭樸曰。北方人以藕爲荷。用根爲母號也。然則杜林謂蕅爲蕫。"
+        }
+    ],
+    "indexes": [
+        "蕫"
+    ]
+}

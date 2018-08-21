@@ -1,0 +1,42 @@
+{
+    "id": 1947,
+    "wordhead": "臧",
+    "explanation": "善也。从臣戕聲。",
+    "volume": "03",
+    "radical": "臣",
+    "pronunciation": "則郎切",
+    "variants": [
+        {
+            "wordhead": "𡒉",
+            "explanation": "籒文。",
+            "seal_character": "嚴"
+        }
+    ],
+    "seal_character": "嚳",
+    "pinyin": "zang",
+    "pinyin_full": "zānɡ",
+    "components": [
+        "臣",
+        "戕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "善也。",
+            "note": "釋詁、毛傳同。按子郎才郎二反。本無二字。凡物善者必隱於內也。以從艸之藏爲臧匿字始於漢末。改易經典。不可從也。又贓私字。古亦用臧。"
+        },
+        {
+            "explanation": "从臣。戕聲。",
+            "note": "則郎切。十部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "按宋本及集韵、類篇皆從二。今本下從土非。"
+        }
+    ],
+    "indexes": [
+        "臧",
+        "𡒉"
+    ]
+}

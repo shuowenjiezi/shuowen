@@ -1,0 +1,31 @@
+{
+    "id": 91,
+    "wordhead": "瑜",
+    "explanation": "瑾瑜，美玉也。从玉俞聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "羊朱切",
+    "variants": [],
+    "seal_character": "乱",
+    "pinyin": "yu",
+    "pinyin_full": "yú",
+    "components": [
+        "玉",
+        "俞"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "瑾瑜也。",
+            "note": "凡合二字成文。如瑾瑜、玟瑰之類。其義旣舉於上字。則下字例不復舉。俗本多亂之。此也字之上有美玉二字是。"
+        },
+        {
+            "explanation": "从王。兪聲。",
+            "note": "羊朱切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "瑜"
+    ]
+}

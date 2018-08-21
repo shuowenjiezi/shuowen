@@ -1,0 +1,39 @@
+{
+    "id": 6053,
+    "wordhead": "豣",
+    "explanation": "三歲豕，肩相及者。从豕幵聲。《詩》曰：“並驅从兩豣兮。”",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "古賢切",
+    "variants": [],
+    "seal_character": "棦",
+    "pinyin": "jian",
+    "pinyin_full": "jiān",
+    "components": [
+        "豕",
+        "幵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "三歲豕。",
+            "note": "齊風還曰。並驅從兩肩兮。傳云。獸三歲曰肩。邠七月。獻豣于公。傳曰。三歲曰豣。豣肩一物。豣本字、肩假借也。大司馬先鄭注云。四歲爲肩。"
+        },
+        {
+            "explanation": "肩相及者也。",
+            "note": "也字今補。此以㬪韵爲訓。肩相及者、謂與二歲之豕肩相差次。"
+        },
+        {
+            "explanation": "从豕。幵聲。",
+            "note": "古賢切。古音在十一部。"
+        },
+        {
+            "explanation": "詩曰。並驅從兩豣兮。",
+            "note": "今詩豣作肩。周禮注引邠風亦作肩。"
+        }
+    ],
+    "indexes": [
+        "豣"
+    ]
+}

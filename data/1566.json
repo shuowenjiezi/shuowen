@@ -1,0 +1,35 @@
+{
+    "id": 1566,
+    "wordhead": "譒",
+    "explanation": "𢾭也。从言番聲。《商書》曰：“王譒告之。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "補過切",
+    "variants": [],
+    "seal_character": "哕",
+    "pinyin": "bo",
+    "pinyin_full": "bò",
+    "components": [
+        "番",
+        "言"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢾭也。",
+            "note": "手部播、一曰布也。此與音義同。"
+        },
+        {
+            "explanation": "从言。番聲。",
+            "note": "補過切。十七部。番聲本在十四部。"
+        },
+        {
+            "explanation": "商書曰。王譒告之。",
+            "note": "般庚上篇文。今尚書作播。"
+        }
+    ],
+    "indexes": [
+        "譒"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6727,
+    "wordhead": "忱",
+    "explanation": "誠也。从心冘聲。《詩》曰：“天命匪忱。”",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "氏任切",
+    "variants": [],
+    "seal_character": "毕",
+    "pinyin": "chen",
+    "pinyin_full": "chén",
+    "components": [
+        "冘",
+        "心"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "誠也。",
+            "note": "誠者、信也。詩大朙曰。天難忱斯。毛曰。忱、信也。言部諶下曰。誠、諦也。引詩天難諶斯。古忱與諶義近通用。"
+        },
+        {
+            "explanation": "从心。冘聲。",
+            "note": "氏任切。七部。"
+        },
+        {
+            "explanation": "詩曰。天命匪忱。",
+            "note": "大雅蕩曰。天生烝民。其命匪諶。毛曰。諶、誠也。許作忱。是亦可徵二字互用也。"
+        }
+    ],
+    "indexes": [
+        "忱"
+    ]
+}

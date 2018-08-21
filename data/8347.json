@@ -1,0 +1,35 @@
+{
+    "id": 8347,
+    "wordhead": "戕",
+    "explanation": "搶也。他國臣來弑君曰戕。从戈爿聲。",
+    "volume": "12",
+    "radical": "戈",
+    "pronunciation": "士良切",
+    "variants": [],
+    "seal_character": "犲",
+    "pinyin": "qiang",
+    "pinyin_full": "qiānɡ",
+    "components": [
+        "爿",
+        "戈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "槍也。",
+            "note": "槍者、歫也。歫謂相抵爲害。小雅。曰子不戕。傳曰。戕、殘也。此戕之正義。下又稱左氏例、爲別一義。"
+        },
+        {
+            "explanation": "它國臣來弑君曰戕。",
+            "note": "春秋宣十八年。邾人戕鄫子於鄫。左氏傳曰。凡自虐其君曰弑。唐石經作凡自內非自外曰戕。賈注。邾使大夫往殘賊之。按襄卅一年左傳曰。閽戕戴吳。閽、越俘也。戴吳、吳餘祭也。故亦曰戕。"
+        },
+        {
+            "explanation": "从戈。爿聲。",
+            "note": "在良切。十部。"
+        }
+    ],
+    "indexes": [
+        "戕"
+    ]
+}

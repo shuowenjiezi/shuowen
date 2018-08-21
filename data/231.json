@@ -1,0 +1,48 @@
+{
+    "id": 231,
+    "wordhead": "中",
+    "explanation": "内也。从口。丨，上下通。",
+    "volume": "01",
+    "radical": "丨",
+    "pronunciation": "陟弓切",
+    "variants": [
+        {
+            "wordhead": "𠁧",
+            "explanation": "古文中。",
+            "seal_character": "伐"
+        },
+        {
+            "wordhead": "𠁩",
+            "explanation": "籒文中。",
+            "seal_character": "休"
+        }
+    ],
+    "seal_character": "伏",
+    "pinyin": "zhong",
+    "pinyin_full": "zhōnɡ",
+    "components": [
+        "丨",
+        "囗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "內也。",
+            "note": "俗本和也。非是。當作內也。宋麻沙本作肉也。一本作而也。正皆內之譌。入部曰。內者、入也。入者、內也。然則中者、別於外之辭也。别於偏之辭也。亦合宜之辭也。作內、則此字平聲去聲之義無不賅矣。許以和爲唱和字。龢爲諧龢字。龢和皆非中之訓也。周禮中失卽得失。"
+        },
+        {
+            "explanation": "从口丨。下上通也。",
+            "note": "按中字會意之恉、必當从口。音圍。衞宏說。𠂦（用）字从<><>（卜中）。則中之不从口明矣。俗皆从口。失之。云下上通者、謂中直或引而上或引而下皆入其內也。陟弓切。九部。"
+        },
+        {
+            "explanation": "古文中。",
+            "note": "此字可疑。豈淺人誤以屈中之虫入此歟。"
+        }
+    ],
+    "indexes": [
+        "中",
+        "𠁧",
+        "𠁩"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 5006,
+    "wordhead": "備",
+    "explanation": "愼也。从人𤰈聲。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "平祕切",
+    "variants": [
+        {
+            "wordhead": "𠈍",
+            "explanation": "古文備。",
+            "seal_character": "摥"
+        }
+    ],
+    "seal_character": "摤",
+    "pinyin": "bei",
+    "pinyin_full": "bèi",
+    "components": [
+        "人",
+        "夊",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "愼也。",
+            "note": "心部曰。愼者、謹也。言部曰。謹者、愼也。得僃而三字同訓。或疑僃訓愼未盡其義。不知用部曰𤰈、具也。此今之僃字。僃行而𤰈廢矣。𤰈廢而僃訓具。尟知其古訓愼者。今義行而古義廢矣。凡許之書所以存古形古音古義也。方言曰。僃、咸也。此具之義也。又曰。藏、敕、戒、僃也。此愼之義也。"
+        },
+        {
+            "explanation": "从人。𤰈聲。",
+            "note": "平秘切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "备",
+        "備",
+        "𠈍"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 5352,
+    "wordhead": "耊",
+    "explanation": "年八十曰耊。从老省，从至。",
+    "volume": "08",
+    "radical": "老",
+    "pronunciation": "徒結切",
+    "variants": [],
+    "seal_character": "旗",
+    "pinyin": "die",
+    "pinyin_full": "dié",
+    "components": [
+        "至",
+        "老"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "年八十曰耊。",
+            "note": "釋言。耊、老也。毛傳云。耊、老也。八十曰耊。按馬融注易、服䖍注左傳皆云。七十曰耊。葢耊訓老。故七十八十皆得偁也。"
+        },
+        {
+            "explanation": "从老省。",
+            "note": "小篆旣从老省矣。今人或不省。非也。下同。"
+        },
+        {
+            "explanation": "至聲。",
+            "note": "古音至讀如銍。徒結切。十二部。"
+        }
+    ],
+    "indexes": [
+        "耊"
+    ]
+}

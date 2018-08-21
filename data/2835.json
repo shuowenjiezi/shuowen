@@ -1,0 +1,31 @@
+{
+    "id": 2835,
+    "wordhead": "觤",
+    "explanation": "羊角不齊也。从角危聲。",
+    "volume": "04",
+    "radical": "角",
+    "pronunciation": "過委切",
+    "variants": [],
+    "seal_character": "媲",
+    "pinyin": "gui",
+    "pinyin_full": "ɡuǐ",
+    "components": [
+        "危",
+        "角"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "羊角不齊也。",
+            "note": "釋嘼曰。角不齊、觤。郭云。一短一長。按此依爾雅系之羊。上文觢觭不系之牛者、意以觢觭可凡獸通偁也。觤觟則專謂羊。"
+        },
+        {
+            "explanation": "从角。危聲。",
+            "note": "過委切。十六部。"
+        }
+    ],
+    "indexes": [
+        "觤"
+    ]
+}

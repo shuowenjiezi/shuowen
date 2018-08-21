@@ -1,0 +1,38 @@
+{
+    "id": 2647,
+    "wordhead": "胗",
+    "explanation": "脣瘍也。从肉㐱聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "之忍切",
+    "variants": [
+        {
+            "wordhead": "疹",
+            "explanation": "籒文胗从疒<span>[<span>𤕫</span><span>𤕬</span>]</span>。",
+            "seal_character": "姛"
+        }
+    ],
+    "seal_character": "姚",
+    "pinyin": "zhen",
+    "pinyin_full": "zhěn",
+    "components": [
+        "肉",
+        "疒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "脣瘍也。",
+            "note": "宋玉風賦曰。中脣爲胗。"
+        },
+        {
+            "explanation": "从肉。㐱聲。",
+            "note": "之忍切。十三部。"
+        }
+    ],
+    "indexes": [
+        "胗",
+        "疹"
+    ]
+}

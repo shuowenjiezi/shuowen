@@ -1,0 +1,52 @@
+{
+    "id": 1134,
+    "wordhead": "𨑭",
+    "explanation": "迻也。从辵止聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "斯氏切",
+    "variants": [
+        {
+            "wordhead": "𢓊",
+            "explanation": "徙或从彳。",
+            "seal_character": "勭"
+        },
+        {
+            "wordhead": "𡲴",
+            "explanation": "古文徙<span>[<span>𨑭</span>]</span>。",
+            "seal_character": "勮"
+        }
+    ],
+    "seal_character": "勬",
+    "pinyin": "xi",
+    "pinyin_full": "xǐ",
+    "components": [
+        "止",
+        "尸",
+        "辵",
+        "彳",
+        "火",
+        "米"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "迻也。从辵止。",
+            "note": "各本有聲字。非也。止在一部。徙在十六部。從辵止會意者、乍行乍止而竟止則移其所矣。斯氏切。"
+        },
+        {
+            "explanation": "徙或从彳。",
+            "note": "彳者行也。"
+        },
+        {
+            "explanation": "古文徙。",
+            "note": "未詳其形聲會意。韵會云。說文古作𢓊。集韵作𡕝、𨗬。然則此字不出說文也。集韵字體亦不同。"
+        }
+    ],
+    "indexes": [
+        "𨑭",
+        "𢓊",
+        "𡲴"
+    ]
+}

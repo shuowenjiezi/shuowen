@@ -1,0 +1,31 @@
+{
+    "id": 8085,
+    "wordhead": "嫁",
+    "explanation": "女適人也。从女家聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "古訝切",
+    "variants": [],
+    "seal_character": "熝",
+    "pinyin": "jia",
+    "pinyin_full": "jià",
+    "components": [
+        "女",
+        "家"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "女適人也。",
+            "note": "白虎通曰。嫁者、家也。婦人外成以出適人爲家。按自家而出謂之嫁。至夫之家曰歸。喪服經謂嫁於大夫曰嫁。適士庶人曰適。此析言之也。渾言之皆可曰適。皆可曰嫁。"
+        },
+        {
+            "explanation": "从女。家聲。",
+            "note": "古訝切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "嫁"
+    ]
+}

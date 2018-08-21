@@ -1,0 +1,35 @@
+{
+    "id": 6263,
+    "wordhead": "逸",
+    "explanation": "失也。从辵、兔。兔謾訑善逃也。",
+    "volume": "10",
+    "radical": "兔",
+    "pronunciation": "夷質切",
+    "variants": [],
+    "seal_character": "槔",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "辵",
+        "兔"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "失也。",
+            "note": "此以曡韵爲訓。亡逸者、本義也。引伸之爲逸游、爲暇逸。"
+        },
+        {
+            "explanation": "从辵兔。",
+            "note": "會意。夷質切。十二部。"
+        },
+        {
+            "explanation": "兔謾訑善逃也。",
+            "note": "說从辵兔之意。謾、訑皆欺也。謾音蠻。訑言部作詑。音大和切。兔善逃、故从兔辵。猶隹善飛、故奪从手持隹而失之。皆亡逸之意。"
+        }
+    ],
+    "indexes": [
+        "逸"
+    ]
+}

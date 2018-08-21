@@ -1,0 +1,35 @@
+{
+    "id": 9720,
+    "wordhead": "字",
+    "explanation": "乳也。从子在宀下，子亦聲。",
+    "volume": "14",
+    "radical": "子",
+    "pronunciation": "疾置切",
+    "variants": [],
+    "seal_character": "磔",
+    "pinyin": "zi",
+    "pinyin_full": "zì",
+    "components": [
+        "子",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "乳也。",
+            "note": "人及鳥生子曰乳。獸曰㹌。引申之爲撫字。亦引申之爲文字。敘云。字者、言孶乳而浸多也。"
+        },
+        {
+            "explanation": "从子在宀下。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "子亦聲。",
+            "note": "疾置切。一部。"
+        }
+    ],
+    "indexes": [
+        "字"
+    ]
+}

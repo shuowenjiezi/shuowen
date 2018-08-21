@@ -1,0 +1,36 @@
+{
+    "id": 3996,
+    "wordhead": "郵",
+    "explanation": "境上行書舍。从邑、垂。垂，邊也。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "羽求切",
+    "variants": [],
+    "seal_character": "忯",
+    "pinyin": "you",
+    "pinyin_full": "yóu",
+    "components": [
+        "垂",
+        "邑"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "竟上行書舍。",
+            "note": "孟子。德之流行。速於置郵而傳命。釋言。郵、過也。按經過與過失、古不分平去。故經過曰郵。過失亦曰郵。爲尤訧之假借字。"
+        },
+        {
+            "explanation": "从邑𡍮。",
+            "note": "會意。羽求切。古音在一部。"
+        },
+        {
+            "explanation": "𡍮、邊也。",
+            "note": "說從垂之意。在境上、故從垂。"
+        }
+    ],
+    "indexes": [
+        "邮",
+        "郵"
+    ]
+}

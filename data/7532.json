@@ -1,0 +1,31 @@
+{
+    "id": 7532,
+    "wordhead": "䨒",
+    "explanation": "水音也。从雨羽聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "王矩切",
+    "variants": [],
+    "seal_character": "潁",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "雨",
+        "羽"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水音也。",
+            "note": "江氏聲曰。五聲羽屬水。許字作䨒、與各書不同。今按此當謂流水之音耳。"
+        },
+        {
+            "explanation": "从雨。羽聲。",
+            "note": "王矩切。五部。"
+        }
+    ],
+    "indexes": [
+        "䨒"
+    ]
+}

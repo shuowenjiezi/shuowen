@@ -1,0 +1,35 @@
+{
+    "id": 9801,
+    "wordhead": "醺",
+    "explanation": "醉也。从酉熏聲。《詩》曰：“公尸來燕醺醺。”",
+    "volume": "14",
+    "radical": "酉",
+    "pronunciation": "許云切",
+    "variants": [],
+    "seal_character": "礳",
+    "pinyin": "xun",
+    "pinyin_full": "xūn",
+    "components": [
+        "熏",
+        "酉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "醉也。",
+            "note": "謂酒氣熏蒸。"
+        },
+        {
+            "explanation": "从酉。熏聲。",
+            "note": "聲字當刪。許舉會意包形聲耳。許云切。十三部。"
+        },
+        {
+            "explanation": "詩曰。公尸來燕醺醺。",
+            "note": "大雅鳬鷖文。今詩作來止熏熏。上四章皆云來燕。則作燕宜也。醺醺恐淺人所改。毛傳。熏熏、和悅也。許以來燕熏熏釋此篆之从酉熏。正與釋寷、釋䕻、釋㓝、釋庸之引易同例。此亦引經釋會意之例也。學者不悟久矣。"
+        }
+    ],
+    "indexes": [
+        "醺"
+    ]
+}

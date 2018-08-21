@@ -1,0 +1,31 @@
+{
+    "id": 4096,
+    "wordhead": "鄮",
+    "explanation": "會稽縣。从邑貿聲。",
+    "volume": "06",
+    "radical": "邑",
+    "pronunciation": "莫𠊱切",
+    "variants": [],
+    "seal_character": "恘",
+    "pinyin": "mao",
+    "pinyin_full": "mào",
+    "components": [
+        "邑",
+        "貿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "會稽縣。",
+            "note": "二志同。今浙江寧波府治鄞縣府治東三十里故鄮城是也。陸士龍曰。秦始皇身在鄮縣三十餘日。"
+        },
+        {
+            "explanation": "从邑。𧶻聲。",
+            "note": "莫𠋫切。三部。"
+        }
+    ],
+    "indexes": [
+        "鄮"
+    ]
+}

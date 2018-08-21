@@ -1,0 +1,31 @@
+{
+    "id": 9234,
+    "wordhead": "鍊",
+    "explanation": "冶金也。从金柬聲。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "郎甸切",
+    "variants": [],
+    "seal_character": "皼",
+    "pinyin": "lian",
+    "pinyin_full": "liàn",
+    "components": [
+        "金",
+        "柬"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "治金也。",
+            "note": "治大徐本譌作冶。今正。湅、治絲也。練、治繒也。鍊、治金也。皆謂㶕湅欲其精。非苐冶之而已。冶者、銷也。引申之、凡治之使精曰鍊。"
+        },
+        {
+            "explanation": "从金。柬聲。",
+            "note": "此亦形聲包會意。郎甸切。十四部。"
+        }
+    ],
+    "indexes": [
+        "鍊"
+    ]
+}

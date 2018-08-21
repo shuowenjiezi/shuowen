@@ -1,0 +1,54 @@
+{
+    "id": 3227,
+    "wordhead": "飽",
+    "explanation": "猒也。从食包聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "博巧切",
+    "variants": [
+        {
+            "wordhead": "𩜿",
+            "explanation": "古文飽从𤓽。",
+            "seal_character": "岎"
+        },
+        {
+            "wordhead": "𩜕",
+            "explanation": "亦古文飽从卯<span>[<span>戼</span>]</span>聲。",
+            "seal_character": "岏"
+        }
+    ],
+    "seal_character": "岍",
+    "pinyin": "bao",
+    "pinyin_full": "bǎo",
+    "components": [
+        "包",
+        "食",
+        "卯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "猒也。",
+            "note": "甘部曰。猒、飽也。是爲轉注。"
+        },
+        {
+            "explanation": "从𠊊。包聲。",
+            "note": "博巧切。古音在三部。"
+        },
+        {
+            "explanation": "古文飽。从丣聲。",
+            "note": "丣古文孚也。孚聲在三部。"
+        },
+        {
+            "explanation": "亦古文飽。从丣聲。",
+            "note": "丣聲亦在三部。"
+        }
+    ],
+    "indexes": [
+        "饱",
+        "飽",
+        "𩜿",
+        "𩜕"
+    ]
+}

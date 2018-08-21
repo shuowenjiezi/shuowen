@@ -1,0 +1,35 @@
+{
+    "id": 1119,
+    "wordhead": "遄",
+    "explanation": "往來𢿙也。从辵耑聲。《易》曰：“㠯事遄往。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "市緣切",
+    "variants": [],
+    "seal_character": "勛",
+    "pinyin": "chuan",
+    "pinyin_full": "chuán",
+    "components": [
+        "耑",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往來數也。",
+            "note": "數、所角桑谷二切。釋詁曰。遄、疾也。速也。崧高、蒸民傳同。"
+        },
+        {
+            "explanation": "从辵。耑聲。",
+            "note": "市緣切。十四部。"
+        },
+        {
+            "explanation": "易曰。巳事遄往。",
+            "note": "巳依韵會。虞翻曰。祀舊作巳是也。今本鉉作㠯。鍇作以。"
+        }
+    ],
+    "indexes": [
+        "遄"
+    ]
+}

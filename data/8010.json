@@ -1,0 +1,32 @@
+{
+    "id": 8010,
+    "wordhead": "撲",
+    "explanation": "挨也。从手菐聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "蒲角切",
+    "variants": [],
+    "seal_character": "煏",
+    "pinyin": "pu",
+    "pinyin_full": "pū",
+    "components": [
+        "手",
+        "菐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "挨也。",
+            "note": "撲與扑㯷、義皆別。今人溷之。廣韵一屋云。拂箸。今義也。"
+        },
+        {
+            "explanation": "从手。聲。",
+            "note": "蒲角切。廣韵普木切。一部。"
+        }
+    ],
+    "indexes": [
+        "扑",
+        "撲"
+    ]
+}

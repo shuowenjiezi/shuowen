@@ -1,0 +1,43 @@
+{
+    "id": 3866,
+    "wordhead": "𠌶",
+    "explanation": "艸木華也。从𠂹亏聲。凡𠌶之屬皆从𠌶。",
+    "volume": "06",
+    "radical": "𠌶",
+    "pronunciation": "況于切",
+    "variants": [
+        {
+            "wordhead": "荂",
+            "explanation": "𠌶或从艸从夸。",
+            "seal_character": "彤"
+        }
+    ],
+    "seal_character": "彣",
+    "pinyin": "hua",
+    "pinyin_full": "huā",
+    "components": [
+        "艸",
+        "亏",
+        "夸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "艸木華也。",
+            "note": "此與下文𦾓音義皆同。𦾓、榮也。釋艸曰。𦾓、荂也。𦾓、荂、榮也。今字花行而𦾓廢矣。"
+        },
+        {
+            "explanation": "从𠂹。亏聲。",
+            "note": "況于切。五部。"
+        },
+        {
+            "explanation": "𠌶或从艸从夸。",
+            "note": "夸聲亦亏聲也。釋艸有此字。郭曰。今江東呼華爲荂。音敷。按今江蘇皆言花。呼瓜切。方言曰。華荂晠也。齊楚之閒或謂之華。或謂之荂。吳都賦曰。異荂䓵蘛。李善曰。荂、枯瓜切。"
+        }
+    ],
+    "indexes": [
+        "𠌶",
+        "荂"
+    ]
+}

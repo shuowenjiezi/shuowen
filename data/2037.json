@@ -1,0 +1,43 @@
+{
+    "id": 2037,
+    "wordhead": "𢾅",
+    "explanation": "閉也。从攴度聲。讀若杜。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "徒古切",
+    "variants": [
+        {
+            "wordhead": "剫",
+            "explanation": "𢾅或从刀<span>[<span>𠚣</span>]</span>。",
+            "seal_character": "圝"
+        }
+    ],
+    "seal_character": "圜",
+    "pinyin": "du",
+    "pinyin_full": "dù",
+    "components": [
+        "刀",
+        "攴",
+        "度"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "閉也。",
+            "note": "杜門字當作此。杜行而𢾅廢矣。丹部引周書惟其？丹？。此假？爲塗也。"
+        },
+        {
+            "explanation": "从攴。度聲。讀若杜。",
+            "note": "徒古切。五部。"
+        },
+        {
+            "explanation": "𢾅或从刀。",
+            "note": "按刀部剫、判也。則此當刪。"
+        }
+    ],
+    "indexes": [
+        "𢾅",
+        "剫"
+    ]
+}

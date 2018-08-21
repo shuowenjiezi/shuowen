@@ -1,0 +1,35 @@
+{
+    "id": 275,
+    "wordhead": "蘘",
+    "explanation": "蘘荷也。一名葍蒩。从艸襄聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "汝羊切",
+    "variants": [],
+    "seal_character": "佄",
+    "pinyin": "rang",
+    "pinyin_full": "ránɡ",
+    "components": [
+        "襄",
+        "艸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蘘荷也。",
+            "note": "三字句。蘘荷見上林賦、劉向九歎、張衡南都賦、潘岳閒居賦。"
+        },
+        {
+            "explanation": "一名葍蒩。",
+            "note": "史記子虛賦作猼且。漢書作巴且。王逸作蒪菹。顏師古作蒪苴。名醫別錄作覆葅。皆字異音近。景瑳大招則倒之曰苴蒪。崔豹古今注曰。似薑。宜陰翳地。師古曰。根旁生笋。可以爲葅。又治蠱毒。宗懍荆楚歲時記云。仲冬以鹽藏蘘荷。以僃冬儲。急就篇所云老菁蘘荷冬日藏也。"
+        },
+        {
+            "explanation": "从艸。襄聲。",
+            "note": "汝羊切。十部。"
+        }
+    ],
+    "indexes": [
+        "蘘"
+    ]
+}

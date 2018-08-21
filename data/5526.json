@@ -1,0 +1,35 @@
+{
+    "id": 5526,
+    "wordhead": "歗",
+    "explanation": "吟也。从欠肅聲。《詩》曰：“其歗也謌。”",
+    "volume": "08",
+    "radical": "欠",
+    "pronunciation": "穌弔切",
+    "variants": [],
+    "seal_character": "暙",
+    "pinyin": "xiao",
+    "pinyin_full": "xiào",
+    "components": [
+        "欠",
+        "肅"
+    ],
+    "xuan_note": "臣鉉等案：口部，此籒文嘯字，此重出。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吹也。",
+            "note": "吹大徐作吟。"
+        },
+        {
+            "explanation": "从欠。肅聲。",
+            "note": "蘇弔切。古音在三部。口部以歗爲籒文嘯矣。此重出者、葢小篆亦从欠作也。"
+        },
+        {
+            "explanation": "詩曰。其歗也謌。",
+            "note": "今召南其嘯也歌。小雅白蕐歗歌傷懷、本亦作嘯。"
+        }
+    ],
+    "indexes": [
+        "歗"
+    ]
+}

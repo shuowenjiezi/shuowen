@@ -1,0 +1,34 @@
+{
+    "id": 2074,
+    "wordhead": "用",
+    "explanation": "可施行也。从卜从中。衞宏說。凡用之屬皆从用。",
+    "volume": "03",
+    "radical": "用",
+    "pronunciation": "余訟切",
+    "variants": [
+        {
+            "wordhead": "𤰆",
+            "explanation": "古文用<span>[<span>𤰃</span>]</span>。",
+            "seal_character": "坈"
+        }
+    ],
+    "seal_character": "均",
+    "pinyin": "yong",
+    "pinyin_full": "yònɡ",
+    "components": [
+        "中",
+        "卜"
+    ],
+    "xuan_note": "臣鉉等曰：卜中乃可用也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "可施行也。从⺊中。衞宏說。",
+            "note": "⺊中則可施行。故取以會意。余訟切。九部。"
+        }
+    ],
+    "indexes": [
+        "用",
+        "𤰆"
+    ]
+}

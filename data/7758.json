@@ -1,0 +1,43 @@
+{
+    "id": 7758,
+    "wordhead": "耼",
+    "explanation": "耳曼也。从耳冉聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "他甘切",
+    "variants": [
+        {
+            "wordhead": "𦕐",
+            "explanation": "聃或从甘<span>[<span>𤮺</span>]</span>。",
+            "seal_character": "瀽"
+        }
+    ],
+    "seal_character": "瀼",
+    "pinyin": "dan",
+    "pinyin_full": "dān",
+    "components": [
+        "耳",
+        "甘",
+        "冄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "耳曼也。",
+            "note": "曼者、引也。耳曼者、耳如引之而大也。如曼膚、曼䎼之曼。史記老子列傳曰。姓李氏、名耳、字耼。史記索隱、老子音義、後漢書桓帝紀注、文選遊天台山賦注所引皆如此。今本史記作名耳、字伯陽、謚曰耼。淺人妄改者也。字伯陽、見唐固國語注。"
+        },
+        {
+            "explanation": "从耳。冄聲。",
+            "note": "他甘切。七部。"
+        },
+        {
+            "explanation": "耼或从甘。",
+            "note": "甘聲。"
+        }
+    ],
+    "indexes": [
+        "耼",
+        "𦕐"
+    ]
+}

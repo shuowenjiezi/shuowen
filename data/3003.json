@@ -1,0 +1,83 @@
+{
+    "id": 3003,
+    "wordhead": "箕",
+    "explanation": "簸也。从竹；𠀠，象形；下其丌也。凡箕之屬皆从箕。",
+    "volume": "05",
+    "radical": "箕",
+    "pronunciation": "居之切",
+    "variants": [
+        {
+            "wordhead": "𠀠",
+            "explanation": "古文箕省。",
+            "seal_character": "孰"
+        },
+        {
+            "wordhead": "𠷛",
+            "explanation": "亦古文箕。",
+            "seal_character": "孱"
+        },
+        {
+            "wordhead": "𠔋",
+            "explanation": "亦古文箕。",
+            "seal_character": "孲"
+        },
+        {
+            "wordhead": "𠔝",
+            "explanation": "籒文箕。",
+            "seal_character": "孳"
+        },
+        {
+            "wordhead": "𠥩",
+            "explanation": "籒文箕。",
+            "seal_character": "孴"
+        }
+    ],
+    "seal_character": "孯",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "其",
+        "匚",
+        "箕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所㠯簸者也。",
+            "note": "所㠯者三字今補。全書中所㠯字爲淺人刪者多矣。小雅曰。維南有箕。不可以簸揚。廣韵引世本曰。箕帚、少康作。按簸揚與受𡊅皆用箕。"
+        },
+        {
+            "explanation": "从竹𠀠。象形。丌其下也。",
+            "note": "四字依韵會本。今各本丌下互譌。居之切。一部。"
+        },
+        {
+            "explanation": "古文箕。",
+            "note": "象形不用足。今之箕多不用足者。"
+        },
+        {
+            "explanation": "亦古文箕。",
+            "note": "下象竦手。"
+        },
+        {
+            "explanation": "亦古文箕。",
+            "note": "此象箕之哆口。"
+        },
+        {
+            "explanation": "籒文箕。",
+            "note": "依大徐作籒。按經籍通用此字爲語詞。渠之切。或居之切。"
+        },
+        {
+            "explanation": "籒文箕。",
+            "note": "从匚。會意。匚部曰。𠥓籒文匚。"
+        }
+    ],
+    "indexes": [
+        "箕",
+        "𠀠",
+        "𠷛",
+        "𠔋",
+        "𠔝",
+        "𠥩"
+    ]
+}

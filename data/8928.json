@@ -1,0 +1,47 @@
+{
+    "id": 8928,
+    "wordhead": "𧖕",
+    "explanation": "蚍蜉，大螘也。从蟲𣬈聲。",
+    "volume": "13",
+    "radical": "蟲",
+    "pronunciation": "房脂切",
+    "variants": [
+        {
+            "wordhead": "蚍",
+            "explanation": "𧖕或从虫比聲。",
+            "seal_character": "畏"
+        }
+    ],
+    "seal_character": "畎",
+    "pinyin": "pi",
+    "pinyin_full": "pí",
+    "components": [
+        "比",
+        "虫",
+        "蟲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𧖕𧖚、",
+            "note": "逗。雙聲。𧖚見䖵部。"
+        },
+        {
+            "explanation": "大螘也。",
+            "note": "爾雅文。"
+        },
+        {
+            "explanation": "从蟲。𣬈聲。",
+            "note": "房脂切。十五部。"
+        },
+        {
+            "explanation": "𧖕或从虫、比聲。",
+            "note": "方言作蚍蜉。"
+        }
+    ],
+    "indexes": [
+        "𧖕",
+        "蚍"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2288,
+    "wordhead": "𨾦",
+    "explanation": "𨿠也。从隹氐聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "處脂切",
+    "variants": [
+        {
+            "wordhead": "鴟",
+            "explanation": "籒文𨾦从烏。",
+            "seal_character": "堵"
+        }
+    ],
+    "seal_character": "場",
+    "pinyin": "chi",
+    "pinyin_full": "chī",
+    "components": [
+        "氐",
+        "隹",
+        "烏"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𨿠也。",
+            "note": "今江蘇俗呼鷂鷹。盤旋空中。攫雞子食之。大雅云。懿厥哲婦。爲梟爲鴟。莊周云。鴟得腐鼠是也。爾雅有鴟鴞、怪鴟、茅鴟。皆與單言鴟者各物。"
+        },
+        {
+            "explanation": "从隹。氐聲。",
+            "note": "處脂切。十五部。"
+        },
+        {
+            "explanation": "籒文鴟。从鳥。",
+            "note": "今多从籒。"
+        }
+    ],
+    "indexes": [
+        "𨾦",
+        "鴟"
+    ]
+}

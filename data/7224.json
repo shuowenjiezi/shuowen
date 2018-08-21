@@ -1,0 +1,36 @@
+{
+    "id": 7224,
+    "wordhead": "溝",
+    "explanation": "水瀆。廣四尺、深四尺。从水冓聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "古矦切",
+    "variants": [],
+    "seal_character": "淢",
+    "pinyin": "gou",
+    "pinyin_full": "ɡōu",
+    "components": [
+        "水",
+        "冓"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水瀆也。",
+            "note": "也字依玄應補。"
+        },
+        {
+            "explanation": "廣四尺。深四尺。",
+            "note": "匠人職曰。九夫爲井。井閒廣四尺、深四尺謂之溝。"
+        },
+        {
+            "explanation": "从水。冓聲。",
+            "note": "古矦切。四部。"
+        }
+    ],
+    "indexes": [
+        "沟",
+        "溝"
+    ]
+}

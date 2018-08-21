@@ -1,0 +1,43 @@
+{
+    "id": 5846,
+    "wordhead": "𡺲",
+    "explanation": "高也。从山陖聲。",
+    "volume": "09",
+    "radical": "山",
+    "pronunciation": "私閏切",
+    "variants": [
+        {
+            "wordhead": "峻",
+            "explanation": "𡺲或省。",
+            "seal_character": "栄"
+        }
+    ],
+    "seal_character": "栃",
+    "pinyin": "jun",
+    "pinyin_full": "jùn",
+    "components": [
+        "夋",
+        "山",
+        "陖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "高也。",
+            "note": "高上當有陖字。轉寫奪之耳。高者、崇也。陖者、陗高也。凡斗上曰陗。𡺲从陖、則義與陖同。同一高而有危高、陖高、尤高、短而高、巍高、大而高之別。大雅。崧高維嶽。駿極于天。傳曰。駿、大也。中庸、孔子閒居注皆曰。峻高大也。然則大雅之駿、用假借字。"
+        },
+        {
+            "explanation": "从山。陖聲。",
+            "note": "此舉形聲包會意。私閏切。十三部。"
+        },
+        {
+            "explanation": "𡺲或省。",
+            "note": "今經典作此字。"
+        }
+    ],
+    "indexes": [
+        "𡺲",
+        "峻"
+    ]
+}

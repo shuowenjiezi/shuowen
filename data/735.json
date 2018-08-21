@@ -1,0 +1,39 @@
+{
+    "id": 735,
+    "wordhead": "牭",
+    "explanation": "四歲牛。从牛从四，四亦聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "息利切",
+    "variants": [
+        {
+            "wordhead": "㹑",
+            "explanation": "籒文牭从貳。",
+            "seal_character": "儴"
+        }
+    ],
+    "seal_character": "儳",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "牛",
+        "四",
+        "貳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "四歲牛。从牛四。四亦聲。",
+            "note": "息利切。十五部。"
+        },
+        {
+            "explanation": "籒文牭。从貳。",
+            "note": "按鍇本此下有仁至反三字。與十三篇二字反語同。是朱翺不謂㹑卽牭字、而謂㹑乃二歲牛之正字也。疑鍇本本不誤。後人用鉉本改之。未刪朱氏切音耳。龍龕手鑑引玉篇直利反。顧野王亦不云籒文牭。"
+        }
+    ],
+    "indexes": [
+        "牭",
+        "㹑"
+    ]
+}

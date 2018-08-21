@@ -1,0 +1,35 @@
+{
+    "id": 2300,
+    "wordhead": "䧴",
+    "explanation": "鳥也。从隹支聲。一曰䧴度。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "章移切",
+    "variants": [],
+    "seal_character": "塅",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "隹",
+        "支"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䧴鳥也。",
+            "note": "漢武帝造鳷鵲觀。在雲陽甘泉宫外。"
+        },
+        {
+            "explanation": "从隹。支聲。",
+            "note": "章移切。十六部。"
+        },
+        {
+            "explanation": "一曰䧴度。",
+            "note": "未聞。或曰。葢如長三丈高一丈爲雉。度廣以廣。度高以高。"
+        }
+    ],
+    "indexes": [
+        "䧴"
+    ]
+}

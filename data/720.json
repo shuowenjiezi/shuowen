@@ -1,0 +1,51 @@
+{
+    "id": 720,
+    "wordhead": "番",
+    "explanation": "獸足謂之番。从釆；田，象其掌。",
+    "volume": "02",
+    "radical": "釆",
+    "pronunciation": "附袁切",
+    "variants": [
+        {
+            "wordhead": "𨆌",
+            "explanation": "番或从足从煩。",
+            "seal_character": "儡"
+        },
+        {
+            "wordhead": "𥸨",
+            "explanation": "古文番。",
+            "seal_character": "儢"
+        }
+    ],
+    "seal_character": "儠",
+    "pinyin": "fan",
+    "pinyin_full": "fán",
+    "components": [
+        "番",
+        "煩",
+        "田",
+        "釆",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "獸足謂之番。从釆、田象其掌。",
+            "note": "下象掌。上象指爪。是爲象形。許意先有釆字。乃後从釆而象其形。則非獨體之象形、而爲合體之象形也。附袁切。十四部。"
+        },
+        {
+            "explanation": "番或从足。从煩。",
+            "note": "此形聲也。"
+        },
+        {
+            "explanation": "古文番。",
+            "note": "按九歌。𥸨芳椒兮成堂。王注。布香椒於堂上也。𥸨一作播。丁度、洪興祖皆云。？古播字。按播以番爲聲。此屈賦假番爲播也。"
+        }
+    ],
+    "indexes": [
+        "番",
+        "𨆌",
+        "𥸨"
+    ]
+}

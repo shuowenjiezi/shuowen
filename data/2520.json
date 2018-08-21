@@ -1,0 +1,45 @@
+{
+    "id": 2520,
+    "wordhead": "歺",
+    "explanation": "𠛱骨之殘也。从半冎。凡歺之屬皆从歺。讀若櫱岸之櫱。",
+    "volume": "04",
+    "radical": "歺",
+    "pronunciation": "五割切",
+    "variants": [
+        {
+            "wordhead": "𡰮",
+            "explanation": "古文歺<span>[<span>𣦵</span>]</span>。",
+            "seal_character": "奌"
+        }
+    ],
+    "seal_character": "奋",
+    "pinyin": "e",
+    "pinyin_full": "è",
+    "components": [
+        "歺"
+    ],
+    "xuan_note": "臣鉉等曰：義不應有中一。秦刻石文有之。",
+    "kai_note": "徐鍇曰：“冎，剔肉置骨也。歺，殘骨也。故从半冎。”",
+    "duan_notes": [
+        {
+            "explanation": "𠛱骨之殘也。",
+            "note": "刀部曰。𠛱、分解也。殘當作㱚。許殘訓賊。㱚訓餘。後人輒同之也。"
+        },
+        {
+            "explanation": "从半冎。",
+            "note": "冎、剔人肉置其骨也。半冎則骨殘矣。鉉曰。不當有中一。秦刻石文有之。"
+        },
+        {
+            "explanation": "凡歺之屬皆从歺。讀若櫱岸之櫱。",
+            "note": "櫱岸未聞。櫱當作屵。屵者、岸高也。五割切。櫱音同。葢轉寫者以其音改其字耳。十五部。五經文字、九經字㨾音兢。非。"
+        },
+        {
+            "explanation": "古文歺。",
+            "note": "古文殂、古文殪、古文死、古文伊皆從此。"
+        }
+    ],
+    "indexes": [
+        "歺",
+        "𡰮"
+    ]
+}

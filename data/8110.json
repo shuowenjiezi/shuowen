@@ -1,0 +1,35 @@
+{
+    "id": 8110,
+    "wordhead": "媦",
+    "explanation": "楚人謂女弟曰媦。从女胃聲。《公羊傳》曰：“楚王之妻媦。”",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "云貴切",
+    "variants": [],
+    "seal_character": "熺",
+    "pinyin": "wei",
+    "pinyin_full": "wèi",
+    "components": [
+        "女",
+        "胃"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "楚人謂女弟曰媦。",
+            "note": "方言之不同也。"
+        },
+        {
+            "explanation": "从女。胃聲。",
+            "note": "云貴切。十五部。"
+        },
+        {
+            "explanation": "春秋公羊傳曰。楚王之妻媦。",
+            "note": "桓二年公羊傳文。"
+        }
+    ],
+    "indexes": [
+        "媦"
+    ]
+}

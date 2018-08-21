@@ -1,0 +1,31 @@
+{
+    "id": 9162,
+    "wordhead": "男",
+    "explanation": "丈夫也。从田从力。言男用力於田也。凡男之屬皆从男。",
+    "volume": "13",
+    "radical": "男",
+    "pronunciation": "那含切",
+    "variants": [],
+    "seal_character": "癩",
+    "pinyin": "nan",
+    "pinyin_full": "nán",
+    "components": [
+        "田",
+        "力"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "丈夫也。",
+            "note": "夫下曰。周制八寸爲尺。十尺爲丈。人長一丈。故曰丈夫。白虎通曰。男、任也。任功業也。古男與任同音。故公侯伯子男、王莽男作任。"
+        },
+        {
+            "explanation": "从田力。言男子力於田也。",
+            "note": "會意。農力於田。自王公以下無非力於田者。那含切。古音在七部。"
+        }
+    ],
+    "indexes": [
+        "男"
+    ]
+}

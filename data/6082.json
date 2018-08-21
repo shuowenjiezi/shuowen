@@ -1,0 +1,31 @@
+{
+    "id": 6082,
+    "wordhead": "豹",
+    "explanation": "似虎，圜文。从豸勺聲。",
+    "volume": "09",
+    "radical": "豸",
+    "pronunciation": "北教切",
+    "variants": [],
+    "seal_character": "椉",
+    "pinyin": "bao",
+    "pinyin_full": "bào",
+    "components": [
+        "勺",
+        "豸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "佀虎。圜文。",
+            "note": "豹文圜。易曰。君子豹變。其文蔚也。豹一名程。"
+        },
+        {
+            "explanation": "从虎。勺聲。",
+            "note": "北敎切。二部。"
+        }
+    ],
+    "indexes": [
+        "豹"
+    ]
+}

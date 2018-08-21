@@ -1,0 +1,31 @@
+{
+    "id": 3090,
+    "wordhead": "䖒",
+    "explanation": "古陶器也。从豆虍聲。凡䖒之屬皆从䖒。",
+    "volume": "05",
+    "radical": "䖒",
+    "pronunciation": "許羈切",
+    "variants": [],
+    "seal_character": "寢",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "豆",
+        "虍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "古陶器也。",
+            "note": "陶當作匋。書多通用。匋作瓦器也。"
+        },
+        {
+            "explanation": "从豆。虍聲。",
+            "note": "許羈切。按虍聲當在五部。而䖒戲轉入十六部十七部。合音之理也。"
+        }
+    ],
+    "indexes": [
+        "䖒"
+    ]
+}

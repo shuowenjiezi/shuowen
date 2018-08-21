@@ -1,0 +1,31 @@
+{
+    "id": 7576,
+    "wordhead": "鳠",
+    "explanation": "魚名。从魚蒦聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "胡化切",
+    "variants": [],
+    "seal_character": "潵",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "蒦",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鱯魚也。",
+            "note": "郭注釋魚曰。鱯佀鮎而大。白色。按今江中多有之。俗譌爲回魚。聲之誤耳。水經注。沔陽縣度口水有二源。一曰淸檢。一曰濁檢。淸水出鱯。濁水出鮒。常以二月八月取。華陽國志鱯譌爲𩼈。"
+        },
+        {
+            "explanation": "从魚。蒦聲。",
+            "note": "胡化切。古音在五部。"
+        }
+    ],
+    "indexes": [
+        "鳠"
+    ]
+}

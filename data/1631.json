@@ -1,0 +1,40 @@
+{
+    "id": 1631,
+    "wordhead": "諞",
+    "explanation": "便巧言也。从言扁聲。《周書》曰：“𢧵𢧵善諞言。”《論語》曰：“友諞佞。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "部田切",
+    "variants": [],
+    "seal_character": "唟",
+    "pinyin": "pian",
+    "pinyin_full": "piǎn",
+    "components": [
+        "言",
+        "扁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "便巧言也。",
+            "note": "諞便曡韵。"
+        },
+        {
+            "explanation": "从言。扁聲。",
+            "note": "部田切。十二部。"
+        },
+        {
+            "explanation": "周書曰。𢧵𢧵善諞言。",
+            "note": "古文尚書秦誓文。"
+        },
+        {
+            "explanation": "諭語曰。友諞侫。",
+            "note": "季氏篇文。今作便。"
+        }
+    ],
+    "indexes": [
+        "谝",
+        "諞"
+    ]
+}

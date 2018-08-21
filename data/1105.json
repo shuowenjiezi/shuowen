@@ -1,0 +1,50 @@
+{
+    "id": 1105,
+    "wordhead": "䢐",
+    "explanation": "往也。从辵且聲。䢐，齊語。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "全徒切",
+    "variants": [
+        {
+            "wordhead": "徂",
+            "explanation": "䢐或从彳。",
+            "seal_character": "勊"
+        },
+        {
+            "wordhead": "𨖆",
+            "explanation": "籒文从虘。",
+            "seal_character": "勋"
+        }
+    ],
+    "seal_character": "勉",
+    "pinyin": "cu",
+    "pinyin_full": "cú",
+    "components": [
+        "且",
+        "辵",
+        "彳",
+        "虘"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往也。",
+            "note": "釋詁、方言皆曰。徂、往也。按鄭風匪我思且箋云。猶非我思存也。此謂且卽徂之叚借。釋詁又云。徂、存也是也。"
+        },
+        {
+            "explanation": "从辵。且聲。",
+            "note": "全徒切。五部。"
+        },
+        {
+            "explanation": "䢐、齊語。",
+            "note": "方言文。"
+        }
+    ],
+    "indexes": [
+        "䢐",
+        "徂",
+        "𨖆"
+    ]
+}

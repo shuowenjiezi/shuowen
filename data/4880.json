@@ -1,0 +1,54 @@
+{
+    "id": 4880,
+    "wordhead": "席",
+    "explanation": "籍也。《禮》：天子、諸侯席，有黼繡純飾。从巾，庶省。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "祥易切",
+    "variants": [
+        {
+            "wordhead": "𠩛",
+            "explanation": "古文席从石省。",
+            "seal_character": "揘"
+        }
+    ],
+    "seal_character": "揗",
+    "pinyin": "xi",
+    "pinyin_full": "xí",
+    "components": [
+        "庶",
+        "巾"
+    ],
+    "xuan_note": "臣鉉等曰：席以待賓客之禮，賓客非一人，故从庶。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "藉也。",
+            "note": "此以曡韵爲訓。戶護、門聞之例也。藉本祭藉。引伸爲凡藉之偁。竹部曰。竹席曰筵。實通偁耳。"
+        },
+        {
+            "explanation": "禮。",
+            "note": "謂周官經。"
+        },
+        {
+            "explanation": "天子諸矦席有黼繡純飾。",
+            "note": "此約周禮司几筵之文。莞筵紛純。次席黼純。鄭司農云。粉讀爲和粉之粉。謂白繡也。純、緣也。後鄭云。斧謂之黼。其繡白黑采。"
+        },
+        {
+            "explanation": "从巾。",
+            "note": "其方幅如巾也。"
+        },
+        {
+            "explanation": "庶省聲。",
+            "note": "此形聲。非會意。祥易切。古音在五部。"
+        },
+        {
+            "explanation": "古文席。从石省。",
+            "note": "下象形。上从石省聲。"
+        }
+    ],
+    "indexes": [
+        "席",
+        "𠩛"
+    ]
+}

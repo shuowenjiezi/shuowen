@@ -1,0 +1,42 @@
+{
+    "id": 5261,
+    "wordhead": "褎",
+    "explanation": "袂也。从衣𥝩聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "似又切",
+    "variants": [
+        {
+            "wordhead": "袖",
+            "explanation": "俗褎从由。",
+            "seal_character": "敵"
+        }
+    ],
+    "seal_character": "整",
+    "pinyin": "xiu",
+    "pinyin_full": "xiù",
+    "components": [
+        "由",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "袂也。",
+            "note": "唐風羔裘傳曰。褎猶袪也。蒙上章言之。褎引伸爲盛飾皃。邶風傳曰。褎如、盛服皃。董仲舒傳曰。褎然爲舉首。序傳曰。樂安褏褏。生民傳曰。褎、長也。箋云。枝葉長也。皆其義也。"
+        },
+        {
+            "explanation": "从衣。𥝩聲。",
+            "note": "聲葢衍字。𥝩非聲。衣之有褎猶禾之有𥝩。故曰从衣𥝩。似又切。三部。"
+        },
+        {
+            "explanation": "俗褎。从由。",
+            "note": "由聲。"
+        }
+    ],
+    "indexes": [
+        "褎",
+        "袖"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 3367,
+    "wordhead": "韋",
+    "explanation": "相背也。从舛囗聲。獸皮之韋，可以束枉戾相韋背，故借以爲皮韋。凡韋之屬皆从韋。",
+    "volume": "05",
+    "radical": "韋",
+    "pronunciation": "宇非切",
+    "variants": [
+        {
+            "wordhead": "𣍄",
+            "explanation": "古文韋。",
+            "seal_character": "崿"
+        }
+    ],
+    "seal_character": "崾",
+    "pinyin": "wei",
+    "pinyin_full": "wéi",
+    "components": [
+        "囗",
+        "舛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "相背也。",
+            "note": "故从舛。今字違行而韋之本義廢矣。酒誥。薄韋辳父。馬云。韋、違行也。據羣經音辨、則古文尙書當如是。"
+        },
+        {
+            "explanation": "从舛。囗聲。",
+            "note": "宇非切。十五部。"
+        },
+        {
+            "explanation": "獸皮之韋。",
+            "note": "此韋當作圍。謂繞也。"
+        },
+        {
+            "explanation": "可㠯束物枉戾相韋背。",
+            "note": "物字依韵會補。生革爲縷圍束物、可以矯枉戾而背其故也。"
+        },
+        {
+            "explanation": "故借㠯爲皮韋。",
+            "note": "其始用爲革縷束物之字。其後凡革皆偁韋。此與西朋來子烏五字下文法略同。皆言假借之恉也。假借專行而本義廢矣。"
+        }
+    ],
+    "indexes": [
+        "韦",
+        "韋",
+        "𣍄"
+    ]
+}

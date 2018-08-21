@@ -1,0 +1,43 @@
+{
+    "id": 8736,
+    "wordhead": "𦅻",
+    "explanation": "繛也。从素，爰省。",
+    "volume": "13",
+    "radical": "素",
+    "pronunciation": "胡玩切",
+    "variants": [
+        {
+            "wordhead": "緩",
+            "explanation": "𦅻或省。",
+            "seal_character": "瑰"
+        }
+    ],
+    "seal_character": "瑯",
+    "pinyin": "huan",
+    "pinyin_full": "huǎn",
+    "components": [
+        "爰",
+        "糸",
+        "素"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "繛也。",
+            "note": "糸部曰。紓、緩也。然則緩、紓也。"
+        },
+        {
+            "explanation": "从𦃃。爰聲。",
+            "note": "胡管切。十四部。大徐管作玩。非。"
+        },
+        {
+            "explanation": "𦇻或省。",
+            "note": "今多如此作。"
+        }
+    ],
+    "indexes": [
+        "𦅻",
+        "緩"
+    ]
+}

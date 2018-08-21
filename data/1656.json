@@ -1,0 +1,35 @@
+{
+    "id": 1656,
+    "wordhead": "譌",
+    "explanation": "譌言也。从言爲聲。《詩》曰：“民之譌言。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "五禾切",
+    "variants": [],
+    "seal_character": "唻",
+    "pinyin": "e",
+    "pinyin_full": "é",
+    "components": [
+        "言",
+        "爲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "譌言也。",
+            "note": "疑當作僞言也。唐風。人之爲言。定本作僞言。箋云。爲、人爲善言以稱薦之。欲使見進用也。小雅。民之訛言。箋云。訛、僞也。人以僞言相陷入。按爲僞譌古同。通用。尚書南譌。周禮注、漢書皆作南僞。"
+        },
+        {
+            "explanation": "从言。爲聲。",
+            "note": "五、禾切。十七部。"
+        },
+        {
+            "explanation": "詩曰。民之譌言。",
+            "note": "今小雅作訛。說文無訛有吪。吪、動也。訛者俗字。"
+        }
+    ],
+    "indexes": [
+        "譌"
+    ]
+}

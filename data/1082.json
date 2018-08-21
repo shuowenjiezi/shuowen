@@ -1,0 +1,35 @@
+{
+    "id": 1082,
+    "wordhead": "此",
+    "explanation": "止也。从止从匕。匕，相比次也。凡此之屬皆从此。",
+    "volume": "",
+    "radical": "此",
+    "pronunciation": "雌氏切",
+    "variants": [],
+    "seal_character": "努",
+    "pinyin": "ci",
+    "pinyin_full": "cǐ",
+    "components": [
+        "止",
+        "匕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "止也。",
+            "note": "釋詁曰。巳、此也。正互相發明。於物爲止之処。於文爲止之䛐。"
+        },
+        {
+            "explanation": "从止匕。",
+            "note": "句。"
+        },
+        {
+            "explanation": "匕、相比次也。",
+            "note": "此釋从匕之故。相比次而止也。雌氏切。十五部。漢人入十六部。"
+        }
+    ],
+    "indexes": [
+        "此"
+    ]
+}

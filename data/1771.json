@@ -1,0 +1,42 @@
+{
+    "id": 1771,
+    "wordhead": "戴",
+    "explanation": "分物得增益曰戴。从異𢦔聲。",
+    "volume": "03",
+    "radical": "異",
+    "pronunciation": "都代切",
+    "variants": [
+        {
+            "wordhead": "𢨇",
+            "explanation": "籒文戴。",
+            "seal_character": "嗃"
+        }
+    ],
+    "seal_character": "嗂",
+    "pinyin": "dai",
+    "pinyin_full": "dài",
+    "components": [
+        "弋",
+        "異"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "分物得增益曰戴。",
+            "note": "釋訓曰。蓁蓁、孽孽、戴也。毛傳云。蓁蓁、至盛皃。孽孽、盛飾。是皆謂加多也。引伸之凡加於上皆曰戴。如土山戴石曰崔嵬、石山戴土曰？是也。又與載通用。言其上曰戴。言其下曰載也。釋山或本。石載土謂之崔嵬。土載石爲砠。謂石載於土、土載於石則與毛傳不異也。周頌載弁俅俅、月令載青旗皆同戴。"
+        },
+        {
+            "explanation": "从異。𢦒聲。",
+            "note": "都代切。一部。"
+        },
+        {
+            "explanation": "籒文戴。",
+            "note": "弋聲、？聲同在一部。葢非从戈也。"
+        }
+    ],
+    "indexes": [
+        "戴",
+        "𢨇"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 1866,
+    "wordhead": "𩱷",
+    "explanation": "涼州謂鬻爲𩱸。从𩰲𥽘聲。",
+    "volume": "03",
+    "radical": "䰜",
+    "pronunciation": "莫結切",
+    "variants": [
+        {
+            "wordhead": "粖",
+            "explanation": "𩱸或省从末。",
+            "seal_character": "噃"
+        }
+    ],
+    "seal_character": "噂",
+    "pinyin": "mie",
+    "pinyin_full": "miè",
+    "components": [
+        "米",
+        "末"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "涼州謂鬻爲𩱷。",
+            "note": "按此鬻、鍇本作糜爲長。糜𩱷雙聲故也。"
+        },
+        {
+            "explanation": "从䰜。𥽘聲。",
+            "note": "莫結切。十五部。"
+        }
+    ],
+    "indexes": [
+        "𩱷",
+        "粖"
+    ]
+}

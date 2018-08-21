@@ -1,0 +1,39 @@
+{
+    "id": 4386,
+    "wordhead": "𥝩",
+    "explanation": "禾成秀也，人所以收。从爪、禾。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "徐醉切",
+    "variants": [
+        {
+            "wordhead": "穗",
+            "explanation": "𥝩或从禾惠聲。",
+            "seal_character": "憡"
+        }
+    ],
+    "seal_character": "憠",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "禾",
+        "爪",
+        "惠"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾成秀人所收者也。",
+            "note": "依爾雅音義及玄應書訂。𥝩與秀古互訓。如月令注。黍秀舒散。卽謂黍𥝩也。人所收。故从爪。"
+        },
+        {
+            "explanation": "从爪禾。",
+            "note": "會意。小徐作爪聲。非。此與采同意。徐醉切。十五部。"
+        }
+    ],
+    "indexes": [
+        "𥝩",
+        "穗"
+    ]
+}

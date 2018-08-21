@@ -1,0 +1,31 @@
+{
+    "id": 4836,
+    "wordhead": "帗",
+    "explanation": "一幅巾也。从巾犮聲。讀若撥。",
+    "volume": "07",
+    "radical": "巾",
+    "pronunciation": "北末切",
+    "variants": [],
+    "seal_character": "接",
+    "pinyin": "bo",
+    "pinyin_full": "bō",
+    "components": [
+        "犮",
+        "巾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "一幅巾也。",
+            "note": "幅、布帛廣也。一幅巾者、巾廣二尺二寸。其長當亦同也。此與鄭注周禮帗舞義絕殊。葢許君周禮作翇舞。與鄭司農說同。見羽部。"
+        },
+        {
+            "explanation": "从巾。犮聲。讀若撥。",
+            "note": "北末切。十五部。"
+        }
+    ],
+    "indexes": [
+        "帗"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3152,
+    "wordhead": "血",
+    "explanation": "祭所薦牲血也。从皿，一象血形。凡血之屬皆从血。",
+    "volume": "05",
+    "radical": "血",
+    "pronunciation": "呼決切",
+    "variants": [],
+    "seal_character": "尩",
+    "pinyin": "xue",
+    "pinyin_full": "xuè",
+    "components": [
+        "一",
+        "皿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "祭所薦牲血也。",
+            "note": "肉部曰。？、血祭肉也。爨部曰。釁、血祭也。郊特牲曰。毛血吿幽全之物也。注。幽謂血也。毛詩血以吿殺。膋以𦫵臭。此皆血祭之事。按不言人血者、爲其字从皿。人血不可入於皿。故言祭所薦牲血。然則人何以亦名血也。以物之名加之人。古者茹毛飮血。用血報神。因製血字。而用加之人。"
+        },
+        {
+            "explanation": "从皿、",
+            "note": "皿者、周禮珠槃、玉敦之類。"
+        },
+        {
+            "explanation": "一象血形。",
+            "note": "在皿中也。呼決切。十二部。"
+        }
+    ],
+    "indexes": [
+        "血"
+    ]
+}

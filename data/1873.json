@@ -1,0 +1,46 @@
+{
+    "id": 1873,
+    "wordhead": "孚",
+    "explanation": "卵孚也。从爪从子。一曰信也。",
+    "volume": "03",
+    "radical": "爪",
+    "pronunciation": "芳無切",
+    "variants": [
+        {
+            "wordhead": "𤓽",
+            "explanation": "古文孚从𡥀<span>[<span>𣎼</span>]</span>，𡥀<span>[<span>𣎼</span>]</span>，古文𠈃。",
+            "seal_character": "噎"
+        }
+    ],
+    "seal_character": "噍",
+    "pinyin": "fu",
+    "pinyin_full": "fú",
+    "components": [
+        "子",
+        "爪"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“鳥之孚卵皆如其期，不失信也。鳥袌恆以爪反覆其卵也。”",
+    "duan_notes": [
+        {
+            "explanation": "卵卽孚也。",
+            "note": "卽字依玄應書補。通俗文。卵化曰孚。音方赴反。廣雅。孚、生也。謂子出於卵也。方言。鷄卵伏而未孚。於此可得孚之解矣。卵因伏而孚。學者因卽呼伏爲孚。凡伏卵曰抱。房奧反亦曰蓲。央富反。"
+        },
+        {
+            "explanation": "从爪子。",
+            "note": "鍇曰。鳥袌恒以爪反覆其卵也。按反覆其卵者、恐煦嫗之不均。芳無切。古音在三部。"
+        },
+        {
+            "explanation": "一曰信也。",
+            "note": "此卽卵卽孚引伸之義也。鷄卵之必爲鷄。𪁨卵之必爲𪁨。人言之認如是矣。"
+        },
+        {
+            "explanation": "古文孚。从𣎼。𣎼、古文𠈃。𠈃亦聲。",
+            "note": "古音孚𠈃同在三部。"
+        }
+    ],
+    "indexes": [
+        "孚",
+        "𤓽"
+    ]
+}

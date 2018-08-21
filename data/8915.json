@@ -1,0 +1,38 @@
+{
+    "id": 8915,
+    "wordhead": "蠭",
+    "explanation": "飛蟲螫人者。从䖵逢聲。",
+    "volume": "13",
+    "radical": "䖵",
+    "pronunciation": "𢾭容切",
+    "variants": [
+        {
+            "wordhead": "𧒒",
+            "explanation": "古文省。",
+            "seal_character": "男"
+        }
+    ],
+    "seal_character": "甶",
+    "pinyin": "feng",
+    "pinyin_full": "fēnɡ",
+    "components": [
+        "逢",
+        "夆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飛蟲螫人者。",
+            "note": "左傳。蠭？有毒。按釋蟲言土蠭、木蠭。無單言蠭者。許書則？蠃下云。細腰土蠭也。卽爾雅之土蠭。然則此單言蠭。卽爾雅之木蠭也。本艸經露蜂房、亦謂木上大黃蠭窠也。其房大者如罋。小者如桶。云露蠭、正對土蠭在地中言之。許謂土蠭爲細要純雄。其飛蟲螫人者、則謂大黃蠭。竝非細要純雄無子者。內則、檀弓謂之范。俗作𧍙。其子可食。故內則庶羞雀、鷃、蜩、范。"
+        },
+        {
+            "explanation": "从䖵。逢聲。",
+            "note": "敷容切。九部。"
+        }
+    ],
+    "indexes": [
+        "蠭",
+        "𧒒"
+    ]
+}

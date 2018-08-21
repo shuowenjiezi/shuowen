@@ -1,0 +1,36 @@
+{
+    "id": 2219,
+    "wordhead": "魯",
+    "explanation": "鈍詞也。从白，鮺省聲。《論語》曰：“參也魯。”",
+    "volume": "04",
+    "radical": "钗",
+    "pronunciation": "郎古切",
+    "variants": [],
+    "seal_character": "埥",
+    "pinyin": "lu",
+    "pinyin_full": "lǔ",
+    "components": [
+        "白",
+        "鮺"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鈍䛐也。",
+            "note": "孔注論語曰。魯、鈍也。左傳。魯人以爲敏。謂鈍人也。釋名曰。魯、魯鈍也。國多山水。民性樸鈍。按椎魯、鹵莽皆卽此。"
+        },
+        {
+            "explanation": "从白。魚聲。",
+            "note": "各本作鮺省聲。按鮺从差省聲。在古音十七部。今之歌麻韵。魯字古今音皆在五部。𧀦櫓字用爲龤聲。古文以旅爲魯。則鮺爲淺人妄改也。今正。郞古切。五部。"
+        },
+        {
+            "explanation": "論語曰。參也魯。",
+            "note": "先進篇文。"
+        }
+    ],
+    "indexes": [
+        "鲁",
+        "魯"
+    ]
+}

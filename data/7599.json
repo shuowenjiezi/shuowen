@@ -1,0 +1,35 @@
+{
+    "id": 7599,
+    "wordhead": "鮸",
+    "explanation": "魚名。出薉邪頭國。从魚免聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "亡辨切",
+    "variants": [],
+    "seal_character": "澍",
+    "pinyin": "mian",
+    "pinyin_full": "miǎn",
+    "components": [
+        "免",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鮸魚也。",
+            "note": "隋煬責貢四方。海錯幾盡。首曰鮸魚。按今江浙人所食海中黃花魚。乾之爲白鯗。卽此魚也。一名石首魚。首中有二石。許云出薉邪頭國者。蓋許據所見載籍言之。江賦。鯼鮆順時而往還。注云。字林曰。鯼魚、出南海。頭中有石。一名石首。然則此魚又名鯼。南海亦有之。"
+        },
+        {
+            "explanation": "出薉邪頭國。",
+            "note": "薉邪頭國、穢貊也。"
+        },
+        {
+            "explanation": "从魚。免聲。",
+            "note": "亡辨切。古音在十三部。"
+        }
+    ],
+    "indexes": [
+        "鮸"
+    ]
+}

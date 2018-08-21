@@ -1,0 +1,57 @@
+{
+    "id": 3268,
+    "wordhead": "仝",
+    "explanation": "完也。从入从工。",
+    "volume": "05",
+    "radical": "入",
+    "pronunciation": "疾緣切",
+    "variants": [
+        {
+            "wordhead": "全",
+            "explanation": "篆文㒰从玉，純玉曰全。",
+            "seal_character": "岾"
+        },
+        {
+            "wordhead": "𠓳",
+            "explanation": "古文㒰。",
+            "seal_character": "岿"
+        }
+    ],
+    "seal_character": "岽",
+    "pinyin": "quan",
+    "pinyin_full": "quán",
+    "components": [
+        "玉",
+        "工",
+        "入"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "完也。",
+            "note": "宀部曰。完、全也。是爲轉注。"
+        },
+        {
+            "explanation": "从入。从工。",
+            "note": "从工者、如巧者之製造必完好也。疾緣切。十四部。"
+        },
+        {
+            "explanation": "篆文㒰。从王。",
+            "note": "按篆當是籒之誤。仝全皆从人。不必先古後篆也。今字皆从籒。而以仝爲同字。"
+        },
+        {
+            "explanation": "純玉曰全。",
+            "note": "考工記玉人云。天子用全。大鄭云。全、純色也。許玉部云。全、純玉也。後鄭周禮注同許。按云純玉曰全者、引經說此字从玉之意。"
+        },
+        {
+            "explanation": "古文㒰。",
+            "note": "按下體未宷其所從。汗𥳑作？。古文四聲韵載王庶子碑亦作？。疑近是。"
+        }
+    ],
+    "indexes": [
+        "仝",
+        "全",
+        "𠓳"
+    ]
+}

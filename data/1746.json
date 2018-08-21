@@ -1,0 +1,44 @@
+{
+    "id": 1746,
+    "wordhead": "僕",
+    "explanation": "給事者。从人从菐，菐亦聲。",
+    "volume": "03",
+    "radical": "菐",
+    "pronunciation": "蒲沃切",
+    "variants": [
+        {
+            "wordhead": "䑑",
+            "explanation": "古文从臣。",
+            "seal_character": "喣"
+        }
+    ],
+    "seal_character": "喢",
+    "pinyin": "pu",
+    "pinyin_full": "pú",
+    "components": [
+        "人",
+        "臣",
+        "菐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "給事者。",
+            "note": "周禮注曰。僕、侍御於尊者之名。然則大僕、戎僕、以及易之童僕、詩之臣僕、左傳人有十等、僕第九、臺第十皆是。大雅。景命有僕。毛傳。僕、附也。是其引伸之義也。大雅。芃芃棫樸。毛曰。樸、枹木也。考工記樸屬。此皆取附箸之義。字當作僕。方言作㯷。"
+        },
+        {
+            "explanation": "从人菐。",
+            "note": "人之供煩辱者也。"
+        },
+        {
+            "explanation": "菐亦聲。",
+            "note": "蒲沃切。三部。"
+        }
+    ],
+    "indexes": [
+        "仆",
+        "僕",
+        "䑑"
+    ]
+}

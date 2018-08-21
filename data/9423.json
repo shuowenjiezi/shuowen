@@ -1,0 +1,47 @@
+{
+    "id": 9423,
+    "wordhead": "処",
+    "explanation": "止也。得几而止。从几从夂。",
+    "volume": "14",
+    "radical": "几",
+    "pronunciation": "昌與切",
+    "variants": [
+        {
+            "wordhead": "處",
+            "explanation": "処或从虍聲。",
+            "seal_character": "瞄"
+        }
+    ],
+    "seal_character": "瞃",
+    "pinyin": "chu",
+    "pinyin_full": "chǔ",
+    "components": [
+        "虍",
+        "几",
+        "攵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "止也。",
+            "note": "人遇几而止。引申之爲凡凥処之字。俗分别其上去。"
+        },
+        {
+            "explanation": "从夊几。",
+            "note": "夊讀若黹。從後致也。人㒳脛後有致之者。至乎几而止。故字从夊几。昌與切。五部。"
+        },
+        {
+            "explanation": "夊得几而止也。",
+            "note": "此釋會意之？。以上八字與舊本不同。今更正如此。又以上三篆皆會意。而不入人部尸部夊部者、重几也。"
+        },
+        {
+            "explanation": "處或从虍聲。",
+            "note": "今或體獨行。轉謂処俗字。"
+        }
+    ],
+    "indexes": [
+        "処",
+        "處"
+    ]
+}

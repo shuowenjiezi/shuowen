@@ -1,0 +1,42 @@
+{
+    "id": 9037,
+    "wordhead": "墉",
+    "explanation": "城垣也。从土庸聲。",
+    "volume": "13",
+    "radical": "土",
+    "pronunciation": "余封切",
+    "variants": [
+        {
+            "wordhead": "𩫖",
+            "explanation": "古文墉。",
+            "seal_character": "痖"
+        }
+    ],
+    "seal_character": "痕",
+    "pinyin": "yong",
+    "pinyin_full": "yōnɡ",
+    "components": [
+        "土",
+        "庸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "城垣也。",
+            "note": "皇矣。以伐崇墉。傳曰。墉、城也。崧高。以作爾庸。傳曰。庸、城也。庸墉古今字也。城者、言其中之盛受。墉者、言其外之牆垣具也。毛統言之。許析言之也。周易曰。乗其墉。又曰。公用射隼於高墉之上。"
+        },
+        {
+            "explanation": "从土。庸聲。",
+            "note": "余封切。九部。"
+        },
+        {
+            "explanation": "古文墉。",
+            "note": "五篇曰。？、度也。民所度凥也。字音古博切。此云古文墉者、葢古讀如庸。秦以後讀如郭。如豕亥同？字、訓順訓慕同孌字之比。"
+        }
+    ],
+    "indexes": [
+        "墉",
+        "𩫖"
+    ]
+}

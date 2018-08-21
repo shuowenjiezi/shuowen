@@ -1,0 +1,31 @@
+{
+    "id": 9443,
+    "wordhead": "斛",
+    "explanation": "十斗也。从斗角聲。",
+    "volume": "14",
+    "radical": "斗",
+    "pronunciation": "胡谷切",
+    "variants": [],
+    "seal_character": "瞛",
+    "pinyin": "hu",
+    "pinyin_full": "hú",
+    "components": [
+        "角",
+        "斗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "十斗也。",
+            "note": "律曆志曰。量者、躍於龠。合於合。登於升。聚於斗。角於斛。考工記。豆實三而成觳。受斗二升。鬲部亦曰。斗二升曰觳。然則謂觳卽斛者、謬也。"
+        },
+        {
+            "explanation": "从斗。角聲。",
+            "note": "胡谷切。三部。"
+        }
+    ],
+    "indexes": [
+        "斛"
+    ]
+}

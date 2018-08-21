@@ -1,0 +1,57 @@
+{
+    "id": 9438,
+    "wordhead": "𣃔",
+    "explanation": "截也。从斤从𢇍。𢇍，古文絕。",
+    "volume": "14",
+    "radical": "斤",
+    "pronunciation": "徒玩切",
+    "variants": [
+        {
+            "wordhead": "𠸿",
+            "explanation": "古文斷从𠧢。𠧢，古文叀字。《周書》曰：“𠸿𠸿猗無他技”。",
+            "seal_character": "瞕"
+        },
+        {
+            "wordhead": "𠜷",
+            "explanation": "亦古文。",
+            "seal_character": "瞖"
+        }
+    ],
+    "seal_character": "瞔",
+    "pinyin": "duan",
+    "pinyin_full": "duàn",
+    "components": [
+        "斤",
+        "刀",
+        "召"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𢧵也。",
+            "note": "戈部𢧵下曰𣃔也。今人𣃔物讀上聲。物已𣃔讀去聲。引申之義爲決𣃔。讀丁貫切。"
+        },
+        {
+            "explanation": "从斤𢇍。",
+            "note": "會意。徒玩切。十四部。廣韵徒管切。"
+        },
+        {
+            "explanation": "𢇍、古文絕。",
+            "note": "見糸部。"
+        },
+        {
+            "explanation": "古文𣃔。从𠧢。𠧢、古文叀字。",
+            "note": "見叀下。"
+        },
+        {
+            "explanation": "周書曰。𠸿𠸿猗。無它技。",
+            "note": "秦誓文。許所據壁中古文也。"
+        }
+    ],
+    "indexes": [
+        "𣃔",
+        "𠸿",
+        "𠜷"
+    ]
+}

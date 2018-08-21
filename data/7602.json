@@ -1,0 +1,39 @@
+{
+    "id": 7602,
+    "wordhead": "鰸",
+    "explanation": "魚名。狀似蝦，無足，長寸，大如叉股，出遼東。从魚區聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "豈俱切",
+    "variants": [],
+    "seal_character": "澐",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "區",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鰸魚也。狀佀鰕。",
+            "note": "各本作蝦。誤。"
+        },
+        {
+            "explanation": "無足。",
+            "note": "鰕有足。鰸則似鰕而無足。集韵、類篇奪無字。非也。"
+        },
+        {
+            "explanation": "長寸。大如叉股。",
+            "note": "叉今釵字。"
+        },
+        {
+            "explanation": "出遼東。从魚。區聲。",
+            "note": "豈俱切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "鰸"
+    ]
+}

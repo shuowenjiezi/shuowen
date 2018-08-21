@@ -1,0 +1,32 @@
+{
+    "id": 7585,
+    "wordhead": "鯇",
+    "explanation": "魚名。从魚完聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "戶版切",
+    "variants": [],
+    "seal_character": "潾",
+    "pinyin": "huan",
+    "pinyin_full": "huàn",
+    "components": [
+        "完",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鯇魚也。",
+            "note": "釋魚。鱧鯇也。毛傳同。許於鮮下云鱯也。不云鯇也。故鯇篆割分異處。蓋其所傳不同。鯇鯶古今字。今人曰鯶子。讀如混。多食之。"
+        },
+        {
+            "explanation": "从魚。完聲。",
+            "note": "戸版切。舊音也。十四部。又胡本切。今音也。音轉而形改爲鯶矣。"
+        }
+    ],
+    "indexes": [
+        "鲩",
+        "鯇"
+    ]
+}

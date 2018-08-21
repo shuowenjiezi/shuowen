@@ -1,0 +1,40 @@
+{
+    "id": 4407,
+    "wordhead": "稃",
+    "explanation": "𥢶也。从禾孚聲。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "芳無切",
+    "variants": [
+        {
+            "wordhead": "𥹃",
+            "explanation": "稃或从米付聲。",
+            "seal_character": "憸"
+        }
+    ],
+    "seal_character": "憷",
+    "pinyin": "fu",
+    "pinyin_full": "fū",
+    "components": [
+        "付",
+        "禾",
+        "孚",
+        "米"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𥢶也。",
+            "note": "小徐本此篆與秠篆相屬。古本也。玉篇次苐正同。自淺人不知秠解而改竄之。乃又移易篆之次第矣。甫田箋曰。方、房也。謂孚甲始生而未合時也。古借孚爲稃。"
+        },
+        {
+            "explanation": "从禾。孚聲。",
+            "note": "芳無切。古音在三部。"
+        }
+    ],
+    "indexes": [
+        "稃",
+        "𥹃"
+    ]
+}

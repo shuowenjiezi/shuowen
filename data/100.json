@@ -1,0 +1,31 @@
+{
+    "id": 100,
+    "wordhead": "瑛",
+    "explanation": "玉光也。从玉英聲。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "於京切",
+    "variants": [],
+    "seal_character": "乽",
+    "pinyin": "ying",
+    "pinyin_full": "yīnɡ",
+    "components": [
+        "玉",
+        "英"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "玉光也。",
+            "note": "山海經言玉榮。離騷、孝經、援神契、雒書皆言玉英。淮南鴻烈曰。龍淵有玉英。高注。英、精光也。"
+        },
+        {
+            "explanation": "从王。英聲。",
+            "note": "於京切。古音在十部。"
+        }
+    ],
+    "indexes": [
+        "瑛"
+    ]
+}

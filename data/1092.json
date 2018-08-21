@@ -1,0 +1,51 @@
+{
+    "id": 1092,
+    "wordhead": "迹",
+    "explanation": "步處也。从辵亦聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "資昔切",
+    "variants": [
+        {
+            "wordhead": "蹟",
+            "explanation": "或从足、責<span>[<span>𧵩</span>]</span>。",
+            "seal_character": "効"
+        },
+        {
+            "wordhead": "𨒪",
+            "explanation": "籒文迹从朿。",
+            "seal_character": "劺"
+        }
+    ],
+    "seal_character": "劸",
+    "pinyin": "ji",
+    "pinyin_full": "jī",
+    "components": [
+        "朿",
+        "足",
+        "責",
+        "辵",
+        "亦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "步處也。",
+            "note": "莊子云。夫迹、履之所出。而迹豈履也。"
+        },
+        {
+            "explanation": "或从足責。",
+            "note": "責亦朿聲也。小雅。念彼不蹟。毛傳。不蹟、不循道也。"
+        },
+        {
+            "explanation": "籒文迹。从朿。",
+            "note": "釋獸。鹿其跡速。釋文。本又作𪋝。素卜反。引字林鹿跡也。按速正𨒪字之誤。周時古本云其𨒪𨒪。𨒪之名不嫌專繫鹿也。廣雅。躔䟱解亢跡也。卽爾雅麋跡躔、鹿跡𨒪、麕跡解、兔跡迒也。曹憲䟱音匹迹反。集韵云。迹或作䟱。然則字林從鹿速聲、素卜反之字。紕繆實甚。或以竄入爾雅。又或以羼人鹿部𪋐麛二字之閒。其誤可不辯自明矣。"
+        }
+    ],
+    "indexes": [
+        "迹",
+        "蹟",
+        "𨒪"
+    ]
+}

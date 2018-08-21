@@ -1,0 +1,31 @@
+{
+    "id": 5040,
+    "wordhead": "侸",
+    "explanation": "立也。从人豆聲。讀若樹。",
+    "volume": "08",
+    "radical": "人",
+    "pronunciation": "常句切",
+    "variants": [],
+    "seal_character": "撈",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "人",
+        "豆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "立也。",
+            "note": "十篇曰。立、侸也。與此爲互訓。今本立下改爲住也。則不可通矣。侸讀若樹。與尌豎音義同。不當作住。今俗用住字。乃駐逗二字之俗。非侸字之俗也。"
+        },
+        {
+            "explanation": "从人。豆聲。讀若樹。",
+            "note": "常句切。古音在四部。按侸玉篇作𠊪。云今作樹。廣韵曰。𠊪同尌。葢樹行而侸尌豎廢。幷𠊪亦廢矣。"
+        }
+    ],
+    "indexes": [
+        "侸"
+    ]
+}

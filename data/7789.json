@@ -1,0 +1,37 @@
+{
+    "id": 7789,
+    "wordhead": "手",
+    "explanation": "拳也。象形。凡手之屬皆从手。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "書九切",
+    "variants": [
+        {
+            "wordhead": "𠂿",
+            "explanation": "古文手。",
+            "seal_character": "灣"
+        }
+    ],
+    "seal_character": "灢",
+    "pinyin": "shou",
+    "pinyin_full": "shǒu",
+    "components": [
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "拳也。",
+            "note": "今人舒之爲手。卷之爲拳。其實一也。故以手與拳二篆互訓。"
+        },
+        {
+            "explanation": "象形。",
+            "note": "象指掌及𢯲也。書九切。三部。"
+        }
+    ],
+    "indexes": [
+        "手",
+        "𠂿"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3131,
+    "wordhead": "盎",
+    "explanation": "盆也。从皿央聲。",
+    "volume": "05",
+    "radical": "皿",
+    "pronunciation": "烏浪切",
+    "variants": [
+        {
+            "wordhead": "㼜",
+            "explanation": "盎或从瓦。",
+            "seal_character": "尓"
+        }
+    ],
+    "seal_character": "尒",
+    "pinyin": "ang",
+    "pinyin_full": "ànɡ",
+    "components": [
+        "央",
+        "皿",
+        "瓦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "盆也。",
+            "note": "釋器。盎謂之缶。注云。盆也。假借爲酒名。周禮盎齊注曰。盎猶翁也。成而翁翁然。葱白色。如今酇白矣。按翁者、滃之假借。滃滃猶泱泱也。酒之成似之。孟子。盎於背。趙曰。其背盎盎然。凡言盎然者、皆謂盛。以音假借也。"
+        },
+        {
+            "explanation": "从皿。央聲。",
+            "note": "烏浪切。十部。"
+        },
+        {
+            "explanation": "盎或从瓦。",
+            "note": "莊子。甕㼜大癭。"
+        }
+    ],
+    "indexes": [
+        "盎",
+        "㼜"
+    ]
+}

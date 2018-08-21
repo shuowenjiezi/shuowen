@@ -1,0 +1,35 @@
+{
+    "id": 595,
+    "wordhead": "䓜",
+    "explanation": "菹也。从艸泜聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "直宜切",
+    "variants": [
+        {
+            "wordhead": "𥁼",
+            "explanation": "䓜或从皿。皿，器也。",
+            "seal_character": "傗"
+        }
+    ],
+    "seal_character": "傖",
+    "pinyin": "zhi",
+    "pinyin_full": "zhī",
+    "components": [
+        "艸",
+        "皿",
+        "泜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "菹也。从艸。泜聲。",
+            "note": "纏伊切。十五部。"
+        }
+    ],
+    "indexes": [
+        "䓜",
+        "𥁼"
+    ]
+}

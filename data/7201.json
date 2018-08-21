@@ -1,0 +1,51 @@
+{
+    "id": 7201,
+    "wordhead": "沙",
+    "explanation": "水𢿱石也。从水从少。水少沙見。楚東有沙水。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "所加切",
+    "variants": [
+        {
+            "wordhead": "𣲡",
+            "explanation": "譚長說：沙或从尐。<span>   尐，子結切<span>[<span>t</span><span>s</span><span>i</span><span>e</span><span>t</span>]</span>。 </span>",
+            "seal_character": "淋"
+        }
+    ],
+    "seal_character": "淊",
+    "pinyin": "sha",
+    "pinyin_full": "shā",
+    "components": [
+        "水",
+        "少",
+        "尐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水𢿱石也。",
+            "note": "詩正義作水中散石。非是。水經注引與今本同。凡古人所引古書有是有非。不容偏信。大雅傳云。沙水旁也。許云。水散石。與毛不異。石散碎謂之沙。引伸之、凡生澁皆爲沙。如內則鳥沙鳴是。"
+        },
+        {
+            "explanation": "从水少。",
+            "note": "會意。"
+        },
+        {
+            "explanation": "水少沙見。",
+            "note": "釋其會意之恉。所加切。十七部。古音娑。從石作砂者、俗字也。古丹沙衹用此。"
+        },
+        {
+            "explanation": "楚東有沙水。",
+            "note": "此別一義也。水經注渠水篇曰。渠水、又東南流逕開封縣。雎渙二水出焉。右則新溝注之。即沙水也。音蔡。許愼正作沙音。言楚東有沙水。謂此水也。"
+        },
+        {
+            "explanation": "譚長說。沙或从尐。",
+            "note": "少尐二字皆見小部。尐者、少也。"
+        }
+    ],
+    "indexes": [
+        "沙",
+        "𣲡"
+    ]
+}

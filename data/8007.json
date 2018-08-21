@@ -1,0 +1,31 @@
+{
+    "id": 8007,
+    "wordhead": "扱",
+    "explanation": "收也。从手及聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "楚洽切",
+    "variants": [],
+    "seal_character": "煌",
+    "pinyin": "xi",
+    "pinyin_full": "xī",
+    "components": [
+        "及",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "收也。",
+            "note": "收者、捕也。曲禮。以箕自鄉而扱之。此扱之本義也。儀禮注云。扱柶。此插之叚借字也。"
+        },
+        {
+            "explanation": "从手。及聲。",
+            "note": "楚洽切。七部。"
+        }
+    ],
+    "indexes": [
+        "扱"
+    ]
+}

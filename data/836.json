@@ -1,0 +1,31 @@
+{
+    "id": 836,
+    "wordhead": "吾",
+    "explanation": "我，自稱也。从口五聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "五乎切",
+    "variants": [],
+    "seal_character": "冠",
+    "pinyin": "wu",
+    "pinyin_full": "wú",
+    "components": [
+        "口",
+        "五"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "我自偁也。",
+            "note": "偁各本作稱。誤。釋詁曰。吾、我也。"
+        },
+        {
+            "explanation": "从口。五聲。",
+            "note": "五乎切。五部。"
+        }
+    ],
+    "indexes": [
+        "吾"
+    ]
+}

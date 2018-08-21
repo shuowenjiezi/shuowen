@@ -1,0 +1,38 @@
+{
+    "id": 3212,
+    "wordhead": "餐",
+    "explanation": "吞也。从食𣦼聲。",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "七安切",
+    "variants": [
+        {
+            "wordhead": "湌",
+            "explanation": "餐或从水。",
+            "seal_character": "屾"
+        }
+    ],
+    "seal_character": "屽",
+    "pinyin": "can",
+    "pinyin_full": "cān",
+    "components": [
+        "水",
+        "食"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吞也。",
+            "note": "口部曰。吞、咽也。鄭風曰。使我不能餐兮。魏風曰。彼君子兮。不素餐兮。是則餐猶食也。鄭風。還、子授子之粲兮。釋言、毛傳皆曰。粲、餐也。謂粲爲餐之假借字也。餐訓吞。引伸之爲人食之。又引伸之爲人所食。故曰授餐。飧與餐、其義異。其音異。其形則飧或作飱、餐或作䬸。鄭風、釋言音義誤認餐爲飧字耳。而集韵、類篇竟謂飧餐一字。"
+        },
+        {
+            "explanation": "从𠊊。𣦼聲。",
+            "note": "七安切。十四部。與十三部之飧迥別。魏伐檀一章三章分用。"
+        }
+    ],
+    "indexes": [
+        "餐",
+        "湌"
+    ]
+}

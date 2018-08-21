@@ -1,0 +1,42 @@
+{
+    "id": 3025,
+    "wordhead": "猒",
+    "explanation": "飽也。从甘从肰。",
+    "volume": "05",
+    "radical": "甘",
+    "pronunciation": "於鹽切",
+    "variants": [
+        {
+            "wordhead": "𤟶",
+            "explanation": "猒或从㠯。",
+            "seal_character": "宓"
+        }
+    ],
+    "seal_character": "宒",
+    "pinyin": "yan",
+    "pinyin_full": "yān",
+    "components": [
+        "甘",
+        "肰"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "飽也。足也。",
+            "note": "足也二字依韵會增。淺人多改猒爲厭。厭專行而猒廢矣。猒與厭音同而義異。雒誥萬年猒于乃德。此古字當存者也。按飽足則人意倦矣。故引伸爲猒倦、猒憎。釋詁曰。豫射厭也是也。豫者、古以爲舒字。安也。亦緩也。洪範曰。豫曰急。豫猶怠也。猒厭古今字。猒饜正俗字。"
+        },
+        {
+            "explanation": "从甘肰。",
+            "note": "肰、犬肉也。此會意。於鹽切。古音在七部。"
+        },
+        {
+            "explanation": "猒或从㠯。",
+            "note": "㠯、用也。用之猶甘之也。"
+        }
+    ],
+    "indexes": [
+        "猒",
+        "𤟶"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 5564,
+    "wordhead": "歠",
+    "explanation": "㱃也。从㱃省，叕聲。",
+    "volume": "08",
+    "radical": "㱃",
+    "pronunciation": "昌說切",
+    "variants": [
+        {
+            "wordhead": "吷",
+            "explanation": "歠或从口<span>[<span>𠙵</span>]</span>从夬<span>[<span>叏</span>]</span><span>{<span>+</span><span>聲</span>}</span>。",
+            "seal_character": "曄"
+        }
+    ],
+    "seal_character": "曃",
+    "pinyin": "chuo",
+    "pinyin_full": "chuò",
+    "components": [
+        "口",
+        "夬",
+        "叕"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㱃也。",
+            "note": "二篆爲轉注。與口部啜義異。"
+        },
+        {
+            "explanation": "从㱃省。",
+            "note": "不立㱃部則歠字無所附。倘云从欠从酒省。則所歠不獨酒也。"
+        },
+        {
+            "explanation": "叕聲。",
+            "note": "昌說切。十五部。"
+        },
+        {
+            "explanation": "歠或从口。从夬。",
+            "note": "夬聲也。莊子。吹劒首者。吷之而已矣。用此字。許劣切。"
+        }
+    ],
+    "indexes": [
+        "歠",
+        "吷"
+    ]
+}

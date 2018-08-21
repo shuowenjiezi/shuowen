@@ -1,0 +1,44 @@
+{
+    "id": 1694,
+    "wordhead": "詘",
+    "explanation": "詰詘也。一曰屈襞。从言出聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "區勿切",
+    "variants": [
+        {
+            "wordhead": "𧬲",
+            "explanation": "詘或从屈<span>[<span>𡲶</span><span>𡲬</span>]</span>。",
+            "seal_character": "啦"
+        }
+    ],
+    "seal_character": "啥",
+    "pinyin": "qu",
+    "pinyin_full": "qū",
+    "components": [
+        "出",
+        "言",
+        "屈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "詰詘也。",
+            "note": "二字雙聲。屈曲之意。"
+        },
+        {
+            "explanation": "一曰屈襞。",
+            "note": "此謂衣襞積。見衣部。"
+        },
+        {
+            "explanation": "从言。岀聲。",
+            "note": "區勿切。十五部。"
+        }
+    ],
+    "indexes": [
+        "诎",
+        "詘",
+        "𧬲"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 9429,
+    "wordhead": "斨",
+    "explanation": "方銎斧也。从斤爿聲。《詩》曰：“又缺我斨。”",
+    "volume": "14",
+    "radical": "斤",
+    "pronunciation": "七羊切",
+    "variants": [],
+    "seal_character": "瞊",
+    "pinyin": "qiang",
+    "pinyin_full": "qiānɡ",
+    "components": [
+        "斤",
+        "爿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "方銎。斧也。",
+            "note": "銎者、斤斧空也。毛詩傳曰。隋銎曰斧。方銎曰斨。隋讀如妥。謂不正方而長也。"
+        },
+        {
+            "explanation": "从斤。爿聲。",
+            "note": "七羊切。十部。"
+        },
+        {
+            "explanation": "詩曰。又缺我斨。",
+            "note": "豳風破斧文。按許不偁七月偁此者、明斧斨之用不專伐木也。"
+        }
+    ],
+    "indexes": [
+        "斨"
+    ]
+}

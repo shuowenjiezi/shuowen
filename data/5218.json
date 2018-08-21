@@ -1,0 +1,55 @@
+{
+    "id": 5218,
+    "wordhead": "朢",
+    "explanation": "月滿與日相朢，以朝君也。从月从臣从𡈼。𡈼，朝廷也。",
+    "volume": "08",
+    "radical": "𡈼",
+    "pronunciation": "無放切",
+    "variants": [
+        {
+            "wordhead": "𦣠",
+            "explanation": "古文朢省。",
+            "seal_character": "敃"
+        }
+    ],
+    "seal_character": "敂",
+    "pinyin": "wang",
+    "pinyin_full": "wànɡ",
+    "components": [
+        "臣",
+        "壬",
+        "月"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "月滿也。",
+            "note": "此與望各字。望从朢省聲。今則望專行而朢廢矣。"
+        },
+        {
+            "explanation": "與日相望。",
+            "note": "以曡韵爲訓。原象曰。日兆月、而月乃有光。人自地視之。惟於朢得見其光之盈。朔則日之兆月、其光嚮日下。民不可得見。餘以側見而闕。"
+        },
+        {
+            "explanation": "佀朝君。",
+            "note": "似各本譌以。今正。韵會作月望日。如臣朝君於廷。此釋从臣、从壬之意也。"
+        },
+        {
+            "explanation": "从月。从臣。从任。",
+            "note": "合三字會意。不入月部者、古文以从臣壬見尊君之義。故箸之。無放切。十部。"
+        },
+        {
+            "explanation": "壬、朝廷也。",
+            "note": "說此壬爲廷之叚借字。與壬本義別。"
+        },
+        {
+            "explanation": "古文朢省。",
+            "note": "大玄𧭅作𧩆。亦古文也。"
+        }
+    ],
+    "indexes": [
+        "朢",
+        "𦣠"
+    ]
+}

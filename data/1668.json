@@ -1,0 +1,42 @@
+{
+    "id": 1668,
+    "wordhead": "讋",
+    "explanation": "失气言。一曰不止也。从言，龖省聲。傅毅讀若慴。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "之涉切",
+    "variants": [
+        {
+            "wordhead": "𧮩",
+            "explanation": "籒文讋不省。",
+            "seal_character": "商"
+        }
+    ],
+    "seal_character": "啅",
+    "pinyin": "zhe",
+    "pinyin_full": "zhé",
+    "components": [
+        "言",
+        "龖"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "失气言。",
+            "note": "此與慴音義同。此从言、故釋之曰失气言。東都賦。陸讋水慄。"
+        },
+        {
+            "explanation": "一曰言不止也。",
+            "note": "言字各本無。依玉篇補。謂詍詍沓沓也。"
+        },
+        {
+            "explanation": "从言。龖省聲。傳毅讀若慴。",
+            "note": "之涉切。七部。"
+        }
+    ],
+    "indexes": [
+        "讋",
+        "𧮩"
+    ]
+}

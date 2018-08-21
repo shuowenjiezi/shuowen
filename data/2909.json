@@ -1,0 +1,39 @@
+{
+    "id": 2909,
+    "wordhead": "䈰",
+    "explanation": "陳畱謂飯帚曰䈰。从竹捎聲。一曰飯器，容五升。一曰宋魏謂箸筩爲䈰。",
+    "volume": "05",
+    "radical": "竹",
+    "pronunciation": "所交切",
+    "variants": [],
+    "seal_character": "嬅",
+    "pinyin": "shao",
+    "pinyin_full": "shāo",
+    "components": [
+        "竹",
+        "捎"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "陳畱謂飯帚曰䈰。",
+            "note": "飯帚者、所以埽𣧻餘之飯。"
+        },
+        {
+            "explanation": "从竹。捎聲。",
+            "note": "所交切。二部。"
+        },
+        {
+            "explanation": "一囗飯器。容五升。",
+            "note": "此說謂䈰。與𥳓同字也。"
+        },
+        {
+            "explanation": "一曰宋魏謂箸筩爲䈰。",
+            "note": "箸筩者、所以盛飯敧之筩也。方言曰。箸筩、陳楚宋魏之閒謂之筲。或謂之籯。自關而西謂之桶檧。按筲卽䈰字。郭云音鞭鞘。"
+        }
+    ],
+    "indexes": [
+        "䈰"
+    ]
+}

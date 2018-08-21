@@ -1,0 +1,31 @@
+{
+    "id": 8008,
+    "wordhead": "摷",
+    "explanation": "拘擊也。从手巢聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "子小切",
+    "variants": [],
+    "seal_character": "煍",
+    "pinyin": "jiao",
+    "pinyin_full": "jiǎo",
+    "components": [
+        "巢",
+        "手"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "拘擊也。",
+            "note": "拘止而擊之也。集韵、類篇作擊也。拘也。非是。又謂此卽鈔之別體。亦非許意也。以下十七篆皆言擊、而冣後釋擊曰扑也。許書文法往往如是。"
+        },
+        {
+            "explanation": "从手。巢聲。",
+            "note": "子小切。廣韵作𦾱。楚交切。二部。漢書。命摷絕而不長。叚摷爲剿也。"
+        }
+    ],
+    "indexes": [
+        "摷"
+    ]
+}

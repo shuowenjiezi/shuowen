@@ -1,0 +1,35 @@
+{
+    "id": 4368,
+    "wordhead": "私",
+    "explanation": "禾也。从禾厶聲。北道名禾主人曰私主人。",
+    "volume": "07",
+    "radical": "禾",
+    "pronunciation": "息夷切",
+    "variants": [],
+    "seal_character": "憊",
+    "pinyin": "si",
+    "pinyin_full": "sī",
+    "components": [
+        "厶",
+        "禾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "禾也。",
+            "note": "葢禾有名私者也。今則叚私爲公厶。倉頡作字。自營爲厶。背厶爲公。然則古衹作厶。不作私。"
+        },
+        {
+            "explanation": "从禾。厶聲。",
+            "note": "息夷切。十五部。"
+        },
+        {
+            "explanation": "北道名禾主人曰私主人。",
+            "note": "北道葢許時語。立乎南以言北之辭。周頌。駿發爾私。毛曰。私、民田也。"
+        }
+    ],
+    "indexes": [
+        "私"
+    ]
+}

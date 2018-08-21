@@ -1,0 +1,44 @@
+{
+    "id": 2033,
+    "wordhead": "敗",
+    "explanation": "毀也。从攴、貝。敗、賊皆从貝，會意。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "薄邁切",
+    "variants": [
+        {
+            "wordhead": "𣀕",
+            "explanation": "籒文敗从賏。",
+            "seal_character": "團"
+        }
+    ],
+    "seal_character": "圗",
+    "pinyin": "bai",
+    "pinyin_full": "bài",
+    "components": [
+        "貝",
+        "賏",
+        "攴"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "毁也。从攴貝。",
+            "note": "會意。貝亦聲。薄邁切。十五部。"
+        },
+        {
+            "explanation": "賊敗皆从貝。",
+            "note": "二字同意。古者貨貝。故從貝會意。戈部云。賊從戈則聲。與此不合。"
+        },
+        {
+            "explanation": "籒文敗。从賏。",
+            "note": "從二貝也。老子曰。多藏必厚亡。"
+        }
+    ],
+    "indexes": [
+        "败",
+        "敗",
+        "𣀕"
+    ]
+}

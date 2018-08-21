@@ -1,0 +1,63 @@
+{
+    "id": 6455,
+    "wordhead": "烖",
+    "explanation": "天火曰烖。从火𢦏聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "祖才切",
+    "variants": [
+        {
+            "wordhead": "灾",
+            "explanation": "或从宀、火。",
+            "seal_character": "檣"
+        },
+        {
+            "wordhead": "𤆎",
+            "explanation": "古文从才。",
+            "seal_character": "檤"
+        },
+        {
+            "wordhead": "災",
+            "explanation": "籒文从𡿧。",
+            "seal_character": "檥"
+        }
+    ],
+    "seal_character": "檢",
+    "pinyin": "zai",
+    "pinyin_full": "zāi",
+    "components": [
+        "宀",
+        "才",
+        "火"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "天火曰烖。",
+            "note": "春秋宣十六年。夏。成周宣謝火。左傳曰。人火之也。凡火、人火曰火。天火曰災。按經多言災。惟此言火耳。引申爲凡害之偁。十五年傳曰。天反時爲災。地反物爲妖。民反德爲亂。亂則妖災生。"
+        },
+        {
+            "explanation": "从火。𢦔聲。",
+            "note": "祖才切。一部。今惟周禮作烖。經傳多借菑爲之。菑或譌爲薔。"
+        },
+        {
+            "explanation": "或从宀火。",
+            "note": "火起於下。焚其上也。"
+        },
+        {
+            "explanation": "籒文从𡿧。",
+            "note": "亦會意。亦形聲。"
+        },
+        {
+            "explanation": "古文从才。",
+            "note": "形聲。"
+        }
+    ],
+    "indexes": [
+        "烖",
+        "灾",
+        "𤆎",
+        "災"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 22,
+    "wordhead": "祺",
+    "explanation": "吉也。从示其聲。",
+    "volume": "01",
+    "radical": "示",
+    "pronunciation": "渠之切",
+    "variants": [
+        {
+            "wordhead": "禥",
+            "explanation": "籒文从基。",
+            "seal_character": "丟"
+        }
+    ],
+    "seal_character": "丞",
+    "pinyin": "qi",
+    "pinyin_full": "qí",
+    "components": [
+        "示",
+        "其",
+        "基"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "吉也。",
+            "note": "周頌曰。維周之祺。釋言曰。祺、祥也。祺、吉也。"
+        },
+        {
+            "explanation": "从示。其聲。",
+            "note": "渠之切。一部。"
+        },
+        {
+            "explanation": "籒文从基。",
+            "note": "基聲也。古其基通用。如尚書丕丕基、伏生作㔻㔻其是也。"
+        }
+    ],
+    "indexes": [
+        "祺",
+        "禥"
+    ]
+}

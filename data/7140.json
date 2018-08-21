@@ -1,0 +1,44 @@
+{
+    "id": 7140,
+    "wordhead": "瀾",
+    "explanation": "大波爲瀾。从水闌聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "洛干切",
+    "variants": [
+        {
+            "wordhead": "漣",
+            "explanation": "瀾或从連。",
+            "seal_character": "涋"
+        }
+    ],
+    "seal_character": "涊",
+    "pinyin": "lan",
+    "pinyin_full": "lán",
+    "components": [
+        "闌",
+        "水",
+        "連"
+    ],
+    "xuan_note": "臣鉉等曰：今俗音力延切。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大波爲瀾。",
+            "note": "魏風。河水淸且漣猗。釋水引作灡、云大波爲灡。毛傳云。風行水成文曰漣。按傳下文云。淪、小風水成文。則瀾爲大可知。與爾雅無二義也。凡瀾漫當作此瀾字。"
+        },
+        {
+            "explanation": "从水。闌聲。",
+            "note": "洛干切。十四部。"
+        },
+        {
+            "explanation": "瀾或從連。",
+            "note": "古闌連同音。故瀾漣同字。後人乃別爲異字異義異音。"
+        }
+    ],
+    "indexes": [
+        "澜",
+        "瀾",
+        "漣"
+    ]
+}

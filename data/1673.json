@@ -1,0 +1,50 @@
+{
+    "id": 1673,
+    "wordhead": "詾",
+    "explanation": "說也。从言匈聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "許容切",
+    "variants": [
+        {
+            "wordhead": "訩",
+            "explanation": "或省。",
+            "seal_character": "啌"
+        },
+        {
+            "wordhead": "𧧗",
+            "explanation": "詾或从兇。",
+            "seal_character": "啍"
+        }
+    ],
+    "seal_character": "啋",
+    "pinyin": "xiong",
+    "pinyin_full": "xiōnɡ",
+    "components": [
+        "言",
+        "匈",
+        "凶",
+        "兇"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "訟也。",
+            "note": "訟各本譌說。今依篇、韵及六書故所據唐本正。爾雅釋言、小雅魯頌傳箋皆云。訩、訟也。按下文糸之云訟爭也。說文之通例如是。"
+        },
+        {
+            "explanation": "从言。匈聲。",
+            "note": "許容切。九部。"
+        },
+        {
+            "explanation": "或省。",
+            "note": "今詩如是作。"
+        }
+    ],
+    "indexes": [
+        "詾",
+        "訩",
+        "𧧗"
+    ]
+}

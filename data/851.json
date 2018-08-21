@@ -1,0 +1,35 @@
+{
+    "id": 851,
+    "wordhead": "呭",
+    "explanation": "多言也。从口世聲。《詩》曰：“無然呭呭。”",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "余制切",
+    "variants": [],
+    "seal_character": "冲",
+    "pinyin": "yi",
+    "pinyin_full": "yì",
+    "components": [
+        "口",
+        "世"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "多言也。",
+            "note": "孟子、毛傳皆曰。泄泄猶沓沓也。曰部云。沓、語多沓沓也。言部又云。詍、多言也。引詩無然詍詍。"
+        },
+        {
+            "explanation": "从口。世聲。",
+            "note": "余制切。十五部。"
+        },
+        {
+            "explanation": "詩曰。無然呭呭。",
+            "note": "大雅今作泄泄。"
+        }
+    ],
+    "indexes": [
+        "呭"
+    ]
+}

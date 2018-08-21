@@ -1,0 +1,39 @@
+{
+    "id": 1641,
+    "wordhead": "誕",
+    "explanation": "詞誕也。从言延聲。",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "徒旱切",
+    "variants": [
+        {
+            "wordhead": "𧥡",
+            "explanation": "籒文誕省正。",
+            "seal_character": "唫"
+        }
+    ],
+    "seal_character": "唪",
+    "pinyin": "dan",
+    "pinyin_full": "dàn",
+    "components": [
+        "言",
+        "延"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "䛐誕也。",
+            "note": "此三字葢有誤。釋詁、毛傳皆云。誕、大也。"
+        },
+        {
+            "explanation": "从言。延聲。",
+            "note": "徒旱切。十四部。"
+        }
+    ],
+    "indexes": [
+        "诞",
+        "誕",
+        "𧥡"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 6331,
+    "wordhead": "獘",
+    "explanation": "頓仆也。从犬敝聲。《春秋傳》曰：“與犬，犬獘。”",
+    "volume": "10",
+    "radical": "犬",
+    "pronunciation": "毗祭切",
+    "variants": [
+        {
+            "wordhead": "斃",
+            "explanation": "獘或从死<span>[<span>𣦸</span>]</span>。",
+            "seal_character": "樛"
+        }
+    ],
+    "seal_character": "樚",
+    "pinyin": "bi",
+    "pinyin_full": "bì",
+    "components": [
+        "敝",
+        "犬",
+        "死"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "頓仆也。",
+            "note": "人部曰。仆者、頓也。謂前覆也。人前仆若頓首然。故曰頓仆。"
+        },
+        {
+            "explanation": "从犬。敝聲。",
+            "note": "毗祭切。十五部。"
+        },
+        {
+            "explanation": "春秋傳曰。與犬犬獘。",
+            "note": "僖四年左傳文。引此證从犬之意也。獘本因犬仆製字。叚借爲凡仆之偁。俗又引伸爲利弊字。遂改其字作弊。訓困也、惡也。此與改奬爲㢡正同。"
+        },
+        {
+            "explanation": "獘或从𣦸。",
+            "note": "經書頓仆皆作此字。如左傳斃於車中、與一人俱斃是也。今左傳犬獘亦作犬斃。葢許時經書斃多作獘。"
+        }
+    ],
+    "indexes": [
+        "獘",
+        "斃"
+    ]
+}

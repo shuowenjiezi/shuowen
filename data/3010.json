@@ -1,0 +1,51 @@
+{
+    "id": 3010,
+    "wordhead": "巽",
+    "explanation": "具也。从丌𠨎聲。",
+    "volume": "05",
+    "radical": "丌",
+    "pronunciation": "蘇困切",
+    "variants": [
+        {
+            "wordhead": "巽",
+            "explanation": "古文巽。",
+            "seal_character": "孾"
+        },
+        {
+            "wordhead": "𢁅",
+            "explanation": "篆文巽。",
+            "seal_character": "孽"
+        }
+    ],
+    "seal_character": "孼",
+    "pinyin": "xun",
+    "pinyin_full": "xùn",
+    "components": [
+        "丌"
+    ],
+    "xuan_note": "臣鉉等曰：庶物皆具丌以薦之。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "具也。",
+            "note": "孔子說易曰。巺、入也。巺乃愻之假借字。愻、順也。順故善入。許云具也者、巺之本義也。巺今作巽。"
+        },
+        {
+            "explanation": "从丌。𠨎聲。",
+            "note": "形聲包會意。卪部曰。？、二卪也。巺从此。按二卪者、具意也。蘇困切。古音在十四部。"
+        },
+        {
+            "explanation": "古文巺。",
+            "note": "从𠨎。从幵。"
+        },
+        {
+            "explanation": "篆文巺。",
+            "note": "汗𥳑、古文四聲韵載此體各乖異。未詳宜何從也。竊疑此篆字當作籒。字之誤也。古文下从幵。幵亦具意也。籒文緐重。則从？从幵而又从丌。古文四聲韵作巽。葢不誤。小篆則省幵作巺。後人𣜩字則从籒變之作巽。說文仿𣜩爲之。非也。"
+        }
+    ],
+    "indexes": [
+        "巽",
+        "巽",
+        "𢁅"
+    ]
+}

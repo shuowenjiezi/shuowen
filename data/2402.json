@@ -1,0 +1,32 @@
+{
+    "id": 2402,
+    "wordhead": "鶴",
+    "explanation": "鳴九臯，聲聞于天。从鳥隺聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "下各切",
+    "variants": [],
+    "seal_character": "墼",
+    "pinyin": "he",
+    "pinyin_full": "hè",
+    "components": [
+        "鳥",
+        "寉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鶴鳴九皐。聲聞于天。",
+            "note": "鶴字今補。此見詩小雅。毛曰。皐、澤也。言身隱而名著也。爾雅無鶴。故偁詩。後人鶴與鵠相亂。"
+        },
+        {
+            "explanation": "从鳥。隺聲。",
+            "note": "下各切。古音在二部。"
+        }
+    ],
+    "indexes": [
+        "鹤",
+        "鶴"
+    ]
+}

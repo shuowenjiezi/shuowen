@@ -1,0 +1,31 @@
+{
+    "id": 273,
+    "wordhead": "菊",
+    "explanation": "大菊，蘧麥。从艸匊聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "居六切",
+    "variants": [],
+    "seal_character": "佂",
+    "pinyin": "ju",
+    "pinyin_full": "jú",
+    "components": [
+        "艸",
+        "匊"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大菊、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "蘧麥。从艸。匊聲。",
+            "note": "居六切。三部。"
+        }
+    ],
+    "indexes": [
+        "菊"
+    ]
+}

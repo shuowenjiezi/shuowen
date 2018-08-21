@@ -1,0 +1,35 @@
+{
+    "id": 1192,
+    "wordhead": "䢌",
+    "explanation": "前頡也。从辵巿聲。賈侍中說：一讀若㭘，又若郅。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "北末切",
+    "variants": [],
+    "seal_character": "匶",
+    "pinyin": "zhi",
+    "pinyin_full": "zhì",
+    "components": [
+        "辵",
+        "市"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "前頓也。从辵。枼聲。",
+            "note": "各本篆作？。汲古改本作？。解說作市聲。皆非也。今依玉篇正。廣韵八三十怗。先頰切。云？䢡走也。"
+        },
+        {
+            "explanation": "賈侍中說一讀若拾。",
+            "note": "一疑衍。鍇本作一曰。"
+        },
+        {
+            "explanation": "又若郅。",
+            "note": "手部揲字。易音有時設、息列、思頰三反不同。此讀若拾。則在七部。讀若郅。則在十二部。猶㐁？音皆岐也。玉篇口黠竹季二切。則十五部。"
+        }
+    ],
+    "indexes": [
+        "䢌"
+    ]
+}

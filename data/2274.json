@@ -1,0 +1,41 @@
+{
+    "id": 2274,
+    "wordhead": "閵",
+    "explanation": "今閵。似雊鵒而黃。从隹，𨳏省聲。",
+    "volume": "04",
+    "radical": "隹",
+    "pronunciation": "良刃切",
+    "variants": [
+        {
+            "wordhead": "𨶄",
+            "explanation": "籒文不省。",
+            "seal_character": "堡"
+        }
+    ],
+    "seal_character": "堠",
+    "pinyin": "lin",
+    "pinyin_full": "lìn",
+    "components": [
+        "隹"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "今閵、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "佀鴝鵒而黃。",
+            "note": "今閵、鳥名。玉篇作含閵。"
+        },
+        {
+            "explanation": "从隹。𨳌省聲。",
+            "note": "良刃切。十二部。"
+        }
+    ],
+    "indexes": [
+        "閵",
+        "𨶄"
+    ]
+}

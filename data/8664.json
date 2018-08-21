@@ -1,0 +1,50 @@
+{
+    "id": 8664,
+    "wordhead": "䋣",
+    "explanation": "馬髦飾也。从糸𣫭聲。《春秋傳》曰：“可以稱旌緐乎？”",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "附袁切",
+    "variants": [
+        {
+            "wordhead": "𦅳",
+            "explanation": "䋣或从𢍍。𢍍，籒文弁。",
+            "seal_character": "琛"
+        }
+    ],
+    "seal_character": "琚",
+    "pinyin": "fan",
+    "pinyin_full": "fán",
+    "components": [
+        "糸",
+        "每"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬髦飾也。",
+            "note": "馬髦、謂馬鬛也。飾亦妝飾之飾。葢集絲絛下垂爲飾曰緐。引申爲緐多。又俗改其字作繁。俗形行而本形廢。引申之義行而本義廢矣。至若鄭注周禮、禮記之繁纓。繁讀爲鞶帶之鞶。謂今馬大帶也。此易字之例。其說與許說絕殊。"
+        },
+        {
+            "explanation": "从糸每。",
+            "note": "各本下有聲字。非也。今刪。每者、艸盛上出。故从系每會意。猶之？字亦以每縣會意也。附袁切。十四部。"
+        },
+        {
+            "explanation": "春秋傳曰。可㠯稱旌緐乎。",
+            "note": "哀卄三年左傳文。"
+        },
+        {
+            "explanation": "䋣或从𢍍。",
+            "note": "以弁形聲。"
+        },
+        {
+            "explanation": "𢍍、籒文弁。",
+            "note": "見兒部。"
+        }
+    ],
+    "indexes": [
+        "䋣",
+        "𦅳"
+    ]
+}

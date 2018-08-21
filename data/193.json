@@ -1,0 +1,39 @@
+{
+    "id": 193,
+    "wordhead": "珕",
+    "explanation": "蜃屬。从玉劦聲。《禮》：“佩刀，士珕琫而珧珌。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "郎計切",
+    "variants": [],
+    "seal_character": "令",
+    "pinyin": "li",
+    "pinyin_full": "lì",
+    "components": [
+        "玉",
+        "劦"
+    ],
+    "xuan_note": "臣鉉等曰：劦亦音麗，故以爲聲。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蜃屬。",
+            "note": "謂蜃之類。其甲亦可飾物也。"
+        },
+        {
+            "explanation": "从王。劦聲。",
+            "note": "郎計切。十五部。禮記曰。記曰字依韻會所引補。土部。"
+        },
+        {
+            "explanation": "禮記曰。",
+            "note": "記曰字依韻會所引補。土部。禮記曰天子赤墀。今本亦𠜂記曰字。藝文志曰。記百三十一篇。七十子後學者所記也。"
+        },
+        {
+            "explanation": "佩刀、士珕琫而珧珌。",
+            "note": "詩正義作珕琫而珕珌。"
+        }
+    ],
+    "indexes": [
+        "珕"
+    ]
+}

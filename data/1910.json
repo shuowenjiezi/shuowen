@@ -1,0 +1,67 @@
+{
+    "id": 1910,
+    "wordhead": "及",
+    "explanation": "逮也。从又从人。",
+    "volume": "03",
+    "radical": "又",
+    "pronunciation": "巨立切",
+    "variants": [
+        {
+            "wordhead": "乁",
+            "explanation": "古文及。《秦刻石》及如此。",
+            "seal_character": "噺"
+        },
+        {
+            "wordhead": "𢎜",
+            "explanation": "亦古文及。",
+            "seal_character": "噻"
+        },
+        {
+            "wordhead": "𨕤",
+            "explanation": "亦古文及。",
+            "seal_character": "噼"
+        }
+    ],
+    "seal_character": "噹",
+    "pinyin": "ji",
+    "pinyin_full": "jí",
+    "components": [
+        "又",
+        "人",
+        "及"
+    ],
+    "xuan_note": "",
+    "kai_note": "徐鍇曰：“及前人也。”",
+    "duan_notes": [
+        {
+            "explanation": "逮也。",
+            "note": "辵部逮、及也。"
+        },
+        {
+            "explanation": "从又人。",
+            "note": "及前人也。巨立切。七部。"
+        },
+        {
+            "explanation": "古文及。（句）秦刻石及如此",
+            "note": "句。"
+        },
+        {
+            "explanation": "秦刻石及如此。",
+            "note": "今載史記者、琅邪臺刻石云。澤及牛馬。碣石刻石云。惠論功勞。賞及牛馬。按李斯作小篆。而刻石仍不廢古文也。"
+        },
+        {
+            "explanation": "亦古文及。",
+            "note": "按凡字從此。"
+        },
+        {
+            "explanation": "亦古文及。",
+            "note": "左從辵。右葢从筆。"
+        }
+    ],
+    "indexes": [
+        "及",
+        "乁",
+        "𢎜",
+        "𨕤"
+    ]
+}

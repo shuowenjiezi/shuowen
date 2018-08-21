@@ -1,0 +1,38 @@
+{
+    "id": 1457,
+    "wordhead": "古",
+    "explanation": "故也。从十、口。識前言者也。凡古之屬皆从古。",
+    "volume": "03",
+    "radical": "古",
+    "pronunciation": "公戶切",
+    "variants": [
+        {
+            "wordhead": "𠖠",
+            "explanation": "古文古。",
+            "seal_character": "呠"
+        }
+    ],
+    "seal_character": "呟",
+    "pinyin": "gu",
+    "pinyin_full": "ɡǔ",
+    "components": [
+        "口",
+        "十"
+    ],
+    "xuan_note": "臣鉉等曰：十口所傳是前言也。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "故也。",
+            "note": "邶風、大雅毛傳曰。古、故也。攵部曰。故、使爲之也。按故者、凡事之所以然。而所以然皆備於古。故曰古、故也。逸周書。天爲古。地爲久。鄭注尚書稽古爲同天。"
+        },
+        {
+            "explanation": "从十口。識前言者也。",
+            "note": "識前言者口也。至於十則展轉因襲。是爲自古在昔矣。公戸切。五部。"
+        }
+    ],
+    "indexes": [
+        "古",
+        "𠖠"
+    ]
+}

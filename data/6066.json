@@ -1,0 +1,51 @@
+{
+    "id": 6066,
+    "wordhead": "豦",
+    "explanation": "鬬相丮不解也。从豕、虍。豕、虍之鬬，不解也。讀若蘮蒘草之蘮。司馬相如說：豦，封豕之屬。一曰虎兩足舉。",
+    "volume": "09",
+    "radical": "豕",
+    "pronunciation": "强魚切",
+    "variants": [],
+    "seal_character": "棳",
+    "pinyin": "ju",
+    "pinyin_full": "qú",
+    "components": [
+        "豕",
+        "虍"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鬬相丮不解也。",
+            "note": "鬬當作鬥。兩丮相對也。丮、持也。不言持言丮者、以曡韵爲訓也。"
+        },
+        {
+            "explanation": "从豕虍。",
+            "note": "此會意。虍者、虎文也。故卽以爲虎字。"
+        },
+        {
+            "explanation": "豕虎之鬬",
+            "note": "當作鬥。"
+        },
+        {
+            "explanation": "不相捨。",
+            "note": "說會意之恉。"
+        },
+        {
+            "explanation": "讀若蘮蒘艸之蘮。",
+            "note": "蘮蒘當作罽挐。之蘮當作之挐。葢本無末二字。後人增之而誤耳。蘮蒘、竊衣。見釋艸。強魚切。五部。"
+        },
+        {
+            "explanation": "司馬相如說。豦、封豕之屬。",
+            "note": "此別一說也。毛詩傳曰。封、大也。封豕、大豕也。上林賦。擽蜚遽遽。或作虡。廣韵引作廙。其卽豦歟。"
+        },
+        {
+            "explanation": "一曰虎㒳足舉。",
+            "note": "此又別一義。"
+        }
+    ],
+    "indexes": [
+        "豦"
+    ]
+}

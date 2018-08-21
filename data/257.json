@@ -1,0 +1,35 @@
+{
+    "id": 257,
+    "wordhead": "荏",
+    "explanation": "桂荏，蘇。从艸任聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "如甚切",
+    "variants": [],
+    "seal_character": "伱",
+    "pinyin": "ren",
+    "pinyin_full": "rěn",
+    "components": [
+        "艸",
+        "任"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "桂荏、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "蘇也。",
+            "note": "是之謂轉注。凡轉注有各部互見者。有同部類見者。荏之別義爲荏染。"
+        },
+        {
+            "explanation": "从艸。任聲。",
+            "note": "如甚切。七部。"
+        }
+    ],
+    "indexes": [
+        "荏"
+    ]
+}

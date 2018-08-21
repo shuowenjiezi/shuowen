@@ -1,0 +1,44 @@
+{
+    "id": 2449,
+    "wordhead": "鸇",
+    "explanation": "鷐風也。从鳥亶聲。",
+    "volume": "04",
+    "radical": "鳥",
+    "pronunciation": "諸延切",
+    "variants": [
+        {
+            "wordhead": "𪇮",
+            "explanation": "籒文鸇从廛。",
+            "seal_character": "壳"
+        }
+    ],
+    "seal_character": "売",
+    "pinyin": "zhan",
+    "pinyin_full": "zhān",
+    "components": [
+        "鳥",
+        "亶",
+        "廛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鷐風也。",
+            "note": "秦風作晨風。釋鳥、毛傳皆云。晨風、鸇也郭云。鷂屬。孟子趙注謂之土鸇。"
+        },
+        {
+            "explanation": "从鳥。亶聲。",
+            "note": "諸延切十四部釋文引說文上仙反。"
+        },
+        {
+            "explanation": "籒文鸇。从廛。",
+            "note": "廛聲也。又作𪄟。戰國策。宋康王之時。有雀生𪄟於城之陬。新序作鸇。一字也。今戰國策誤爲𪇥。通鑑作𪄟不誤。而集韵不收。"
+        }
+    ],
+    "indexes": [
+        "鹯",
+        "鸇",
+        "𪇮"
+    ]
+}

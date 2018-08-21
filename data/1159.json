@@ -1,0 +1,43 @@
+{
+    "id": 1159,
+    "wordhead": "遴",
+    "explanation": "行難也。从辵㷠聲。《易》曰：“以往䢯。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "良刃切",
+    "variants": [
+        {
+            "wordhead": "僯",
+            "explanation": "或从人。",
+            "seal_character": "匎"
+        }
+    ],
+    "seal_character": "匍",
+    "pinyin": "lin",
+    "pinyin_full": "lìn",
+    "components": [
+        "人",
+        "辵",
+        "粦"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "行難也。",
+            "note": "漢書。遴柬布章。遴𥳑謂難行封也。引伸爲遴𨕖。𨕖人必重難也。"
+        },
+        {
+            "explanation": "从辵。粦聲。",
+            "note": "良刃切。十二部。"
+        },
+        {
+            "explanation": "易曰。以往遴。",
+            "note": "見口部吝下。"
+        }
+    ],
+    "indexes": [
+        "遴",
+        "僯"
+    ]
+}

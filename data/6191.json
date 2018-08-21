@@ -1,0 +1,32 @@
+{
+    "id": 6191,
+    "wordhead": "駐",
+    "explanation": "馬立也。从馬主聲。",
+    "volume": "10",
+    "radical": "馬",
+    "pronunciation": "中句切",
+    "variants": [],
+    "seal_character": "榀",
+    "pinyin": "zhu",
+    "pinyin_full": "zhù",
+    "components": [
+        "馬",
+        "主"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "馬立也。",
+            "note": "人立曰侸、俗作住。馬立曰駐。"
+        },
+        {
+            "explanation": "从馬。主聲。",
+            "note": "中句切。古音在四部。"
+        }
+    ],
+    "indexes": [
+        "驻",
+        "駐"
+    ]
+}

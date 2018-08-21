@@ -1,0 +1,43 @@
+{
+    "id": 8215,
+    "wordhead": "姷",
+    "explanation": "耦也。从女有聲。讀若祐。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "于救切",
+    "variants": [
+        {
+            "wordhead": "侑",
+            "explanation": "姷或从人。",
+            "seal_character": "爨"
+        }
+    ],
+    "seal_character": "爧",
+    "pinyin": "you",
+    "pinyin_full": "yòu",
+    "components": [
+        "人",
+        "有",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "耦也。",
+            "note": "耕有耦者、取相助也。故引伸之、凡相助曰耦。姷之義取乎此。周禮宮正。以樂侑食。鄭曰。侑猶勸也。按勸卽助。左傳。王享醴。命晉侯宥。杜云。旣饗又命晉侯助以束帛。以助釋宥。古經多叚宥爲侑。毛詩則叚右爲之。傳曰。右、勸也。"
+        },
+        {
+            "explanation": "从女。有聲。讀若祐。",
+            "note": "于救切。古音在一部。"
+        },
+        {
+            "explanation": "姷或从人。",
+            "note": "今通用此體。"
+        }
+    ],
+    "indexes": [
+        "姷",
+        "侑"
+    ]
+}

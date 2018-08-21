@@ -1,0 +1,35 @@
+{
+    "id": 3231,
+    "wordhead": "餀",
+    "explanation": "食臭也。从食艾聲。《爾雅》曰：“餀謂之喙。”",
+    "volume": "05",
+    "radical": "食",
+    "pronunciation": "呼艾切",
+    "variants": [],
+    "seal_character": "岓",
+    "pinyin": "hai",
+    "pinyin_full": "hài",
+    "components": [
+        "食",
+        "艾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "食臭也。",
+            "note": "食臭、謂殠而食之也。儀禮音義引孟子飯殠。"
+        },
+        {
+            "explanation": "从𠊊。艾聲。",
+            "note": "呼艾切。十五部。"
+        },
+        {
+            "explanation": "爾雅曰。餀謂之喙。",
+            "note": "釋器文。今爾雅喙作餯。按許作喙。二徐、李燾及集韵、類篇皆同。汲古初印本亦不誤。而毛扆改作餯。"
+        }
+    ],
+    "indexes": [
+        "餀"
+    ]
+}

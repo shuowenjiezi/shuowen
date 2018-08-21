@@ -1,0 +1,41 @@
+{
+    "id": 221,
+    "wordhead": "玨",
+    "explanation": "二玉相合爲一𤤴。凡𤤴之屬皆从𤤴。",
+    "volume": "01",
+    "radical": "玨",
+    "pronunciation": "古岳切",
+    "variants": [
+        {
+            "wordhead": "瑴",
+            "explanation": "𤤴或从㱿。",
+            "seal_character": "伃"
+        }
+    ],
+    "seal_character": "伂",
+    "pinyin": "jue",
+    "pinyin_full": "jué",
+    "components": [
+        "玉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "二玉相合爲一珏。",
+            "note": "左傳正義曰。瑴、倉頡篇作珏。云雙玉爲珏。故字从雙玉。按淮南書曰。玄玉百工。注。二玉爲一工。工與珏雙聲。百工卽百珏也。不言从二玉者。義在於形、形見於義也。古岳切。三部。"
+        },
+        {
+            "explanation": "凡珏之屬皆从珏。",
+            "note": "因有班𨌥字。故珏專列一部。不則綴於玉部末矣。凡說文通例如此。"
+        },
+        {
+            "explanation": "珏或从㱿。",
+            "note": "㱿聲也。左傳納玉十瑴、魯語行玉廿瑴、字皆如此作。韋昭、杜預解同說文。"
+        }
+    ],
+    "indexes": [
+        "玨",
+        "瑴"
+    ]
+}

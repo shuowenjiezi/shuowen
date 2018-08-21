@@ -1,0 +1,48 @@
+{
+    "id": 8508,
+    "wordhead": "紹",
+    "explanation": "繼也。从糸召聲。一曰紹，緊糾也。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "市沼切",
+    "variants": [
+        {
+            "wordhead": "𢇊",
+            "explanation": "古文紹从邵。",
+            "seal_character": "獲"
+        }
+    ],
+    "seal_character": "獱",
+    "pinyin": "shao",
+    "pinyin_full": "shào",
+    "components": [
+        "召",
+        "糸",
+        "邵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "𦇓也。",
+            "note": "同釋詁。"
+        },
+        {
+            "explanation": "从糸。召聲。",
+            "note": "市沼切。二部。"
+        },
+        {
+            "explanation": "一曰紹、緊糾也。",
+            "note": "緊者、纏絲急也。糾者、三合繩也。"
+        },
+        {
+            "explanation": "古文紹。从卪。",
+            "note": "今本譌。依玉篇、廣韵、汗𥳑改正。"
+        }
+    ],
+    "indexes": [
+        "绍",
+        "紹",
+        "𢇊"
+    ]
+}

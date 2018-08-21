@@ -1,0 +1,41 @@
+{
+    "id": 5298,
+    "wordhead": "襄",
+    "explanation": "漢令：解衣耕謂之襄。从衣𤕦聲。",
+    "volume": "08",
+    "radical": "衣",
+    "pronunciation": "息良切",
+    "variants": [
+        {
+            "wordhead": "𡣿",
+            "explanation": "古文襄<span>[<span>𧞻</span>]</span>。",
+            "seal_character": "斝"
+        }
+    ],
+    "seal_character": "斜",
+    "pinyin": "xiang",
+    "pinyin_full": "xiānɡ",
+    "components": [
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "漢令。解衣而耕謂之𧞻。",
+            "note": "而字依韵會補。此襄字所以从衣之本義。惟見於漢令也。引伸之爲除去。爾雅釋言、詩牆有茨出車傳皆曰。襄、除也。周書謚法云。辟地有德曰襄。凡云攘地、攘夷狄皆襄之假借字也。又引伸之爲反復。大東傳云。襄、反也。謂除此而復乎彼也。釋言又曰。襄、駕也。此驤之假借字。凡云襄上也、襄舉也皆同。又馬注皋陶謨曰。襄、因也。謚法因事有功曰襄。此又攘之假借字。有因而盜曰攘。故凡因皆曰攘也。今人用襄爲輔佐之義。古義未嘗有此。"
+        },
+        {
+            "explanation": "从衣。𤕦聲。",
+            "note": "息良切。十部。"
+        },
+        {
+            "explanation": "古文𧞻。",
+            "note": "不能得其會意形聲所在。"
+        }
+    ],
+    "indexes": [
+        "襄",
+        "𡣿"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4736,
+    "wordhead": "𤺄",
+    "explanation": "脛气足腫。从疒童聲。《詩》曰：“旣微且𤺄。”",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "時重切",
+    "variants": [
+        {
+            "wordhead": "𡰕",
+            "explanation": "籒文从尣。",
+            "seal_character": "挭"
+        }
+    ],
+    "seal_character": "挬",
+    "pinyin": "zhong",
+    "pinyin_full": "zhǒnɡ",
+    "components": [
+        "童",
+        "疒",
+        "尣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "脛气腫。",
+            "note": "小雅巧言。旣微且尰。釋訓、毛傳皆曰。骭瘍爲微。腫足爲尰。按云脛氣腫卽足腫也。大徐本云脛氣足腫。非。"
+        },
+        {
+            "explanation": "从𤕫。童聲。",
+            "note": "時重切。九部。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "左从尣。烏光切。右从籒文童。爾雅音義云。尰本或作？。同。並籒文瘇字也。按籒文本作？。又或變爲尰耳。非有兩籒文也。"
+        }
+    ],
+    "indexes": [
+        "𤺄",
+        "𡰕"
+    ]
+}

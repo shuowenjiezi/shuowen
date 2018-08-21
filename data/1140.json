@@ -1,0 +1,51 @@
+{
+    "id": 1140,
+    "wordhead": "返",
+    "explanation": "還也。从辵从反，反亦聲。《商書》曰：“祖甲返。”",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "扶版切",
+    "variants": [
+        {
+            "wordhead": "𢓉",
+            "explanation": "《春秋傳》返从彳。",
+            "seal_character": "勶"
+        }
+    ],
+    "seal_character": "勵",
+    "pinyin": "fan",
+    "pinyin_full": "fǎn",
+    "components": [
+        "反",
+        "辵",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "還也。",
+            "note": "返還疊韵。"
+        },
+        {
+            "explanation": "从辵反。",
+            "note": "反覆也。覆復同。"
+        },
+        {
+            "explanation": "反亦聲。",
+            "note": "扶版切。十四部。"
+        },
+        {
+            "explanation": "商書曰。祖伊返。",
+            "note": "西伯戡黎文。各本作祖甲。今依集韵訂。"
+        },
+        {
+            "explanation": "春秋傳返从彳。",
+            "note": "謂左氏傳也。漢書曰。左氏多古字古言。許亦云。左𠀌明述春秋傳以古文。今左氏無𢓉字者。轉寫改易盡矣。"
+        }
+    ],
+    "indexes": [
+        "返",
+        "𢓉"
+    ]
+}

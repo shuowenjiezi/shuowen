@@ -1,0 +1,31 @@
+{
+    "id": 7398,
+    "wordhead": "泣",
+    "explanation": "無聲出涕曰泣。从水立聲。",
+    "volume": "11",
+    "radical": "水",
+    "pronunciation": "去急切",
+    "variants": [],
+    "seal_character": "溠",
+    "pinyin": "qi",
+    "pinyin_full": "qì",
+    "components": [
+        "水",
+        "立"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "無聲出涕者曰泣。",
+            "note": "依韵會所據小徐本訂。者、別事䛐也。哭下曰。哀聲也。其出涕不待言。其無聲出涕者爲泣。此哭泣之別也尚書大傳曰。微子將往朝周。過殷之故墟。志動心悲。欲哭則爲朝周。俯泣則近婦人。推而廣之作雅聲。謂之麥秀歌。"
+        },
+        {
+            "explanation": "从水。立聲。",
+            "note": "去急切。七部。素問以爲歰字。"
+        }
+    ],
+    "indexes": [
+        "泣"
+    ]
+}

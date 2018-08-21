@@ -1,0 +1,64 @@
+{
+    "id": 1936,
+    "wordhead": "畫",
+    "explanation": "界也。象田四界。聿，所以畫之。凡畫之屬皆从畫。",
+    "volume": "03",
+    "radical": "畫",
+    "pronunciation": "胡麥切",
+    "variants": [
+        {
+            "wordhead": "𨽶",
+            "explanation": "古文畫<span>[<span>畵</span>]</span>省。",
+            "seal_character": "嚤"
+        },
+        {
+            "wordhead": "𠟷",
+            "explanation": "亦古文畫<span>[<span>畵</span>]</span>。",
+            "seal_character": "嚥"
+        }
+    ],
+    "seal_character": "嚣",
+    "pinyin": "hua",
+    "pinyin_full": "huà",
+    "components": [
+        "刀",
+        "田",
+        "聿",
+        "画",
+        "畫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "介也。",
+            "note": "介各本作畍。此不識字義者所改。今正。八部曰。介、畫也。從八從人。人各有介。"
+        },
+        {
+            "explanation": "从聿。",
+            "note": "二字今補。"
+        },
+        {
+            "explanation": "象田四介。",
+            "note": "田之外橫者二直者二。今篆體省一橫。非也。"
+        },
+        {
+            "explanation": "聿所㠯畫之。",
+            "note": "說從聿之意。引伸爲繪畫之字。胡麥切。十六部。"
+        },
+        {
+            "explanation": "古文畫。",
+            "note": "古文從聿田。此依鍇本。"
+        },
+        {
+            "explanation": "亦古文畫。",
+            "note": "依鍇本。按刀部有劃字。"
+        }
+    ],
+    "indexes": [
+        "划",
+        "畫",
+        "𨽶",
+        "𠟷"
+    ]
+}

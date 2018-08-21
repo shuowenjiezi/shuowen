@@ -1,0 +1,45 @@
+{
+    "id": 9745,
+    "wordhead": "卯",
+    "explanation": "冒也。二月，萬物冒地而出。象開門之形。故二月爲天門。凡卯之屬皆从卯。",
+    "volume": "14",
+    "radical": "戼",
+    "pronunciation": "莫飽切",
+    "variants": [
+        {
+            "wordhead": "𩇨",
+            "explanation": "古文卯。",
+            "seal_character": "磴"
+        }
+    ],
+    "seal_character": "磳",
+    "pinyin": "mao",
+    "pinyin_full": "mǎo",
+    "components": [
+        "卯"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "冒也。二月萬物冒地而出。",
+            "note": "律書曰。卯之爲言茂也。言萬物茂也。律曆志。冒茆於卯。天文訓曰。卯則茂茂然。釋名曰。卯、冒也。載冒土而出也。葢陽氣至是始出地。"
+        },
+        {
+            "explanation": "象開門之形。",
+            "note": "字象開門也。莫飽切。古音在三部。"
+        },
+        {
+            "explanation": "故二月爲天門。",
+            "note": "卯爲春門。萬物巳出。"
+        },
+        {
+            "explanation": "古文卯。",
+            "note": "安十干十二支之字皆古文也。非後人所能造者。而丣爲春門、丣爲秋門、尤㬎明。然則？酉皆古文而異者也。"
+        }
+    ],
+    "indexes": [
+        "卯",
+        "𩇨"
+    ]
+}

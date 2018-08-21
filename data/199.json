@@ -1,0 +1,39 @@
+{
+    "id": 199,
+    "wordhead": "玕",
+    "explanation": "琅玕也。从玉干聲。《禹貢》：“雝州球琳琅玕。”",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "古寒切",
+    "variants": [
+        {
+            "wordhead": "𤥚",
+            "explanation": "古文玕。",
+            "seal_character": "仫"
+        }
+    ],
+    "seal_character": "仪",
+    "pinyin": "gan",
+    "pinyin_full": "ɡān",
+    "components": [
+        "玉",
+        "干",
+        "旱"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "琅玕也。从王。干聲。",
+            "note": "古寒切。十四部。"
+        },
+        {
+            "explanation": "古文玕。从王旱。",
+            "note": "葢壁中尙書如此作。干聲旱聲一也。賈誼新書。上有蔥珩。下有雙璜。捍珠以納其閒。琚瑀以雜之。捍必𤥚之誤。"
+        }
+    ],
+    "indexes": [
+        "玕",
+        "𤥚"
+    ]
+}

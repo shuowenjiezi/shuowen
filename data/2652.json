@@ -1,0 +1,32 @@
+{
+    "id": 2652,
+    "wordhead": "腫",
+    "explanation": "癰也。从肉重聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "之隴切",
+    "variants": [],
+    "seal_character": "姡",
+    "pinyin": "zhong",
+    "pinyin_full": "zhǒnɡ",
+    "components": [
+        "肉",
+        "重"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "癰也。",
+            "note": "𤕫部曰。癰、腫也。瘍醫注曰。腫瘍癰而上生創者。按凡膨脹粗大者謂之雍腫。生民毛傳。種、雍腫也。莊子說木盤癭曰雍腫。雍俗作擁。"
+        },
+        {
+            "explanation": "从肉。重聲。",
+            "note": "之隴切。九部。"
+        }
+    ],
+    "indexes": [
+        "肿",
+        "腫"
+    ]
+}

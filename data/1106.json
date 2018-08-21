@@ -1,0 +1,43 @@
+{
+    "id": 1106,
+    "wordhead": "述",
+    "explanation": "循也。从辵术聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "食聿切",
+    "variants": [
+        {
+            "wordhead": "䢤",
+            "explanation": "籒文从秫。",
+            "seal_character": "勍"
+        }
+    ],
+    "seal_character": "勌",
+    "pinyin": "shu",
+    "pinyin_full": "shù",
+    "components": [
+        "朮",
+        "辵",
+        "秫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "循也。",
+            "note": "述循疊韵。述或叚借術爲之。如詩報我不述、本作術是也。古文多叚借遹爲之。如書祗遹乃文攷。詩遹駿有聲。遹追來孝。釋言、毛傳皆曰。遹、述也是也。孫炎曰。遹古述字。葢古文多以遹爲述。故孫云爾。謂今人用述。古人用遹也。凡言古今字者視此。"
+        },
+        {
+            "explanation": "从辵。术聲。",
+            "note": "食聿切。十五部。"
+        },
+        {
+            "explanation": "籒文从秫。",
+            "note": "术者秫之省。"
+        }
+    ],
+    "indexes": [
+        "述",
+        "䢤"
+    ]
+}

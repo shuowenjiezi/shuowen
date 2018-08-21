@@ -1,0 +1,45 @@
+{
+    "id": 4170,
+    "wordhead": "日",
+    "explanation": "實也。太陽之精不虧。从囗一。象形。凡日之屬皆从日。",
+    "volume": "07",
+    "radical": "日",
+    "pronunciation": "人質切",
+    "variants": [
+        {
+            "wordhead": "𡆠",
+            "explanation": "古文。象形。",
+            "seal_character": "悤"
+        }
+    ],
+    "seal_character": "患",
+    "pinyin": "ri",
+    "pinyin_full": "rì",
+    "components": [
+        "日"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "實也。",
+            "note": "以疊韵爲訓。月令正義引春秋元命包云。日之爲言實也。釋名曰。日、實也。光明盛實也。"
+        },
+        {
+            "explanation": "大易之精不虧。",
+            "note": "故曰實。"
+        },
+        {
+            "explanation": "从○一象形。",
+            "note": "○象其輪郭。一象其中不虧。人質切。十二部。"
+        },
+        {
+            "explanation": "古文。象形。",
+            "note": "葢象中有烏。武後乃竟作𡆠。誤矣。"
+        }
+    ],
+    "indexes": [
+        "日",
+        "𡆠"
+    ]
+}

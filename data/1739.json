@@ -1,0 +1,50 @@
+{
+    "id": 1739,
+    "wordhead": "童",
+    "explanation": "男有辠曰奴，奴曰童，女曰妾。从䇂，重省聲。",
+    "volume": "03",
+    "radical": "䇂",
+    "pronunciation": "徒紅切",
+    "variants": [
+        {
+            "wordhead": "𥫍",
+            "explanation": "籒文童，中與𥩓中同从廿。廿，以爲古文疾字。",
+            "seal_character": "喙"
+        }
+    ],
+    "seal_character": "喘",
+    "pinyin": "tong",
+    "pinyin_full": "tónɡ",
+    "components": [
+        "重",
+        "廿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "男有辠曰奴。奴曰童。女曰妾。",
+            "note": "女部曰。奴婢皆古之辠人也。偁周禮其奴男子入于辠隷。女子入于春稾。"
+        },
+        {
+            "explanation": "从䇂。重省聲。",
+            "note": "徒紅切。九部。今人童僕字作僮。以此爲僮子字。葢經典皆漢以後所改。"
+        },
+        {
+            "explanation": "籒文童。中與竊中同从廿。",
+            "note": "句。"
+        },
+        {
+            "explanation": "廿、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "㠯爲古文疾字。",
+            "note": "當作古文以爲疾字。廿本二十幷也。古文假爲疾字。此亦不同音之假借也。竊字下曰。廿、古文疾。則不言以爲。童從疾者、亦取有辠之意。"
+        }
+    ],
+    "indexes": [
+        "童",
+        "𥫍"
+    ]
+}

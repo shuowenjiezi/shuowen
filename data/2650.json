@@ -1,0 +1,39 @@
+{
+    "id": 2650,
+    "wordhead": "肬",
+    "explanation": "贅也。从肉尤聲。",
+    "volume": "04",
+    "radical": "肉",
+    "pronunciation": "羽求切",
+    "variants": [
+        {
+            "wordhead": "𪐤",
+            "explanation": "籒文肬从黑<span>[<span>𪐗</span>]</span>。",
+            "seal_character": "姟"
+        }
+    ],
+    "seal_character": "姞",
+    "pinyin": "you",
+    "pinyin_full": "yóu",
+    "components": [
+        "肉",
+        "黑",
+        "尤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "贅肬也。",
+            "note": "各本奪肬字。今補。贅同綴。書傳多贅綴通用。故此直作贅。綴、屬也。屬於皮上。如地之有丘也。"
+        },
+        {
+            "explanation": "从肉。尤聲。",
+            "note": "羽求切。三部。"
+        }
+    ],
+    "indexes": [
+        "肬",
+        "𪐤"
+    ]
+}

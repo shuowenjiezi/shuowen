@@ -1,0 +1,32 @@
+{
+    "id": 308,
+    "wordhead": "薊",
+    "explanation": "芺也。从艸魝聲。",
+    "volume": "01",
+    "radical": "艸",
+    "pronunciation": "古詣切",
+    "variants": [],
+    "seal_character": "佨",
+    "pinyin": "ji",
+    "pinyin_full": "jì",
+    "components": [
+        "艸",
+        "魝"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "芺也。",
+            "note": "釋艸曰。芺、薊、其實荂。郭云。芺似薊。許以芺釋薊。則爲一物。而芺字又不類列於此。未聞。"
+        },
+        {
+            "explanation": "从艸。魝聲。",
+            "note": "古詣切。十五部。"
+        }
+    ],
+    "indexes": [
+        "蓟",
+        "薊"
+    ]
+}

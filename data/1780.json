@@ -1,0 +1,53 @@
+{
+    "id": 1780,
+    "wordhead": "爨",
+    "explanation": "齊謂之炊爨。𦥑象持甑，冂爲竈口，廾推林内火。凡爨之屬皆从爨。",
+    "volume": "03",
+    "radical": "爨",
+    "pronunciation": "七亂切",
+    "variants": [
+        {
+            "wordhead": "𤏷",
+            "explanation": "籒文爨省。",
+            "seal_character": "嗔"
+        }
+    ],
+    "seal_character": "嗓",
+    "pinyin": "cuan",
+    "pinyin_full": "cuàn",
+    "components": [
+        "林",
+        "冂",
+        "収",
+        "火",
+        "臼"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "齊謂炊爨。",
+            "note": "各本謂下衍之字。今正。火部曰。炊、爨也。然則二字互相訓。孟子趙注曰。爨炊也。齊謂炊爨者、齊人謂炊曰爨。古言謂則不言曰。如毛傳婦人謂嫁歸是也。特牲、少牢禮注皆曰。爨、竈也。此因爨必於竈。故謂竈爲爨。禮器燔柴於爨同。楚茨傳曰。爨、饔爨廩爨也。此謂竈。又曰。踖踖、爨竈有容也。此謂炊。"
+        },
+        {
+            "explanation": "？象持甑。",
+            "note": "中似甑、臼持之。今本？譌臼。"
+        },
+        {
+            "explanation": "冖爲竈口。𠬞推林內火。",
+            "note": "林、柴也。內同納。"
+        },
+        {
+            "explanation": "凡爨之屬皆从爨。",
+            "note": "七亂切。十四部。"
+        },
+        {
+            "explanation": "籒文爨省。",
+            "note": "然則爨本古文也。"
+        }
+    ],
+    "indexes": [
+        "爨",
+        "𤏷"
+    ]
+}

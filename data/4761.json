@@ -1,0 +1,42 @@
+{
+    "id": 4761,
+    "wordhead": "癃",
+    "explanation": "罷病也。从疒隆聲。",
+    "volume": "07",
+    "radical": "疒",
+    "pronunciation": "力中切",
+    "variants": [
+        {
+            "wordhead": "𤵸",
+            "explanation": "籒文癃省。",
+            "seal_character": "捈"
+        }
+    ],
+    "seal_character": "捇",
+    "pinyin": "long",
+    "pinyin_full": "lónɡ",
+    "components": [
+        "疒",
+        "隆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "罷病也。",
+            "note": "病當作癃。罷者、廢置之意。凡廢置不能事事曰罷癃。平原君傳。躄者自言不幸有罷癃之病。然則凡廢疾皆得謂之罷癃也。師古注漢書。改罷病作疲病。非許意。"
+        },
+        {
+            "explanation": "从𤕫。隆聲。",
+            "note": "力中切。九部。"
+        },
+        {
+            "explanation": "籒文癃省。",
+            "note": "按篇、韵皆作𤸇。疑篆體有誤。漢書高帝紀。年老𤸇病。景祐本及韵會所引皆作𤸇。"
+        }
+    ],
+    "indexes": [
+        "癃",
+        "𤵸"
+    ]
+}

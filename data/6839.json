@@ -1,0 +1,47 @@
+{
+    "id": 6839,
+    "wordhead": "悁",
+    "explanation": "忿也。从心肙聲。一曰憂也。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "於緣切",
+    "variants": [
+        {
+            "wordhead": "𢞈",
+            "explanation": "籒文。",
+            "seal_character": "汑"
+        }
+    ],
+    "seal_character": "汐",
+    "pinyin": "yuan",
+    "pinyin_full": "yuān",
+    "components": [
+        "心",
+        "肙",
+        "剈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "忿也。",
+            "note": "悁之言獧也。獧、急也。澤陂曰。中心悁悁。傳曰。悁悁猶悒悒也。"
+        },
+        {
+            "explanation": "从心。肙聲。",
+            "note": "於緣切。十四部。"
+        },
+        {
+            "explanation": "一曰𢝊也。",
+            "note": "𢝊各本作憂。今正。𢝊、愁也。"
+        },
+        {
+            "explanation": "籒文。",
+            "note": "剈聲。"
+        }
+    ],
+    "indexes": [
+        "悁",
+        "𢞈"
+    ]
+}

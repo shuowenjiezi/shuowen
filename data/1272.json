@@ -1,0 +1,35 @@
+{
+    "id": 1272,
+    "wordhead": "衙",
+    "explanation": "行皃。从行吾聲。",
+    "volume": "02",
+    "radical": "行",
+    "pronunciation": "魚舉切",
+    "variants": [],
+    "seal_character": "厑",
+    "pinyin": "yu",
+    "pinyin_full": "yú",
+    "components": [
+        "行",
+        "吾"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衙衙、",
+            "note": "依廣韵九魚補二字。"
+        },
+        {
+            "explanation": "行皃。",
+            "note": "九辯。導飛廉之衙衙。王注。風伯次且而埽塵也。按衙衙是行列之意。後人因以所治爲衙。"
+        },
+        {
+            "explanation": "从行。吾聲。",
+            "note": "魚舉切。又音牙。五部。"
+        }
+    ],
+    "indexes": [
+        "衙"
+    ]
+}

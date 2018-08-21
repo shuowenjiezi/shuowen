@@ -1,0 +1,35 @@
+{
+    "id": 189,
+    "wordhead": "珠",
+    "explanation": "蚌之陰精。从玉朱聲。《春秋國語》曰：“珠以禦火灾”是也。",
+    "volume": "01",
+    "radical": "玉",
+    "pronunciation": "章俱切",
+    "variants": [],
+    "seal_character": "仟",
+    "pinyin": "zhu",
+    "pinyin_full": "zhū",
+    "components": [
+        "玉",
+        "朱"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蜯中陰精也。",
+            "note": "蜯、或蚌字。中各本作之。今依初學記。大戴禮曰。珠者、陰之陽也。故勝火。"
+        },
+        {
+            "explanation": "从王。朱聲。",
+            "note": "章俱切。古音在三部。"
+        },
+        {
+            "explanation": "春秋國語曰。珠足以御火災是也。",
+            "note": "足字依玉篇補。御各本作禦。今正。楚語。左史倚相曰。珠足以禦火災則寶之。韋注。珠水精。故以禦火災。"
+        }
+    ],
+    "indexes": [
+        "珠"
+    ]
+}

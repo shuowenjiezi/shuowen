@@ -1,0 +1,44 @@
+{
+    "id": 1174,
+    "wordhead": "遂",
+    "explanation": "亾也。从辵㒸聲。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "徐醉切",
+    "variants": [
+        {
+            "wordhead": "𨓸",
+            "explanation": "古文遂。",
+            "seal_character": "匡"
+        }
+    ],
+    "seal_character": "匠",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "屮",
+        "八",
+        "用",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "亡也。",
+            "note": "廣韵。達也。進也。成也。安也。止也。往也。從志也。按皆引伸之義也。"
+        },
+        {
+            "explanation": "从辵。㒸聲。",
+            "note": "徐醉切。十五部。"
+        },
+        {
+            "explanation": "古文遂。",
+            "note": "按不得其所從。疑是从艸木𢍚孛之𢍚。"
+        }
+    ],
+    "indexes": [
+        "遂",
+        "𨓸"
+    ]
+}

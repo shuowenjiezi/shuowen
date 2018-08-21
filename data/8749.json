@@ -1,0 +1,43 @@
+{
+    "id": 8749,
+    "wordhead": "蠁",
+    "explanation": "知聲蟲也。从虫鄉聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "許兩切",
+    "variants": [
+        {
+            "wordhead": "䖮",
+            "explanation": "司馬相如：蠁从向。",
+            "seal_character": "瑿"
+        }
+    ],
+    "seal_character": "瑾",
+    "pinyin": "xiang",
+    "pinyin_full": "xiǎnɡ",
+    "components": [
+        "向",
+        "虫",
+        "鄉"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "知聲蟲也。",
+            "note": "十部曰。肸蠁、布也。釋蟲曰。國貉、蟲蠁。廣雅曰。土蛹、蠁蟲。"
+        },
+        {
+            "explanation": "从虫。鄕聲。",
+            "note": "許㒳切。十部。"
+        },
+        {
+            "explanation": "司馬相如說从向。",
+            "note": "鄕向聲同也。按春秋羊舌肸字叔向。說者向讀上聲。葢向者、䖮之省也。以肸蠁爲名字。"
+        }
+    ],
+    "indexes": [
+        "蠁",
+        "䖮"
+    ]
+}

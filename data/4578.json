@@ -1,0 +1,50 @@
+{
+    "id": 4578,
+    "wordhead": "宐",
+    "explanation": "所安也。从宀之下，一之上，多省聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "魚羈切",
+    "variants": [
+        {
+            "wordhead": "𡪀",
+            "explanation": "古文宜<span>[<span>宐</span>]</span>。",
+            "seal_character": "抁"
+        },
+        {
+            "wordhead": "𡨆",
+            "explanation": "亦古文宜<span>[<span>宐</span>]</span>。",
+            "seal_character": "抂"
+        }
+    ],
+    "seal_character": "技",
+    "pinyin": "yi",
+    "pinyin_full": "yí",
+    "components": [
+        "一",
+        "多",
+        "宀",
+        "宜"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "所安也。",
+            "note": "周南。宜其室家。傳曰。宜以有室家無踰時者。"
+        },
+        {
+            "explanation": "从宀之下、一之上。",
+            "note": "一猶地也。此言會意。"
+        },
+        {
+            "explanation": "多省聲。",
+            "note": "按廣韵曰。說文本作宐。今據以正篆體。多省聲。故古音魚何切。十七部。今音魚羈切。漢石經作宜。"
+        }
+    ],
+    "indexes": [
+        "宐",
+        "𡪀",
+        "𡨆"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1689,
+    "wordhead": "誶",
+    "explanation": "讓也。从言卒聲。《國語》曰：“誶申胥。”",
+    "volume": "03",
+    "radical": "言",
+    "pronunciation": "雖遂切",
+    "variants": [],
+    "seal_character": "啠",
+    "pinyin": "sui",
+    "pinyin_full": "suì",
+    "components": [
+        "言",
+        "卒"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "讓也。",
+            "note": "釋詁、毛傳皆云。誶、告也。許云。讓也。釋詁、毛傳泛言之。許專言之也。"
+        },
+        {
+            "explanation": "从言。卒聲。",
+            "note": "雖遂切。十五部。"
+        },
+        {
+            "explanation": "國語曰。誶申胥。",
+            "note": "吳語文。韋曰。誶、告讓也。今國語、毛詩、爾雅及他書誶皆譌訊。皆由轉寫形近而誤。"
+        }
+    ],
+    "indexes": [
+        "谇",
+        "誶"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1439,
+    "wordhead": "舓",
+    "explanation": "以舌取食也。从舌易聲。",
+    "volume": "03",
+    "radical": "舌",
+    "pronunciation": "神旨切",
+    "variants": [
+        {
+            "wordhead": "𦧇",
+            "explanation": "舓或从也。",
+            "seal_character": "呇"
+        }
+    ],
+    "seal_character": "呆",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "也",
+        "易",
+        "舌"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯舌取食也。从舌。易聲。",
+            "note": "神旨切。按旨當作紙。十六部。"
+        },
+        {
+            "explanation": "舓或从也。",
+            "note": "也聲古在十七部。與十六部合韵冣近。或作舐。或作狧。漢書。狧康及米。"
+        }
+    ],
+    "indexes": [
+        "舓",
+        "𦧇"
+    ]
+}

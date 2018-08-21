@@ -1,0 +1,48 @@
+{
+    "id": 8003,
+    "wordhead": "撻",
+    "explanation": "鄉飲酒，罰不敬，撻其背。从手達聲。",
+    "volume": "12",
+    "radical": "手",
+    "pronunciation": "他達切",
+    "variants": [
+        {
+            "wordhead": "𨘈",
+            "explanation": "古文撻。《周書》曰：“𨘈以記之”。",
+            "seal_character": "煈"
+        }
+    ],
+    "seal_character": "煇",
+    "pinyin": "ta",
+    "pinyin_full": "tà",
+    "components": [
+        "手",
+        "虍",
+        "達"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鄉㱃酒罰不敬。撻其背。",
+            "note": "周禮閭胥。凡事掌其比。觵撻罰之事。故書或言觵撻之罰事。鄭云。觵撻者、失禮之罰。觵用酒。其爵以兕角爲之。撻、扑也。按鄭但云失禮。許必系之鄉飲酒者、禮莫大於此。惟此可登時行觵撻也。"
+        },
+        {
+            "explanation": "从手。𨔶聲。",
+            "note": "他𨔶切。十五部。"
+        },
+        {
+            "explanation": "古文撻。",
+            "note": "从虍者、言有威也。"
+        },
+        {
+            "explanation": "周書曰。𨘈㠯記之。",
+            "note": "周當作虞。此皋陶謨文。壁中古文作？也。"
+        }
+    ],
+    "indexes": [
+        "挞",
+        "撻",
+        "𨘈"
+    ]
+}

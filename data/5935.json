@@ -1,0 +1,44 @@
+{
+    "id": 5935,
+    "wordhead": "廟",
+    "explanation": "尊先祖皃也。从广朝聲。",
+    "volume": "09",
+    "radical": "广",
+    "pronunciation": "眉召切",
+    "variants": [
+        {
+            "wordhead": "庿",
+            "explanation": "古文。",
+            "seal_character": "桡"
+        }
+    ],
+    "seal_character": "桠",
+    "pinyin": "miao",
+    "pinyin_full": "miào",
+    "components": [
+        "朝",
+        "广",
+        "苗"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "尊先祖皃也。",
+            "note": "尊其先祖而以是儀皃之。故曰宗廟。諸書皆曰。廟、皃也。祭法注云。廟之言皃也。宗廟者、先祖之尊皃也。古者廟以祀先祖。凡神不爲廟也。爲神立廟者、始三代以後。"
+        },
+        {
+            "explanation": "从广。朝聲。",
+            "note": "聲字葢衍。古文从苗爲形聲。小篆从广朝。謂居之與朝廷同尊者、爲會意。眉召切。二部。"
+        },
+        {
+            "explanation": "古文。",
+            "note": "見禮經十七篇。凡十七篇皆作庿。注皆作廟。"
+        }
+    ],
+    "indexes": [
+        "庙",
+        "廟",
+        "庿"
+    ]
+}

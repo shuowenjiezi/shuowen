@@ -1,0 +1,47 @@
+{
+    "id": 1433,
+    "wordhead": "囂",
+    "explanation": "聲也。气出頭上。从㗊从頁。頁，首也。",
+    "volume": "03",
+    "radical": "㗊",
+    "pronunciation": "許嬌切",
+    "variants": [
+        {
+            "wordhead": "𠽸",
+            "explanation": "囂或省。",
+            "seal_character": "呀"
+        }
+    ],
+    "seal_character": "吿",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "口",
+        "頁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "聲也。",
+            "note": "左傳。湫隘嚻塵。杜曰。嚻、聲也。廣韵曰。喧也。"
+        },
+        {
+            "explanation": "气出頭上。",
+            "note": "欠部曰歊歊、气上出皃。歊與嚻音同義近。孟子。人知之亦嚻嚻。人不知亦嚻嚻。言人自得無欲。如气上出悠閒也。"
+        },
+        {
+            "explanation": "从㗊頁。",
+            "note": "聲出而气隨之。故从㗊頁會意。許嬌切。二部。"
+        },
+        {
+            "explanation": "頁亦首也。",
+            "note": "頁部曰。頁、頭也。"
+        }
+    ],
+    "indexes": [
+        "嚣",
+        "囂",
+        "𠽸"
+    ]
+}

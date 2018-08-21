@@ -1,0 +1,35 @@
+{
+    "id": 8441,
+    "wordhead": "弨",
+    "explanation": "弓反也。从弓召聲。《詩》曰：“彤弓弨兮。”",
+    "volume": "12",
+    "radical": "弓",
+    "pronunciation": "尺招切",
+    "variants": [],
+    "seal_character": "猢",
+    "pinyin": "chao",
+    "pinyin_full": "chāo",
+    "components": [
+        "弓",
+        "召"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弓反也。",
+            "note": "小雅。彤弓弨兮。傳曰。弨、弛皃。按詩正義引說文有謂弛之而弓反六字。葢出庾儼默說。弛者、弓解也。弓反者、詩所云翩其反也。弓反爲弨之本義。弛之則亦反矣。"
+        },
+        {
+            "explanation": "从弓。召聲。",
+            "note": "尺招切。二部。"
+        },
+        {
+            "explanation": "詩曰。彤弓弨兮。",
+            "note": "彤弓文。"
+        }
+    ],
+    "indexes": [
+        "弨"
+    ]
+}

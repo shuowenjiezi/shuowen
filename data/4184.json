@@ -1,0 +1,40 @@
+{
+    "id": 4184,
+    "wordhead": "晉",
+    "explanation": "進也。日出萬物進。从日从臸。《易》曰：“明出地上，㬜。”",
+    "volume": "07",
+    "radical": "日",
+    "pronunciation": "卽刀切",
+    "variants": [],
+    "seal_character": "悳",
+    "pinyin": "jin",
+    "pinyin_full": "jìn",
+    "components": [
+        "日",
+        "臸"
+    ],
+    "xuan_note": "臣鉉等案：臸，到也。會意。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "進也。",
+            "note": "周易彖傳曰。晉、進也。以疊韵爲訓。凡進皆曰晉。難進亦曰晉。周禮。凡田。王提馬而走。諸矦晉。是也。禮古文、周禮故書皆叚晉爲箭。"
+        },
+        {
+            "explanation": "日出而萬物進。",
+            "note": "故其字从日。"
+        },
+        {
+            "explanation": "从日。从臸。",
+            "note": "臸者、到也。以日出而作會意。隷作晉。卽刃切。十二部。"
+        },
+        {
+            "explanation": "易曰。朙出地上㬜。",
+            "note": "此引易象傳文以證从日之意也。"
+        }
+    ],
+    "indexes": [
+        "晋",
+        "晉"
+    ]
+}

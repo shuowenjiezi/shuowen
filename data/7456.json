@@ -1,0 +1,43 @@
+{
+    "id": 7456,
+    "wordhead": "𠫐",
+    "explanation": "水泉夲也。从灥出厂下。",
+    "volume": "11",
+    "radical": "灥",
+    "pronunciation": "愚袁切",
+    "variants": [
+        {
+            "wordhead": "厡",
+            "explanation": "篆文从泉。",
+            "seal_character": "滢"
+        }
+    ],
+    "seal_character": "满",
+    "pinyin": "yuan",
+    "pinyin_full": "yuán",
+    "components": [
+        "厂",
+        "泉",
+        "灥"
+    ],
+    "xuan_note": "臣鉉等曰：今別作源，非是。",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "水本也。",
+            "note": "各本作水泉本也。今刪正。月令百源注曰。衆水始所出爲百源。單𧦝曰原。絫𧦝曰原泉。孟子原泉混混是也。"
+        },
+        {
+            "explanation": "从灥出厂下。",
+            "note": "厂者、山石之厓巖。會意。愚袁切。十四部。"
+        },
+        {
+            "explanation": "篆文从泉。",
+            "note": "此亦先二後上之例。以小篆作厡。知𠫐乃古文、籒文也。後人以厡代高平曰邍之邍。而別製源字爲本厡之厡。積非成是久矣。"
+        }
+    ],
+    "indexes": [
+        "𠫐",
+        "厡"
+    ]
+}

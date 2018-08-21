@@ -1,0 +1,31 @@
+{
+    "id": 744,
+    "wordhead": "犥",
+    "explanation": "牛黃白色。从牛麃聲。",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "補嬌切",
+    "variants": [],
+    "seal_character": "儽",
+    "pinyin": "piao",
+    "pinyin_full": "piāo",
+    "components": [
+        "麃",
+        "牛"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牛黃白色。",
+            "note": "黃馬發白色曰驃。票？同聲然則犥者、黃牛發白色也。內則鳥皫色、亦謂發白色。"
+        },
+        {
+            "explanation": "从牛。麃聲。",
+            "note": "補嬌切。二部。"
+        }
+    ],
+    "indexes": [
+        "犥"
+    ]
+}

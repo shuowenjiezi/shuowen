@@ -1,0 +1,35 @@
+{
+    "id": 3535,
+    "wordhead": "梇",
+    "explanation": "木也。从木弄聲。益州有梇棟縣。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "盧貢切",
+    "variants": [],
+    "seal_character": "巷",
+    "pinyin": "long",
+    "pinyin_full": "lònɡ",
+    "components": [
+        "木",
+        "弄"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "梇木也。",
+            "note": "未詳。"
+        },
+        {
+            "explanation": "從木。弄聲。",
+            "note": "盧貢切。九部。"
+        },
+        {
+            "explanation": "益州有梇棟縣。",
+            "note": "益州、漢郡名也。前志字作弄。後志作梇。"
+        }
+    ],
+    "indexes": [
+        "梇"
+    ]
+}

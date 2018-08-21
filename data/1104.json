@@ -1,0 +1,31 @@
+{
+    "id": 1104,
+    "wordhead": "逝",
+    "explanation": "往也。从辵折聲。讀若誓。",
+    "volume": "02",
+    "radical": "辵",
+    "pronunciation": "時制切",
+    "variants": [],
+    "seal_character": "勈",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "折",
+        "辵"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "往也。",
+            "note": "釋詁、方言同。方言曰。逝、秦晉語也。"
+        },
+        {
+            "explanation": "从辵。折聲。讀若誓。",
+            "note": "時制切。十五部。各本篆文不从𣃔艸。非也。"
+        }
+    ],
+    "indexes": [
+        "逝"
+    ]
+}

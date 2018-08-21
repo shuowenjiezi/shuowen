@@ -1,0 +1,47 @@
+{
+    "id": 3293,
+    "wordhead": "䠶",
+    "explanation": "弓弩發於身而中於遠也。从矢从身。",
+    "volume": "05",
+    "radical": "矢",
+    "pronunciation": "食夜切",
+    "variants": [
+        {
+            "wordhead": "射",
+            "explanation": "篆文䠶从寸。寸，法度也。亦手也。",
+            "seal_character": "峚"
+        }
+    ],
+    "seal_character": "峙",
+    "pinyin": "she",
+    "pinyin_full": "shè",
+    "components": [
+        "矢",
+        "寸",
+        "身"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "弓弩發於身而中於遠也。",
+            "note": "謂用弓弩發矢於身而中於遠也。詩、禮記以射爲猒斁之斁。"
+        },
+        {
+            "explanation": "从矢。从身。",
+            "note": "會意。食夜切。古音在五部。"
+        },
+        {
+            "explanation": "篆文䠶。",
+            "note": "射者小篆。則䠶者古文。此亦丄部之例也。何不以射入寸部而以䠶傅見也。爲其事重矢也。"
+        },
+        {
+            "explanation": "从寸。寸、法度也。亦手也。",
+            "note": "說从寸之意。射必依法度。故从寸。寸同又。射必用手。故从寸。"
+        }
+    ],
+    "indexes": [
+        "䠶",
+        "射"
+    ]
+}

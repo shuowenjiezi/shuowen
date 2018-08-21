@@ -1,0 +1,32 @@
+{
+    "id": 1356,
+    "wordhead": "踐",
+    "explanation": "履也。从足戔聲。",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "慈衍切",
+    "variants": [],
+    "seal_character": "叫",
+    "pinyin": "jian",
+    "pinyin_full": "jiàn",
+    "components": [
+        "戔",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "履也。",
+            "note": "履之箸地曰履。履、足所依也。"
+        },
+        {
+            "explanation": "从足。戔聲。",
+            "note": "慈衍切。十四部。"
+        }
+    ],
+    "indexes": [
+        "践",
+        "踐"
+    ]
+}

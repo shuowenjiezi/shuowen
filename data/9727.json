@@ -1,0 +1,43 @@
+{
+    "id": 9727,
+    "wordhead": "孳",
+    "explanation": "汲汲生也。从子兹聲。",
+    "volume": "14",
+    "radical": "子",
+    "pronunciation": "子之切",
+    "variants": [
+        {
+            "wordhead": "𢀐",
+            "explanation": "籒文孳从絲。",
+            "seal_character": "磝"
+        }
+    ],
+    "seal_character": "磜",
+    "pinyin": "zi",
+    "pinyin_full": "zī",
+    "components": [
+        "子",
+        "兹",
+        "絲"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "孶孶、彶彶生也。",
+            "note": "孶孶二字各本無。今依玄應書補。攴部孜下曰。孜孜、彶彶也。此云孶孶、彶彶生也。孜孶二字古多通用。堯典。鳥獸孶尾。某氏傳曰。乳化曰孶。然則蕃生之義當用孶。故从茲。無怠之義當用孜。故从攴。"
+        },
+        {
+            "explanation": "从子。茲聲。",
+            "note": "按此篆从艸木多益之茲。猶水部之茲也。形聲中有會意。五經文字云从茲。非也。茲本在先韵耳。子之切。亦音字。一部。凡許書茲滋鷀孶慈鎡各本篆體皆謬。今皆更正。"
+        },
+        {
+            "explanation": "籒文孶。从絲。",
+            "note": "謂絲聲也。茲从艸、絲省聲。故小篆茲聲。籒文絲聲。一也。"
+        }
+    ],
+    "indexes": [
+        "孳",
+        "𢀐"
+    ]
+}

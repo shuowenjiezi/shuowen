@@ -1,0 +1,36 @@
+{
+    "id": 7502,
+    "wordhead": "霢",
+    "explanation": "霢霂，小雨也。从雨脈聲。",
+    "volume": "11",
+    "radical": "雨",
+    "pronunciation": "莫獲切",
+    "variants": [],
+    "seal_character": "漡",
+    "pinyin": "mai",
+    "pinyin_full": "mài",
+    "components": [
+        "雨",
+        "脈"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "霢霂。",
+            "note": "句。"
+        },
+        {
+            "explanation": "小雨也。",
+            "note": "信南山曰。益之以霢霂。釋天、毛傳皆曰。霢霂、小雨也。釋名曰。言裁霢歷霑漬。如人沐頭、惟及其上枝而根不濡也。按霢霂者、溟濛之轉語。水部溟下曰。小雨溟溟也。濛下曰。濛濛、溦雨也。"
+        },
+        {
+            "explanation": "从雨。脈聲。",
+            "note": "莫獲切。十六部。"
+        }
+    ],
+    "indexes": [
+        "霡",
+        "霢"
+    ]
+}

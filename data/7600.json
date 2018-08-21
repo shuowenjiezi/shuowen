@@ -1,0 +1,35 @@
+{
+    "id": 7600,
+    "wordhead": "魵",
+    "explanation": "魚名。出薉邪頭國。从魚分聲。",
+    "volume": "11",
+    "radical": "魚",
+    "pronunciation": "符分切",
+    "variants": [],
+    "seal_character": "澎",
+    "pinyin": "fen",
+    "pinyin_full": "fén",
+    "components": [
+        "分",
+        "魚"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "魵魚也。",
+            "note": "釋魚曰。魵、鰕。謂魵魚一名鰕魚也。"
+        },
+        {
+            "explanation": "出薉邪頭國。",
+            "note": "陳氏魏志、范氏後漢書東夷傳皆曰。濊國海出班魚皮。今一統志朝鮮下亦云尒。班魚卽魵魚也。郭注爾雅云。出穢邪頭國。見呂氏字林。郭注但偁字林。不偁說文。豈所謂逐末忘本者非邪。"
+        },
+        {
+            "explanation": "从魚。分聲。",
+            "note": "符分切。音轉如頒。十三部。"
+        }
+    ],
+    "indexes": [
+        "魵"
+    ]
+}

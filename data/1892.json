@@ -1,0 +1,44 @@
+{
+    "id": 1892,
+    "wordhead": "鬩",
+    "explanation": "恆訟也。《詩》云：“兄弟鬩于牆。”从鬥从兒。兒，善訟者也。",
+    "volume": "03",
+    "radical": "鬥",
+    "pronunciation": "許激切",
+    "variants": [],
+    "seal_character": "噣",
+    "pinyin": "xi",
+    "pinyin_full": "xì",
+    "components": [
+        "兒",
+        "鬥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "恒訟也。",
+            "note": "恆、常也。故以小兒善訟會意。"
+        },
+        {
+            "explanation": "詩曰。兄弟鬩于牆。",
+            "note": "小雅文。釋言、毛傳皆曰。鬩、很也。孫炎云。相很戾也。李巡本作恨。非。鄭注曲禮、韋注國語可證。"
+        },
+        {
+            "explanation": "从鬥兒。",
+            "note": "會意。兒亦聲。許激切。十六部。"
+        },
+        {
+            "explanation": "兒、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "善訟者也。",
+            "note": "說從兒之意。"
+        }
+    ],
+    "indexes": [
+        "阋",
+        "鬩"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8747,
+    "wordhead": "螉",
+    "explanation": "蟲，在牛馬皮者。从虫翁聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "烏紅切",
+    "variants": [],
+    "seal_character": "瑼",
+    "pinyin": "weng",
+    "pinyin_full": "wēnɡ",
+    "components": [
+        "虫",
+        "翁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "螉䗥。",
+            "note": "各本無此二字。今補。"
+        },
+        {
+            "explanation": "蟲在牛馬皮者。",
+            "note": "爾雅釋文引字林。螉䗥似䗲、蟲在牛皮者。字林本說文也。郭氏爾雅注。蚣䗥一作螉䗥。此謂蜤螽春黍。"
+        },
+        {
+            "explanation": "从虫。翁聲。",
+            "note": "烏紅切。九部。"
+        }
+    ],
+    "indexes": [
+        "螉"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3751,
+    "wordhead": "札",
+    "explanation": "牒也。从木乙聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "側八切",
+    "variants": [],
+    "seal_character": "廣",
+    "pinyin": "zha",
+    "pinyin_full": "zhá",
+    "components": [
+        "乙",
+        "木"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "牒也。",
+            "note": "片部曰。牒、札也。二字互訓。長大者曰槧。薄小者曰札、曰牒。釋名曰。札、櫛也。編之如櫛齒相比也。司馬相如傳曰。上令尚書給筆札。師古曰。札、木𥳑之薄小者也。"
+        },
+        {
+            "explanation": "從木。乙聲。",
+            "note": "側八切。古音在十二部。"
+        }
+    ],
+    "indexes": [
+        "札"
+    ]
+}

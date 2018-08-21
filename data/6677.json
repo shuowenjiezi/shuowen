@@ -1,0 +1,38 @@
+{
+    "id": 6677,
+    "wordhead": "悳",
+    "explanation": "外得於人，内得於己也。从直从心。",
+    "volume": "10",
+    "radical": "心",
+    "pronunciation": "多則切",
+    "variants": [
+        {
+            "wordhead": "㥁",
+            "explanation": "古文。",
+            "seal_character": "殡"
+        }
+    ],
+    "seal_character": "殠",
+    "pinyin": "de",
+    "pinyin_full": "dé",
+    "components": [
+        "心",
+        "直"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "外得於人。內得於己也。",
+            "note": "此當依小徐通論作內得於己。外得於人。內得於己、謂身心所自得也。外得於人、謂惠澤使人得之也。俗字叚德爲之。德者、升也。古字或叚得爲之。"
+        },
+        {
+            "explanation": "从直心。",
+            "note": "洪範三德。一曰正直。直亦聲。多則切。一部。"
+        }
+    ],
+    "indexes": [
+        "悳",
+        "㥁"
+    ]
+}

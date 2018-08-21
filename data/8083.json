@@ -1,0 +1,35 @@
+{
+    "id": 8083,
+    "wordhead": "媒",
+    "explanation": "謀也，謀合二姓。从女某聲。",
+    "volume": "12",
+    "radical": "女",
+    "pronunciation": "莫桮切",
+    "variants": [],
+    "seal_character": "熛",
+    "pinyin": "mei",
+    "pinyin_full": "méi",
+    "components": [
+        "某",
+        "女"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "謀也。",
+            "note": "以㬪韵爲訓。"
+        },
+        {
+            "explanation": "謀合二姓者也。",
+            "note": "慮難曰謀。周禮媒氏注曰。媒之言謀也。謀合異類使和成者。"
+        },
+        {
+            "explanation": "从女。某聲。",
+            "note": "莫桮切。古音在一部。"
+        }
+    ],
+    "indexes": [
+        "媒"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 2215,
+    "wordhead": "自",
+    "explanation": "鼻也。象鼻形。凡自之屬皆从自。",
+    "volume": "04",
+    "radical": "自",
+    "pronunciation": "疾二切",
+    "variants": [
+        {
+            "wordhead": "𦣼",
+            "explanation": "古文自<span>[<span>𦣹</span>]</span>。",
+            "seal_character": "埡"
+        }
+    ],
+    "seal_character": "埠",
+    "pinyin": "zi",
+    "pinyin_full": "zì",
+    "components": [
+        "自"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "鼻也。象鼻形。",
+            "note": "此以鼻訓自。而又曰象鼻形。王部曰。自讀若鼻。今俗以作始生子爲鼻子是。然則許謂自與鼻義同音同。而用自爲鼻者絕少也。凡从自之字、如尸部㞒、臥息也。言部詯、膽气滿聲在人上也。亦皆於鼻息會意。今義從也、己也、自然也皆引伸之義。疾二切。十五部。"
+        },
+        {
+            "explanation": "此亦自字也。省自者。䛐言之气从鼻出。與口相助。",
+            "note": "䛐者、意内而言外也。言从口出、而气从鼻出。與口相助。故其字上从自省、下从口。而讀同自。疾二切。十五部。"
+        }
+    ],
+    "indexes": [
+        "自",
+        "𦣼"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3322,
+    "wordhead": "厚",
+    "explanation": "山陵之厚也。从𣆪从厂。",
+    "volume": "05",
+    "radical": "㫗",
+    "pronunciation": "胡口切",
+    "variants": [
+        {
+            "wordhead": "垕",
+            "explanation": "古文厚从后土。",
+            "seal_character": "崁"
+        }
+    ],
+    "seal_character": "崀",
+    "pinyin": "hou",
+    "pinyin_full": "hòu",
+    "components": [
+        "土",
+        "后",
+        "厂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "山陵之㫗也。",
+            "note": "㫗各本作厚。今正。山陵之厚故其字从厂。今字凡㫗薄字皆作此。"
+        },
+        {
+            "explanation": "从厂。从𣆪。",
+            "note": "𣆪亦聲。胡口切。四部。"
+        },
+        {
+            "explanation": "古文厚。从后土。",
+            "note": "从土、后聲也。"
+        }
+    ],
+    "indexes": [
+        "厚",
+        "垕"
+    ]
+}

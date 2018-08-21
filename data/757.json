@@ -1,0 +1,35 @@
+{
+    "id": 757,
+    "wordhead": "犓",
+    "explanation": "以芻莖養牛也。从牛、芻，芻亦聲。《春秋國語》曰：“犓豢幾何。”",
+    "volume": "02",
+    "radical": "牛",
+    "pronunciation": "測愚切",
+    "variants": [],
+    "seal_character": "兊",
+    "pinyin": "chu",
+    "pinyin_full": "chú",
+    "components": [
+        "牛",
+        "芻"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "㠯芻莝養圈牛也。",
+            "note": "今本莝誤莖、脫圈字。依文𨕖注訂。莝、斬芻也。趙岐注孟子曰。艸生曰芻。穀養曰豢。韋注國語曰。艸食曰芻。穀食曰豢。孟子正義引說文。牛馬曰芻。犬豕曰豢。今說文無此語。經傳犓豢字、今皆作芻豢。"
+        },
+        {
+            "explanation": "从牛芻。芻亦聲。",
+            "note": "測愚切。古音在四部。"
+        },
+        {
+            "explanation": "春秋國語曰。犓豢幾何。",
+            "note": "見楚語。"
+        }
+    ],
+    "indexes": [
+        "犓"
+    ]
+}

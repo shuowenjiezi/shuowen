@@ -1,0 +1,43 @@
+{
+    "id": 6436,
+    "wordhead": "爤",
+    "explanation": "孰也。从火蘭聲。",
+    "volume": "10",
+    "radical": "火",
+    "pronunciation": "郎旰切",
+    "variants": [
+        {
+            "wordhead": "燗",
+            "explanation": "或从閒。",
+            "seal_character": "檎"
+        }
+    ],
+    "seal_character": "檍",
+    "pinyin": "lan",
+    "pinyin_full": "làn",
+    "components": [
+        "火",
+        "閒",
+        "蘭"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "火𦏧也。",
+            "note": "此火字依節南山生民二正義補。方言。自河以北趙魏之閒火𠅩曰爛。𠅩者、食飪也。飪者、大𠅩也。𠅩則火候到矣。引伸之、凡淹久不堅皆曰爛。𠅩則可燦然陳列。故又引伸爲粲爛。"
+        },
+        {
+            "explanation": "从火。蘭聲。",
+            "note": "郞旰切。十四部。隷作爛。不从艸。"
+        },
+        {
+            "explanation": "或从閒。",
+            "note": "此如詩蕑卽蘭。"
+        }
+    ],
+    "indexes": [
+        "爤",
+        "燗"
+    ]
+}

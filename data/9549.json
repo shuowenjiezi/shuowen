@@ -1,0 +1,50 @@
+{
+    "id": 9549,
+    "wordhead": "輗",
+    "explanation": "大車轅耑持衡者。从車兒聲。",
+    "volume": "14",
+    "radical": "車",
+    "pronunciation": "五雞切",
+    "variants": [
+        {
+            "wordhead": "𨌊",
+            "explanation": "輗或从宐。",
+            "seal_character": "砍"
+        },
+        {
+            "wordhead": "棿",
+            "explanation": "輗或从木。",
+            "seal_character": "砎"
+        }
+    ],
+    "seal_character": "砌",
+    "pinyin": "ni",
+    "pinyin_full": "ní",
+    "components": [
+        "木",
+        "車",
+        "兒",
+        "宐"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大車轅耑持衡者也。",
+            "note": "轅與衡相接之關鍵也。墨子曰。吾不知爲車輗者巧也。用咫尺之木。不費一朝之事。而引三十石之任。此與小車之䡇同用而異名。許不與䡇篆爲伍者、大車别於小車也。自輗至輂五篆皆言大車。前文䡞篆當亦廁此處。"
+        },
+        {
+            "explanation": "从車。兒聲。",
+            "note": "五雞切。十六部。"
+        },
+        {
+            "explanation": "輗或从宐。",
+            "note": "宐聲在十七部。與十六部合韵冣近。"
+        }
+    ],
+    "indexes": [
+        "輗",
+        "𨌊",
+        "棿"
+    ]
+}

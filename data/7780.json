@@ -1,0 +1,47 @@
+{
+    "id": 7780,
+    "wordhead": "聝",
+    "explanation": "軍戰斷耳也。《春秋傳》曰：“以爲俘聝。”从耳或聲。",
+    "volume": "12",
+    "radical": "耳",
+    "pronunciation": "古獲切",
+    "variants": [
+        {
+            "wordhead": "馘",
+            "explanation": "聝或从首<span>[<span>𩠐</span>]</span>。",
+            "seal_character": "灖"
+        }
+    ],
+    "seal_character": "灕",
+    "pinyin": "guo",
+    "pinyin_full": "ɡuó",
+    "components": [
+        "耳",
+        "首",
+        "或"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "軍戰𣃔耳也。",
+            "note": "大雅。攸馘安安。傳曰。馘、獲也。不服者殺而獻其左耳曰馘。魯頌。在泮獻馘。箋云。馘所格者之左耳。"
+        },
+        {
+            "explanation": "春秋傳曰。㠯爲俘聝。",
+            "note": "左傳成三年文。"
+        },
+        {
+            "explanation": "从耳。或聲。",
+            "note": "古獲切。古音在一部。"
+        },
+        {
+            "explanation": "聝或从𩠐。",
+            "note": "今經傳中多从首。"
+        }
+    ],
+    "indexes": [
+        "聝",
+        "馘"
+    ]
+}

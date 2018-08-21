@@ -1,0 +1,51 @@
+{
+    "id": 238,
+    "wordhead": "𡴆",
+    "explanation": "菌𡴆，地蕈。叢生田中。从屮六聲。",
+    "volume": "01",
+    "radical": "屮",
+    "pronunciation": "力竹切",
+    "variants": [
+        {
+            "wordhead": "𡴫",
+            "explanation": "籒文𡴆从三𡴆。",
+            "seal_character": "伛"
+        }
+    ],
+    "seal_character": "会",
+    "pinyin": "lu",
+    "pinyin_full": "lù",
+    "components": [
+        "屮",
+        "六",
+        "圥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "菌𡴆、",
+            "note": "逗。"
+        },
+        {
+            "explanation": "地𧅸（蕈）。",
+            "note": "釋艸曰。中馗、{艸+（日+囷[左右]）}。注。地蕈也。似葢。今江東名爲土菌。亦曰馗廚。又出隧蘧蔬。注。蘧蔬似土菌。生菰草中。按馗廚、蘧蔬、菌𡴆三者。一音之轉語。菌𡴆玉篇作圈𡴆。"
+        },
+        {
+            "explanation": "叢生田中。",
+            "note": "陳藏器曰。地生者爲菌。木生者爲㮕。按㮕同䓴。許云。蕈、桑䓴也。故謂地生者爲地蕈。"
+        },
+        {
+            "explanation": "从屮。六聲。",
+            "note": "力竹切。三部。"
+        },
+        {
+            "explanation": "籒文𡴆。从三𡴆。",
+            "note": "象叢生之狀也。籒文陸字从此。"
+        }
+    ],
+    "indexes": [
+        "𡴆",
+        "𡴫"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 8823,
+    "wordhead": "蜩",
+    "explanation": "蟬也。从虫周聲。《詩》曰：“五月鳴蜩。”",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "徒聊切",
+    "variants": [
+        {
+            "wordhead": "𧊓",
+            "explanation": "蜩或从舟。",
+            "seal_character": "瓑"
+        }
+    ],
+    "seal_character": "瓐",
+    "pinyin": "tiao",
+    "pinyin_full": "tiáo",
+    "components": [
+        "周",
+        "虫",
+        "舟"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蟬也。",
+            "note": "豳風傳曰。蜩、螗也。大雅。如蜩如㜍。傳曰。蜩、蟬也。螗、蝘也。小雅。鳴蜩嘒嘒。傳曰。蜩、蟬也。不同者、或渾言。或析言。蟬之類不同也。夏小正傳曰。唐蜩者匽。爾雅曰。蜩、蜋蜩、螗蜩。許書無螗字。螗葢蟬之大者也。當依小正作唐。"
+        },
+        {
+            "explanation": "从虫。周聲。",
+            "note": "徒𦕼切。古音在三部。"
+        },
+        {
+            "explanation": "詩曰。五月鳴蜩。",
+            "note": "七月文。"
+        },
+        {
+            "explanation": "蜩或从舟。",
+            "note": "古周舟通用。"
+        }
+    ],
+    "indexes": [
+        "蜩",
+        "𧊓"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": 9213,
+    "wordhead": "金",
+    "explanation": "五色金也。黃爲之長。久薶不生衣，百鍊不輕，从革不違。西方之行。生於土，从土；左右注，象金在土中形；今聲。凡金之屬皆从金。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "居音切",
+    "variants": [
+        {
+            "wordhead": "𨥀",
+            "explanation": "古文金。",
+            "seal_character": "皥"
+        }
+    ],
+    "seal_character": "皤",
+    "pinyin": "jin",
+    "pinyin_full": "jīn",
+    "components": [
+        "土",
+        "今",
+        "八"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "五色金也。",
+            "note": "凡有五色。皆謂之金也。下文白金、靑金、赤金、黑金、合黃金爲五色。"
+        },
+        {
+            "explanation": "黃爲之長。",
+            "note": "故獨得金名。"
+        },
+        {
+            "explanation": "久薶不生衣。百鍊不輕。",
+            "note": "此二句言黃金之德。"
+        },
+        {
+            "explanation": "從革不韋。",
+            "note": "舊作違。今正。韋、背也。從革、見鴻範。謂順人之意以變更成器。雖屢改易而無傷也。五金皆然。"
+        },
+        {
+            "explanation": "西方之行。",
+            "note": "以五行言之爲西方之行。"
+        },
+        {
+            "explanation": "生於土。从土。𠂇又注、象金在土中形。",
+            "note": "謂土旁二筆也。"
+        },
+        {
+            "explanation": "今聲。",
+            "note": "下形上聲。居音切。七部。"
+        },
+        {
+            "explanation": "古文金。",
+            "note": "象形而不諧聲。"
+        }
+    ],
+    "indexes": [
+        "金",
+        "𨥀"
+    ]
+}

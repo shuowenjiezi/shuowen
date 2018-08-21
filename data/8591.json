@@ -1,0 +1,35 @@
+{
+    "id": 8591,
+    "wordhead": "紑",
+    "explanation": "白鮮衣皃。从糸不聲。《詩》曰：“素衣其紑。”",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "匹丘切",
+    "variants": [],
+    "seal_character": "珊",
+    "pinyin": "fou",
+    "pinyin_full": "fóu",
+    "components": [
+        "不",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "白鱻衣皃。",
+            "note": "鱻各本作鮮。今正。許例新鮮字如此作也。毛詩傳曰。絲衣、祭服也。紑、絜鮮皃。"
+        },
+        {
+            "explanation": "从糸。不聲。",
+            "note": "匹丘切。古音在一部。"
+        },
+        {
+            "explanation": "詩曰。素衣其紑。",
+            "note": "周頌作絲衣。絲衣乃篇名。素恐譌字。此謂士爵弁玄衣纁裳非白衣也。本義謂白鮮。引申之爲凡新衣之偁。"
+        }
+    ],
+    "indexes": [
+        "紑"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 6245,
+    "wordhead": "麠",
+    "explanation": "大鹿也。牛尾一角。从鹿畺聲。",
+    "volume": "10",
+    "radical": "鹿",
+    "pronunciation": "舉卿切",
+    "variants": [
+        {
+            "wordhead": "麖",
+            "explanation": "或从京<span>[<span>𢂋</span>]</span>。",
+            "seal_character": "榽"
+        }
+    ],
+    "seal_character": "榼",
+    "pinyin": "jing",
+    "pinyin_full": "jīnɡ",
+    "components": [
+        "京",
+        "畺",
+        "鹿"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "大麃也。牛尾、一角。",
+            "note": "麃各本作鹿。誤。今正。釋獸云。麠、大麃。牛尾、一角。許所本也。史武帝紀、漢郊祀志皆曰。郊雍。獲一角獸。若麃然。武帝所獲正是麠。葢麃似麞無角。大麃有一角則謂之麠。當時有司因一角附會爲麟也。"
+        },
+        {
+            "explanation": "从鹿。畺聲。",
+            "note": "舉𨜮切。古音在十部。"
+        },
+        {
+            "explanation": "或从京。",
+            "note": "蜀都、吳都二賦如此作。此與䲔或从京正同。"
+        }
+    ],
+    "indexes": [
+        "麠",
+        "麖"
+    ]
+}

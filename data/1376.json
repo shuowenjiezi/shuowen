@@ -1,0 +1,35 @@
+{
+    "id": 1376,
+    "wordhead": "趿",
+    "explanation": "進足有所擷取也。从足及聲。《爾雅》曰：“趿謂之擷。”",
+    "volume": "02",
+    "radical": "足",
+    "pronunciation": "稣合切",
+    "variants": [],
+    "seal_character": "吀",
+    "pinyin": "sa",
+    "pinyin_full": "sà",
+    "components": [
+        "及",
+        "足"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "進足有所擷取也。",
+            "note": "爾雅、毛傳皆云。執袵曰袺。扱衽曰襭。衣部云。以衣衽扱物謂之襭。襭或作擷。"
+        },
+        {
+            "explanation": "从足。及聲。",
+            "note": "穌合切。七部。"
+        },
+        {
+            "explanation": "爾雅曰。趿謂之擷。",
+            "note": "按所據爾雅扱作趿。無衽字。與今本異。亦與衣部說異。葢衣部用毛傳。此據爾雅也。"
+        }
+    ],
+    "indexes": [
+        "趿"
+    ]
+}

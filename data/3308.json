@@ -1,0 +1,39 @@
+{
+    "id": 3308,
+    "wordhead": "市",
+    "explanation": "買賣所之也。市有垣，从冂从绁，绁，古文及，象物相及也。之省聲。",
+    "volume": "05",
+    "radical": "冂",
+    "pronunciation": "時止切",
+    "variants": [],
+    "seal_character": "峭",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "之",
+        "冂"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "買賣所之也。",
+            "note": "釋詁曰。之、往也。古史考曰。神農作市。本𣪠辭說也。世本曰。祝融作市。"
+        },
+        {
+            "explanation": "市有垣。从冂。",
+            "note": "垣所以介也。故从冂。"
+        },
+        {
+            "explanation": "从乀。象物相及也。乀、古文及字。",
+            "note": "依韵會本。"
+        },
+        {
+            "explanation": "㞢省聲。",
+            "note": "舉形聲包會意也。時止切。一部。"
+        }
+    ],
+    "indexes": [
+        "市"
+    ]
+}

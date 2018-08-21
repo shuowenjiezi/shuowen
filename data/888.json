@@ -1,0 +1,31 @@
+{
+    "id": 888,
+    "wordhead": "嗜",
+    "explanation": "嗜欲，喜之也。从口耆聲。",
+    "volume": "02",
+    "radical": "口",
+    "pronunciation": "常利切",
+    "variants": [],
+    "seal_character": "凛",
+    "pinyin": "shi",
+    "pinyin_full": "shì",
+    "components": [
+        "口",
+        "耆"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "喜欲之也。",
+            "note": "此依韵會本。喜當作憙憙、悅也。經傳多假耆爲嗜。"
+        },
+        {
+            "explanation": "从口。耆聲。",
+            "note": "常利切。十五部。"
+        }
+    ],
+    "indexes": [
+        "嗜"
+    ]
+}

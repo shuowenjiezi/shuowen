@@ -1,0 +1,35 @@
+{
+    "id": 9268,
+    "wordhead": "鋊",
+    "explanation": "可以句鼎耳及鑪炭。从金谷聲。一曰銅㞕。讀若浴。",
+    "volume": "14",
+    "radical": "金",
+    "pronunciation": "余足切",
+    "variants": [],
+    "seal_character": "盟",
+    "pinyin": "yu",
+    "pinyin_full": "yù",
+    "components": [
+        "谷",
+        "金"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "可㠯句鼎耳及鑪炭。",
+            "note": "句讀如鉤。鉤鼎耳舉之、鉤鑪炭出之之器也。"
+        },
+        {
+            "explanation": "从金。谷聲。讀若浴。",
+            "note": "余足切。三部。"
+        },
+        {
+            "explanation": "一曰銅㞕。",
+            "note": "食貨志。民盜摩錢以取鋊。"
+        }
+    ],
+    "indexes": [
+        "鋊"
+    ]
+}

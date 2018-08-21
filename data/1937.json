@@ -1,0 +1,39 @@
+{
+    "id": 1937,
+    "wordhead": "晝",
+    "explanation": "日之出入，與夜爲界。从畫省，从日。",
+    "volume": "03",
+    "radical": "畫",
+    "pronunciation": "陟救切",
+    "variants": [
+        {
+            "wordhead": "𦘘",
+            "explanation": "籒文晝。",
+            "seal_character": "嚧"
+        }
+    ],
+    "seal_character": "嚦",
+    "pinyin": "zhou",
+    "pinyin_full": "zhòu",
+    "components": [
+        "日",
+        "畫"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "日之出入。與夜爲介。从畫省。从日。",
+            "note": "按今篆體葢亦少一橫。陟救切。四部。"
+        },
+        {
+            "explanation": "籒文晝。",
+            "note": "按省下一橫者。至夜則日在下。未嘗息也。"
+        }
+    ],
+    "indexes": [
+        "昼",
+        "晝",
+        "𦘘"
+    ]
+}

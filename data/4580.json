@@ -1,0 +1,35 @@
+{
+    "id": 4580,
+    "wordhead": "宵",
+    "explanation": "夜也。从宀，宀下冥也；肖聲。",
+    "volume": "07",
+    "radical": "宀",
+    "pronunciation": "相邀切",
+    "variants": [],
+    "seal_character": "抄",
+    "pinyin": "xiao",
+    "pinyin_full": "xiāo",
+    "components": [
+        "肖",
+        "宀"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "夜也。",
+            "note": "釋言、毛傳皆曰。宵、夜也。周禮司寤。禁宵行夜游者。鄭云。宵、定昏也。按此因經文以宵別於夜爲言。若渾言則宵卽夜也。有假宵爲小者。學記之宵雅是也。有假宵爲肖者。漢志人宵天地之貌是也。"
+        },
+        {
+            "explanation": "从宀。宀下冥也。",
+            "note": "謂日在下而窈冥。地覆日如屋也。"
+        },
+        {
+            "explanation": "肖聲。",
+            "note": "相邀切。二部。"
+        }
+    ],
+    "indexes": [
+        "宵"
+    ]
+}

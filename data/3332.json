@@ -1,0 +1,43 @@
+{
+    "id": 3332,
+    "wordhead": "𥏳",
+    "explanation": "《詩》曰：“不𥏳不來。”从來矣聲。",
+    "volume": "05",
+    "radical": "來",
+    "pronunciation": "牀史切",
+    "variants": [
+        {
+            "wordhead": "𢓪",
+            "explanation": "𥏳或从彳。",
+            "seal_character": "崔"
+        }
+    ],
+    "seal_character": "崓",
+    "pinyin": "si",
+    "pinyin_full": "sì",
+    "components": [
+        "來",
+        "矣",
+        "彳"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "詩曰。不𥏳不來。",
+            "note": "毛詩無此語。釋訓曰。不？、不來也。爾雅多釋詩書。葢江有汜之詩不我以、古作不我？。？者、來之也。不我？者、不來我也。許葢兼偁詩、爾雅。當云詩曰不我？。不？不來也。轉寫譌奪。不可讀耳。？與以不同者。葢許兼偁三家詩也。"
+        },
+        {
+            "explanation": "从來。矣聲。",
+            "note": "牀史切。一部。"
+        },
+        {
+            "explanation": "𥏳或从彳。",
+            "note": "今韵書、字書以𥏳𢓪同竢。訓待。非也。"
+        }
+    ],
+    "indexes": [
+        "𥏳",
+        "𢓪"
+    ]
+}

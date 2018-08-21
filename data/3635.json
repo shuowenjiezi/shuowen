@@ -1,0 +1,32 @@
+{
+    "id": 3635,
+    "wordhead": "樓",
+    "explanation": "重屋也。从木婁聲。",
+    "volume": "06",
+    "radical": "木",
+    "pronunciation": "洛矦切",
+    "variants": [],
+    "seal_character": "幡",
+    "pinyin": "lou",
+    "pinyin_full": "lóu",
+    "components": [
+        "木",
+        "婁"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "重屋也。",
+            "note": "重屋與複屋不同。複屋不可居。重屋可居。考工記之重屋、謂複屋也。釋名曰。樓謂牖戸之閒諸射孔樓樓然也。樓樓當作婁婁。女部曰。婁、空也。囧下曰。窗牖麗廔開明。"
+        },
+        {
+            "explanation": "從木。婁聲。",
+            "note": "洛侯切。四部。"
+        }
+    ],
+    "indexes": [
+        "楼",
+        "樓"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2025,
+    "wordhead": "赦",
+    "explanation": "置也。从攴赤聲。",
+    "volume": "03",
+    "radical": "攴",
+    "pronunciation": "始夜切",
+    "variants": [
+        {
+            "wordhead": "𢼜",
+            "explanation": "赦<span>[<span>𢽀</span>]</span>或从亦<span>[<span>𡗕</span>]</span>。",
+            "seal_character": "圍"
+        }
+    ],
+    "seal_character": "圌",
+    "pinyin": "she",
+    "pinyin_full": "shè",
+    "components": [
+        "亦",
+        "攴",
+        "赤"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "置也。",
+            "note": "网部曰。置、赦也。二字互訓。赦與捨音義同。非專謂赦罪也。後捨行而赦廢。赦專爲赦罪矣。"
+        },
+        {
+            "explanation": "从攴。赤聲。",
+            "note": "始夜切。古音在五部。"
+        },
+        {
+            "explanation": "赦或从亦。",
+            "note": "亦聲。古在五部。"
+        }
+    ],
+    "indexes": [
+        "赦",
+        "𢼜"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 8615,
+    "wordhead": "紟",
+    "explanation": "衣系也。从糸今聲。",
+    "volume": "13",
+    "radical": "糸",
+    "pronunciation": "居音切",
+    "variants": [
+        {
+            "wordhead": "䋮",
+            "explanation": "籒文从金。",
+            "seal_character": "珤"
+        }
+    ],
+    "seal_character": "珣",
+    "pinyin": "jin",
+    "pinyin_full": "jīn",
+    "components": [
+        "今",
+        "金",
+        "糸"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "衣系也。",
+            "note": "聯合衣襟之帶也。今人用銅鈕。非古也。凡結帶皆曰紟。玉藻。紳韠結三齊。注云。結、約餘也。結或爲紟。宋本如此韋注國語曰。帶甲者紟鎧也。紟、今本譌衿。荀卿非十二子曰。其纓禁緩。叚禁爲紟也。按襟、交衽也。俗作衿。今人衿紟不別。又喪禮紟、單被也。乃紟之別一義。亦因可以固結之義引申之。"
+        },
+        {
+            "explanation": "从糸。今聲。",
+            "note": "居音切。七部。按又巨禁切。"
+        },
+        {
+            "explanation": "籒文从金。",
+            "note": "玉篇、古文四聲韵皆作𦁌。"
+        }
+    ],
+    "indexes": [
+        "紟",
+        "䋮"
+    ]
+}

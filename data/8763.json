@@ -1,0 +1,31 @@
+{
+    "id": 8763,
+    "wordhead": "螟",
+    "explanation": "蟲食穀葉者。吏冥冥犯法卽生螟。从虫从冥，冥亦聲。",
+    "volume": "13",
+    "radical": "虫",
+    "pronunciation": "莫經切",
+    "variants": [],
+    "seal_character": "璎",
+    "pinyin": "ming",
+    "pinyin_full": "mínɡ",
+    "components": [
+        "虫",
+        "冥"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "蟲食穀心者。吏冥冥犯法卽生螟。",
+            "note": "心各本譌葉。今依開元占經正。釋蟲、毛傳皆曰。食心曰螟。食葉曰？。食根曰蟊。食節曰賊。云吏冥冥犯法卽生螟、正爲食心言之。惟食心、故从虫冥會意。"
+        },
+        {
+            "explanation": "从虫冥。冥亦聲。",
+            "note": "此从宋本及小徐本。莫經切。十一部。按鉉本於此下妄增又螟蛉三字。宋本所無。且螟𧕅、桑蟲也。見下文。字不作蛉。"
+        }
+    ],
+    "indexes": [
+        "螟"
+    ]
+}

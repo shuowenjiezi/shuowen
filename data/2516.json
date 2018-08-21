@@ -1,0 +1,46 @@
+{
+    "id": 2516,
+    "wordhead": "㕡",
+    "explanation": "溝也。从𣦼从谷。讀若郝。",
+    "volume": "04",
+    "radical": "𣦼",
+    "pronunciation": "呼各切",
+    "variants": [
+        {
+            "wordhead": "壑",
+            "explanation": "㕡或从土。",
+            "seal_character": "奅"
+        }
+    ],
+    "seal_character": "奄",
+    "pinyin": "he",
+    "pinyin_full": "hè",
+    "components": [
+        "土",
+        "谷"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "溝也。",
+            "note": "大司徒溝封。鄭曰。溝穿地爲阻固也。水部溝、水瀆。廣四尺。深四尺。此單舉匠人文耳。凡穿地爲水瀆皆稱溝。稱㕡。毛詩。實墉實壑。謂城池也。鄭伯有爲窟室飲酒。人謂之壑谷。"
+        },
+        {
+            "explanation": "从𣦻。从谷。",
+            "note": "穿地而通谷也。釋水曰。注谷曰溝。"
+        },
+        {
+            "explanation": "讀若郝。",
+            "note": "呼各切。五部。"
+        },
+        {
+            "explanation": "㕡或从土。",
+            "note": "謂穿土。"
+        }
+    ],
+    "indexes": [
+        "㕡",
+        "壑"
+    ]
+}

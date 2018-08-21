@@ -1,0 +1,39 @@
+{
+    "id": 5823,
+    "wordhead": "峱",
+    "explanation": "山，在齊地。从山狃聲。《詩》曰：“遭我于峱之間兮。”",
+    "volume": "09",
+    "radical": "山",
+    "pronunciation": "奴刀切",
+    "variants": [],
+    "seal_character": "柫",
+    "pinyin": "nao",
+    "pinyin_full": "náo",
+    "components": [
+        "狃",
+        "山"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "峱山也。",
+            "note": "舊奪峱字、也字。今補。三字句。"
+        },
+        {
+            "explanation": "在齊地。",
+            "note": "上文五嶽不言在者、人所共知。不待言也。齊風還曰。遭我乎峱之閒兮。傳曰。峱、峱山也。地理志引作嶩。師古云。亦作巎。音皆乃高反。"
+        },
+        {
+            "explanation": "从山。狃聲。",
+            "note": "奴刀切。古音在三部。"
+        },
+        {
+            "explanation": "詩曰。遭我于峱之閒兮。",
+            "note": "今詩于作乎。漢書作虖。"
+        }
+    ],
+    "indexes": [
+        "峱"
+    ]
+}

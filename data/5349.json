@@ -1,0 +1,42 @@
+{
+    "id": 5349,
+    "wordhead": "裘",
+    "explanation": "皮衣也。从衣求聲。一曰象形，與衰同意。凡裘之屬皆从裘。",
+    "volume": "08",
+    "radical": "裘",
+    "pronunciation": "巨鳩切",
+    "variants": [
+        {
+            "wordhead": "求",
+            "explanation": "古文省衣。",
+            "seal_character": "旔"
+        }
+    ],
+    "seal_character": "旓",
+    "pinyin": "qiu",
+    "pinyin_full": "qiú",
+    "components": [
+        "求",
+        "衣"
+    ],
+    "xuan_note": "",
+    "kai_note": "",
+    "duan_notes": [
+        {
+            "explanation": "皮衣也。从衣。象形。",
+            "note": "各本作从衣求聲、一曰象形。淺人𡚶增之也。裘之制毛在外。故象毛文。"
+        },
+        {
+            "explanation": "與衰同意。",
+            "note": "皆从衣而象其形也。巨鳩切。古音在一部。"
+        },
+        {
+            "explanation": "古文𧚍。",
+            "note": "此本古文裘字。後加衣爲裘。而求專爲干請之用。亦猶加艸爲蓑。而衰爲等差之用也。求之加衣。葢不待小篆矣。"
+        }
+    ],
+    "indexes": [
+        "裘",
+        "求"
+    ]
+}
