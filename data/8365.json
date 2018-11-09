@@ -3,12 +3,12 @@
     "wordhead": "瑟",
     "explanation": "庖犧所作弦樂也。从珡必聲。",
     "volume": "12",
-    "radical": "琴",
+    "radical": "珡",
     "pronunciation": "所櫛切",
     "variants": [
         {
             "wordhead": "𡘼",
-            "explanation": "古文瑟<span>[<span>𤨝</span>]</span>。",
+            "explanation": "古文瑟[𤨝]。",
             "seal_character": "狈"
         }
     ],
@@ -41,6 +41,7 @@
     ],
     "indexes": [
         "瑟",
+        "𤨝",
         "𡘼"
     ]
 }
