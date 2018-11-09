@@ -1,7 +1,7 @@
 {
     "id": 8370,
     "wordhead": "亾",
-    "explanation": "逃也。从入从乚。凡亡之屬皆从亡。",
+    "explanation": "逃也。从入从𠃊。凡亾之屬皆从亾。",
     "volume": "12",
     "radical": "亾",
     "pronunciation": "武方切",
@@ -11,7 +11,7 @@
     "pinyin_full": "wánɡ",
     "components": [
         "入",
-        "乚"
+        "𠃊"
     ],
     "xuan_note": "",
     "kai_note": "",
@@ -26,6 +26,8 @@
         }
     ],
     "indexes": [
-        "亾"
+        "亾",
+        "兦",
+        "亡"
     ]
 }
