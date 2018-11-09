@@ -1,9 +1,9 @@
 {
     "id": 5447,
-    "wordhead": "穨",
-    "explanation": "秃皃。从秃貴聲。",
+    "wordhead": "𥤒",
+    "explanation": "禿皃。从禿貴聲。",
     "volume": "08",
-    "radical": "秃",
+    "radical": "禿",
     "pronunciation": "杜回切",
     "variants": [],
     "seal_character": "晄",
@@ -26,6 +26,9 @@
         }
     ],
     "indexes": [
-        "穨"
+        "穨",
+        "頹",
+        "𥤒",
+        "頽"
     ]
 }
