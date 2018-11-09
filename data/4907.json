@@ -20,7 +20,16 @@
     ],
     "xuan_note": "",
     "kai_note": "",
-    "duan_notes": [],
+    "duan_notes": [
+        {
+            "explanation": "西方色也。侌用事。物色白。从入合二。",
+            "note": "出者陽也。入者陰也。故从入。"
+        },
+        {
+            "explanation": "二、侌數。",
+            "note": "說从二之恉。旁陌切。古音在五部。"
+        }
+    ],
     "indexes": [
         "白",
         "𦣺"
