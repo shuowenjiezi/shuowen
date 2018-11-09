@@ -1,9 +1,9 @@
 {
     "id": 6639,
     "wordhead": "𡚇",
-    "explanation": "大皃。从大𥆞聲。或曰拳勇字。一曰讀若傿。",
+    "explanation": "大皃。从亣𥆞聲。或曰拳勇字。一曰讀若傿。",
     "volume": "10",
-    "radical": "绊",
+    "radical": "亣",
     "pronunciation": "乙獻切",
     "variants": [],
     "seal_character": "歴",
@@ -16,7 +16,7 @@
     "kai_note": "",
     "duan_notes": [
         {
-            "explanation": "大皃。从大。{𥆞+一[上下]}聲。",
+            "explanation": "大皃。从亣。{𥆞+一[上下]}聲。",
             "note": "{𥆞+一[上下]}讀若書卷之卷。見四篇。"
         },
         {
@@ -29,6 +29,7 @@
         }
     ],
     "indexes": [
-        "𡚇"
+        "𡚇",
+        "𡙷"
     ]
 }
