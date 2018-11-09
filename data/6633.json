@@ -1,9 +1,9 @@
 {
     "id": 6633,
-    "wordhead": "绊",
-    "explanation": "籒文大，改古文。亦象人形。凡绊之屬皆从绊。",
+    "wordhead": "亣",
+    "explanation": "籒文亣，改古文。亦象人形。凡亣之屬皆从亣。",
     "volume": "10",
-    "radical": "绊",
+    "radical": "亣",
     "pronunciation": "他達切",
     "variants": [],
     "seal_character": "歮",
@@ -21,6 +21,7 @@
         }
     ],
     "indexes": [
-        "绊"
+        "亣",
+        ""
     ]
 }
