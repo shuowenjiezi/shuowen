@@ -1,14 +1,14 @@
 {
     "id": 8364,
-    "wordhead": "琴",
+    "wordhead": "珡",
     "explanation": "禁也。神農所作。洞越。練朱五弦，周加二弦。象形。凡珡之屬皆从珡。",
     "volume": "12",
-    "radical": "琴",
+    "radical": "珡",
     "pronunciation": "巨今切",
     "variants": [
         {
             "wordhead": "𨫹",
-            "explanation": "古文珡<span>[<span>𤦡</span>]</span>从金。",
+            "explanation": "古文珡[𤦡]从金。",
             "seal_character": "狆"
         }
     ],
@@ -52,6 +52,9 @@
     ],
     "indexes": [
         "琴",
+        "珡",
+        "𤦡",
+        "䥅",
         "𨫹"
     ]
 }
