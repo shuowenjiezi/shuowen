@@ -1,14 +1,14 @@
 {
     "id": 7663,
-    "wordhead": "乚",
-    "explanation": "玄鳥也。齊魯謂之乚。取其鳴自呼。象形。凡乚之屬借从乚。",
+    "wordhead": "𠃉",
+    "explanation": "玄鳥也。齊魯謂之𠃉。取其鳴自呼。象形。凡𠃉之屬借从𠃉。",
     "volume": "12",
-    "radical": "乚",
+    "radical": "𠃉",
     "pronunciation": "烏轄切",
     "variants": [
         {
             "wordhead": "鳦",
-            "explanation": "乙<span>{<span>𠃉</span>}</span>或从鳥。",
+            "explanation": "𠃉或从鳥。",
             "seal_character": "濒"
         }
     ],
@@ -36,7 +36,9 @@
         }
     ],
     "indexes": [
+        "𠃉",
         "乚",
+        "𩾐",
         "鳦"
     ]
 }
