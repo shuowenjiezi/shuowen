@@ -12,5 +12,10 @@
 
 瞭解了格式之後，熟悉 github 的朋友可以直接 clone 代碼庫並提交 pull request。如果您不會使用 github，請參考[提交內容更新和勘誤的說明](https://github.com/shuowenjiezi/shuowen/blob/master/doc/CONTRIBUTING.md) 
 
+## 微信小程序
+微信小程序於 2018年11月11日正式上線
+
+![](https://raw.githubusercontent.com/shuowenjiezi/shuowen/master/doc/img/wechat.jpg)
+
 ## 讚賞
 ![](https://raw.githubusercontent.com/shuowenjiezi/shuowen/master/doc/img/donation-small.png)
