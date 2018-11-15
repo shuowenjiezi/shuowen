@@ -14,7 +14,16 @@
     ],
     "xuan_note": "",
     "kai_note": "",
-    "duan_notes": [],
+    "duan_notes": [
+        {
+            "explanation": "鳥子生哺者。",
+            "note": "釋鳥生哺鷇。郭云：鳥子須母食之。生噣雛。郭云：能自食。方言：北燕朝鮮洌水之閒，爵子及雞雛皆謂之鷇。"
+        },
+        {
+            "explanation": "從鳥𣪊聲。",
+            "note": "口豆切。三部。"
+        }
+    ],
     "indexes": [
         "鷇"
     ]
