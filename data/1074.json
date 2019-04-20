@@ -1,6 +1,6 @@
 {
     "id": 1074,
-    "wordhead": "针",
+    "wordhead": "𤴘",
     "explanation": "機下足所履者。从止从又，入聲。",
     "volume": "02",
     "radical": "止",
@@ -19,7 +19,7 @@
     "duan_notes": [
         {
             "explanation": "機下足所履者。",
-            "note": "？者躡也。"
+            "note": "𤴘，者躡也。"
         },
         {
             "explanation": "从止。从又。入聲。",
@@ -27,6 +27,6 @@
         }
     ],
     "indexes": [
-        "针"
+        "𤴘"
     ]
 }
