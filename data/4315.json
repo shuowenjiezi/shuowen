@@ -13,7 +13,7 @@
         },
         {
             "wordhead": "𠈇",
-            "explanation": "亦古文夙，从人、㐁。宿<span>[<span>㝛</span>]</span>从此。",
+            "explanation": "亦古文夙，从人、㐁。宿[㝛]从此。",
             "seal_character": "慌"
         }
     ],
@@ -48,6 +48,7 @@
     "indexes": [
         "𡖊",
         "𠉦",
-        "𠈇"
+        "𠈇",
+        "夙"
     ]
 }
